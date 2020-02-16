@@ -17,5 +17,5 @@ steps:
    - 'us-central1'
    - '--platform'
    - 'managed'
-   images:
-   - 'gcr.io/$PROJECT_ID/staff-web:$COMMIT_SHA'
+images:
+ - 'gcr.io/$PROJECT_ID/staff-web:$COMMIT_SHA'
