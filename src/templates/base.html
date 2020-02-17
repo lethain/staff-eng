@@ -2,14 +2,64 @@
 <title>{% block title %}StaffEng{% endblock %}</title>
 <link rel="stylesheet" href="https://unpkg.com/normalize.css/normalize.css" type="text/css">
 <link rel="stylesheet" href="https://unpkg.com/sakura.css/css/sakura.css" type="text/css">
+
+<style>
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+.content {
+  flex: 1 0 auto;
+}
+  
+footer {
+  flex-shrink: 0;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 10px;
+}
+
+nav h2 a {
+  color: #4a4a4a;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0px 10px;
+}</style>
+
+<body>
 <nav>
-  <h1>StaffEng</h1>
+  <h2><a href="/">StaffEng</a></h2>
   <ul>
-    <li>Hi</li>
-    <li>There</li>
-    <li>Person</li>
+    <li><a href="/stories">Stories</a>
+    <li><a href="/share">Share your story</a>
+    <li><a href="/about">About</a>
   </ul>
 </nav>
-<section class="content">
+
+<div class="content">
+<section>
   {% block content %}{% endblock %}
-</secton>
+</section>
+</div>
+
+<footer>
+<p>All rights reserved. <a href="https://lethain.com/">Will Larson</a>. 2020.
+</footer>
+</body>
