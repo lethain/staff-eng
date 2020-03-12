@@ -9,12 +9,14 @@ from stories import STORIES, AUTHOR
 
 app = Flask(__name__)
 
-
-def published():
+def now():
     td = datetime.timedelta(hours=-7)
     tz = datetime.timezone(td)
-    now = datetime.datetime.now().astimezone(tz=tz)
-    return [x for x in STORIES if x.date() < now]
+    return datetime.datetime.now().astimezone(tz=tz)    
+
+def published():
+    now_dt = now()
+    return [x for x in STORIES if x.date() < now_dt]
 
 
 @app.route('/')
@@ -48,14 +50,15 @@ def rss():
     fg.link(href='https://staffeng.com', rel='alternate')
     fg.link(href='https://staffeng.com/rss', rel='self')
     fg.language('en')
-    fg.updated(STORIES[0].date())
+    fg.updated(now())
 
-    for story in published:
+    for story in published():
         fe = fg.add_entry()
         fe.id(story.url())
         fe.title(story.title())
         fe.link(href=story.url(), rel="alternate")
-        fe.updated(story.date())
+        fe.published(story.date())
+        fe.updated(updated=story.date())
         fe.author(AUTHOR)
         fe.content(content=story.html(), type="CDATA")
 
