@@ -6,9 +6,10 @@ FROM python:3.7-slim
 ENV APP_HOME /app
 WORKDIR $APP_HOME
 COPY ./src ./
+COPY ./requirements.txt ./
 
 # Install production dependencies.
-RUN pip install -r /app/requirements.txt
+RUN pip install -r ./requirements.txt
 
 # Run the web service on container startup. Here we use the gunicorn
 # webserver, with one worker process and 8 threads.
