@@ -2,7 +2,7 @@ import os
 import datetime
 import feedgen.feed
 
-from flask import Flask, render_template, make_response, request
+from flask import Flask, render_template, make_response, request, redirect
 from stories import STORIES, AUTHOR
 
 
@@ -37,6 +37,10 @@ def stories():
 @app.route('/share')
 def share():
     return render_template("share.html")
+
+@app.route('/survey')
+def survey():
+    return redirect("https://airtable.com/shry1KXQCLWpnXuC5")
 
 @app.route('/about')
 def about():
