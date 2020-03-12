@@ -2,6 +2,8 @@
 <title>{% block title %}StaffEng{% endblock %}</title>
 <link rel="stylesheet" href="https://unpkg.com/normalize.css/normalize.css" type="text/css">
 <link rel="stylesheet" href="https://unpkg.com/sakura.css/css/sakura.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="StaffEng" href="/rss" />
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96609067-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -25,7 +27,7 @@ body {
 .content {
   flex: 1 0 auto;
 }
-  
+
 footer {
   flex-shrink: 0;
   text-align: center;
@@ -51,6 +53,10 @@ nav li {
   padding: 0px 10px;
 }
 
+hr {
+border-color: #e9e9e9;
+}
+
 .pull {
 background: #e9e9e9;
 padding: 5px 15px;
@@ -69,6 +75,23 @@ float: right;
 color: #c9c9c9;
 }
 
+.form-group {
+  display: flex;
+align-content: stretch;
+align-items: center;
+justify-content: space-between;
+}
+.form-group .email {
+  flex-grow: 2;
+}
+
+.form-group label, .form-group input {
+  margin: 10px 5px;
+}
+.form-group label {
+  font-weight: normal;
+}
+
 
 </style>
 
@@ -78,17 +101,41 @@ color: #c9c9c9;
   <ul>
     <li><a href="/stories">Stories</a>
     <li><a href="/share">Share your story</a>
-    <li><a href="/about">About</a>
   </ul>
 </nav>
 
 <div class="content">
 <section>
   {% block content %}{% endblock %}
+
+  {% if not hide_subscribe %}
+  <div class="pull" id="mc_embed_signup">
+    <form action="https://lethain.us20.list-manage.com/subscribe/post?u=f7003ed301623a88fab7cf783&amp;id=5d17ea270b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+        <div class="mc-field-group">
+          <p><strong>Would you like an email when new stories are posted?</strong></p>
+          <div class="form-group">
+            <label for="mce-EMAIL">Email Address</label>
+            <input type="email" value="" placeholder="your email address" name="EMAIL" class="required email" id="mce-EMAIL">
+            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+          </div>
+        </div>
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f7003ed301623a88fab7cf783_5d17ea270b" tabindex="-1" value=""></div>
+      </div>
+    </form>
+  </div>
+  {% endif %}
 </section>
+
+
+
 </div>
 
 <footer>
-<p>All rights reserved. <a href="https://lethain.com/">Will Larson</a>. 2020.
+  <p>All rights reserved. <a href="https://lethain.com/">Will Larson</a>. 2020.
+    <a href="/about">About.</a>
+    <a href="/rss">RSS.</a>
+  </p>
+
 </footer>
 </body>
