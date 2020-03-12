@@ -1,4 +1,5 @@
 import os
+import datetime
 import feedgen.feed
 
 from flask import Flask, render_template, make_response
@@ -8,13 +9,21 @@ from stories import STORIES, AUTHOR
 
 app = Flask(__name__)
 
+
+def published():
+    td = datetime.timedelta(hours=-7)
+    tz = datetime.timezone(td)
+    now = datetime.datetime.now().astimezone(tz=tz)
+    return [x for x in STORIES if x.date() < now]
+
+
 @app.route('/')
 def front():
-    return render_template("front.html")
+    return render_template("front.html", stories=published()[:3])
 
 @app.route('/stories')
 def stories():
-    return render_template("stories.html")
+    return render_template("stories.html", stories=published())
 
 @app.route('/share')
 def share():
@@ -41,7 +50,7 @@ def rss():
     fg.language('en')
     fg.updated(STORIES[0].date())
 
-    for story in STORIES:
+    for story in published:
         fe = fg.add_entry()
         fe.id(story.url())
         fe.title(story.title())

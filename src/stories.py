@@ -11,6 +11,9 @@ class Story:
         self.date_str = date_str
         self.content = content
 
+    def local_url(self):
+        return "/stories/%s" % self.slug        
+
     def url(self):
         return "https://staffeng.com/stories/%s" % self.slug
 

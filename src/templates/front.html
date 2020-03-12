@@ -28,8 +28,9 @@
 <div class="pull">
   <p><strong>Recent stories</strong></p>
   <ul>
-    <li><a href="#">etc</a></li>
-    <li><a href="#">etc</a></li>
+    {% for story in stories %}
+    <li><a href="{{ story.local_url() }}">{{ story.title() }}</a></li>
+    {% endfor %}
   </ul>
 </div>
 <p>
