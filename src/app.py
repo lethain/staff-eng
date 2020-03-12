@@ -2,19 +2,9 @@ import os
 import feedgen.feed
 
 from flask import Flask, render_template, make_response
+from stories import STORIES, AUTHOR
 
 
-class Story:
-    def __init__(self, name, slug, date):
-        self.name = name
-        self.slug = slug
-        self.date = date
-
-STORIES = [
-    Story("Keavy McMinn", "keavy-mcminn", "2020/3/1"),
-]
-        
-    
 
 app = Flask(__name__)
 
@@ -42,19 +32,29 @@ def story(name):
 @app.route('/rss')
 def rss():
     fg = feedgen.feed.FeedGenerator()
+    fg.id("https://staffeng.com/")
     fg.title("StaffEng")
     fg.description("RSS feed for StaffEng.com")
-    fg.author({'name': 'Will Larson', 'email': 'lethain@gmail.com'})
+    fg.author(AUTHOR)
     fg.link(href='https://staffeng.com', rel='alternate')
     fg.link(href='https://staffeng.com/rss', rel='self')
     fg.language('en')
+    fg.updated(STORIES[0].date())
+
+    for story in STORIES:
+        fe = fg.add_entry()
+        fe.id(story.url())
+        fe.title(story.title())
+        fe.link(href=story.url(), rel="alternate")
+        fe.updated(story.date())
+        fe.author(AUTHOR)
+        fe.content(content=story.html(), type="CDATA")
 
     txt =  fg.rss_str(pretty=True)
     resp = make_response(txt)
     resp.headers.set('Content-Type', 'application/rss+xml')
-    return resp    
+    return resp
 
 
 if __name__ == "__main__":
     app.run(debug=True,host='0.0.0.0',port=int(os.environ.get('PORT', 8080)))
-
