@@ -2,7 +2,7 @@ import os
 import datetime
 import feedgen.feed
 
-from flask import Flask, render_template, make_response
+from flask import Flask, render_template, make_response, request
 from stories import STORIES, AUTHOR
 
 
@@ -12,7 +12,14 @@ app = Flask(__name__)
 def now():
     td = datetime.timedelta(hours=-7)
     tz = datetime.timezone(td)
-    return datetime.datetime.now().astimezone(tz=tz)    
+
+    override = request.args.get('date', None)
+    if not override:
+        dt = datetime.datetime.now()
+    else:
+        dt = datetime.datetime.strptime(override, "%Y-%m-%d")
+    
+    return dt.astimezone(tz=tz)    
 
 def published():
     now_dt = now()
@@ -52,7 +59,7 @@ def rss():
     fg.language('en')
     fg.updated(now())
 
-    for story in published():
+    for story in published()[-10:]:
         fe = fg.add_entry()
         fe.id(story.url())
         fe.title(story.title())
