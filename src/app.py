@@ -23,20 +23,32 @@ def now():
 
 def published():
     now_dt = now()
-    for x in STORIES:
-        print([now_dt, x.date()])
-
     return [x for x in STORIES if x.date() <= now_dt]
+
+def next_story():
+    now_dt = now()
+    prev = None
+    for x in STORIES:
+        curr = x.date()
+        if prev is not None:            
+            if prev < now_dt and curr >= now_dt:
+                print("obviously yes")
+                return x
+        prev = curr
+    return None
 
 
 @app.route('/')
 def front():
     story_list = list(reversed(published()[:3]))
-    return render_template("front.html", stories=story_list)
+    nxt = next_story()
+    return render_template("front.html", stories=story_list, next_story=nxt)
 
 @app.route('/stories')
 def stories():
-    return render_template("stories.html", stories=published())
+    nxt = next_story()
+    story_list = published()
+    return render_template("stories.html", stories=story_list, next_story=nxt)
 
 @app.route('/share')
 def share():

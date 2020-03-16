@@ -25,8 +25,8 @@
   The management career isn't an easy one, but increasingly there is a map available.
 </p>
 
-{% if stories %}
 <div class="pull">
+  {% if stories %}  
   <p><strong>Recent stories</strong></p>
   <ul>
     {% for story in stories %}
@@ -36,8 +36,12 @@
     </li>
     {% endfor %}
   </ul>
+  {% else %}
+  <p>First story is coming on {{ next_story.date().strftime("%B %d, %Y") }}</p>
+  {% endif %}  
 </div>
-{% endif %}
+
+
 <p>
   The transition into Staff Engineer, and its further evolutions like Principal Engineer,
   remains particularly challenging and undocumented. What are the skills you need to develop to reach Staff Engineer?
