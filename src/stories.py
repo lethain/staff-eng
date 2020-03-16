@@ -39,7 +39,7 @@ STORIES = [
     Story("Keavy McMinn", "Senior Principal Engineer at Fastly", "keavy-mcminn", "2020-03-24 07", KEAVY_CONTENT),
     Story("Dan Na", "Staff Engineer and Team Lead at Squarespace", "dan-na", "2020-03-26 07", DAN_NA_CONTENT),
     Story("Joy Ebertz", "Senior Staff Software Engineer at Split", "joy-ebertz", "2020-03-31 07", JOY_EBERTZ_CONTENT),
-    Story("Ritu Vincent", "Staff Engineer at Dropbox", "ritu-vincent", "2020-05-02 07", RITU_VINCENT_CONTENT),
+    Story("Ritu Vincent", "Staff Engineer at Dropbox", "ritu-vincent", "2020-04-02 07", RITU_VINCENT_CONTENT),
     Story("Nelson Elhage", "Formerly Staff Engineer at Stripe", "nelson-elhage", "2020-04-07 07", NELHAGE_CONTENT),
     # 6. silvia
     # 7. rick
