@@ -18,17 +18,21 @@ def now():
         dt = datetime.datetime.now()
     else:
         dt = datetime.datetime.strptime(override, "%Y-%m-%d")
-    
-    return dt.astimezone(tz=tz)    
+
+    return dt.astimezone(tz=tz)
 
 def published():
     now_dt = now()
-    return [x for x in STORIES if x.date() < now_dt]
+    for x in STORIES:
+        print([now_dt, x.date()])
+
+    return [x for x in STORIES if x.date() <= now_dt]
 
 
 @app.route('/')
 def front():
-    return render_template("front.html", stories=published()[:3])
+    story_list = list(reversed(published()[:3]))
+    return render_template("front.html", stories=story_list)
 
 @app.route('/stories')
 def stories():

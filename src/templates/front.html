@@ -30,7 +30,10 @@
   <p><strong>Recent stories</strong></p>
   <ul>
     {% for story in stories %}
-    <li><a href="{{ story.local_url() }}">{{ story.title() }}</a></li>
+    <li>
+      <em class="date">{{ story.date().strftime("%B %d, %Y")}}</em>
+      <a href="{{ story.local_url() }}">{{ story.title() }}</a>
+    </li>
     {% endfor %}
   </ul>
 </div>

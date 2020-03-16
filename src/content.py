@@ -1,3 +1,21 @@
+
+JOY_EBERTZ_CONTENT = """
+<p>
+  <strong><em>Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?</em></strong>
+</p>
+<p>
+  I’m a Senior Staff Software Engineer at Split.io, working on the backend of what we call the COE team.  Split is a feature flagging and experimentation framework.  We focus on enabling our customers to separate deployment and release in CI/CD and also enabling A/B testing.  My team is responsible for most of the main business logic of our web application, including everything from data storage to the APIs.  There is a separate team that focuses on the experimentation side, including all of the detailed statistics that goes into that, so we’re able to focus more on the main platform.
+</p>
+<p>
+  <strong><em>What does a Staff-plus engineer do at Split? How do you spend your time day-to-day?</em></strong>
+</p>
+<p>
+  I’m still somewhat new, so I’m still working to define my role, which is part of the beauty of more senior roles.  Today, I’m still ramping up, so I’m probably spending around half to three quarters of my time on tasks for my specific scrum team, just like any other engineer here.  With the rest of my time, I’m participating in conversations and working with other engineers to define a lot of our longer term architecture and strategy, including our future API and platform strategy, how we want to develop our authorization framework, breaking up and decoupling our builds and more.  I’ve recently also taken over leadership of our backend chapter and now co-lead it with another engineer and we’re working to put together a backend technical vision, prioritize tech projects and lead standards discussions.  If that wasn’t enough, I also continue to write regularly on my blog and speak at conferences.
+</p>
+<p>
+"""
+
+
 DAN_NA_CONTENT = """
 <p>
   <strong><em>Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?</em></strong>
@@ -74,7 +92,7 @@ RITU_VINCENT_CONTENT = """
 <p>
   There are two parts to the incubator.
 </p>
-<p>
+v<p>
   The first is a more classic incubator where engineers across the company can pitch ideas and get funding to join the program, and try to show product-market fit or other forms of progress to continue getting funded every few months. The goal is for successful projects to graduate into their own lines of business, although we’re still early.
 </p>
 <p>

@@ -11,8 +11,11 @@
 </p>
 <ul>
   {% for story in stories %}
-  <em class="date">{{ story.date().strftime("%B %d, %Y")}}</em>  
-  <li><a href="{{ story.local_url() }}">{{ story.title() }}</a></li>
+
+  <li>
+    <em class="date">{{ story.date().strftime("%B %d, %Y")}}</em>  
+    <a href="{{ story.local_url() }}">{{ story.title() }}</a>
+  </li>
   {% endfor %}  
 </ul>
 {% endblock %}
