@@ -26,7 +26,7 @@
 </p>
 
 <div class="pull">
-  {% if stories %}  
+  {% if stories %}
   <p><strong>Recent stories</strong></p>
   <ul>
     {% for story in stories %}
@@ -35,10 +35,13 @@
       <a href="{{ story.local_url() }}">{{ story.title() }}</a>
     </li>
     {% endfor %}
+    {% if next_story %}
+    <li><em>Next story is coming on {{ next_story.date().strftime("%B %d, %Y") }}</em></li>
+    {% endif %}
   </ul>
   {% else %}
-  <p>First story is coming on {{ next_story.date().strftime("%B %d, %Y") }}</p>
-  {% endif %}  
+  <p><strong>First story is coming on {{ next_story.date().strftime("%B %d, %Y") }}!</strong></p>
+  {% endif %}
 </div>
 
 

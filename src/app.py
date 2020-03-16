@@ -28,19 +28,24 @@ def published():
 def next_story():
     now_dt = now()
     prev = None
+    # no stories published
+    if STORIES[0].date() > now_dt:
+        return STORIES[0]
+    
     for x in STORIES:
         curr = x.date()
-        if prev is not None:            
-            if prev < now_dt and curr >= now_dt:
-                print("obviously yes")
-                return x
+        if prev and prev < now_dt and curr >= now_dt:
+            print("obviously yes")
+            return x
         prev = curr
-    return None
+
+    if STORIES[-1].date() > now_dt:
+        return STORIES[-1]
 
 
 @app.route('/')
 def front():
-    story_list = list(reversed(published()[:3]))
+    story_list = list(reversed(published()[-3:]))
     nxt = next_story()
     return render_template("front.html", stories=story_list, next_story=nxt)
 
