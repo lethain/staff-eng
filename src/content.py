@@ -1,4 +1,50 @@
 
+DIANA_POJAR_CONTENT = """
+<p>
+  <strong><em>Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?</em></strong>
+</p>
+<p>
+  I’m a Staff Data Engineer and the Technical Lead for the Data Platform team at Slack. I joined Slack in February 2016 and I was one of the first engineers in the Data Engineering team. I was heavily involved in building many of the tools and infrastructure to make data available for long-term analytics. When I joined, the team had just made the decision to use Thrift as the logging format. If anyone wanted to get insights, they had to schedule cronjobs on top of the read replicas of the production MySQL database.
+</p>
+<p>
+  The purpose of the Data Engineering team at Slack is to enable anyone in the company (data science, engineers, product managers, etc) to access data, so they can compute insights, drive business decisions or build new features. The Data Platform team focuses on building services and frameworks that work at scale to empower everyone that needs to process or use data in the Data Warehouse. Some things that our teams own are: the Data Discovery service that exposes task, table, column lineage and general metadata, the event logging structure and the pipeline that consumes the events and exposes them in raw tables in the Data Warehouse.
+</p>
+
+<p>
+  <strong><em>What does a Staff-plus engineer do at Slack? How do you spend your time day-to-day?</em></strong>
+</p>
+<p>
+  The role of a Staff-plus engineer depends a lot on what the team needs and also what the particular engineer strengths are. From my experience the responsibilities of a Staff-plus engineer can change over time, but usually their main focus is working on projects/efforts that have strategic value for the company, while driving technical design and up-leveling their team.
+</p>
+<p>
+  There are two big categories that I’ve seen Staff-plus engineers fall into: focus more on depth (specialist) or focus more on breadth (generalist).
+</p>
+<p>
+  For the first category, folks that focus more on depth are usually experts in a particular domain and most of their time is spent on writing code or working on technical design documents to find solutions in their area of expertise. Companies deal with unique challenges and subject matter experts are needed to drive technical solutions for these extremely hard problems. For example, at Slack, as the company grew and our system needed to scale and perform, there is a principal engineer that his main focus and passion is to detect and fix performance problems.
+</p>
+<p>
+  Folks that focus on breadth usually work more closely with the leadership team, influencing the org or company wide technical vision, improving processes and culture. Due to their breadth, they are more flexible and can work on different areas of the engineering organization based on the company priorities and needs.
+</p>
+<p>
+  Personally, for now, I enjoy and focus more on breadth and how I spend my time depends a lot on what my team and organization needs. I would say that so far this year, about 50% of my time is spent on <a href="https://slack.engineering/technical-leadership-getting-started-e5161b1bf85c">technical leadership</a> and talking with people about larger technical investments that we should focus on, and 50% of my time is focused on mentoring, reviewing code, writing code, jumping on incidents and fixing critical issues, etc. The ratio does change quarter by quarter.
+</p>
+<p>
+  <strong><em>Where do you feel most impactful as a Staff-plus Engineer? What’s something you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done earlier in earlier roles?</em></strong>
+</p>
+<p>
+  Personally, I feel that it’s quite noticeable the increase in trust and respect from people that did not work with me before my promotion / title change. Having the title strongly correlates with one's ability to influence the organization/company roadmap and priorities - basically you get to be in the “room where it happens”.
+</p>
+<p>
+  I get to be part of building things that have impact for the direct success of the company. Advocating for such projects and being part of them was not something that would’ve been achievable in earlier roles.
+</p>
+<p>
+  I’m also able to uplevel others that are more junior and make their voices heard. Having a Staff+ title brings some privilege that others don’t have and I try to leverage that to help uplevel my team / peers.
+</p>
+
+
+"""
+
+
 JOY_EBERTZ_CONTENT = """
 <p>
   <strong><em>Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?</em></strong>

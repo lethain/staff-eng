@@ -36,14 +36,14 @@ class Story:
 
 
 STORIES = [
-    Story("Keavy McMinn", "Senior Principal Engineer at Fastly", "keavy-mcminn", "2020-03-24 07", KEAVY_CONTENT),
-    Story("Dan Na", "Staff Engineer and Team Lead at Squarespace", "dan-na", "2020-03-26 07", DAN_NA_CONTENT),
-    Story("Joy Ebertz", "Senior Staff Software Engineer at Split", "joy-ebertz", "2020-03-31 07", JOY_EBERTZ_CONTENT),
-    Story("Ritu Vincent", "Staff Engineer at Dropbox", "ritu-vincent", "2020-04-02 07", RITU_VINCENT_CONTENT),
-    Story("Nelson Elhage", "Formerly Staff Engineer at Stripe", "nelson-elhage", "2020-04-07 07", NELHAGE_CONTENT),
-    # 6. silvia
-    # 7. rick
-    # 8. duretti
-    # 9. dianna
-    # 10. michelle
+    Story("Keavy McMinn", "Senior Principal Engineer at Fastly", "keavy-mcminn", "2020-03-24 00", KEAVY_CONTENT),
+    Story("Dan Na", "Staff Engineer and Team Lead at Squarespace", "dan-na", "2020-03-26 00", DAN_NA_CONTENT),
+    Story("Joy Ebertz", "Senior Staff Software Engineer at Split", "joy-ebertz", "2020-03-31 00", JOY_EBERTZ_CONTENT),
+    Story("Ritu Vincent", "Staff Engineer at Dropbox", "ritu-vincent", "2020-04-02 00", RITU_VINCENT_CONTENT),
+    Story("Nelson Elhage", "Formerly Staff Engineer at Stripe", "nelson-elhage", "2020-04-07 00", NELHAGE_CONTENT),
+    # 6. silvia 04-09
+    # 7. rick 04-14
+    # 8. duretti 04-16
+    Story("Diana Pojar", "Staff Data Engineer at Slack", "diana-pojar", "2020-04-21 00", DIANA_POJAR_CONTENT),
+    # 10. michelle 04-23
 ]
