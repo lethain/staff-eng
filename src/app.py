@@ -2,10 +2,9 @@ import os
 import datetime
 import feedgen.feed
 
-from flask import Flask, render_template, make_response, request, redirect
+from flask import Flask, render_template, make_response, request, redirect, abort
 from stories import STORIES, AUTHOR
-import yaml
-
+from index import chapters, section_lookup
 
 
 app = Flask(__name__)
@@ -74,11 +73,23 @@ def about():
     return render_template("about.html")
 
 @app.route('/guide')
-def guide():
-    with open("./src/chapters/index.yaml") as fin:
-        index = yaml.load(fin.read())
-
+def guides():
+    index = chapters()
     return render_template("guide.html", chapters=index['chapters'])
+
+@app.route('/guide/<chapter>/<section>')
+def guide(chapter, section):
+    chapter, section = section_lookup(chapter, section)
+
+    if section:
+        return render_template("section.html", chapter=chapter, section=section)
+    else:
+        abort(404)
+    
+    
+    
+    
+
 
 @app.route('/rss')
 def rss():

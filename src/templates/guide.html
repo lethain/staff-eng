@@ -25,7 +25,7 @@
   </p>
 
 {% for chapter in chapters %}
-<p><strong>{{ chapter['title'] }}</strong></p>
+<p id="{{ chapter['slug'] }}"><strong>{{ chapter['title'] }}</strong></p>
 <ol>
   {% for section in chapter['sections'] %}
   <li>

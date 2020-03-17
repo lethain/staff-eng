@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %}Staff Engineer Guide - StaffEng{% endblock %}
+
+{% block content %}
+
+<h2 class="lead">{{ section['title'] }}</h2>
+<h4 class="quiet">/ <a href="/guide">Guide</a> / <a href="/guide#{{ chapter['slug'] }}">{{ chapter['title'] }}</a></h4>
+
+{{ section['markdown'] }}
+
+{% endblock %}
