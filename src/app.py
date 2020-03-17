@@ -4,6 +4,7 @@ import feedgen.feed
 
 from flask import Flask, render_template, make_response, request, redirect
 from stories import STORIES, AUTHOR
+import yaml
 
 
 
@@ -55,6 +56,11 @@ def stories():
     story_list = published()
     return render_template("stories.html", stories=story_list, next_story=nxt)
 
+@app.route('/stories/<name>')
+def story(name):
+    template_path = "stories/%s.html" % name
+    return render_template(template_path)
+
 @app.route('/share')
 def share():
     return render_template("share.html")
@@ -67,10 +73,12 @@ def survey():
 def about():
     return render_template("about.html")
 
-@app.route('/stories/<name>')
-def story(name):
-    template_path = "stories/%s.html" % name
-    return render_template(template_path)
+@app.route('/guide')
+def guide():
+    with open("./src/chapters/index.yaml") as fin:
+        index = yaml.load(fin.read())
+
+    return render_template("guide.html", chapters=index['chapters'])
 
 @app.route('/rss')
 def rss():

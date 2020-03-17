@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% block title %}Staff Engineer Guide - StaffEng{% endblock %}
+
+{% block content %}
+
+<h2 class="lead">Staff Engineer</h2>
+<h4 class="quiet">Getting the title and thriving once you’re there</h4>
+
+<p><em>I'm writing this guide slowly over time. Early drafts will be posted on <a href="https://lethain.com/">lethain.com</a> if you're looking for updates. - Will</em></p>
+
+<p>
+  At most technology companies, you'll reach Senior Software Engineer, the <a href="https://lethain.com/mailbag-beyond-career-level/">career level</a>, in five to eight years. At that point your path branches, and you have the opportunity to pursue engineering management or continue down the path of technical excellence to become a Staff Engineer.
+</p>
+<p>
+  Over the past few years we've seen a flurry of books unlocking the engineering manager career path, like Camille Fournier's <a href="https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897">The Manager's Path</a>, Julie Zhuo's <a href="https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/">The Making of a Manager</a> and my own <a href="https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/">An Elegant Puzzle</a>. The management career isn't an easy one, but increasingly there is a map available for navigating it.
+</p>
+<p>
+  On the other hand, the transition into Staff Engineer, and its further evolutions like Principal Engineer, remains challenging and undocumented. What are the skills you need to develop to reach Staff Engineer? What skills do you need to succeed after you've reached it? How do most folks reach this role? How can you as a manager help your team develop towards a Staff Engineer role? Will you enjoy being a Staff Engineer or toil for years for a role that doesn't suit you?
+</p>
+<p>
+  This guide aims to guide you through each of those questions in three ways. First, with a concise, structured approach to become a Staff Engineer and succeed once you’re there. Second, by sharing interviews from over twenty Staff-plus engineers discussing their stories of reaching Staff and advice for folks pursuing that goal. Finally, by surveying folks in such roles and analyzing that resulting data. I hope by reviewing all three together you’ll get a uniquely valuable view into how to continue in your career and growth.
+</p>
+<p>
+  With that said, onwards!
+  </p>
+
+{% for chapter in chapters %}
+<p><strong>{{ chapter['title'] }}</strong></p>
+<ol>
+  {% for section in chapter['sections'] %}
+  <li>
+    {% if 'slug' in section %}
+    <a href="/guide/{{ chapter['slug'] }}/{{ section['slug'] }}">{{ section['title'] }}</a>
+    {% else %}
+    {{ section['title'] }}
+  </li>
+  {% endif %}
+  {% endfor %}
+</ol>
+{% endfor %}
+{% endblock %}

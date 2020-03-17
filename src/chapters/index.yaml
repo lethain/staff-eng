@@ -1,0 +1,51 @@
+chapters:
+  - title: Overview
+    slug: overview
+    sections:
+      - title: Overview
+      - title: Career Trajectory & Career Levels
+      - title: Staff Engineering Archetypes
+      - title: Does the title even matter?
+  - title: Before Staff
+    slug: before-staff
+    sections:
+      - title: Overview
+      - title: Own Something Hard
+      - title: Help Without Owning
+      - title: Be Easy to Include
+      - title: Organizational Trust
+      - title: Think Broadly & Build Broad Skills
+      - title: Org-scoped Projects
+      - title: How to Never Be Wrong
+      - title: "Communication: Written, Verbal, Meetings, and Public"
+      - title: Impact Beyond Yourself
+      - title: Should you try management?
+  - title: Getting The Title
+    slug: getting-the-title
+    sections:
+      - title: Overview
+      - title: Promotion Packets
+      - title: Staff Projects
+      - title: Find Your Sponsor
+      - title: Switch Companies
+  - title: Operating at Staff
+    slug: operating-at-staff
+    sections:
+      - title: Overview
+      - title: Build a Network of Peers
+      - title: Knowing & Not Knowing
+      - title: Navigate Ambiguity
+      - title: Work On The System
+      - title: Sponsor Others
+      - title: Lead Technology Change
+      - title: Change Organizational Practices
+      - title: Fill the Gaps
+      - title: Scale Consistency
+      - title: Stakeholder Translation
+      - title: Estimate
+  - title: Resources
+    slug: resources
+    sections:
+      - title: Learning Materials
+        slug: learning-materials
+      - title: Staff Engineering Career Ladder
