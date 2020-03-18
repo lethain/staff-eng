@@ -35,7 +35,6 @@ def next_story():
     for x in STORIES:
         curr = x.date()
         if prev and prev < now_dt and curr >= now_dt:
-            print("obviously yes")
             return x
         prev = curr
 
