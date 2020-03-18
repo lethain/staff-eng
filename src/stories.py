@@ -1,8 +1,10 @@
 import datetime
+import yaml
 from content import *
 
 
 AUTHOR = {'name': 'Will Larson', 'email': 'lethain@gmail.com'}
+
 
 class Story:
     def __init__(self, name, role, slug, date_str, content):
@@ -35,6 +37,18 @@ class Story:
         return dt.astimezone(tz=tz)
 
 
+
+STORIES_CACHE = None
+
+def stories():
+    global STORIES_CACHE
+    if not STORIES_CACHE:
+        with open("./src/stories/index.yaml") as fin:
+            story_data = yaml.load(fin.read())
+        STORIES_CACHE = [Story(x['name'], x['title'], x['slug'], x['date'], '') for x in story_data['stories']]
+    return STORIES_CACHE
+
+
 STORIES = [
     Story("Keavy McMinn", "Senior Principal Engineer at Fastly", "keavy-mcminn", "2020-03-24 07", KEAVY_CONTENT),
     Story("Dan Na", "Staff Engineer and Team Lead at Squarespace", "dan-na", "2020-03-26 07", DAN_NA_CONTENT),
@@ -47,3 +61,5 @@ STORIES = [
     Story("Diana Pojar", "Staff Data Engineer at Slack", "diana-pojar", "2020-04-21 07", DIANA_POJAR_CONTENT),
     # 10. michelle 04-23
 ]
+
+#STORIES = stories()

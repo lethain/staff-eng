@@ -1,0 +1,25 @@
+stories:
+  - name: Keavy McMinn
+    title: Senior Principal Engineer at Fastly
+    slug: keavy-mcminn
+    date: 2020-03-24 07
+  - name: Dan Na
+    title: Staff Engineer and Team Lead at Squarespace
+    slug: dan-na
+    date: 2020-03-26 07
+  - name: Joy Ebertz
+    title: Senior Staff Software Engineer at Split
+    slug: joy-ebertz
+    date: 2020-03-31 07
+  - name: Ritu Vincent
+    title: Staff Engineer at Dropbox
+    slug: ritu-vincent
+    date: 2020-04-02 07
+  - name: Nelson Elhage
+    title: Formerly Staff Engineer at Stripe
+    slug: nelson-elhage
+    date: 2020-04-07 07
+  - name: Diana Pojar
+    title: Staff Data Engineer at Slack
+    slug: diana-pojar
+    date: 2020-04-21 07
