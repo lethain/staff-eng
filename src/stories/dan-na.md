@@ -1,13 +1,7 @@
-{% extends 'base.html' %}
-{% block title %}Dan Na, Staff Engineer and Team Lead at Squarespace - StaffEng{% endblock %}
-
-{% block content %}
-
-<h2 class="lead">Dan Na</h2>
-
-<h4 class="quiet"><em>Staff Engineer and Team Lead at Squarespace</em></h4>
-
-<span class="date">March, 2020</span>[blog](https://blog.danielna.com/), [twitter](https://twitter.com/dxna), [linkedin](https://www.linkedin.com/in/danielna/)
+<span class="date">March, 2020</span>
+[blog](https://blog.danielna.com/),
+[twitter](https://twitter.com/dxna),
+[linkedin](https://www.linkedin.com/in/danielna/)
 
 ___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
 
@@ -113,4 +107,3 @@ ___What are some resources (books, blogs, people, etc) you’ve learned from? Wh
 
  My role models are some of the amazing coworkers I've worked closely with over the years. I sat next to [Daniel Espeset](http://www.danielespeset.com) for four years at Etsy and learned an immeasurable amount about coupling technical execution with cultural impact. I learned a lot watching Lara do things like advocate for and achieve pay equity across our engineering group. I learn a lot watching current coworkers like [Tanya Reilly](http://noidea.dog) institute and evolve our engineering processes to match our ever-growing scale. I’m inspired most by people whom I've personally witnessed have the courage to change companies for the better, despite whatever friction they encountered along the way. 
 
-{% endblock %}

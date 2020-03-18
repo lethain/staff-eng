@@ -1,13 +1,6 @@
-{% extends 'base.html' %}
-{% block title %}Nelson Elhage, Formerly Staff Engineer at Stripe - StaffEng{% endblock %}
-
-{% block content %}
-
-<h2 class="lead">Nelson Elhage</h2>
-
-<h4 class="quiet"><em>Formerly Staff Engineer at Stripe</em></h4>
-
-<span class="date">March, 2020</span>[twitter](https://twitter.com/nelhage), [blog](https://blog.nelhage.com/)
+<span class="date">March, 2020</span>
+[twitter](https://twitter.com/nelhage),
+[blog](https://blog.nelhage.com/)
 
 ___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
 
@@ -142,5 +135,3 @@ ___What are some resources (books, blogs, people, etc) you’ve learned from?___
  I’ve mostly bootstrapped this through the friends-of-friends networks of people I've known professionally or going all the way back to when I was in school. It's not something I sought out post facto.
 
  I read the occasional technical paper, but it's not something I do actively. It’s mostly when it's referenced by someone or comes up in some other context. It's definitely not something I make any effort to keep track of systematically or to review the recent publications. I do think that having a decent handle on the quote unquote foundational literature is really handy. 
-
-{% endblock %}

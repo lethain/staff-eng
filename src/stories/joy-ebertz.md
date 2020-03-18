@@ -1,13 +1,7 @@
-{% extends 'base.html' %}
-{% block title %}Joy Ebertz, Senior Staff Software Engineer at Split - StaffEng{% endblock %}
-
-{% block content %}
-
-<h2 class="lead">Joy Ebertz</h2>
-
-<h4 class="quiet"><em>Senior Staff Software Engineer at Split</em></h4>
-
-<span class="date">March, 2020</span>[blog](https://medium.com/@jkebertz), [twitter](https://twitter.com/jkebertz), [linkedin](https://www.linkedin.com/in/joyebertz/)
+<span class="date">March, 2020</span>
+[blog](https://medium.com/@jkebertz),
+[twitter](https://twitter.com/jkebertz),
+[linkedin](https://www.linkedin.com/in/joyebertz/)
 
 ___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
 
@@ -99,4 +93,3 @@ ___What are some resources (books, blogs, people, etc) you’ve learned from? Wh
 
  There was another co-worker that I worked with who would drive me completely bonkers sometimes because her approach to solving problems was so different from mine. She would ask for clarification when I thought it was obvious and she would ask for detailed explanations when I thought everyone was on the same page. However, she’s also one of the smartest engineers I’ve ever worked with and working with her made me realize that not only can different styles be just as good, but that sometimes putting together two clashing styles can result in much better results than either of us would have gotten on our own. She found holes in things I thought were obvious and while she drove me nuts sometimes, we got some amazing things accomplished and I am better for it. 
 
-{% endblock %}

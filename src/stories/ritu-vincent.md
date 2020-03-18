@@ -1,13 +1,5 @@
-{% extends 'base.html' %}
-{% block title %}Ritu Vincent, Staff Engineer at Dropbox - StaffEng{% endblock %}
-
-{% block content %}
-
-<h2 class="lead">Ritu Vincent</h2>
-
-<h4 class="quiet"><em>Staff Engineer at Dropbox</em></h4>
-
-<span class="date">March, 2020</span>[linkedin](https://www.linkedin.com/in/rituvincent/)
+<span class="date">March, 2020</span>
+[linkedin](https://www.linkedin.com/in/rituvincent/)
 
 ___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
 
@@ -124,5 +116,3 @@ ___Did you ever consider engineering management, and if so how did you decide to
 ___What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?___
 
  I read a lot, but my reading is very recreational. What’s been most impactful for me is having a lot of people who I think of as mentors, usually friends, former managers and folks that I’ve worked with. I have a decent number of recurring monthly lunches, coffee chats and dinners with people who’ve worked with me in the past, know me, and I trust. It’s those conversations about career challenges and growth that have gotten me to where I am in my career.
-
-{% endblock %}

@@ -1,5 +1,7 @@
 import datetime
+import markdown
 import yaml
+from flask import Markup
 from content import *
 
 
@@ -13,6 +15,7 @@ class Story:
         self.slug = slug
         self.date_str = date_str
         self.content = content
+        self.markdown = ""
 
     def local_url(self):
         return "/stories/%s" % self.slug
@@ -27,6 +30,7 @@ class Story:
         return AUTHOR
 
     def html(self):
+        "Only used for RSS."
         extra = "<p><a href=\"%s\">Read the full article on staffeng.com</a></p>" % (self.url())
         return self.content + extra
 
@@ -44,10 +48,26 @@ def stories():
     global STORIES_CACHE
     if not STORIES_CACHE:
         with open("./src/stories/index.yaml") as fin:
-            story_data = yaml.load(fin.read())
+            story_data = yaml.load(fin.read(), Loader=yaml.FullLoader)
         STORIES_CACHE = [Story(x['name'], x['title'], x['slug'], x['date'], '') for x in story_data['stories']]
     return STORIES_CACHE
 
+
+def add_markdown(story):
+    if not story.markdown:
+        with open("./src/stories/%s.md" % (story.slug,), 'r') as fin:
+            raw = fin.read()
+            story.markdown = Markup(markdown.markdown(raw))
+            
+
+
+def story_lookup(slug):
+    story_list = stories()
+    for story in story_list:
+        if story.slug == slug:
+            add_markdown(story)
+            return story
+        
 
 STORIES = [
     Story("Keavy McMinn", "Senior Principal Engineer at Fastly", "keavy-mcminn", "2020-03-24 07", KEAVY_CONTENT),
@@ -62,4 +82,4 @@ STORIES = [
     # 10. michelle 04-23
 ]
 
-#STORIES = stories()
+STORIES = stories()

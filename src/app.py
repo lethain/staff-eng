@@ -3,7 +3,7 @@ import datetime
 import feedgen.feed
 
 from flask import Flask, render_template, make_response, request, redirect, abort
-from stories import STORIES, AUTHOR
+from stories import STORIES, AUTHOR, story_lookup
 from index import chapters, section_lookup
 
 
@@ -57,8 +57,11 @@ def stories():
 
 @app.route('/stories/<name>')
 def story(name):
-    template_path = "stories/%s.html" % name
-    return render_template(template_path)
+    details = story_lookup(name)
+    return render_template("story.html", story=details)
+    
+    #template_path = "stories/%s.html" % name
+    #return render_template(template_path)
 
 @app.route('/share')
 def share():

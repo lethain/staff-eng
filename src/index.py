@@ -10,7 +10,7 @@ def chapters():
     global CHAPTER_CACHE
     if not CHAPTER_CACHE:
         with open("./src/chapters/index.yaml") as fin:
-            CHAPTER_CACHE = yaml.load(fin.read())
+            CHAPTER_CACHE = yaml.load(fin.read(), Loader=yaml.FullLoader)
     return CHAPTER_CACHE
 
 

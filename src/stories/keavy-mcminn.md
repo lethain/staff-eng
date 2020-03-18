@@ -1,13 +1,7 @@
-{% extends 'base.html' %}
-{% block title %}Keavy McMinn, Senior Principal Engineer at Fastly - StaffEng{% endblock %}
-
-{% block content %}
-
-<h2 class="lead">Keavy McMinn</h2>
-
-<h4 class="quiet"><em>Senior Principal Engineer at Fastly</em></h4>
-
-<span class="date">March, 2020</span>[blog](https://keavy.com/), [twitter](https://twitter.com/keavy), [linkedin](https://www.linkedin.com/in/keavy/)
+<span class="date">March, 2020</span>
+[blog](https://keavy.com/),
+[twitter](https://twitter.com/keavy),
+[linkedin](https://www.linkedin.com/in/keavy/)
 
 ___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
 
@@ -107,4 +101,3 @@ ___What are some resources (books, blogs, people, etc) you’ve learned from? Wh
 
  Conferences have been a resource for me, as well as getting to work with mature, low-ego, wonderful engineering leaders and engineers. Chad Fowler, and his book [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U/), is at top of that list. Dave Thomas is another one of those people whose workshops I used to go to when I was first learning Ruby and his book [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) is another great one.
 
-{% endblock %}
