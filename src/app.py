@@ -58,10 +58,11 @@ def stories():
 @app.route('/stories/<name>')
 def story(name):
     details = story_lookup(name)
-    return render_template("story.html", story=details)
-    
-    #template_path = "stories/%s.html" % name
-    #return render_template(template_path)
+    if details:
+        return render_template("story.html", story=details)
+    else:
+        abort(404)
+
 
 @app.route('/share')
 def share():
@@ -88,10 +89,6 @@ def guide(chapter, section):
         return render_template("section.html", chapter=chapter, section=section)
     else:
         abort(404)
-    
-    
-    
-    
 
 
 @app.route('/rss')
