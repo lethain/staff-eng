@@ -1,16 +1,15 @@
-Recently, I’ve been focused on the question of “What does it mean to be a Staff or Staff-plus engineer, and how do you get there?”, and have gathered this collection of resources for folks who are looking to grow as or into such roles.
+
+None of the  Staff Engineer I spoke with got there alone. Most got there either through voracious reading
+or building a powerful network of colleagues. This section is a collection of recommended resources.
 
 
-## Your Network
+### Your Network
 
 Almost unanimously Staff-plus engineers’ most valuable learning resource weren’t a book, blog, talk or paper, but instead their network of peers and mentors. If you only have one hour to develop yourself as an engineer, your best bet would be [meeting people](https://lethain.com/meeting-people/) in similar roles.
 
-
-## What do Staff-plus Engineers do?
+### What do Staff-plus Engineers do?
 
 Folks’ descriptions of their roles:
-
-
 
 *   [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) by Silvia Botros
 *   [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) by John Allspaw
@@ -19,12 +18,9 @@ Folks’ descriptions of their roles:
 *   [What a Senior Staff Software Engineer Actually Does, Part 1: The Role and My Tasks](https://medium.com/box-tech-blog/what-a-senior-staff-software-engineer-actually-does-f3fc140d5f33) and [Part 2: The Mindset and Focus of the Role](https://medium.com/box-tech-blog/what-a-senior-staff-software-engineer-actually-does-d55308fcdd41) by Joy Ebertz
 *   [What does Staff level mean at GitLab?](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/)
 
-
-## Becoming a Staff-plus Engineer
+### Becoming a Staff-plus Engineer
 
 Folks sharing their stories of becoming a Staff-plus engineer:
-
-
 
 *   [Becoming a Staff Engineer – Interview with Kristina Fox, Staff iOS Engineer at Intuit](https://elpha.com/posts/4j56np6p/becoming-a-staff-engineer-interview-with-kristina-fox-staff-ios-engineer-at-intuit) by Kaya Thomas
 *   [On becoming a senior technical leader](https://blog.coinbase.com/on-becoming-a-senior-technical-leader-14106f1383b8) by Jesse Pollak
@@ -32,16 +28,13 @@ Folks sharing their stories of becoming a Staff-plus engineer:
 *   [How does one become a Staff Software Engineer at Google?](https://www.quora.com/How-does-one-become-a-Staff-Software-Engineer-at-Google-What-might-a-new-grad-entering-the-company-do-to-grow-their-career-to-reach-that-level) on Quora
 *   [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by Charity Majors
 
-
-## Operating as a Staff-plus engineer
-
-
+### Operating as a Staff-plus engineer
 
 *   [Being Glue](https://noidea.dog/glue) by Tanya Reilly
 *   [Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/) by Nelson Elhage
 *   [Effective Mental Models for Code and Systems](https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e) by Cindy Sridharan
 *   [“I Wouldn’t Start From Here”. How to Make a Big Technical Change](https://noidea.dog/blog/getting-there-from-here) by Tanya Reilly
-*   [Migrations: the sole scalable fix to tech-debt](https://lethain.com/migrations/)
+*   [Migrations: the sole scalable fix to tech-debt](https://lethain.com/migrations/) by Will Larson
 *   [On Mid-Career and Team Dynamics](https://www.ryn.works/blog/on-mid-career-and-team-dynamics) by Ryn Daniels
 *   [Reclaim unreasonable software](https://lethain.com/reclaim-unreasonable-software/) by Will Larson
 *   [Surviving the Organisational Side Quest](https://noidea.dog/blog/surviving-the-organisational-side-quest) by Tanya Reilly
@@ -53,12 +46,9 @@ Folks sharing their stories of becoming a Staff-plus engineer:
 *   [Understanding Project Management Will Improve Your Developer Job](https://blog.danielna.com/understanding-project-management-will-improve-your-developer-job/) by Daniel Na
 *   [Where to Start](https://keavy.com/work/where-to-start/) by Keavy McMinn
 
-
-## Engineering Strategy
+### Engineering Strategy
 
 Articles on engineering strategy in general:
-
-
 
 *   [How Big Technical Changes Happen at Slack - Several People Are Coding](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b)
 *   [On Drafting an Engineering Strategy](https://www.paperplanes.de/2020/1/31/on-drafting-an-engineering-strategy.html)
@@ -66,20 +56,15 @@ Articles on engineering strategy in general:
 
 Examples of engineering strategies:
 
-
-
 *   [Run less software](https://www.intercom.com/blog/run-less-software/) by Rich Archibold
 
 There are also many great resources on other facets of strategy as well, for example Marty Cagan’s series on [Product Strategy](https://svpg.com/product-strategy-overview/).
 
-
-## Books
+### Books
 
 Although I’ve found that many folks don’t read too many books, when I asked Staff engineers for their most valuable resources, they inevitably mentioned a personal mentor or a book. They had blog posts and tech talks they might mention related to a more specific problem, but they were most changed by this larger, more papery format.
 
 Some books which were recommended:
-
-
 
 *   [A Philosophy of Software Design](https://lethain.com/notes-philosophy-software-design/) by John Ousterhout
 *   [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/ref=sr_1_1?s=books&ie=UTF8&qid=1532354658&sr=1-1&keywords=accelerate+devops) by Forsgren, Humble and Kim.
@@ -99,19 +84,15 @@ Some books which were recommended:
 
 If you’re looking for even more, recommended book lists abound, including my own at [Irrational Exuberance’s Best Book](https://lethain.com/best-books).
 
-
-## Talks
+### Talks
 
 The Staff-plus engineers I’ve chatted with have generally mentioned giving talks as valuable to them more than listening to talks, but there certainly are some excellent talks out there. [Cindy Sridharan](https://medium.com/@copyconstruct) ([twitter](https://twitter.com/copyconstruct)) is the best source of amazing talks, in particular her write ups of [Best of 2019 in Tech Talks](https://medium.com/@copyconstruct/best-of-2019-in-tech-talks-bac697c3ee13), [Best of 2018 in Tech Talks](https://medium.com/@copyconstruct/best-of-2018-in-tech-talks-2970eb3097af), and [Best of 2017 in Tech Talks](https://medium.com/@copyconstruct/best-of-2017-in-tech-talks-8f78b34ff0b?source=---------17------------------).
 
-
-## Papers
+### Papers
 
 Relatively few Staff-plus Engineers are avid readers of Computer Science papers. However, most are familiar with a handful of foundational papers, and the small subset who do spend time reading papers tend to get quite a bit out of it.
 
 If you aspire to join the category of frequent paper readers, there’s no better place than Adrian Colyer’s [the morning paper](https://blog.acolyer.org/), which will send you a summary of a computer science paper every weekday. If you’re more interested in getting some foundational exposure to some well-known papers, first read one of [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/) by Peter Klein or [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) by S. Keshav, and then jump into this list of recommended papers:
-
-
 
 *   [Dynamo: Amazon's Highly Available Key-value Store](https://s3.amazonaws.com/systemsandpapers/papers/amazon-dynamo-sosp2007.pdf)
 *   [On Designing and Deploying Internet-Scale Services](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf)
@@ -135,12 +116,9 @@ If you aspire to join the category of frequent paper readers, there’s no bette
 
 Probably the best place to find high-quality papers to read is [Papers We Love](https://paperswelove.org/), who also run meetups to discuss papers. A few other resources are the [ACM SIGOPS Hall of Fame Award list](https://www.sigops.org/awards/hof/) and [Irrational Exuberance’s paper collection](https://lethain.com/some-of-my-favorite-technical-papers/).
 
-
-## Other nice things
+### Other nice things
 
 As I did research for these resources, I found some other pieces that didn’t quite fit anywhere above, but which I think are good and worth looking at nonetheless:
-
-
 
 *   [Testing in Production, the safe way](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1) and [Testing in Production: the hard parts](https://medium.com/@copyconstruct/testing-in-production-the-hard-parts-3f06cefaf592) by Cindy Sridharan
 *   [A decade in review in tech](https://medium.com/@copyconstruct/a-decade-in-review-in-tech-1cde76c9b43c) by Cindy Sridharan

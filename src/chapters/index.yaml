@@ -10,13 +10,15 @@ chapters:
     slug: before-staff
     sections:
       - title: Overview
+      - title: Build Something Important
       - title: Own Something Hard
       - title: Help Without Owning
-      - title: Be Easy to Include
+      - title: Be Easy to Involve
       - title: Organizational Trust
+      - title: Be Easy to Know and to Find
       - title: Think Broadly & Build Broad Skills
+      - title: Know When to Break Glass
       - title: Org-scoped Projects
-      - title: How to Never Be Wrong
       - title: "Communication: Written, Verbal, Meetings, and Public"
       - title: Impact Beyond Yourself
       - title: Should you try management?
@@ -33,10 +35,17 @@ chapters:
     sections:
       - title: Overview
       - title: Build a Network of Peers
+      - title: Learn to Never Be Wrong
+      - title: Get and Stay in the Room
+      - title: Selectively Create Principled Friction
+      - title: Dig Into Problems
       - title: Knowing & Not Knowing
+      - title: Represent the Business
       - title: Navigate Ambiguity
       - title: Work On The System
       - title: Sponsor Others
+      - title: Strategy, Vision and North Stars
+      - title: Maintain Technical Quality
       - title: Lead Technology Change
       - title: Change Organizational Practices
       - title: Fill the Gaps
