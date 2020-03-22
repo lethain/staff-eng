@@ -43,6 +43,7 @@ chapters:
       - title: Be a stable foundation
   - title: Operating at Staff
     slug: operating-at-staff
+    sections:
       - title: Build a Network of Peers
       - title: Model structured thinking
       - title: Dig into problems
@@ -57,7 +58,6 @@ chapters:
       - title: Fill the Gaps
       - title: Scale Consistency
       - title: Stakeholder Translation
-      - title: Estimate
   - title: Resources
     slug: resources
     sections:

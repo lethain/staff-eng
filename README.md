@@ -14,12 +14,12 @@ be as simple as:
     pip install -r requirements.txt
     python src/app.py
 
-## Working in the codebase
+## Adding stories and chapters
 
 Stories and chapters are stored as Markdown files in `src/stories/*.md`
-and `src/chapters/*.md` respectively. These are lazily cached after initial
-load, so updates to the Markdown files requires a reload.
-(Yes, I know this is jank.)
+and `src/chapters/*.md` respectively. They must be manually specified
+in `src/chapters/index.yaml` and `src/stories/index.yaml` respectively
+in order to be included.
 
 ## Deployment
 

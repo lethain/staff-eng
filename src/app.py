@@ -4,7 +4,7 @@ import feedgen.feed
 
 from flask import Flask, render_template, make_response, request, redirect, abort
 from stories import AUTHOR, get_stories, story_lookup
-from index import chapters, section_lookup
+from chapters import get_chapters, section_lookup
 
 
 app = Flask(__name__)
@@ -80,12 +80,12 @@ def about():
 
 @app.route('/guide')
 def guides():
-    index = chapters()
+    index = get_chapters(ignore=app.debug)
     return render_template("guide.html", chapters=index['chapters'])
 
 @app.route('/guide/<chapter>/<section>')
 def guide(chapter, section):
-    chapter, section = section_lookup(chapter, section)
+    chapter, section = section_lookup(chapter, section, ignore=app.debug)
 
     if section:
         return render_template("section.html", chapter=chapter, section=section)
