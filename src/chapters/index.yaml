@@ -22,7 +22,7 @@ chapters:
       - title: "Communication: Written, Verbal, Meetings, and Public"
       - title: Impact Beyond Yourself
       - title: Should you try management?
-  - title: Getting The Title
+  - title: Getting the title
     slug: getting-the-title
     sections:
       - title: Overview
@@ -30,20 +30,24 @@ chapters:
       - title: Staff Projects
       - title: Find Your Sponsor
       - title: Switch Companies
-  - title: Operating at Staff
-    slug: operating-at-staff
+  - title: Keeping the title
+    slug: keeping-at-staff
     sections:
       - title: Overview
-      - title: Build a Network of Peers
-      - title: Learn to Never Be Wrong
+      - title: Be a role model
+      - title: Stay aligned with authority
+      - title: Stay in the room
+      - title: Learn to never be wrong
         slug: learn-to-never-be-wrong
-      - title: Get and Stay in the Room
-      - title: Selectively Create Principled Friction
-      - title: Dig Into Problems
-      - title: Knowing & Not Knowing
-      - title: Represent the Business
-      - title: Navigate Ambiguity
-      - title: Be a Stable Foundation
+      - title: Represent the business
+      - title: Be a stable foundation
+  - title: Operating at Staff
+    slug: operating-at-staff
+      - title: Build a Network of Peers
+      - title: Model structured thinking
+      - title: Dig into problems
+      - title: Knowing & not knowing
+      - title: Navigate ambiguity
       - title: Work On The System
       - title: Sponsor Others
       - title: Strategy, Vision and North Stars

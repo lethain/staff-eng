@@ -65,13 +65,12 @@ ___How have you sponsored other engineers? Is sponsoring other engineers an impo
 
  I think sponsorship is a key responsibility of any senior role and material to the growth of any engineering organization. I suppose the definition of “sponsorship” varies, but to me one tangible way is to provide opportunities for exposure. For example:
 
-*   Giving less senior teammates the opportunity to own and present their work at wider meetings. <li>Reaching out to a team who just shipped an awesome feature to write a post for our engineering blog. <li>Encouraging someone I met in a #connect-engineering coffee who has unique experience or perspective to give an internal presentation.
+* Giving less senior teammates the opportunity to own and present their work at wider meetings.
+* Reaching out to a team who just shipped an awesome feature to write a post for our engineering blog.
+* Encouraging someone I met in a #connect-engineering coffee who has unique experience or perspective to give an internal presentation.
+* Ensuring that meetings are not dominated by the perspectives of a vocal minority and soliciting opinions from everyone in the room.
+* Giving public kudos in a large slack room to someone who just did something great that everyone didn’t see.
 
-  <li>Ensuring that meetings are not dominated by the perspectives of a vocal minority and soliciting opinions from everyone in the room.
-
-  <li>Giving public kudos in a large slack room to someone who just did something great that everyone didn’t see.
-  </li>
-</li></li></li>
 
  Lara Hogan has a great post on sponsorship in practice: [What does sponsorship look like?](https://larahogan.me/blog/what-sponsorship-looks-like/)
 
