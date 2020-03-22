@@ -3,7 +3,7 @@ import datetime
 import feedgen.feed
 
 from flask import Flask, render_template, make_response, request, redirect, abort
-from stories import STORIES, AUTHOR, story_lookup
+from stories import AUTHOR, get_stories, story_lookup
 from index import chapters, section_lookup
 
 
@@ -23,23 +23,26 @@ def now():
 
 def published():
     now_dt = now()
-    return [x for x in STORIES if x.date() <= now_dt]
+    story_list = get_stories(ignore=app.debug)
+    return [x for x in story_list if x.date() <= now_dt]
 
 def next_story():
     now_dt = now()
     prev = None
     # no stories published
-    if STORIES[0].date() > now_dt:
-        return STORIES[0]
-    
-    for x in STORIES:
+    story_list = get_stories(ignore=app.debug)
+
+    if story_list[0].date() > now_dt:
+        return story_list[0]
+
+    for x in story_list:
         curr = x.date()
         if prev and prev < now_dt and curr >= now_dt:
             return x
         prev = curr
 
-    if STORIES[-1].date() > now_dt:
-        return STORIES[-1]
+    if story_list[-1].date() > now_dt:
+        return story_list[-1]
 
 
 @app.route('/')
@@ -56,7 +59,7 @@ def stories():
 
 @app.route('/stories/<name>')
 def story(name):
-    details = story_lookup(name)
+    details = story_lookup(name, ignore=app.debug)
     if details:
         return render_template("story.html", story=details)
     else:

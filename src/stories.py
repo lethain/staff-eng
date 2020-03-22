@@ -5,6 +5,7 @@ from flask import Markup
 from content import CONTENT
 
 
+STORIES_CACHE = None
 AUTHOR = {'name': 'Will Larson', 'email': 'lethain@gmail.com'}
 
 
@@ -41,12 +42,9 @@ class Story:
         return dt.astimezone(tz=tz)
 
 
-
-STORIES_CACHE = None
-
-def stories():
+def get_stories(ignore=False):
     global STORIES_CACHE
-    if not STORIES_CACHE:
+    if not STORIES_CACHE or ignore:
         with open("./src/stories/index.yaml") as fin:
             story_data = yaml.load(fin.read(), Loader=yaml.FullLoader)
         STORIES_CACHE = [Story(x['name'], x['title'], x['slug'], x['date']) for x in story_data['stories']]
@@ -58,14 +56,11 @@ def add_markdown(story):
         with open("./src/stories/%s.md" % (story.slug,), 'r') as fin:
             raw = fin.read()
             story.markdown = Markup(markdown.markdown(raw))
-            
 
 
-def story_lookup(slug):
-    story_list = stories()
+def story_lookup(slug, ignore=False):
+    story_list = get_stories(ignore=ignore)
     for story in story_list:
         if story.slug == slug:
             add_markdown(story)
             return story
-
-STORIES = stories()
