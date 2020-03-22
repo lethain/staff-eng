@@ -83,8 +83,8 @@ hr {
 }
 
 @media (max-width: 684px) {
-    body {
-        margin: 0 10px;
+    .content {
+        padding: 0 10px;
         font-size: 1.8rem;
     }
     .date {
@@ -93,7 +93,11 @@ hr {
 }
 
 @media (max-width: 382px) {
-    body {
+    .form-group {
+        display: block;
+    }
+    .content {
+        padding: 0 10px;
         font-size: 1.8rem;
     }
 }

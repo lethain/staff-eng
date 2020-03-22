@@ -22,7 +22,8 @@ body {
     font-size: 1.53rem; } }
 @media (max-width: 382px) {
   body {
-    font-size: 1.35rem; } }
+      font-size: 1.35rem; } }
+
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   font-family: Verdana, Geneva, sans-serif;
