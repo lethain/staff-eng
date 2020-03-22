@@ -81,3 +81,19 @@ hr {
 .form-group label {
     font-weight: normal;
 }
+
+@media (max-width: 684px) {
+    body {
+        margin: 0 10px;
+        font-size: 1.8rem;
+    }
+    .date {
+        display: none;
+    }
+}
+
+@media (max-width: 382px) {
+    body {
+        font-size: 1.8rem;
+    }
+}
