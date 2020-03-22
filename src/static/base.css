@@ -93,6 +93,10 @@ hr {
 }
 
 @media (max-width: 382px) {
+    nav, nav li {
+        display: block;
+    }
+    
     .form-group {
         display: block;
     }
