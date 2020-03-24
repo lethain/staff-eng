@@ -26,6 +26,7 @@ chapters:
     slug: getting-the-title
     sections:
       - title: Overview
+      - title: Interviewing for Staff-plus roles
       - title: Promotion Packets
       - title: Staff Projects
       - title: Find Your Sponsor
@@ -49,6 +50,7 @@ chapters:
       - title: Dig into problems
       - title: Knowing & not knowing
       - title: Navigate ambiguity
+      - title: "Edit the team's work"
       - title: Work On The System
       - title: Sponsor Others
       - title: Strategy, Vision and North Stars
@@ -64,3 +66,4 @@ chapters:
       - title: Learning Materials
         slug: learning-materials
       - title: Staff Engineering Career Ladder
+      - title: Designing a Staff-plus interview loop

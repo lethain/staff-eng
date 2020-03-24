@@ -17,8 +17,7 @@ To get good at this, you need to master three approaches: listen through questio
 
 Good meetings start from a clear purpose and agenda, but many meetings don’t meet that definition of a good meeting, particularly ad-hoc discussions. If you ever find yourself in a conversation with an unclear goal, then **define the purpose**. Take a moment to ask if your understanding of what the group hopes to accomplish is correct. This works best as a statement wrapped in a clarifying question along the lines of, “Just to check, our goal here is to decide whether to postpone launching the project by two weeks?”
 
- \
- Note that defining the purpose can be disruptive if it’s used too frequently. Rather than helping to clarify the conversation, in that case it creates conversational churn. For the most part, try to avoid using it if someone else has already made an attempt. Meetings with multiple failed reframings almost always end with scheduling another meeting.
+Note that defining the purpose can be disruptive if it’s used too frequently. Rather than helping to clarify the conversation, in that case it creates conversational churn. For the most part, try to avoid using it if someone else has already made an attempt. Meetings with multiple failed reframings almost always end with scheduling another meeting.
 
 Finally, in each meeting you have to **read the room**. Oftentimes folks get frustrated with a conversation and try to force agreement, which creates so much pressure on the discussion that it’s unlikely to conclude well. If the folks in the room are too far apart, then identify a subgroup who are able to spend more time digging into it together or identify an appropriate party to escalate to outside of the room. If there’s simply too much stuff in the drawer, stop trying to shove it shut.
 
