@@ -43,7 +43,7 @@ ___What’s something you’ve advocated for?___
 
 One of the things that I’ve been advocating hard for in my current job is design documents for API changes. So before anybody writes any code, when the cost of making changes is low, they write down the user workflows and what would an interface look like that could enable those workflows. Sometimes it turns out that a seemingly simple thing is really difficult, particularly when the group isn’t used to flexing those muscles.
 
-My approach to advocacy is to remind ourselves what the pain points are that everyone felt that led us to trying to make a change. We’re not trying to be perfect for sake of theory, code beauty, or a loft concern. I bring it back to “These are the pain points that everybody said they felt, and this is an approach that you know ultimately is going to help with that.”
+My approach to advocacy is to remind ourselves what the pain points are that everyone felt that led us to trying to make a change. We’re not trying to be perfect for sake of theory, code beauty, or a lofty concern. I bring it back to “These are the pain points that everybody said they felt, and this is an approach that you know ultimately is going to help with that.”
 
 I help get other people to care about the same things, like I’m going to start pairing with more engineers on API reviews. While I do the reviews, I try to help teach others what I’m looking at, and be encouraging through the processes and conversations.
 
