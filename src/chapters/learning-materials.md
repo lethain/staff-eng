@@ -11,6 +11,7 @@ Almost unanimously Staff-plus engineers’ most valuable learning resource weren
 
 Folks’ descriptions of their roles:
 
+*   [Defining a Distinguished Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/) by Jessie Frazelle
 *   [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) by Silvia Botros
 *   [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) by John Allspaw
 *   [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/) by Keavy McMinn
