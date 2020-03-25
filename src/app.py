@@ -117,7 +117,7 @@ def rss():
 
     txt =  fg.rss_str(pretty=True)
     resp = make_response(txt)
-    resp.headers.set('Content-Type', 'application/rss+xml')
+    resp.headers.set('Content-Type', 'application/rss+xml;charset=UTF-8')
     return resp
 
 

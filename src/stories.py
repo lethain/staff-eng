@@ -2,7 +2,6 @@ import datetime
 import markdown
 import yaml
 from flask import Markup
-from content import CONTENT
 
 
 STORIES_CACHE = None
@@ -15,7 +14,6 @@ class Story:
         self.role = role
         self.slug = slug
         self.date_str = date_str
-        self.content = CONTENT[slug]
         self.markdown = ""
 
     def local_url(self):
@@ -32,8 +30,12 @@ class Story:
 
     def html(self):
         "Only used for RSS."
-        extra = "<p><a href=\"%s\">Read the full article on staffeng.com</a></p>" % (self.url())
-        return self.content + extra
+        if not self.markdown:
+            add_markdown(self)
+
+        title = Markup("<h1>%s</h1>" % (self.title(),))
+        extra = Markup("<p><a href=\"%s\">Read the full article on staffeng.com</a></p>" % (self.url()))
+        return extra + title + self.markdown
 
     def date(self):
         td = datetime.timedelta(hours=-7)
