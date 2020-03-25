@@ -4,8 +4,12 @@ html, body {
 
 body {
     display: flex;
+    max-width: 38em;
+    margin: auto;
     flex-direction: column;
     padding: 0;
+    background-color: #f9f9f9;
+    color: #4a4a4a;    
 }
 
 .content {
@@ -21,7 +25,8 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 10px;
+    padding: 10px 0;
+
 }
 
 nav h2 a {
@@ -43,8 +48,15 @@ hr {
 
 .pull {
     background: #e9e9e9;
-    padding: 5px 15px;
-    border-radius: 5px;
+    padding: 1rem 1.5rem;
+    border-radius: 0.5rem;
+    margin-bottom: 2.5rem;
+}
+.pull p {
+    padding-top: 1rem;
+}
+.pull ul {
+    padding: 0;
 }
 
 .lead {
@@ -71,21 +83,32 @@ hr {
     justify-content: space-between;
 }
 
+#mc_embed_signup form {
+    margin-bottom: 0;
+}
+
+.mc-field-group p {
+    margin-bottom: 0;
+}
+
 .form-group .email {
     flex-grow: 2;
 }
 
 .form-group label, .form-group input {
-    margin: 10px 5px;
+    margin: 1rem 0.5rem;
 }
 .form-group label {
     font-weight: normal;
 }
 
 @media (max-width: 684px) {
+    nav {
+        padding: 0.5rem 1rem;
+    }
+    
     .content {
         padding: 0 10px;
-        font-size: 1.8rem;
     }
     .date {
         display: none;
@@ -96,14 +119,10 @@ hr {
     nav, nav li {
         display: block;
     }
-    nav li {
-        font-size: 1.8rem;
-    }
     .form-group {
         display: block;
     }
     .content {
         padding: 0 10px;
-        font-size: 1.8rem;
     }
 }

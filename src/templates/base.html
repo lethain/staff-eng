@@ -2,9 +2,11 @@
 <title>{% block title %}StaffEng{% endblock %}</title>
 <link rel="alternate" type="application/rss+xml" title="StaffEng" href="/rss" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
 
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
 <link rel="stylesheet" href="{{ url_for('static', filename='normalize.css')}}" type="text/css">
-<link rel="stylesheet" href="{{ url_for('static', filename='sakura.css')}}" type="text/css">
+<link rel="stylesheet" href="{{ url_for('static', filename='milligram.css')}}" type="text/css">
 <link rel="stylesheet" href="{{ url_for('static', filename='base.css')}}" type="text/css">
 <body>
 <nav>
@@ -26,7 +28,7 @@
         <div class="mc-field-group">
           <p><strong>Would you like an email when new stories are posted?</strong></p>
           <div class="form-group">
-            <label for="mce-EMAIL">Email Address</label>
+            <label for="mce-EMAIL">Email</label>
             <input type="email" value="" placeholder="your email address" name="EMAIL" class="required email" id="mce-EMAIL">
             <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
           </div>
