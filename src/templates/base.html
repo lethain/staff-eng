@@ -1,9 +1,9 @@
 <!doctype html>
 <title>{% block title %}StaffEng{% endblock %}</title>
-<link rel="alternate" type="application/rss+xml" title="StaffEng" href="/rss" />
+<link rel="alternate" type="application/rss+xml" title="StaffEng" href="/rss">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="utf-8">
-
+{% block ogtags %}{% endblock %}
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
 <link rel="stylesheet" href="{{ url_for('static', filename='normalize.css')}}" type="text/css">
 <link rel="stylesheet" href="{{ url_for('static', filename='milligram.css')}}" type="text/css">

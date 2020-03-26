@@ -17,7 +17,10 @@ stories:
     date: 2020-04-02 07
     # 6. silvia 04-09
     # 7. rick 04-14
-    # 8. duretti 04-16
+  - name: Duretti Hirpa
+    title: Formerly Staff Engineer at Mailchimp
+    slug: duretti-hirpa
+    date: 2020-04-16 07
   - name: Nelson Elhage
     title: Formerly Staff Engineer at Stripe
     slug: nelson-elhage

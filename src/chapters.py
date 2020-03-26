@@ -23,7 +23,7 @@ def add_markdown(section):
     
 
 def section_lookup(chapter_slug, section_slug, ignore=False):
-    index = chapters(ignore=ignore)
+    index = get_chapters(ignore=ignore)
     for chapter in index['chapters']:
         if 'slug' in chapter and chapter['slug'] == chapter_slug:
             for section in chapter['sections']:
