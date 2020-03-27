@@ -15,16 +15,16 @@ stories:
     title: Staff Engineer at Dropbox
     slug: ritu-vincent
     date: 2020-04-02 07
-    # 6. silvia 04-09
-    # 7. rick 04-14
-  - name: Duretti Hirpa
-    title: Formerly Staff Engineer at Mailchimp
-    slug: duretti-hirpa
-    date: 2020-04-16 07
   - name: Nelson Elhage
     title: Formerly Staff Engineer at Stripe
     slug: nelson-elhage
     date: 2020-04-07 07
+  - name: Duretti Hirpa
+    title: Formerly Staff Engineer at Mailchimp
+    slug: duretti-hirpa
+    date: 2020-04-09 07
+    # 6. silvia 04-14
+    # 7. rick 04-16
   - name: Diana Pojar
     title: Staff Data Engineer at Slack
     slug: diana-pojar
