@@ -13,6 +13,8 @@ chapters:
       - title: Build Something Important
       - title: Own Something Hard
       - title: Help Without Owning
+      - title: Getting in the room
+        slug: getting-in-the-room
       - title: Be Easy to Involve
       - title: Organizational Trust
       - title: Be Easy to Know and to Find
@@ -37,7 +39,6 @@ chapters:
       - title: Overview
       - title: Be a role model
       - title: Stay aligned with authority
-      - title: Stay in the room
       - title: Learn to never be wrong
         slug: learn-to-never-be-wrong
       - title: Represent the business
