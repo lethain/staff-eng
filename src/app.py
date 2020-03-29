@@ -47,7 +47,9 @@ def next_story():
 
 @app.route('/')
 def front():
-    story_list = list(reversed(published()[-3:]))
+    story_list = list(reversed(published()))[:3]
+    story_list = published()[-3:]
+
     nxt = next_story()
     return render_template("front.html", stories=story_list, next_story=nxt)
 
