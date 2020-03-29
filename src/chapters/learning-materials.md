@@ -46,6 +46,7 @@ Folks sharing their stories of becoming a Staff-plus engineer:
 *   [The Behind-the-scenes Work of Tech Leadership](https://blog.coleadership.com/behind-the-scenes-tech-leadership/) by Jean Hsu
 *   [Understanding Project Management Will Improve Your Developer Job](https://blog.danielna.com/understanding-project-management-will-improve-your-developer-job/) by Daniel Na
 *   [Where to Start](https://keavy.com/work/where-to-start/) by Keavy McMinn
+* [Design Docs, Markdown and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/) by Caitie McCaffrey
 
 ### Engineering Strategy
 
