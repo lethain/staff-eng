@@ -13,7 +13,7 @@
   {% for story in stories %}
 
   <li>
-    <em class="date">{{ story.date().strftime("%B %d, %Y")}}</em>
+    <em class="date">{{ story.date().strftime("%B, %Y")}}</em>
     <a href="{{ story.local_url() }}">{{ story.title() }}</a>
   </li>
   {% endfor %}
