@@ -4,7 +4,8 @@ chapters:
     sections:
       - title: Overview
       - title: Career Trajectory & Career Levels
-      - title: Staff Engineering Archetypes
+      - title: Staff engineer archetypes
+        draft: https://docs.google.com/document/d/1yBAqhvJ33pNzSMRfABRGiRuJbhmerjE5qIjn6UAQebk/edit
       - title: Does the title even matter?
   - title: Before Staff
     slug: before-staff
@@ -15,30 +16,35 @@ chapters:
       - title: Help Without Owning
       - title: Getting in the room
         slug: getting-in-the-room
-      - title: Be Easy to Involve
       - title: Organizational Trust
       - title: Be Easy to Know and to Find
-      - title: Think Broadly & Build Broad Skills
-      - title: Know When to Break Glass
+      - title: Think broadly & build broad skills
+      - title: Know when to break glass
       - title: Org-scoped Projects
       - title: "Communication: Written, Verbal, Meetings, and Public"
-      - title: Impact Beyond Yourself
+      - title: "Edit the team's work"
+      - title: Navigate ambiguity
+      - title: Impact beyond yourself
+      - title: Give feedback
       - title: Should you try management?
   - title: Getting the title
     slug: getting-the-title
     sections:
       - title: Overview
+      - title: Finding the right company
+        draft: https://docs.google.com/document/d/1rsJKqfAHd25azP2UU4yN5MoU-u5edybKOmO5D4mvVAc/edit
       - title: Interviewing for Staff-plus roles
       - title: Promotion Packets
       - title: Staff Projects
-      - title: Find Your Sponsor
-      - title: Switch Companies
+      - title: Find your sponsor
+      - title: Switch companies
   - title: Keeping the title
     slug: keeping-at-staff
     sections:
       - title: Overview
       - title: Be a role model
       - title: Stay aligned with authority
+        slug: staying-aligned-with-authority
       - title: Learn to never be wrong
         slug: learn-to-never-be-wrong
       - title: Represent the business
@@ -46,25 +52,29 @@ chapters:
   - title: Operating at Staff
     slug: operating-at-staff
     sections:
-      - title: Build a Network of Peers
-      - title: Model structured thinking
+      - title: Be a role model
+      - title: Create space for others
+        draft: https://docs.google.com/document/d/1eNMBNA9_vpb9tRXxQFbRaPfK7jXu33WP55LbMg-gTMU/edit
+      - title: Build a network of peers
+      - title: Work on the right questions - model structured thinking
       - title: Dig into problems
       - title: Knowing & not knowing
-      - title: Navigate ambiguity
-      - title: "Edit the team's work"
-      - title: Work On The System
-      - title: Sponsor Others
-      - title: Strategy, Vision and North Stars
-      - title: Maintain Technical Quality
-      - title: Lead Technology Change
-      - title: Change Organizational Practices
-      - title: Fill the Gaps
-      - title: Scale Consistency
-      - title: Stakeholder Translation
+      - title: Work on the System
+      - title: Sponsor others
+      - title: Strategy, vision and North stars
+      - title: Maintain technical quality
+      - title: Scale consistency and organizational learning
+      - title: Lead technology change
+      - title: Evolve organizational practices
+      - title: Fill the gaps
+      - title: Stakeholder translation
   - title: Resources
     slug: resources
     sections:
-      - title: Learning Materials
+      - title: Staff promotion packet workbook
+        draft: https://docs.google.com/document/d/1xEj31pZIAbZy8Tq9G_sUiknOM64f7NibxH1S2qOkCbw/edit#
+      - title: Learning materials
         slug: learning-materials
       - title: Staff Engineering Career Ladder
       - title: Designing a Staff-plus interview loop
+        draft: https://docs.google.com/document/d/1YbfpBc6RQEEHbjCkvS1uD_Zgg3LxN_vviPOv0BP2_n0/edit

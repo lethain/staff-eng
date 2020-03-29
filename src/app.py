@@ -81,7 +81,8 @@ def about():
 @app.route('/guide')
 def guides():
     index = get_chapters(ignore=app.debug)
-    return render_template("guide.html", chapters=index['chapters'])
+    debug = request.args.get('show', None) or app.debug
+    return render_template("guide.html", chapters=index['chapters'], debug=debug)
 
 @app.route('/guide/<chapter>/<section>')
 def guide(chapter, section):
