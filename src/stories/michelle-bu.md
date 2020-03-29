@@ -19,8 +19,6 @@ I manage two engineers who embed into high priority areas. This both helps me sc
 
 <div class="pull">
 <p><strong>Michelle's podcast appearances</strong></p>
-
-More from and about Rick</strong></p>
 <ul>
 <li><a href="http://businesslogic.fm/e6-michelle-bu-of-stripe-on-rapidly-scaling-yourself">Business Logic: MIchelle Bu of Stripe on rapidly scaling yourself</a></li>
 <li><a href="http://www.fullstackradio.com/60">Full Stack Radio: Michelle Bu - Engineering Payments at Stripe</a></li>
