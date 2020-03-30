@@ -31,13 +31,15 @@ chapters:
     slug: getting-the-title
     sections:
       - title: Overview
+        slug: getting-title-overview
       - title: Finding the right company
         draft: https://docs.google.com/document/d/1rsJKqfAHd25azP2UU4yN5MoU-u5edybKOmO5D4mvVAc/edit
-      - title: Interviewing for Staff-plus roles
+      - title: Find your sponsor
+        draft: https://docs.google.com/document/d/1pQ9Tx-EFLnv4QNwzk6QrybdcYfOdwWk4vrzBThXfKb8/edit
       - title: Promotion Packets
       - title: Staff Projects
-      - title: Find your sponsor
-      - title: Switch companies
+      - title: Deciding to switch companies
+      - title: Interviewing for Staff-plus roles        
   - title: Keeping the title
     slug: keeping-at-staff
     sections:
