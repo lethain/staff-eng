@@ -84,9 +84,9 @@ def guides():
     debug = request.args.get('show', None) or app.debug
     return render_template("guide.html", chapters=index['chapters'], debug=debug)
 
-@app.route('/guide/<chapter>/<section>')
-def guide(chapter, section):
-    chapter, section = section_lookup(chapter, section, ignore=app.debug)
+@app.route('/guide/<section>')
+def guide(section):
+    chapter, section = section_lookup(section, ignore=app.debug)
 
     if section:
         return render_template("section.html", chapter=chapter, section=section)

@@ -31,7 +31,7 @@
   {% if 'slug' in section or debug %}
   <li>
     {% if 'slug' in section %}
-    <a href="/guide/{{ chapter['slug'] }}/{{ section['slug'] }}">{{ section['title'] }}</a>
+    <a href="/guide/{{ section['slug'] }}">{{ section['title'] }}</a>
     {% elif 'draft' in section and debug %}
     <a target="_blank" href="{{ section['draft'] }}"><strong>DRAFT</strong> {{ section['title'] }}</a>
     {% else %}
