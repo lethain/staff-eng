@@ -6,6 +6,33 @@
 <h2 class="lead">{{ section['title'] }}</h2>
 <h4 class="quiet">/ <a href="/guide">Guide</a> / <a href="/guide#{{ chapter['slug'] }}">{{ chapter['title'] }}</a></h4>
 
+{% if section['prev'] or  section['next'] %}
+<p>
+{% if section['prev'] %}
+<strong>Previous:</strong> <a href="/guide/{{ section['prev']['slug'] }}">{{ section['prev']['title'] }}</a>{% if section['next'] %}, {% endif %}
+{% endif %}
+
+{% if section['next'] %}
+<strong>Next:</strong> <a href="/guide/{{ section['next']['slug'] }}">{{ section['next']['title'] }}</a>
+{% endif %}
+</p>
+{% endif %}
+
+<hr>
 {{ section['markdown'] }}
+
+
+{% if section['prev'] or  section['next'] %}
+<hr>
+<p>
+{% if section['prev'] %}
+<strong>Previous:</strong> <a href="/guide/{{ section['prev']['slug'] }}">{{ section['prev']['title'] }}</a>{% if section['next'] %}, {% endif %}
+{% endif %}
+
+{% if section['next'] %}
+<strong>Next:</strong> <a href="/guide/{{ section['next']['slug'] }}">{{ section['next']['title'] }}</a>
+{% endif %}
+</p>
+{% endif %}
 
 {% endblock %}
