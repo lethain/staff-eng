@@ -2,6 +2,10 @@ html, body {
     height: 100%;
 }
 
+.center {
+    text-align: center;
+}
+
 body {
     display: flex;
     max-width: 38em;
