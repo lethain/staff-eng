@@ -21,7 +21,7 @@ ___What does a Staff-plus engineer do at your company?___
 
  The specialist is deeply specialized in a particular area, for example [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum), the creator of Python. Specialists would take on really complex projects and execute it themselves, often projects that no one else could take on effectively. There were fewer specialists than tech leads.
 
-___Where the specialists predominantly external hires?___
+___Were the specialists predominantly external hires?___
 
  There were some specialists that came in from industry, like Guido and a lot of very experienced folks on the ML team, but a lot of specialists ended up being homegrown. That might be related to rolling out titles relatively late at Dropbox, which gave folks longer to develop deep context in our technology.
 
