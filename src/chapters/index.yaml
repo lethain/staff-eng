@@ -6,6 +6,7 @@ chapters:
       - title: Career Trajectory & Career Levels
       - title: Staff engineer archetypes
         draft: https://docs.google.com/document/d/1yBAqhvJ33pNzSMRfABRGiRuJbhmerjE5qIjn6UAQebk/edit
+      - title: Should you try management?
       - title: Does the title even matter?
   - title: Before Staff
     slug: before-staff
@@ -26,7 +27,6 @@ chapters:
       - title: Navigate ambiguity
       - title: Impact beyond yourself
       - title: Give feedback
-      - title: Should you try management?
   - title: Getting the title
     slug: getting-the-title
     sections:
@@ -39,7 +39,7 @@ chapters:
       - title: Promotion Packets
       - title: Staff Projects
       - title: Deciding to switch companies
-      - title: Interviewing for Staff-plus roles        
+      - title: Interviewing for Staff-plus roles
   - title: Keeping the title
     slug: keeping-at-staff
     sections:
