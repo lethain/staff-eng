@@ -131,4 +131,6 @@ What I want to focus on right now is becoming effective as a high-level, big-pic
 
 You know, for the first two-thirds of my career I used to love reading as much technical content as I could. I would be on YCombinator or my RSS feed all day reading about distributed systems, reliability, etc. These days I’m much more into reading about behavioral economics, behavioral science, human psychology, organizational strategy and so on. Some people I really enjoy in those realms are [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), [Tim Harford](https://en.wikipedia.org/wiki/Tim_Harford), [Dan Ariely.](https://en.wikipedia.org/wiki/Dan_Ariely)  There are also some amazing podcasts out there - [Freakonomics](https://freakonomics.com/archive/), [Choice-ology](https://www.schwab.com/resource-center/insights/podcast), [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain).
 
+Also, last year I started compiling a [reading list of books about the human brain and behavior](https://docs.google.com/document/d/1WIqIYuSGfyoU_ZO-xZMDXfaaUmnG2tmnkHiGZQ7pvqg/edit?usp=sharing) which I share with anyone who’s also interested in the topic(s).
+
 I do still keep up with [r/linux](https://www.reddit.com/r/linux/) and [r/programing](https://www.reddit.com/r/programming/) on Reddit, which have replaced RSS feeds for me in discovering new things to read.
