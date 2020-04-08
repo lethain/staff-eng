@@ -3,6 +3,7 @@ chapters:
     slug: overview
     sections:
       - title: Overview
+        slug: overview-overview
       - title: Career Trajectory & Career Levels
       - title: Staff engineer archetypes
         slug: staff-archetypes
