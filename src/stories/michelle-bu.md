@@ -185,9 +185,9 @@ Your job as a Staff-plus Engineer is very specific to your team and organization
 
 **_Did you ever consider engineering management?_**
 
-I guess I _am_ a manager because I am managing two people. That said, I don’t do a lot of the things that a traditional manager would do. I’m not involved in recruiting like a hiring manager would be, and I don’t have the same sort of performance management situations that other managers would because folks who are selected for my team are already high performers.
+I do manage two engineers right now. That said, I don’t do a lot of the things that a traditional manager would do. I’m not involved in recruiting like a hiring manager would be, and I don’t experience the same sort of performance management situations that other managers would because the engineers who are selected for my team are already high performers.
 
-Generally, I see myself more as a leader than a manager. I care a LOT about Stripe: when I see something out of place I feel antsy and want to fix it. In some organizations I think that could have led me towards engineering management rather than my current role.
+I care a LOT about Stripe: when I see something out of place I feel antsy and want to fix it. In some organizations I think that could have led me towards engineering management rather than my current role, and I feel very lucky that management wasn't the only path that was available to me. My strengths and interests lie in product engineering and API design and execution, and I'm able to use these strengths every day in my role.
 
 **_What are some resources (books, blogs, people, etc) you’ve learned from?_**
 
