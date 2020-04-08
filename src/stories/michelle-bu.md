@@ -44,13 +44,9 @@ I’ve taken to using the word “energized” over “impactful” -- “impact
 
 When I worked directly on a team, I felt most energized when I was able to directly interact with users -- whether it was helping users on the #stripe IRC channel or designing and shipping an API that users can integrate seamlessly.
 
-
-![alt_text](/static/michelle-bu/Michelle-Bu1.png "image_tooltip")
-
-
 In my current role, I feel extremely energized when someone I’ve sponsored sends an announcement that they’ve shipped their work, or when I see that I’ve helped shape or shift an engineering team’s model of an important topic. It’s these teams, not me, who are doing the hard work day-to-day of building and supporting their technology -- I measure my impact based on their progress and more importantly, the directionality of that progress and the alignment of their work to the company’s goals.
 
-One concrete example from recent memory is some work Sebastian (who has the same role as me, but in a different part of the organization) and I did on categorizing the shapes of APIs we commonly see: labeling some as flows, some as engines, some as configs, etc. The intent of this work was to build up a shared mental model and vocabulary for categorizing existing APIs and for discussing and designing new ones. Folks started to organically use these categories after seeing them once! It’s in these moments that I feel like I’m creating leverage and scaling my own impact by disseminating useful mental models and ideas.
+One concrete example form recent memory is when another staff-plus engineer and I categorized the the shapes of APIs we commonly see: labeling some as flows, some as engines, some as configs, etc. The intent of this work was to build up a shared mental model and vocabulary for categorizing existing APIs and for discussing and designing new ones. Folks started to organically use these categories after seeing them once! It’s in these moments that I feel like I’m creating leverage and scaling my own impact by disseminating useful mental models and ideas.
 
 I spend time on several of our review forums like API Review, but often these sorts of forums work more like code review -- they happen so late in the design process that they tend to do a better job of preventing bad outcomes than of partnering with teams to steer great outcomes. I feel more impactful when I’m able to give engineers on product teams the tools to design great APIs.
 
@@ -72,16 +68,17 @@ To maintain context in my new role, I spend a good amount of time in one-on-ones
 
 At this point I spend less time advocating for _specific_ technologies or programs and more time empowering others to advocate for the technologies and programs that they think are important. I also try to be a source of knowledge and support that people can reach out to for feedback, especially on cross-cutting product decisions and on presentation of ideas to the rest of the organization.
 
-I do work on projects where I’m explicitly thinking about idealized architecture and interfaces. However, at the end of the day, migration to any idealized state is going to be done by individual teams, so they _need_ to feel a sense of ownership and empowerment. I spend a lot of time having direct conversations with the engineers and PMs who are actually making day-to-day decisions. The ideal outcome is that we’re able to get aligned directionally, and they’re then able to advocate for our north star within their teams and facilitate local decision-making that is in alignment with our common direction.
+I do work on projects where I’m explicitly thinking about idealized architecture and interfaces. However, at the end of the day, migration to any idealized state is going to be done by individual teams, so they _need_ to feel a sense of ownership and empowerment. I spend a lot of time having direct conversations with the engineers and PMs who are actually making day-to-day decisions. The ideal outcome is that we’re able to get directionally aligned, and they’re then able to advocate for our north star within their teams and make good local decisions.
 
 It’s a lot harder to do this for the project I’m working on right now because it involves defining the idealized architecture and interfaces for many, many teams -- essentially every team working in payments! I haven’t yet figured out a scalable way to bring everyone along. Even writing documents (the most scalable way of distributing information!) is hard because different teams are (by definition) coming at the interface from a different angle and so very different framings of the problem and solution will resonate with each team. Our current approach is treating reviews of our documents like user testing -- watching as individuals on teams read the documents, seeing where their cursor goes, what they’re reacting to, etc. That’s worked pretty well so far!
 
-Designing the [Payment Intents API](https://stripe.com/docs/payments/payment-intents), a rethinking of our beloved Charges API for the changing payments space, was a similarly cross-cutting project that I worked on previously. It took two years for the vision to fully land with everyone in the company. Even with that organizational buy-in, we still haven’t realized the full potential of its original idealized design. This is not a bug, though! We focused on delivering incremental value to users while proving out the design. I expect any sufficiently-ambitious design project to continue even when I am no longer on the team. An important part of making this work was writing _everything_ down. We created a canonical document that defines our idealized abstractions -- even today, folks working on that team use these abstractions as a north star. If two people asked the same question, we immediately added it to a FAQ that we kept. We took everyone’s feedback and questions really, really seriously and put the burden of proof on ourselves. Finally, we worked to be fully transparent in our work, even creating a [decision log](https://www.forbes.com/sites/eriklarson/2017/06/20/build-up-decisive-work-habits-start-a-decision-log/#654950db5b95) that anyone at the company could use to follow our progress.
+Designing the [Payment Intents API](https://stripe.com/docs/payments/payment-intents), a rethinking of our beloved Charges API for the changing payments space, was a similarly cross-cutting project that I worked on previously. It took two years for the vision to fully land with everyone in the company. Even with that organizational buy-in, we still haven’t realized the full potential of its original idealized design. This is not a bug, though! We focused on delivering incremental value to users while proving out the design. I expect any sufficiently-ambitious design project to continue even when I am no longer on the team. An important part of making this work was writing _everything_ down.
 
-
-![alt_text](/static/michelle-bu/Michelle-Bu2.png "image_tooltip")
+We created a canonical document that defines our idealized abstractions -- even today, folks working on that team use these abstractions as a north star:
 
 ![alt_text](/static/michelle-bu/Michelle-Bu3.png "image_tooltip")
+
+If two people asked the same question, we immediately added it to a FAQ that we kept. We took everyone’s feedback and questions really, really seriously and put the burden of proof on ourselves. Finally, we worked to be fully transparent in our work, even creating a decision log that anyone at the company could use to follow our progress. Each entry in the decision log concisely describes a product or technical decision, documents who was involved in the decision, and links to detailed supporting technical design documents that generally contain the full problem statement and evaluation of alternatives.
 
 ![alt_text](/static/michelle-bu/Michelle-Bu4.png "image_tooltip")
 
@@ -125,9 +122,9 @@ I’ve worked very broadly on just about every component of Stripe’s product. 
 
 With Radar, we built a brand new product from scratch, making thoughtful tradeoffs about what to build and what we could safely descope in order to get something out to users as soon as possible. When we launched in October 2016, it was one of the smoothest product launches we’d ever had. It’s since become a very successful product.
 
-With Elements, I built out the infrastructure and the initial Card Elements API from scratch in 3 months -- this was only possible because we did extensive dogfooding. While building Elements, I created three tiny e-commerce stores with different design frameworks and designs (of varying quality) to test the limits of its customization APIs. Since then, dozens of engineers have successfully developed in the codebase, it’s the home of the new Stripe Checkout, and most importantly, we’ve only had a few regrets about its original API design.
+With Stripe Elements, I built out the infrastructure, designed the initial Card Elements API from scratch, and shipped to production in under 3 months -- this was only possible because we did extensive dogfooding. While building Elements, I created three tiny e-commerce stores with different design frameworks and designs (of varying quality) to test the limits of its customization APIs. Since then, dozens of engineers have successfully developed in the codebase, it’s the home of the new Stripe Checkout, and most importantly, we’ve had very few regrets about its original API design. Breaking API changes are always to be expected as an API product expands and we learn more about how developers use them in practice. We did a good job validating our initial API design to avoid these breaking changes while still shipping rapidly.
 
-Some documentation I wrote while building out Elements, which involved a ton of IFRAME-shenanigans -- I found that telling a story works really well:
+In making sure new engineers could onboard onto a pretty complex product that involved a ton of IFRAME-shenanigans, I wrote a lot of documentation. I found that telling a story worked really well for teaching folks why things needed to be the way they were:
 
 ![alt_text](/static/michelle-bu/Michelle-Bu8.png "image_tooltip")
 
@@ -140,17 +137,13 @@ I think that’s a very important criteria for Staff-plus Engineers in product: 
 
  ** _Did you have to put together a promotion packet?_**
 
-When I was promoted to Staff, I was fortunate to have a manager, Jenan, who was very engaged in supporting my promotion. To be honest, at the time I didn’t really understand how to write my self-reviews the right way. I wrote self-reflective development plans for what I wanted to learn over the next year instead of documenting the impact and scope of my work. Jenan basically managed the entire promotion process for me.
+When I was promoted to Staff, I was fortunate to have a manager who was very engaged in supporting my promotion. To be honest, at the time I didn’t really understand how to write my self-reviews the right way. I wrote self-reflective development plans for what I wanted to learn over the next year instead of documenting the impact and scope of my work. My manager actually did most of the work by writing out my impact in his review.
 
-There were a couple of other things that helped me. First, I worked with the same manager for much of that time. If you change managers then your manager loses context and that pushes the work of creating continuity onto you. Second, Jenan was managing a relatively small team and was able to spend a lot of time keeping track of and understanding the details of what I was working on. If I’d been reporting to a manager supporting say, 10+ engineers, I likely would have had to put a lot more work into my own promotion packet.
+There were a couple of other things that helped me. First, I worked with the same manager for much of that time. If you change managers then your manager loses context and that pushes the work of creating continuity onto you. Second, my manager was managing a relatively small team and was able to spend a lot of time keeping track of and understanding the details of what I was working on. If I’d been reporting to a manager supporting say, 10+ engineers, I likely would have had to put a lot more work into my own promotion packet.
 
 **_What two or three factors were most important for you to reach the Staff level?_**
 
-I already talked about how having an engaged manager was critical for me.
-
 Thinking back, a potentially-surprising important factor for me was (and is) my imposter syndrome. It made me _so_ open to feedback; to learning and growing. It made me proactively seek out feedback on everything from the validity of my comments on PRs to how I ran a particular meeting. If something was broken (whether it was technical or organizational), I felt unsettled and was deeply, intrinsically motivated to go learn about it and to fix it. This developed into two superpowers that are extremely important to have as a Staff-plus Engineer:
-
-
 
 1. Listening to others and reacting well to their feedback.
 2. A deep care for solving all types of problems.
