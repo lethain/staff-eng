@@ -5,7 +5,7 @@ chapters:
       - title: Overview
       - title: Career Trajectory & Career Levels
       - title: Staff engineer archetypes
-        draft: https://docs.google.com/document/d/1yBAqhvJ33pNzSMRfABRGiRuJbhmerjE5qIjn6UAQebk/edit
+        slug: staff-archetypes
       - title: Should you try management?
       - title: Does the title even matter?
   - title: Before Staff
