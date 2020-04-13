@@ -1,5 +1,4 @@
 <span class="date">April, 2020</span>
-
 [blog](http://blog.michellebu.com/),
 [twitter](https://twitter.com/hazelcough),
 [linkedin](https://www.linkedin.com/in/michellebu/)

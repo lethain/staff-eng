@@ -1,5 +1,4 @@
 <span class="date">April, 2020</span>
-
 [linkedin](https://www.linkedin.com/in/kineticrick/),
 [instagram](https://www.instagram.com/kineticrick/)
 
