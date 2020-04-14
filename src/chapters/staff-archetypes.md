@@ -14,7 +14,7 @@ This taxonomy is more focused on being _useful_ than _complete_, but so far I’
 
 ## Team Lead
 
-_Examples_: Diana Pojar, [Dan Na](https://staffeng.com/stories/dan-na), [Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa), [Ritu Vincent](https://staffeng.com/stories/ritu-vincent)
+_Examples_: [Diana Pojar](/stories/diana-pojar), [Dan Na](/stories/dan-na), [Duretti Hirpa](/stories/duretti-hirpa), [Ritu Vincent](/stories/ritu-vincent)
 
 _Team Leads_ are the most common Staff archetype, and lead a team or small group of teams in their approach and execution. They’re comfortable scoping complex tasks, coordinating their team towards solving them, and unblocking them along the way. _Team Leads_ often carry the team’s context and maintain many of the essential cross-team and cross-functional relationships necessary for the team’s success.
 
@@ -27,7 +27,7 @@ To acknowledge a source of potential confusion, some companies use _Team Lead_ a
 
 ## Architect
 
-_Examples_: [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), Katie Sylor-Miller, [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn), Silvia Botros
+_Examples_: [Joy Ebertz](/stories/joy-ebertz), Katie Sylor-Miller, [Keavy McMinn](/stories/keavy-mcminn), Silvia Botros
 
 The _Architect_ title has fallen out of style in many companies, but the _Architect_ role remains alive and well for folks operating at Staff-plus levels. _Architects_ are responsible for the success of a specific technical domain within their company, for example the company’s API design, frontend stack, storage strategy or cloud infrastructure. For a domain to merit an _Architect_, it must be both complex _and_ enduringly central to the company’s success.
 
@@ -38,7 +38,7 @@ The _Architect_ role tends to evolve in relatively large companies or companies 
 
 ## Solver
 
-_Examples_: [Nelson Elhage](https://staffeng.com/stories/nelson-elhage)
+_Examples_: [Nelson Elhage](/stories/nelson-elhage)
 
 The _Solver_ is a trusted agent of the organization who goes deep into knotty problems, continuing to work on them until they’re resolved. Folks in this role are moved onto problems identified by organizational leadership as critical and either lacking a clear approach or with a high-degree of execution risk.
 
@@ -49,9 +49,9 @@ The _Solver_ is most common in companies with a weak concept of team, where tea
 
 ## Right Hand
 
-_Examples_: Michelle Bu, Rick Boone
+_Examples_: Michelle Bu, [Rick Boone](/stories/rick-boone)
 
-The _Right Hand_ is the least common of the archetypes, showing up as an organization reaches one thousand or more engineers, and is akin to operating as a senior organizational leader without direct managerial responsibilities.  [Rick Boone](http://localhost:8080/stories/rick-boone) compared his role to the [Hand of the King](https://awoiaf.westeros.org/index.php/Hand_of_the_King) in Game of Thrones and [Leo McGarry](https://westwing.fandom.com/wiki/Leo_McGarry) from The West Wing, operating with the borrowed authority of a senior leader. However borrowing authority comes with the obligation of [remaining deeply aligned](https://lethain.com/staying-aligned-with-authority/) with that leader’s approach, beliefs and values.
+The _Right Hand_ is the least common of the archetypes, showing up as an organization reaches one thousand or more engineers, and is akin to operating as a senior organizational leader without direct managerial responsibilities.  [Rick Boone](/stories/rick-boone) compared his role to the [Hand of the King](https://awoiaf.westeros.org/index.php/Hand_of_the_King) in Game of Thrones and [Leo McGarry](https://westwing.fandom.com/wiki/Leo_McGarry) from The West Wing, operating with the borrowed authority of a senior leader. However borrowing authority comes with the obligation of [remaining deeply aligned](https://lethain.com/staying-aligned-with-authority/) with that leader’s approach, beliefs and values.
 
 Folks in this role attend their leader’s staff meetings, and work to scale that leader’s impact by removing important problems from their plate. Problems addressed at this level are never purely technical, and instead involve the intersection of the business, technology, people, culture, and process. _Right Hands_ often dive into a fire, edit the approach, and delegate execution to the most appropriate team, and then pop over to the next fire elsewhere in the organization. The joy of these roles is that you only work on the most important problems. The tragedy is that you’re always on to the next issue by the time those problems are truly solved.
 

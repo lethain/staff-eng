@@ -26,7 +26,7 @@ stories:
   - name: Diana Pojar
     title: Staff Data Engineer at Slack
     slug: diana-pojar
-    date: 2020-04-14 07    
+    date: 2020-04-14 07
   - name: Rick Boone
     title: "Strategic Advisor to Uber's Vice President of Infrastructure"
     slug: rick-boone
@@ -35,4 +35,4 @@ stories:
     title: Payments Products Tech Lead at Stripe
     slug: michelle-bu
     date: 2020-04-21 07
-    # 6. silvia 04-23    
+    # 6. silvia 04-23
