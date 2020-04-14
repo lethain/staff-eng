@@ -5,10 +5,11 @@ chapters:
       - title: Overview
         slug: overview-overview
       - title: Career Trajectory & Career Levels
+        draft: https://docs.google.com/document/d/17fpsLnJ_XTR_hKd7z4dlYU_-X8JMjvC-KuZx5wGUhdk/edit
       - title: Staff engineer archetypes
         slug: staff-archetypes
-      - title: Should you try management?
       - title: Does the title even matter?
+        draft: https://docs.google.com/document/d/139zkkFzQiu6BmJWZvDbuH5W0TTaVkPEdXaXFKT225HE/edit
   - title: Before Staff
     slug: before-staff
     sections:

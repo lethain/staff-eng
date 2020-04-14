@@ -23,16 +23,16 @@ stories:
     title: Formerly Staff Engineer at Mailchimp
     slug: duretti-hirpa
     date: 2020-04-09 07
-    # 6. silvia 04-14
-  - name: Rick Boone
-    title: "Strategic Advisor to Uber's Vice President of Infrastructure"
-    slug: rick-boone
-    date: 2020-04-14 07
   - name: Diana Pojar
     title: Staff Data Engineer at Slack
     slug: diana-pojar
+    date: 2020-04-14 07    
+  - name: Rick Boone
+    title: "Strategic Advisor to Uber's Vice President of Infrastructure"
+    slug: rick-boone
     date: 2020-04-16 07
   - name: Michelle Bu
     title: Payments Products Tech Lead at Stripe
     slug: michelle-bu
     date: 2020-04-21 07
+    # 6. silvia 04-23    
