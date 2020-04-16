@@ -1,6 +1,5 @@
 <span class="date">April, 2020</span>
-[linkedin](https://www.linkedin.com/in/kineticrick/),
-[instagram](https://www.instagram.com/kineticrick/)
+[linkedin](https://www.linkedin.com/in/kineticrick/)
 
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
@@ -78,11 +77,14 @@ One of the things that’s special about this specific role is that it’s essen
 
 As I spent time thinking about my goals, what I really came away with was that I love being a visible reference for other engineers, especially other minority engineers, and helping people here at Uber or earlier in their career. I especially enjoy helping people who are just getting into the industry, and might still be a little intimidated by it. That’s a huge part of what drives me, and this role has helped me realize and admit that to myself. Before I didn’t accept that as a valid purpose, but I realized that if it’s what you love, if it’s what you’re passionate about, then you have to go for it.
 
-I always try to make myself available. I’ll tell people, “Seriously, if you need me, just come ask for help.” This is one of the most exciting parts of what I do, and there are a few different ways I try to do this.
+Another reason mentorship is important to me because throughout my life and career, I’ve had six people that I consider key mentors. Each of them, at various times, have provided massive impact and influence upon my life - I would not be anything close to who I am without their past and continued guidance. And I’m both extremely grateful for them and also constantly aware of how much they’ve guided me. So, I always recognize the power of a mentor and want to make sure I can provide that for others. And sometimes, mentors don’t even know how their words or actions change you, the ripple effect they can have, even years later. So, I always try to make myself available for others as a mentor, because you never know when you can have that type of life-changing impact on someone, or how. It might just be the right word, the right perspective, the right push from you, at just the right time for them.
+
+I’ll always tell people, “Seriously, if you need me, just come ask for help.” This is one of the most exciting parts of what I do, and there are a few different ways I try to make myself available.
 
 One is that I give an Engucation (what happens when you blend engineering and education into a single word) class every month to most new hires in engineering. That class is called “Lessons + Questions” and it’s literally just a place where they can ask me anything they want about Uber - technical, cultural, whatever - and I’m as candid as possible.  At the end of that, I let people know my email and that they’re welcome to reach out. A good number reach out to me after that and I give them advice on their careers, working at Uber, or whatever. Other times I’ll have people who just run into me while I’m around the office and ask for advice.
 
 I want to be visible as a Black engineer, showing others that we _are_ here and this _is_ doable. Once I realized this was an important motivation for me, I knew that I had to get better at public speaking, because that’s such an important way to scale myself as a role model. Public speaking used to terrify me. I used to _hate_ public speaking. But because it’s such a key way to reach large numbers of people, I told myself I had to learn to like it, and since then I’ve learned to be an effective public speaker and have actually fallen in love with it. It’s now one of the most exciting things I do - it’s like a roller coaster; everytime I do it, I get nervous, but it’s a thrilling, fun type of nervousness and I get a huge rush while I’m doing it.
+
 
 **_Do you think about building your external brand?_**
 
