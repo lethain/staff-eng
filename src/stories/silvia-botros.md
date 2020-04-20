@@ -125,7 +125,7 @@ Granted, now in my current role I do a ton of manager things, but it’s a compl
 
 **_What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?_**
 
-Definitely Camille Fournier’s book, [The Manager’s Path](https://www.amazon.com/dp/B06XP3GJ7F/). Shortly after I read her book, I also read Nicole Forsgren’s [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/), which I like because it connects what we do in software with business impact. I still nerd out on the [DORA report](https://cloud.google.com/devops) every year.
+Definitely Camille Fournier’s book, [The Manager’s Path](https://www.amazon.com/dp/B06XP3GJ7F/). Shortly after I read her book, I also read Dr. Nicole Forsgren’s [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/), which I like because it connects what we do in software with business impact. I still nerd out on the [DORA report](https://cloud.google.com/devops) every year.
 
 Most of the books out there are about how to write code as a senior engineer and don’t reflect the kind of work I do. For these roles that are about doing more than turning out code, the details for doing that role still don’t exist. I keep saying that I wish there was a counterpart to _The Manager’s Path_ for engineers in roles like mine.
 
