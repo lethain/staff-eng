@@ -39,6 +39,10 @@ stories:
     title: Senior Principal Engineer at Twilio Inc.
     slug: silvia-botros
     date: 2020-04-23 07
+  - name: Bert Fan
+    slug: bert-fan
+    title: Senior Staff Engineer at Slack
+    date: 2020-05-05 07    
   - name: Dmitry Petrashko
     slug: dmitry-petrashko
     title: Pillar Tech Lead at Stripe
