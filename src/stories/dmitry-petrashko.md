@@ -4,12 +4,13 @@
 [linkedin](https://www.linkedin.com/in/darkdimius/)
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
+I am a Staff engineer and one of 5 Pillar Tech Leads of Foundation, representing Developer Productivity.
 
 My team builds processes, tools and core libraries used during product development at Stripe, including testing frameworks, linters, typecheckers, build tools, libraries used for gradual rollout, and many others. Our work empowers Stripe engineers to focus on product.
 
 **_What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?_**
 
-A staff engineer at Stripe isn’t a role, rather it’s a level that corresponds to expectation of impact, communication, people and project leadership skills. Staff engineers fill different roles, mine is a Pillar Tech Lead (PTL) role. In that role:
+A Staff Engineer at Stripe isn’t a role, rather it’s a level that corresponds to expectation of impact, communication, people and project leadership skills. Staff engineers fill different roles, mine is a Pillar Tech Lead (PTL) role. In that role:
 
 *   PTLs help their teams make technical decisions that will play well with each other and with technical decisions made by other groups at Stripe. Teams at Stripe make most technical decisions themselves, but an experienced PTL can help fine tune those decisions to achieve better outcomes. PTLs also work as arbiters in cases where teams cannot reach an agreement amongst themselves on technical topics.
 *   PTLs guide the technical direction of Stripe, providing input on what are the most important problems to solve and setting the high level technical approaches to solving them.
@@ -32,17 +33,17 @@ In this role, I closely partner with the Head of Developer Productivity and mana
 
 **_How do you spend your time day-to-day?_**
 
-On a perfect week I’d spend Monday, Wednesday and Friday in meetings or working groups: either 1:1’s or team meetings, collaborating on plans & strategy, both short term and long term. Tuesday and Thursday of my perfect week would be spent coding alone. In reality, depending on team needs at the time, I may end up having more meetings or more time coding. If I’m working to set up a new project, I’ll commonly start by having a week with more time working allowed: focusing on project briefs for the doc, thinking through design, milestones and security implications; followed by a week of socializing the proposal around the company and addressing feedback.
+On a perfect week I’d spend Monday, Wednesday and Friday in meetings or working groups: either 1:1’s or team meetings, collaborating on plans & strategy, both short term and long term. Tuesday and Thursday of my perfect week would be spent coding alone. In reality, depending on team needs at the time, I may end up having more meetings or more time coding. If I’m working to set up a new project, I’ll commonly start by having a week with less meetings: focusing on project briefs, thinking through design, deliverables/milestones and security/reliability implications; followed by a week of socializing the proposal around the company and addressing feedback.
 
 While, from time to time it might seem hard to find time to write code, I believe it’s important as it allows me to maintain a strong connection to engineering and be the bridge between business needs/prioritization and engineering constraints that PTLs need to be.
 
 **_Where do you feel most impactful as a Staff-plus Engineer?_**
 
-Staff engineers, and pillar tech leads in particular, frequently help set direction for a new project. I feel particularly impactful when I can help improve a proposal that's well intentioned and solves a real need, but the team that drafted it lacks either experience or context to write a good plan to capture the opportunity. In such cases, having a well structured plan can help substantially reduce the scope while getting to most of the value, and thus demonstrate impact sooner. Or, alternatively, see that the proposal in hand addresses more use cases than the team has originally anticipated: in both of these cases, I feel impactful by empowering other engineers.
+Staff Engineers, and Pillar Tech Leads in particular, frequently help set direction for a new project. I feel particularly impactful when I can help improve a proposal that's well intentioned and solves a real need, but the team that drafted it lacks either experience or context to write a good plan to capture the opportunity. In such cases, having a well structured plan can help substantially reduce the scope while getting to most of the value, and thus demonstrate impact sooner. Or, alternatively, see that the proposal in hand addresses more use cases than the team has originally anticipated and refocusing the project towards a usecases that was not known by the team would lead to bigger business impact: in both of these cases, I feel impactful by empowering other engineers.
 
 **_Can you think of anything you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done before reaching that title?_**
 
-No, Stripe intends the Staff-badge to not be a gate into new opportunities and I believe we’re good at it.
+No, Stripe intends the Staff-badge to not be a gate into new opportunities and I believe we’re good at it. This is also true about the PTL role. We choose enginers for PTL position that are good at representing opinions of others. Even before I became a PTL I felt that prior PTL, [Paul Tarjan](https://paultarjan.com/), always made sure my perspective was presented.
 
 **_Do you spend time advocating for technology, practice, process or architectural change? What’s something you’ve advocated for? Can you share a story of influencing your organization?_**
 
@@ -58,13 +59,11 @@ Developer productivity also organises a Stripe-wide engineer survey, where we ar
 
 Additionally, before Covid-19-induced lockdown, I used to join random tables for dinners at Stripe. I’d ask 3 questions:
 
-
-
 *   What are you working on?
 *   What makes it hard?
 *   How can infrastructure teams help?
 
-This became a great tool in two ways: 1) connecting me to my users, helping discover their needs; 2) helping mitigate unhappiness of teams that aren’t yet supported by having a discussion similar to: “yes, I agree we could help you by doing X, now, lets together look on what we should stop doing to create place for this”, where a person discovers that, while they would like us to address their pain point, they don't want it addressed at cost of us deprioritizing our current projects.
+This became a great tool in two ways: 1) connecting me to my users, helping discover their needs; 2) helping mitigate unhappiness of teams that aren’t yet supported by having a discussion similar to: “yes, I agree we could help you by doing X, now, lets together look on what we should stop doing to create place for this”, where a person would frequently discover that, while they would like us to address their pain point, they don't want it addressed at cost of us deprioritizing our current projects.
 
 **_How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?_**
 
@@ -83,8 +82,12 @@ I wasn’t hired as a Staff Engineer. I had to get uplevelled twice to get to St
 In order of decreasing importance:
 
 1. Focusing on impact on business and company.
-2. Being collaborative: by joining meetings/working groups you should help achieve a better outcome
-3. Technical knowledge
+2. Being collaborative: by joining meetings/working groups you should help achieve a better outcome.
+3. Technical knowledge.
+
+For me personally, the area that I needed to get good at before getting Staff Engineer was the second item. I was already delivering impact and was considered a person to go to for technical advice. I needed to improve my communication skills and collaboration skills so that I could constructively help people who are outside of my team, who might see me for first time ever and who, despite having good intentions behind their project, may not have the best plan to get it delivered.
+
+Technique that helped me in that was asking for feedback in private chat immediately after the meeting, in particular after meetings that didn't not go perfectly. This has allowed me to learn what I did that might have contributed to other parties not feeling comfortable in these meetings and, in a few cases, the genuinity of asking for how it could have gone better helped fix the outcome of a meeting that has already gone poorly.
 
 **_How have where you worked and your education impacted your path?_**
 
@@ -108,18 +111,16 @@ After Sorbet I had a couple other impactful projects delivered in short timefram
 
 **_Can you remember any piece of advice on reaching Staff that was particularly helpful for you?_**
 
-
-
 1. Working with Martin Odersky and Ondrej Lhotak in academia helped me understand how complex systems work together and how to explain that clearly.
 2. Brian Goetz helped me understand how much work is behind a simple, yet, robust to withstand widespread adoption, design.
 3. Paul Tarjan showed me the importance of adjusting my communication style to lead to constructive outcomes for all involved parties.
 
 **_What about a piece of advice for someone who has just started as a Staff Engineer?_**
 
-At least, at Stripe, Staff Engineers work on very different areas. Make sure you agree with your reporting chain on what is the impact you should be achieving and what are the things you’re allowed to compromise on on the way to that impact.
+At least, at Stripe, Staff Engineers work on very different areas. Make sure you agree with your reporting chain on what is the impact you should be achieving and what are the things you’re allowed to compromise on on the way to that impact. Communicate clearly what compromises you're doing and why.
 
 **_Did you ever consider engineering management, and if so how did you decide to pursue the staff engineer path?_**
 
-Every time I considered it in the past it was by asking “would it be a way to bring more impact” to myself and others around me. So far, every time the answer was “seems like no”.
+Every time I considered it in the past it was by asking myself and others around me “would it be a way to bring more impact”. So far, every time the answer was “seems like no”.
 
-That said, I’ve found huge benefits by learning management skills from great managers I’ve met at Stripe: James Iry, Scott MacVicar, Will Larson, Christian Anderson and Shane O’Sullivan.
+That said, I’ve found that learning some management skills from great managers(in my case, James Iry, Scott MacVicar, Will Larson, Christian Anderson and Shane O’Sullivan) provides huge benefits even in IC role.
