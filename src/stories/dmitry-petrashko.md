@@ -4,7 +4,7 @@
 [linkedin](https://www.linkedin.com/in/darkdimius/)
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
-I am a Staff engineer and one of 5 Pillar Tech Leads of Foundation, representing Developer Productivity.
+I am a Staff engineer and one of 5 Pillar Tech Leads of the Infrastructure org at Stripe, representing Developer Productivity group of teams.
 
 My team builds processes, tools and core libraries used during product development at Stripe, including testing frameworks, linters, typecheckers, build tools, libraries used for gradual rollout, and many others. Our work empowers Stripe engineers to focus on product.
 
