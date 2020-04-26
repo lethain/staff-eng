@@ -22,12 +22,12 @@ Earlier in their career they will have implemented their team’s most complex t
 
 The _Team Lead_ role is many folks their first experience as a Staff Engineer. A few forces conspire towards that result. First, the _Team Lead_ role tends to develop early on within companies that have a strong concept of team, which is common among companies using agile methodologies, and most companies attempt an agile approach at some point. Another factor is that the day-to-day work of a _Team Lead_ is most similar to the work you’d already be doing as a Senior Engineer, maybe it an intuitive transition.
 
-To acknowledge a source of potential confusion, some companies use _Team Lead_ as a title that you get promoted into instead of as a role. In this list of archetypes, the _Team Lead_ is one approach to operating as a Staff Engineer, but it’s quite common to operate in the _Team Lead_ role without having the impact expected of a Staff-level engineer. Indeed, you’ll find non-Staff engineers acting with the behaviors of every archetype. Being a Staff-engineer is not just a role, rather it’s the intersection of the role, your behaviors, your impact, and the organization’s recognition of all those things.
+To acknowledge a source of potential confusion, some companies use _Team Lead_ as a title that you get promoted into instead of as a role. In this list of archetypes, the _Team Lead_ is one approach to operating as a Staff Engineer, but it’s quite common to operate in the _Team Lead_ role without having the impact expected of a Staff-level engineer. Indeed, you’ll find non-Staff engineers acting with the behaviors of every archetype. Being a Staff-engineer is not just a role, rather it’s the intersection of the role, your behaviors, your impact, and the organization’s recognition of all those things.
 
 
 ## Architect
 
-_Examples_: [Joy Ebertz](/stories/joy-ebertz), Katie Sylor-Miller, [Keavy McMinn](/stories/keavy-mcminn), Silvia Botros
+_Examples_: [Joy Ebertz](/stories/joy-ebertz), Katie Sylor-Miller, [Keavy McMinn](/stories/keavy-mcminn), [Silvia Botros](/stories/silvia-botros)
 
 The _Architect_ title has fallen out of style in many companies, but the _Architect_ role remains alive and well for folks operating at Staff-plus levels. _Architects_ are responsible for the success of a specific technical domain within their company, for example the company’s API design, frontend stack, storage strategy or cloud infrastructure. For a domain to merit an _Architect_, it must be both complex _and_ enduringly central to the company’s success.
 
@@ -38,18 +38,18 @@ The _Architect_ role tends to evolve in relatively large companies or companies 
 
 ## Solver
 
-_Examples_: [Nelson Elhage](/stories/nelson-elhage)
+_Examples_: [Bert Fan](/stories/bert-fan), [Nelson Elhage](/stories/nelson-elhage)
 
 The _Solver_ is a trusted agent of the organization who goes deep into knotty problems, continuing to work on them until they’re resolved. Folks in this role are moved onto problems identified by organizational leadership as critical and either lacking a clear approach or with a high-degree of execution risk.
 
 Where most Staff-level roles require a very heavy dose of organizational wrangling, the _Solver_ generally operates on problems that are already identified as organizational priorities, and thus are called on to do relatively little org-level chiropractics. On the other hand, they generally stop working on problems once they’re contained, which can create the feeling of transience, and requires a soft touch to avoid infuriating the teams left behind to maintain the “solved” problem.
 
-The _Solver_ is most common in companies with a weak concept of team, where team sprints are displaced by a lightly directed anarchy. In such companies, it’s common to see the _Solver_ become prevalent in the place of the _Team Lead_. You’re less likely to encounter this role at traditionally managed sprint-centric companies until those companies become relatively large or long-lived enough to acquire their own varietal of technical debt.
+The _Solver_ is most common in companies with a weak concept of team, where team sprints are displaced by a lightly directed anarchy. In such companies, it’s common to see the _Solver_ become prevalent in the place of the _Team Lead_. You’re less likely to encounter this role at traditionally managed sprint-centric companies until those companies become relatively large or long-lived enough to acquire their own varietal of technical debt.
 
 
 ## Right Hand
 
-_Examples_: Michelle Bu, [Rick Boone](/stories/rick-boone)
+_Examples_: [Michelle Bu](/stories/michelle-bu), [Rick Boone](/stories/rick-boone)
 
 The _Right Hand_ is the least common of the archetypes, showing up as an organization reaches one thousand or more engineers, and is akin to operating as a senior organizational leader without direct managerial responsibilities.  [Rick Boone](/stories/rick-boone) compared his role to the [Hand of the King](https://awoiaf.westeros.org/index.php/Hand_of_the_King) in Game of Thrones and [Leo McGarry](https://westwing.fandom.com/wiki/Leo_McGarry) from The West Wing, operating with the borrowed authority of a senior leader. However borrowing authority comes with the obligation of [remaining deeply aligned](https://lethain.com/staying-aligned-with-authority/) with that leader’s approach, beliefs and values.
 
