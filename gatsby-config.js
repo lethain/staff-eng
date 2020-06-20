@@ -14,6 +14,17 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+      fonts: [
+          {
+              family: `Roboto`,
+              variants: [`300`, '300italic', `700`, '700italic'],
+          },
+      ],
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

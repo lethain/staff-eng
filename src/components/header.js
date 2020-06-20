@@ -7,7 +7,7 @@ const Header = ({ siteTitle }) => (
     <h2><a href="/">{siteTitle}</a></h2>
     <ul>
         <li><Link to="/">Stories</Link></li>
-        <li><Link to="/share">Shaer your story</Link></li>
+        <li><Link to="/share">Share your story</Link></li>
     </ul>
   </nav>
 )
