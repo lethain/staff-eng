@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+    margin: 0;
 }
 
 .center {
@@ -7,21 +8,25 @@ html, body {
 }
 
 body {
-    display: flex;
     max-width: 38em;
     margin: auto;
-    flex-direction: column;
     padding: 0;
     background-color: #f9f9f9;
     color: #4a4a4a;    
 }
 
+.core {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
 .content {
-    flex: 1 0 auto;
+    flex: 1;
 }
 
 footer {
-    flex-shrink: 0;
+    padding: 10px;
     text-align: center;
 }
 

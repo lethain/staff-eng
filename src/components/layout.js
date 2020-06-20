@@ -28,20 +28,21 @@ const Layout = ({ children }) => {
   `)
 
   return (
-    <>
-      <Header siteTitle={data.site.siteMetadata.title} />
+      <>
+          <div class="core">
+          <Header siteTitle={data.site.siteMetadata.title} />          
       <div class="content">
           <section>{children}</section>
           <MailingList url={data.site.siteMetadata.mailingListURL} />
-      </div>
-      
-        <footer>
-          © <Link to="/https://lethain.com">Will Larson</Link>, {new Date().getFullYear()}.
-          {` `}
-          <Link to="/about">About.</Link>
-          {` `}
-          <Link to="/rss">RSS.</Link>          
+      </div>                    
+      <footer>
+        © <Link to="/https://lethain.com">Will Larson</Link>, {new Date().getFullYear()}.
+        {` `}
+        <Link to="/about">About.</Link>
+        {` `}
+        <Link to="/rss">RSS.</Link>          
           </footer>
+          </div>
     </>
   )
 }
