@@ -7,15 +7,22 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+        <SEO title="Home" />
+<p>
+  At most technology companies, you'll reach Senior Software Engineer,
+  the <a href="https://lethain.com/mailbag-beyond-career-level/">career level</a>,
+  in five to eight years. At that point your path branches, and you have the
+  opportunity to pursue engineering management or continue down the path of
+  technical excellence to become a Staff Engineer.
+</p>
+<p>
+  Over the past few years we've seen a flurry of books unlocking the engineering manager
+  career path, like Camille Fournier's
+  <a href="https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897">The Manager's Path</a>,
+  Julie Zhuo's <a href="https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/">The Making of a Manager</a>
+  and my own <a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">An Elegant Puzzle</a>.
+  The management career isn't an easy one, but increasingly there is a map available.
+</p>
   </Layout>
 )
 

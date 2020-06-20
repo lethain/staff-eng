@@ -3,6 +3,7 @@ module.exports = {
     title: `StaffEng`,
     description: `Stories of folks reaching Staff-plus engineering levels.`,
     author: `@lethain`,
+    mailingListURL: `https://lethain.us20.list-manage.com/subscribe/post?u=f7003ed301623a88fab7cf783&amp;id=9c7b745cce`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -33,10 +34,10 @@ module.exports = {
         trackingId: "UA-96609067-2",
       },
     },
-      
+
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-    
+
 }

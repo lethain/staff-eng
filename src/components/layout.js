@@ -7,9 +7,10 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 
 import Header from "./header"
+import MailingList from "./mailinglist"
 import "../styles/normalize.css"
 import "../styles/milligram.css"
 import "../styles/base2.css"
@@ -20,6 +21,7 @@ const Layout = ({ children }) => {
       site {
         siteMetadata {
           title
+          mailingListURL
         }
       }
     }
@@ -28,23 +30,18 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <link rel="apple-touch-icon" sizes="180x180" href="/static/favicon/apple-touch-icon.png" />
-      <link rel="icon" type="image/png" sizes="32x32" href="/static/favicon/favicon-32x32.png" />
-      <link rel="icon" type="image/png" sizes="16x16" href="/static/favicon/favicon-16x16.png" />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
-        }}
-      >
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-          </footer>
+      <div class="content">
+          <section>{children}</section>
+          <MailingList url={data.site.siteMetadata.mailingListURL} />
       </div>
+      
+        <footer>
+          © <Link to="/https://lethain.com">Will Larson</Link>, {new Date().getFullYear()}.
+          {` `}
+          <Link to="/about">About.</Link>
+          {` `}
+          <Link to="/rss">RSS.</Link>          
+          </footer>
     </>
   )
 }
