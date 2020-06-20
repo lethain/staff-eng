@@ -10,7 +10,9 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
-import "./layout.css"
+import "../styles/normalize.css"
+import "../styles/milligram.css"
+import "../styles/base2.css"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -26,6 +28,9 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
+      <link rel="apple-touch-icon" sizes="180x180" href="/static/favicon/apple-touch-icon.png" />
+      <link rel="icon" type="image/png" sizes="32x32" href="/static/favicon/favicon-32x32.png" />
+      <link rel="icon" type="image/png" sizes="16x16" href="/static/favicon/favicon-16x16.png" />
       <div
         style={{
           margin: `0 auto`,
@@ -38,7 +43,7 @@ const Layout = ({ children }) => {
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+          </footer>
       </div>
     </>
   )
