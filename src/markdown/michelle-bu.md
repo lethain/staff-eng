@@ -1,4 +1,5 @@
 ---
+title: "Michelle Bu - Payments Products Tech Lead at Stripe"
 slug: "/stories/michelle-bu"
 date: "2020-04-21"
 name: "Michelle Bu"

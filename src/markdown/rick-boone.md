@@ -1,4 +1,5 @@
 ---
+title: "Rick Boone - Strategic Advisor to Uber's Vice President of Infrastructure"
 slug: "/stories/rick-boone"
 date: "2020-04-16"
 name: "Rick Boone"
