@@ -1,16 +1,32 @@
-import { Link } from "gatsby";
+
+import { useStaticQuery, graphql, Link } from "gatsby";
 import PropTypes from "prop-types";
 import React from "react";
 
-const Header = ({ siteTitle }) => (
+const Header = ({ siteTitle }) => {
+  const data = useStaticQuery(
+    graphql`
+    query MailingListQuery {
+      site {
+        siteMetadata {
+          mailingListURL
+        }
+      }
+    }
+`
+  );
+    
+    return (
   <nav>
     <h2><a href="/">{siteTitle}</a></h2>
     <ul>
       <li><Link to="/stories">Stories</Link></li>
-      <li><Link to="/share">Share your story</Link></li>
+        <li><Link to="/share">Share your story</Link></li>
+        <li><Link to={data.site.siteMetadata.mailingListURL}>Subscribe</Link></li>
     </ul>
-  </nav>
-);
+            </nav>
+    )
+};
 
 Header.propTypes = {
   siteTitle: PropTypes.string
