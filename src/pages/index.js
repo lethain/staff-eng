@@ -1,16 +1,9 @@
 import React from "react";
-import { useStaticQuery, graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 
 import Layout from "../components/layout";
+import StoryLink from "../components/storylink";
 import SEO from "../components/seo";
-
-const StoryLink = ({ post }) => (
-  <li>
-    <Link to={"/stories/" + post.frontmatter.slug}>
-      {post.frontmatter.title}
-    </Link>
-  </li>
-);
 
 const IndexPage = (
   {
@@ -100,6 +93,7 @@ const IndexPage = (
         What were your lucky breaks?
         How did you learn to be effective? As more of these stories are collected,
 
+
         I hope to build a dataset
         that helps folks draw their own map to Staff Engineer.
       </p>
@@ -112,7 +106,7 @@ export default IndexPage;
 export const stories = graphql`
 query {
 allMarkdownRemark(
-  sort: {order: DESC, fields: [frontmatter___date]}
+  sort: {order: ASC, fields: [frontmatter___date]}
 ) {
   edges {
     node {
