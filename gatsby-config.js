@@ -8,7 +8,8 @@ module.exports = {
     ),
     siteUrl: `https://staffeng.com`
   },
-  plugins: [
+    plugins: [
+        `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {
