@@ -1,7 +1,8 @@
 ---
 slug: "/stories/ritu-vincent"
 date: "2020-04-02"
-title: "Ritu Vincent - Staff Engineer at Dropbox"
+name: "Ritu Vincent"
+role: "Staff Engineer at Dropbox"
 ---
 
 <span class="date">March, 2020</span>

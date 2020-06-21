@@ -1,7 +1,8 @@
 ---
 slug: "/stories/dmitry-petrashko"
 date: "2020-05-07"
-title: "Dmitry Petrashko - Infrastructure Pillar Tech Lead at Stripe"
+name: "Dmitry Petrashko"
+role: "Infrastructure Pillar Tech Lead at Stripe"
 ---
 
 <span class="date">May, 2020</span>

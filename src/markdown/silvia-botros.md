@@ -1,7 +1,8 @@
 ---
 slug: "/stories/silvia-botros"
 date: "2020-04-23"
-title: "Silvia Botros Senior Principal Engineer at Twilio Inc."
+name: "Silvia Botros"
+role: "Senior Principal Engineer at Twilio Inc."
 ---
 
 <span class="date">April, 2020</span>

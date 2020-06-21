@@ -1,7 +1,8 @@
 ---
 slug: "/stories/bert-fan"
 date: "2020-05-05"
-title: "Bert Fan - Senior Staff Engineer at Slack"
+name: "Bert Fan"
+role: "Senior Staff Engineer at Slack"
 ---
 
 <span class="date">May, 2020</span>

@@ -1,7 +1,8 @@
 ---
 slug: "/stories/diana-pojar"
 date: "2020-04-14"
-title: "Diana Pojar - Staff Data Engineer at Slack"
+name: "Diana Pojar"
+role: "Staff Data Engineer at Slack"
 ---
 
 <span class="date">April, 2020</span>

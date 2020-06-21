@@ -1,7 +1,8 @@
 ---
 slug: "/stories/joy-ebertz"
 date: "2020-03-31"
-title: "Joy Ebertz - Senior Staff Software Engineer at Split"
+name: "Joy Ebertz"
+role: "Senior Staff Software Engineer at Split"
 ---
 
 <span class="date">March, 2020</span>

@@ -1,7 +1,8 @@
 ---
 slug: "/stories/michelle-bu"
 date: "2020-04-21"
-title: "Michelle Bu - Payments Products Tech Lead at Stripe"
+name: "Michelle Bu"
+role: "Payments Products Tech Lead at Stripe"
 ---
 
 <span class="date">April, 2020</span>
