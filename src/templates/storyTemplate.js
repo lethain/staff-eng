@@ -1,23 +1,30 @@
-import React from "react"
-import { graphql } from "gatsby"
+import React from "react";
+import { graphql } from "gatsby";
 
-export default function Template({
-    data, // this prop will be injected by the GraphQL query below.
-}) {
-    const { markdownRemark } = data // data.markdownRemark holds your post data
-    const { frontmatter, html } = markdownRemark
-    return (
-            <div className="blog-post-container">
-            <div className="blog-post">
-            <h1>{frontmatter.title}</h1>
-            <h2>{frontmatter.date}</h2>
-            <div
+import Layout from "../components/layout";
+import SEO from "../components/seo";
+
+export default function Template(
+  {
+    data // this prop will be injected by the GraphQL query below.
+  }
+) {
+  const { markdownRemark } = data; // data.markdownRemark holds your post data
+  const { frontmatter, html } = markdownRemark;
+  return (
+    <Layout>
+      <SEO title={frontmatter.name + frontmatter.role} />
+      <h2 className="lead">{frontmatter.name}</h2>
+      <h4 className="quiet">{frontmatter.role}</h4>
+      <div
         className="blog-post-content"
         dangerouslySetInnerHTML={{ __html: html }}
-            />
-            </div>
-            </div>
-    )
+      />
+      <p class="center">
+        <em><a href="/stories">Ready to read another story?</a></em>
+      </p>
+    </Layout>
+  );
 }
 
 export const pageQuery = graphql`
@@ -27,8 +34,9 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         slug
-        title
+        name
+        role
       }
     }
   }
-`
+`;

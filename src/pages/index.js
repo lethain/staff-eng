@@ -112,7 +112,8 @@ allMarkdownRemark(
     node {
       id
       frontmatter {
-        title
+        name
+        role
         slug
         date
       }
