@@ -1,11 +1,24 @@
 import React from "react"
-import { Link } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
 import SEO from "../components/seo"
 
-const IndexPage = () => (
+
+const StoryLink = ({ post }) => (
+        <Link to={"/stories/" + post.frontmatter.slug}>{post.frontmatter.title}</Link>
+)
+
+const IndexPage = ({
+    data: {
+        allMarkdownRemark: { edges },
+    },
+}) => {
+    const Stories = edges
+          .map(edge => <StoryLink slug={edge.node.id} post={edge.node} />)
+    
+    return (
+        
   <Layout>
         <SEO title="Home" />
 <p>
@@ -23,7 +36,36 @@ const IndexPage = () => (
   and my own <a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">An Elegant Puzzle</a>.
   The management career isn't an easy one, but increasingly there is a map available.
 </p>
-  </Layout>
-)
+    <ul>
+            {Stories}
+    </ul>
+
+<p>
+ The end
+</p>        
+    
+        </Layout>
+    )
+}
 
 export default IndexPage
+
+export const stories = graphql`
+query {
+allMarkdownRemark(
+  sort: {order: DESC, fields: [frontmatter___date]}
+) {
+  edges {
+    node {
+      id
+      frontmatter {
+        title
+        slug
+        date
+      }
+    }
+  }
+}
+}
+`
+
