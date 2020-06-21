@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 
 const StoryLink = ({ post }) => (
-        <Link to={"/stories/" + post.frontmatter.slug}>{post.frontmatter.title}</Link>
+        <li><Link to={"/stories/" + post.frontmatter.slug}>{post.frontmatter.title}</Link></li>
 )
 
 const IndexPage = ({
@@ -35,15 +35,27 @@ const IndexPage = ({
   Julie Zhuo's <a href="https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/">The Making of a Manager</a>
   and my own <a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">An Elegant Puzzle</a>.
   The management career isn't an easy one, but increasingly there is a map available.
-</p>
+            </p>
+
+            <div class="pull">
+  <p><strong>Recent stories</strong></p>            
     <ul>
             {Stories}
-    </ul>
-
+        </ul>
+            </div>
 <p>
- The end
-</p>        
-    
+  The transition into Staff Engineer, and its further evolutions like Principal Engineer,
+  remains particularly challenging and undocumented. What are the skills you need to develop to reach Staff Engineer?
+  What skills do you need to succeed <em>after</em> you've reached it?
+  How do most folks reach this role? What can companies do to streamline the path to Staff Engineer?
+  Will you <em>enjoy</em> being a Staff Engineer or toil for years for a role that doesn't suit you?
+</p>
+<p>
+  The <strong>StaffEng</strong> project aims to collect the stories of folks who are operating in Staff,
+  Principal or Distinguished Engineer roles. How did you get there? What were your lucky breaks?
+  How did you learn to be effective? As more of these stories are collected, I hope to build a dataset
+  that helps folks draw their own map to Staff Engineer.
+</p>
         </Layout>
     )
 }
