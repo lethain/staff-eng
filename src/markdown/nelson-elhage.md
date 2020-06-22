@@ -3,6 +3,7 @@ title: "Nelson Elhage - Formerly Staff Engineer at Stripe"
 slug: "/stories/nelson-elhage"
 date: "2020-04-07"
 name: "Nelson Elhage"
+kind: "story"
 role: "Formerly Staff Engineer at Stripe"
 ---
 

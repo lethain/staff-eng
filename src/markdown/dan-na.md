@@ -3,6 +3,7 @@ title: "Dan Na - Staff Engineer and Team Lead at Squarespace"
 slug: "/stories/dan-na"
 date: "2020-03-26"
 name: "Dan Na"
+kind: "story"
 role: "Staff Engineer and Team Lead at Squarespace"
 ---
 

@@ -107,6 +107,7 @@ export const stories = graphql`
 query {
 allMarkdownRemark(
   sort: {order: ASC, fields: [frontmatter___date]}
+  filter: {frontmatter: {kind: {eq: "story"}}}
   limit: 5
 ) {
   edges {

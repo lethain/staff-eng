@@ -9,10 +9,10 @@ const SharePage = () => (
     <p>
       There are so many different ways that folks reach Staff, Principal and Distinguished Engineer roles.
 
-
       As such, I often find that the best career advice for folks pursuing these roles
 
 
+      {" "}
       <a href="https://lethain.com/share-stories-not-advice/">
         isn't advice at all
       </a>

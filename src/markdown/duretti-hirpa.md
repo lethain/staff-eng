@@ -3,6 +3,7 @@ title: "Duretti Hirpa - Formerly Staff Engineer at Mailchimp"
 slug: "/stories/duretti-hirpa"
 date: "2020-04-09"
 name: "Duretti Hirpa"
+kind: "story"
 role: "Formerly Staff Engineer at Mailchimp"
 ---
 

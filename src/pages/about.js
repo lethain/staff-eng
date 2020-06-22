@@ -82,7 +82,6 @@ const AboutPage = () => (
       {" "}
       project aims to collect the stories of folks who are operating in Staff,
 
-
       Principal or Distinguished Engineer roles. How did you get there? What were your lucky breaks?
 
 
