@@ -32,6 +32,7 @@ const AboutPage = () => (
     <p>
       Over the past few years we've seen a flurry of books unlocking the engineering manager
 
+
       career path, like Camille Fournier's
 
       <a
@@ -61,27 +62,35 @@ const AboutPage = () => (
     <p>
       The transition into Staff Engineer, and its further evolutions like Principal Engineer,
 
+
       remains particularly challenging and undocumented. What are the skills you need to develop to reach Staff Engineer?
+
 
       What skills do you need to succeed <em>after</em> you've reached it?
       How do most folks reach this role? What can companies do to streamline the path to Staff Engineer?
 
+
       Will you{" "}
       <em>enjoy</em>
-      {" "}being a Staff Engineer or toil for years for a role that doesn't suit you?
+      {" "}
+      being a Staff Engineer or toil for years for a role that doesn't suit you?
     </p>
     <h3>What?</h3>
     <p>
       The{" "}
       <strong>StaffEng</strong>
-      {" "}project aims to collect the stories of folks who are operating in Staff,
+      {" "}
+      project aims to collect the stories of folks who are operating in Staff,
+
 
       Principal or Distinguished Engineer roles. How did you get there? What were your lucky breaks?
+
 
       How did you learn to be effective?
     </p>
     <p>
       These stories will establish role models for folks hoping to become Staff Engineers.
+
 
       Further, the "metadata" around these stories will help create
       transparency into the most effective ways to navigate this career path.
@@ -89,9 +98,12 @@ const AboutPage = () => (
     <p>
       Finally, I hope to use those learnings to craft a small number of resources to
 
+
       help draft their own map to Staff Engineer. What should you do in the first ninety days
 
+
       as a Staff Engineer? What are the highest leverage activities? What should you stop doing?
+
 
       What are the resources you can rely upon?
       Hopefully we can provide good resources for all of this.
@@ -117,6 +129,7 @@ const AboutPage = () => (
     <p>
       I've been fortunate to work with and coach a number of wonderful Staff-plus engineers,
 
+
       but I've always been a bit uncertain whether my advice was any good.
       I knew what I thought I needed from the team I was supporting,
       but was my approach effective? Was I helping their careers or guiding them
@@ -125,7 +138,9 @@ const AboutPage = () => (
     <p>
       This project came out of the desire to have a clearer understanding of the Staff-plus
 
+
       role, to ensure organizations I work with or support create room for those roles,
+
 
       and to make me a better coach to the Staff-plus engineers I'm fortunate enough to work with.
     </p>
@@ -141,7 +156,9 @@ const AboutPage = () => (
 
       and wanted to start on a new project that could eventually lead to another book while addressing
 
+
       some of the areas I felt my first work could have been better. Particularlly, a more cohesive structure
+
 
       and moving beyond my own experiences to operate through a broader lens.
     </p>
@@ -155,7 +172,9 @@ const AboutPage = () => (
     <p>
       When I starting working on this project, I wrote up some notes on how I'd determine
 
+
       this project's success, and a big part of that is the number of folks who reach out
+
 
       to say that these stories have helped them. If they've helped you, please
       let me know on Twitter at{" "}

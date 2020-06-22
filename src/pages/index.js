@@ -40,7 +40,7 @@ const IndexPage = (
 
 
         career path, like Camille Fournier's
-
+        {" "}
         <a
           href="https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897"
         >
@@ -54,7 +54,7 @@ const IndexPage = (
         >
           The Making of a Manager
         </a>
-
+        {" "}
         and my own{" "}
         <a
           href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186"
@@ -107,6 +107,7 @@ export const stories = graphql`
 query {
 allMarkdownRemark(
   sort: {order: ASC, fields: [frontmatter___date]}
+  limit: 5
 ) {
   edges {
     node {
