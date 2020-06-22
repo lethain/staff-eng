@@ -31,7 +31,6 @@ Personally, I'm using `prettier-js-mode` as [described here](https://patrickskib
 
 Roughly following [these instructions](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/):
 
-    npm install gh-pages --save-dev
     npm run deploy
 
 Longer term I'd like to figure out how to get CI/CD setup using [Github Actions](https://help.github.com/en/actions/creating-actions)
