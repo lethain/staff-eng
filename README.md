@@ -11,21 +11,17 @@ as the existing stories!
 
 ## Development
 
-Install this somehow.
-
-
-Then run:
+Install Gatsby, then run:
 
     gatsby develop
 
 Your site is now running at `http://localhost:8000`!
 
-Run prettier before merging your code:
+Please run prettier on all code before submit a request:
 
-    npm install prettier
+    prettier --write src/*/*.js
 
-This project is using the default prettier settings, line length and all.
-Personally, I'm using `prettier-js-mode` as [described here](https://patrickskiba.com/emacs/2019/09/07/emacs-for-react-dev.html).
+After that send over a pull request.
 
 ##  Deploy
 
