@@ -20,7 +20,7 @@ const GuidesPage = (
     <Layout>
       <SEO title="StaffEng Guides" />
       <p>
-          Guides for reaching and succeeding at Staff-plus roles:
+        Guides for reaching and succeeding at Staff-plus roles:
       </p>
       <ul>
         {Guides}

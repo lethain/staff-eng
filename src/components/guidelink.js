@@ -9,4 +9,4 @@ const GuideLink = ({ post }) => (
   </li>
 );
 
-export default GuideLink
+export default GuideLink;

@@ -4,7 +4,8 @@ import { graphql, useStaticQuery, Link } from "gatsby";
 import GuideLink from "../components/guidelink";
 
 const RecentGuides = () => {
-    const data = useStaticQuery(graphql`
+  const data = useStaticQuery(
+    graphql`
 query {
 allMarkdownRemark(
   sort: {order: DESC, fields: [frontmatter___date]}
@@ -24,14 +25,15 @@ allMarkdownRemark(
   }
 }
 }
-`);
-    const Guides = data.allMarkdownRemark.edges.map(edge => (
-            <GuideLink post={edge.node} />
-    ));
-    console.log(Guides)
+`
+  );
+  const Guides = data.allMarkdownRemark.edges.map(edge => (
+    <GuideLink post={edge.node} />
+  ));
+  console.log(Guides);
   return (
-          <ul>
-          {Guides}
+    <ul>
+      {Guides}
     </ul>
   );
 };

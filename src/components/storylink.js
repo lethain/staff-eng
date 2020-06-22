@@ -10,4 +10,3 @@ const StoryLink = ({ post }) => (
 );
 
 export default StoryLink;
-
