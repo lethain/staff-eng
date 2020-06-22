@@ -1,4 +1,3 @@
-
 import { useStaticQuery, graphql, Link } from "gatsby";
 import PropTypes from "prop-types";
 import React from "react";
@@ -15,17 +14,17 @@ const Header = ({ siteTitle }) => {
     }
 `
   );
-    
-    return (
-  <nav>
-    <h2><a href="/">{siteTitle}</a></h2>
-    <ul>
-      <li><Link to="/stories">Stories</Link></li>
+
+  return (
+    <nav>
+      <h2><a href="/">{siteTitle}</a></h2>
+      <ul>
+        <li><Link to="/stories">Stories</Link></li>
         <li><Link to="/share">Share your story</Link></li>
         <li><a href={data.site.siteMetadata.mailingListURL}>Subscribe</a></li>
-    </ul>
-            </nav>
-    )
+      </ul>
+    </nav>
+  );
 };
 
 Header.propTypes = {
