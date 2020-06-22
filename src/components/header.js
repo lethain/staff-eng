@@ -20,6 +20,7 @@ const Header = ({ siteTitle }) => {
       <h2><a href="/">{siteTitle}</a></h2>
       <ul>
         <li><Link to="/stories">Stories</Link></li>
+        <li><Link to="/guides">Guides</Link></li>
         <li><Link to="/share">Submit</Link></li>
         <li><a href={data.site.siteMetadata.mailingListURL}>Subscribe</a></li>
       </ul>
