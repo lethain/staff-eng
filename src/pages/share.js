@@ -9,7 +9,8 @@ const SharePage = () => (
     <p>
       There are so many different ways that folks reach Staff, Principal and Distinguished Engineer roles.
 
-      As such, I often find that the best career advice for folks pursuing these roles
+
+      As such, we often find that the best career advice for folks pursuing these roles
 
 
       {" "}
@@ -18,15 +19,8 @@ const SharePage = () => (
       </a>
       ,
 
-      but rather the stories of folks who've already done it. Hearing dozens of folks share their map
-
-
-      to a Staff-plus role should be
-      far more useful than what any one person has seen at their company.
-    </p>
-    <p>
-      The StaffEng project is focused on collecting folks' stories of reaching Staff-plus roles
-
+      but rather the stories of folks who've already done it.
+      StaffEng collects folks' stories of reaching Staff-plus roles
 
       and succeeding once they're there.
     </p>
@@ -34,22 +28,31 @@ const SharePage = () => (
     <h3>Sharing your story</h3>
 
     <p>
-      <em>
-        Questions? Reach out to{" "}
-        <a href="https://twitter.com/lethain">@lethain</a>
-        {" "}
-        or <code>lethain[at]gmail</code>
-      </em>
+      If you've reached a Staff-plus Engineer role, then we'd love to include your story
+
+
+      in the collection.
+      To share your story, please{" "}
+      <a
+        href="https://github.com/lethain/staff-eng/blob/master/src/markdown/drafts/template.md"
+      >
+        create a copy of this template
+      </a>
+      {" "}
+
+      and follow it's instructions.
+
     </p>
-
     <p>
-      If you've reached a Staff-plus Engineer role, then I'd love to include your story
-
-
-      in the collection. The process for sharing your story is:
+      Before doing so, a few things to consider:
     </p>
 
     <ol>
+      <li>
+        Read some of the existing <a href="/stories">list of stories</a>
+        {" "}
+        to get a sense of what we're looking for.
+      </li>
       <li>
         Review the{" "}
         <a href="https://creativecommons.org/licenses/by/4.0/">
@@ -58,74 +61,42 @@ const SharePage = () => (
         .
 
         By submitting a story to StaffEng, you are agreeing to have it published under this license.
+
+
+        If this isn't a license you're comfortable with, that's totally ok!, but unfortunately we
+
+
+        won't be including it on StaffEng.
       </li>
       <li>
-        Create a copy of the
-        {" "}
-        <a
-          href="https://docs.google.com/document/d/10BeIfuE1wI3zB4GKyuCHzRm1Coq_m7rrFX_ubrhpv0w/edit"
-        >
-          StaffEng questions
-        </a>
-        ,
+        Your pull request should only include your story and any images you want to
 
-        and share your copy, with edit permissions please, to me at{" "}
-        <code>lethain[at]gmail</code>
+
+        include in your story. It should not include any code changes to the site itself.
       </li>
       <li>
-        Write your answers into the copied document. Look at{" "}
-        <a href="/stories">the stories so far</a>
-        {" "}
-
-        for reference points. Do not spend more than four hours on this before moving to the next step!
+        After you submit your pull request, we'll review your story.
+        If we believe your story would publish well as it stands, then we'll merge it.
 
 
-        Especially if you're an infrequent writer, it's better to submit an early draft for concept editing
-
-
-        before you go too far.
+        Otherwise we'll iterate together on the draft within the pull request.
       </li>
       <li>
-        Email me letting me know that your story is ready for comments, and
-        I'll review your story. Please include a link to your copied questions document.
+        There is a small chance that we'll decline to add your story, primarily if it
+
+
+        doesn't meet our requirements (Staff-plus title and five-plus years of experience),
+
+
+        an overwhelmingly similar story already exists on StaffEng,
+        or if it is in some way offensive.
       </li>
       <li>
-        If I believe your story would publish well as it stands, then I'll make some line edits
+        Once your story goes out, it will be sent to our mailing list the following morning,
 
-
-        and publish it to staffeng.com in an unlinked post. I'll share this unlinked post
-
-
-        back to you for final approval before it's shared publicly.
+        as well as shared on our RSS feed.
       </li>
-      <li>
-        If I don't believe the post is ready to publish, I'll provide concept-level
 
-
-        suggestions on the changes that I believe would be necessary for it to be published.
-
-
-        It would then be up to you to decide if you'd like to publish it yourself,
-
-
-        or if you're up for incorporating the conceptual edits and letting me know
-
-
-        once you're ready for another review. If you do self-publish, send me a link
-
-
-        and I'll link out to it!
-      </li>
-      <li>
-        At this point, I'll schedule your story to publish, at which point it will
-
-
-        get emailed out to the email list, published on the{" "}
-        <a href="/rss">RSS feed</a>
-        ,
-
-        and added to the <a href="/stories">list of stories</a>.
-      </li>
     </ol>
 
     <p>

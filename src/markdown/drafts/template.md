@@ -2,17 +2,17 @@
 title: "Will Larson - Staff Engineer at StaffEng"
 name: "Will Larson"
 role: "Staff Engineer at StaffEng"
-slug: "/stories/template"
+slug: "/drafts/template"
 date: "2020-01-01"
 kind: "draft"
 ---
 
-Checklist for submitting your staff eng story:
+### Checklist for submitting your staff eng story
 
-1. If you have questions, please review this template and [the Share page](https://staffeng.com/share/) first.
+1. If you have questions, please review this template at `src/markdown/drafts/template.md` and [the Share page](/share/) first.
     At that point, it's best to ask them in your pull request, and
     you're also welcome to email `lethain@gmail.com` with questions.
-2. Make a copy of this template and put it into `src/markdown/firstname-lastname.md`.
+2. Make a copy of this template and put it into `src/markdown/stories/firstname-lastname.md`.
 3. Within your copy, please delete `omit: true` from the top of the 
 4. Please add your story as a standalone pull request. Please do
     not make template or other changes within the that pull request.
@@ -52,6 +52,16 @@ Checklist ends here!
 **_What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?_**
 
 …
+
+<div class="pull">
+<p><strong>Some of YOURNAME's writing</strong></p>
+<ul>
+<li><a href="#">A blog post or something</a></li>
+<li><a href="#">A blog post or something</a></li>
+<li><a href="#">A blog post or something</a></li>
+</ul>
+</div>
+
 
 **_How do you spend your time day-to-day?_**
 
@@ -96,6 +106,15 @@ Checklist ends here!
 **_What about a piece of advice for someone who has just started as a Staff Engineer?_**
 
 ...
+
+<div class="pull">
+<p><strong>Some of YOURNAME's writing</strong></p>
+<ul>
+<li><a href="#">A blog post or something</a></li>
+<li><a href="#">A blog post or something</a></li>
+<li><a href="#">A blog post or something</a></li>
+</ul>
+</div>
 
 **_Did you ever consider engineering management, and if so how did you decide to pursue the staff engineer path?_**
 
