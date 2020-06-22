@@ -1,13 +1,12 @@
 import React from "react";
 import { Link } from "gatsby";
 
-const StoryLink = ({ post }) => (
+const GuideLink = ({ post }) => (
   <li>
     <Link to={post.frontmatter.slug}>
-      {post.frontmatter.name} - {post.frontmatter.role}
+      {post.frontmatter.chapter} - {post.frontmatter.title}
     </Link>
   </li>
 );
 
-export default StoryLink;
-
+export default GuideLink
