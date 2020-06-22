@@ -94,6 +94,7 @@ const SharePage = () => (
       <li>
         Once your story goes out, it will be sent to our mailing list the following morning,
 
+
         as well as shared on our RSS feed.
       </li>
 

@@ -1,8 +1,9 @@
 import React from "react";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 
 import Layout from "../components/layout";
 import StoryLink from "../components/storylink";
+import RecentGuides from "../components/recentGuides";
 import SEO from "../components/seo";
 
 const IndexPage = (
@@ -67,10 +68,15 @@ const IndexPage = (
       </p>
 
       <div class="pull">
-        <p><strong>Recent stories</strong></p>
+        <p><strong>Stories</strong></p>
         <ul>
           {Stories}
         </ul>
+        <p>
+          <Link to={"/stories"}>
+            <em>Looking for more? Read all stories…</em>
+          </Link>
+        </p>
       </div>
       <p>
         The transition into Staff Engineer, and its further evolutions
@@ -86,6 +92,16 @@ const IndexPage = (
         being a Staff Engineer or toil for years for a role that
         doesn't suit you?
       </p>
+      <div class="pull">
+        <p><strong>Guides</strong></p>
+        <RecentGuides />
+        <p>
+          <Link to={"/guides"}>
+            <em>Looking for more? Read all guides…</em>
+          </Link>
+        </p>
+      </div>
+
       <p>
         The{" "}<strong>StaffEng</strong>{" "}
         project aims to collect the stories of folks who are operating in Staff,
@@ -106,7 +122,7 @@ export default IndexPage;
 export const stories = graphql`
 query {
 allMarkdownRemark(
-  sort: {order: ASC, fields: [frontmatter___date]}
+  sort: {order: DESC, fields: [frontmatter___date]}
   filter: {frontmatter: {kind: {eq: "story"}}}
   limit: 5
 ) {
