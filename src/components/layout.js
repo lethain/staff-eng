@@ -30,9 +30,9 @@ const Layout = ({ children }) => {
   );
 
   return (
-    <div class="core">
+    <div className="core">
       <Header siteTitle={data.site.siteMetadata.title} />
-      <div class="content">
+      <div className="content">
         <section>{children}</section>
         <MailingList url={data.site.siteMetadata.mailingListURL} />
       </div>

@@ -10,6 +10,14 @@ module.exports = {
   },
     plugins: [
         `gatsby-plugin-sitemap`,
+        `gatsby-transformer-yaml`,
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                path: `./src/data/`,
+
+            }
+        },
     {
       resolve: `gatsby-plugin-feed`,
       options: {

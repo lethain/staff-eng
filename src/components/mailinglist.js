@@ -14,7 +14,7 @@ class MailingList extends React.Component {
 
   render() {
     return (
-      <div class="pull" id="mc_embed_signup">
+      <div className="pull" id="mc_embed_signup">
         <form
           action={this.url}
           method="post"

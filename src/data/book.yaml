@@ -1,6 +1,5 @@
 chapters:
   - title: Overview
-    slug: overview
     sections:
       - title: Overview
         slug: overview-overview
@@ -11,7 +10,6 @@ chapters:
       - title: Does the title even matter?
         draft: https://docs.google.com/document/d/139zkkFzQiu6BmJWZvDbuH5W0TTaVkPEdXaXFKT225HE/edit
   - title: Before Staff
-    slug: before-staff
     sections:
       - title: Overview
       - title: Build Something Important
@@ -30,7 +28,6 @@ chapters:
       - title: Impact beyond yourself
       - title: Give feedback
   - title: Getting the title
-    slug: getting-the-title
     sections:
       - title: Overview
         slug: getting-title-overview
@@ -43,7 +40,6 @@ chapters:
       - title: Deciding to switch companies
       - title: Interviewing for Staff-plus roles
   - title: Keeping the title
-    slug: keeping-at-staff
     sections:
       - title: Overview
       - title: Be a role model
@@ -58,7 +54,6 @@ chapters:
       - title: Set boundaries
       - title: Manage your time
   - title: Operating at Staff
-    slug: operating-at-staff
     sections:
       - title: Create space for others
         draft: https://docs.google.com/document/d/1eNMBNA9_vpb9tRXxQFbRaPfK7jXu33WP55LbMg-gTMU/edit
@@ -76,7 +71,6 @@ chapters:
       - title: Fill the gaps
       - title: Stakeholder translation
   - title: Resources
-    slug: resources
     sections:
       - title: Staff promotion packet workbook
         draft: https://docs.google.com/document/d/1xEj31pZIAbZy8Tq9G_sUiknOM64f7NibxH1S2qOkCbw/edit#
