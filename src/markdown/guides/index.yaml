@@ -1,0 +1,87 @@
+chapters:
+  - title: Overview
+    slug: overview
+    sections:
+      - title: Overview
+        slug: overview-overview
+      - title: Career Trajectory & Career Levels
+        draft: https://docs.google.com/document/d/17fpsLnJ_XTR_hKd7z4dlYU_-X8JMjvC-KuZx5wGUhdk/edit
+      - title: Staff engineer archetypes
+        slug: staff-archetypes
+      - title: Does the title even matter?
+        draft: https://docs.google.com/document/d/139zkkFzQiu6BmJWZvDbuH5W0TTaVkPEdXaXFKT225HE/edit
+  - title: Before Staff
+    slug: before-staff
+    sections:
+      - title: Overview
+      - title: Build Something Important
+      - title: Own Something Hard
+      - title: Help Without Owning
+      - title: Getting in the room
+        slug: getting-in-the-room
+      - title: Organizational Trust
+      - title: Be Easy to Know and to Find
+      - title: Think broadly & build broad skills
+      - title: Know when to break glass
+      - title: Org-scoped Projects
+      - title: "Communication: Written, Verbal, Meetings, and Public"
+      - title: "Edit the team's work"
+      - title: Navigate ambiguity
+      - title: Impact beyond yourself
+      - title: Give feedback
+  - title: Getting the title
+    slug: getting-the-title
+    sections:
+      - title: Overview
+        slug: getting-title-overview
+      - title: Finding the right company
+        draft: https://docs.google.com/document/d/1rsJKqfAHd25azP2UU4yN5MoU-u5edybKOmO5D4mvVAc/edit
+      - title: Find your sponsor
+        draft: https://docs.google.com/document/d/1pQ9Tx-EFLnv4QNwzk6QrybdcYfOdwWk4vrzBThXfKb8/edit
+      - title: Promotion Packets
+      - title: Staff Projects
+      - title: Deciding to switch companies
+      - title: Interviewing for Staff-plus roles
+  - title: Keeping the title
+    slug: keeping-at-staff
+    sections:
+      - title: Overview
+      - title: Be a role model
+      - title: Stay aligned with authority
+        slug: staying-aligned-with-authority
+      - title: To lead, you have to follow
+        draft: https://docs.google.com/document/d/1XSTSr2oS9jEEJfV44-aWdz-08EPFpCrAOMLaBnJNQz4/edit
+      - title: Learn to never be wrong
+        slug: learn-to-never-be-wrong
+      - title: Represent the business
+      - title: Be a change sink
+      - title: Set boundaries
+      - title: Manage your time
+  - title: Operating at Staff
+    slug: operating-at-staff
+    sections:
+      - title: Create space for others
+        draft: https://docs.google.com/document/d/1eNMBNA9_vpb9tRXxQFbRaPfK7jXu33WP55LbMg-gTMU/edit
+      - title: Build a network of peers
+      - title: Work on the right questions - model structured thinking
+      - title: Dig into problems
+      - title: Knowing & not knowing
+      - title: Work on the System
+      - title: Sponsor others
+      - title: Strategy, vision and North stars
+      - title: Maintain technical quality
+      - title: Scale consistency and organizational learning
+      - title: Lead technology change
+      - title: Evolve organizational practices
+      - title: Fill the gaps
+      - title: Stakeholder translation
+  - title: Resources
+    slug: resources
+    sections:
+      - title: Staff promotion packet workbook
+        draft: https://docs.google.com/document/d/1xEj31pZIAbZy8Tq9G_sUiknOM64f7NibxH1S2qOkCbw/edit#
+      - title: Learning materials
+        slug: learning-materials
+      - title: Staff Engineering Career Ladder
+      - title: Designing a Staff-plus interview loop
+        draft: https://docs.google.com/document/d/1YbfpBc6RQEEHbjCkvS1uD_Zgg3LxN_vviPOv0BP2_n0/edit
