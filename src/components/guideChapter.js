@@ -21,6 +21,7 @@ const GuideChapter = ({ chapter }) => {
 
   return (
     <li key={chapter.title}>
+      <a name={chapter.title} />
       <strong>{chapter.title}</strong>
       <ol>{Sections}</ol>
     </li>

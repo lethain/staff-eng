@@ -11,20 +11,45 @@ export default function Template(
 ) {
   const { markdownRemark } = data; // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark;
-  return (
-    <Layout>
-      <SEO title={frontmatter.name + " - " + frontmatter.role} />
-      <h2 className="lead">{frontmatter.name}</h2>
-      <h4 className="quiet">{frontmatter.role}</h4>
-      <div
-        className="blog-post-content"
-        dangerouslySetInnerHTML={{ __html: html }}
-      />
-      <p class="center">
-        <em><a href="/stories">Ready to read another story?</a></em>
-      </p>
-    </Layout>
-  );
+  if (frontmatter.kind == "guide") {
+    return (
+      <Layout>
+        <SEO title={frontmatter.chapter + " - " + frontmatter.title} />
+        <h4 className="quiet">
+          <a href={"/guides"}>Guides</a>
+          {" "}
+          {" / "}
+          {" "}
+          {frontmatter.chapter}
+        </h4>
+        <h2 className="lead">
+          <a href={frontmatter.slug}>{frontmatter.title}</a>
+        </h2>
+        <div
+          className="blog-post-content"
+          dangerouslySetInnerHTML={{ __html: html }}
+        />
+        <p class="center">
+          <em><a href="/stories">Ready to read another story?</a></em>
+        </p>
+      </Layout>
+    );
+  } else {
+    return (
+      <Layout>
+        <SEO title={frontmatter.name + " - " + frontmatter.role} />
+        <h2 className="lead">{frontmatter.name}</h2>
+        <h4 className="quiet">{frontmatter.role}</h4>
+        <div
+          className="blog-post-content"
+          dangerouslySetInnerHTML={{ __html: html }}
+        />
+        <p class="center">
+          <em><a href="/stories">Ready to read another story?</a></em>
+        </p>
+      </Layout>
+    );
+  }
 }
 
 export const pageQuery = graphql`
@@ -36,6 +61,9 @@ export const pageQuery = graphql`
         slug
         name
         role
+        kind
+        chapter
+        title
       }
     }
   }
