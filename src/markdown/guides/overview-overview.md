@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 chapter: "Overview"
-slug: "/guides/test"
+slug: "/guides/overview-overview"
 date: "2020-06-21"
 kind: "guide"
 ---

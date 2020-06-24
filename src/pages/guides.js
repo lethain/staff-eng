@@ -9,19 +9,16 @@ import SEO from "../components/seo";
 const GuidesPage = (
   {
     data: {
-        allMarkdownRemark: { edges },
-        dataYaml: { chapters }
+      allMarkdownRemark: { edges },
+      dataYaml: { chapters }
     }
   }
 ) => {
-    const Chapters = chapters.map(chapter => (
-            <GuideChapter chapter={chapter} />
-    ));
-    
+  const Chapters = chapters.map(chapter => <GuideChapter chapter={chapter} />);
+
   const Guides = edges.map(edge => (
     <GuideLink slug={edge.node.id} post={edge.node} />
   ));
-    console.log(chapters);
 
   return (
     <Layout>
@@ -29,13 +26,9 @@ const GuidesPage = (
       <p>
         Guides for reaching and succeeding at Staff-plus roles:
       </p>
-          <ul>
-          {Chapters}
-      </ul>
-      
       <ul>
-        {Guides}
-      </ul>         
+        {Chapters}
+      </ul>
     </Layout>
   );
 };
