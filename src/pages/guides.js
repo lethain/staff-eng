@@ -3,7 +3,6 @@ import { graphql } from "gatsby";
 
 import Layout from "../components/layout";
 import GuideChapter from "../components/guideChapter";
-import GuideLink from "../components/guidelink";
 import SEO from "../components/seo";
 
 const GuidesPage = (

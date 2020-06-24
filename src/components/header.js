@@ -22,7 +22,11 @@ const Header = ({ siteTitle }) => {
         <li><Link to="/stories">Stories</Link></li>
         <li><Link to="/guides">Guides</Link></li>
         <li><Link to="/share">Submit</Link></li>
-        <li><a href={data.site.siteMetadata.mailingListURL}>Subscribe</a></li>
+        <li>
+          <a href={data.site.siteMetadata.mailingListURL} target={"_blank"}>
+            Subscribe
+          </a>
+        </li>
       </ul>
     </nav>
   );
