@@ -14,17 +14,12 @@ export default function Template(
   if (frontmatter.kind == "guide") {
     return (
       <Layout>
-        <SEO title={frontmatter.chapter + " - " + frontmatter.title} />
+        <SEO title={frontmatter.title} />
         <h4 className="quiet">
           <a href={"/guides"}>Guides</a>
-          {" "}
           {" / "}
-          {" "}
-          {frontmatter.chapter}
-        </h4>
-        <h2 className="lead">
           <a href={frontmatter.slug}>{frontmatter.title}</a>
-        </h2>
+        </h4>
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
@@ -62,7 +57,6 @@ export const pageQuery = graphql`
         name
         role
         kind
-        chapter
         title
       }
     }

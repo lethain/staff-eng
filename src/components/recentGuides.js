@@ -16,7 +16,6 @@ allMarkdownRemark(
     node {
       id
       frontmatter {
-        chapter
         title
         slug
         date
@@ -30,7 +29,6 @@ allMarkdownRemark(
   const Guides = data.allMarkdownRemark.edges.map(edge => (
     <GuideLink post={edge.node} />
   ));
-  console.log(Guides);
   return (
     <ul>
       {Guides}

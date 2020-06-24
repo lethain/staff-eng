@@ -1,6 +1,5 @@
 ---
 title: "Staff archetypes"
-chapter: "Overview"
 slug: "/guides/staff-archetypes"
 date: "2020-06-21"
 kind: "guide"

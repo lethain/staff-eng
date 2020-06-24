@@ -68,7 +68,7 @@ const IndexPage = (
       </p>
 
       <div class="pull">
-        <p><strong>Stories</strong></p>
+        <p><strong>Recent Stories</strong></p>
         <ul>
           {Stories}
         </ul>
@@ -93,7 +93,7 @@ const IndexPage = (
         doesn't suit you?
       </p>
       <div class="pull">
-        <p><strong>Guides</strong></p>
+        <p><strong>Recent Guides</strong></p>
         <RecentGuides />
         <p>
           <Link to={"/guides"}>

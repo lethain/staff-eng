@@ -1,6 +1,5 @@
 ---
 title: "Overview"
-chapter: "Getting the title"
 slug: "/guides/getting-title-overview"
 date: "2020-06-21"
 kind: "guide"

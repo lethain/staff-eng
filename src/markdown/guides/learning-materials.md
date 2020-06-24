@@ -1,6 +1,5 @@
 ---
 title: "Further learning"
-chapter: "Resources"
 slug: "/guides/learning-materials"
 date: "2020-06-21"
 kind: "guide"

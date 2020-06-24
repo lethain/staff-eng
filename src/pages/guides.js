@@ -9,22 +9,20 @@ import SEO from "../components/seo";
 const GuidesPage = (
   {
     data: {
-      allMarkdownRemark: { edges },
       dataYaml: { chapters }
     }
   }
 ) => {
   const Chapters = chapters.map(chapter => <GuideChapter chapter={chapter} />);
 
-  const Guides = edges.map(edge => (
-    <GuideLink slug={edge.node.id} post={edge.node} />
-  ));
-
   return (
     <Layout>
       <SEO title="StaffEng Guides" />
       <p>
-        Guides for reaching and succeeding at Staff-plus roles:
+        Guides for reaching and succeeding at Staff-plus roles.
+        We'll fill these in over time, with the goal of providing
+        a comprehensive resource for folks pursuing or operating
+        in Staff-plus roles.
       </p>
       <ul>
         {Chapters}
@@ -48,23 +46,5 @@ dataYaml {
       }
     }
   }
-
-allMarkdownRemark(
-  sort: {order: DESC, fields: [frontmatter___date]}
-  filter: {frontmatter: {kind: {eq: "guide"}}}
-     
-) {
-  edges {
-    node {
-      id
-      frontmatter {
-        title
-        chapter
-        slug
-        date
-      }
-    }
-  }
-}
 }
 `;

@@ -1,6 +1,5 @@
 ---
 title: "Getting in the room"
-chapter: "Before Staff"
 slug: "/guides/getting-in-the-room"
 date: "2020-06-21"
 kind: "guide"

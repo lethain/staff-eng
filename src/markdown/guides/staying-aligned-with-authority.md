@@ -1,6 +1,5 @@
 ---
 title: "Staying aligned with authority"
-chapter: "Keeping the title"
 slug: "/guides/staying-aligned-with-authority"
 date: "2020-06-21"
 kind: "guide"

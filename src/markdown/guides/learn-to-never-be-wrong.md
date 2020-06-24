@@ -1,6 +1,5 @@
 ---
 title: "Learn to never to be wrong"
-chapter: "Keeping the title"
 slug: "/guides/learn-to-never-be-wrong"
 date: "2020-06-21"
 kind: "guide"
