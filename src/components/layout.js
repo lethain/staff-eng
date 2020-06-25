@@ -38,7 +38,7 @@ const Layout = ({ children }) => {
       </div>
       <footer>
         ©{" "}
-        <Link to="/https://lethain.com">Will Larson</Link>
+        <a href="https://lethain.com">Will Larson</a>
         ,{" "}
         {new Date().getFullYear()}
         .
