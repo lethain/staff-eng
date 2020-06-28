@@ -19,7 +19,7 @@ const IndexPage = (
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Stories of reaching Staff-plus engineering roles - StaffEng" />
       <p>
         At most technology companies, you'll reach Senior Software Engineer,
         the{" "}

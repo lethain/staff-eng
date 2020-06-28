@@ -18,7 +18,7 @@ const StoriesPage = (
 
   return (
     <Layout>
-      <SEO title="StaffEng Stories" />
+      <SEO title="Stories of reaching Staff-plus engineering roles - StaffEng" />
       <p>
         Folks who have shared their stories of reaching Staff-plus engineer roles:
       </p>
@@ -37,7 +37,7 @@ allMarkdownRemark(
   sort: {order: DESC, fields: [frontmatter___date]}
   filter: {frontmatter: {kind: {eq: "story"}}}
 
-     
+
 ) {
   edges {
     node {

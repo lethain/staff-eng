@@ -16,7 +16,7 @@ const GuidesPage = (
 
   return (
     <Layout>
-      <SEO title="StaffEng Guides" />
+      <SEO title="SGuides for reaching Staff-plus engineering roles - StaffEng" />
       <p>
         Guides for reaching and succeeding at Staff-plus roles.
         We'll fill these in over time, with the goal of providing
