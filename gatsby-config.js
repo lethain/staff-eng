@@ -6,7 +6,8 @@ module.exports = {
     mailingListURL: (
       `https://lethain.us20.list-manage.com/subscribe/post?u=f7003ed301623a88fab7cf783&amp;id=9c7b745cce`
     ),
-    siteUrl: `https://staffeng.com`
+    siteUrl: `https://staffeng.com`,
+    image: `https://staffeng.com/static/staffeng-overview.png`,
   },
     plugins: [
         `gatsby-plugin-sitemap`,

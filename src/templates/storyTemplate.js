@@ -25,7 +25,9 @@ export default function Template(
           dangerouslySetInnerHTML={{ __html: html }}
         />
         <p class="center">
-          <em><a href="/stories">Ready to read another story?</a></em>
+          <em><a href="/guides">Read another guide?</a></em>
+          {" "}or{" "}
+          <em><a href="/stories">Back to the stories?</a></em>
         </p>
       </Layout>
     );
