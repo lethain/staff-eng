@@ -8,7 +8,7 @@ chapters:
       - title: Staff engineer archetypes
         slug: staff-archetypes
       - title: Does the title even matter?
-        draft: https://docs.google.com/document/d/139zkkFzQiu6BmJWZvDbuH5W0TTaVkPEdXaXFKT225HE/edit
+        slug: does-the-title-even-matter
   - title: Before Staff
     sections:
       - title: Overview
