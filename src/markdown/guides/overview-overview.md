@@ -15,11 +15,11 @@ While I wanted to provide answers to each of those questions, I wanted to go bey
 
 The topics to be covered are:
 
-*   **Overview** **-** survey of your career, the Staff Engineer role, and why the title matters
-*   **Before Staff** **-** preparation before becoming a Staff Engineer
-*   **Getting the title - **steps to the ritual dance of receiving the title
-*   **Keeping the title -** strategies to adapt to the new role’s expectations
-*   **Operating at Staff -** digging into the work on the other side
-*   **Resources -** collection of templates and further readings if you’re looking for more
+*   **Overview** - survey of your career, the Staff Engineer role, and why the title matters
+*   **Before Staff** - preparation before becoming a Staff Engineer
+*   **Getting the title** - steps to the ritual dance of receiving the title
+*   **Keeping the title** - strategies to adapt to the new role’s expectations
+*   **Operating at Staff** - digging into the work on the other side
+*   **Resources** - collection of templates and further readings if you’re looking for more
 
 As a final admission, my career has been centered in companies that follow some version of the Silicon Valley playbook, and I’m certain some facets of this advice won’t resonate as strongly if your company eschews those patterns. Increasingly the patterns set in Silicon Valley echo into the broader ecosystem, but sometimes these notes travel slowly. If some aspects don’t resonate with your circumstances, I’d be the first to suggest they may not apply in your circumstances.
