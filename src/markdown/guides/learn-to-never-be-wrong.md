@@ -1,5 +1,5 @@
 ---
-title: "Learn to never to be wrong"
+title: "Learn to never be wrong"
 slug: "/guides/learn-to-never-be-wrong"
 date: "2020-06-21"
 kind: "guide"
