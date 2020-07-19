@@ -40,13 +40,13 @@ const Layout = ({ children }) => {
         ©{" "}
         <a href="https://lethain.com">Will Larson</a>
         ,{" "}
-        {new Date().getFullYear()}
-        .
-
+        {new Date().getFullYear()}.
         {` `}
-        <Link to="/about">About.</Link>
+        <Link to="/about">About</Link>.
         {` `}
-        <Link to="/rss">RSS.</Link>
+        <Link to="/rss">RSS</Link>.
+	{` `}
+        <a href="https://github.com//lethain/staff-eng">Edit on Github</a>.
       </footer>
     </div>
   );
