@@ -42,7 +42,7 @@ As a tech lead, I was a member of the Eng Tech Lead Cohort.  It’s a formal gro
 
 As I’m transitioning out of the tech lead role, there will definitely be a change in how I spend my time day–to–day.  But I’m honestly not sure what that will look like.
 
-**_Where do you feel most impactful as a Staff-plus Engineer? A specific story would be grand._**
+**_Where do you feel most impactful as a Staff-plus Engineer?_**
 
 It’s always a rewarding feeling if I can end the work day and feel like I’ve helped my peers get unblocked and maintain momentum.
 
