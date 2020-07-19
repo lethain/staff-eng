@@ -156,7 +156,7 @@ const AboutPage = () => (
       and wanted to start on a new project that could eventually lead to another book while addressing
 
 
-      some of the areas I felt my first work could have been better. Particularlly, a more cohesive structure
+      some of the areas I felt my first work could have been better. Particularly, a more cohesive structure
 
 
       and moving beyond my own experiences to operate through a broader lens.
