@@ -61,6 +61,8 @@ Articles on engineering strategy in general:
 *   [How Big Technical Changes Happen at Slack - Several People Are Coding](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b)
 *   [On Drafting an Engineering Strategy](https://www.paperplanes.de/2020/1/31/on-drafting-an-engineering-strategy.html)
 *   [Defining a Tech Strategy](https://sarahtaraporewalla.com/agile/design/architecture/Defining-a-Tech-Strategy)
+*   [Delivering on an architecture strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/)
+*   [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f)
 
 Examples of engineering strategies:
 
