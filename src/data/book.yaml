@@ -56,7 +56,7 @@ chapters:
   - title: Operating at Staff
     sections:
       - title: Create space for others
-        draft: https://docs.google.com/document/d/1eNMBNA9_vpb9tRXxQFbRaPfK7jXu33WP55LbMg-gTMU/edit
+        slug: create-space-for-others
       - title: Build a network of peers
       - title: Work on the right questions - model structured thinking
       - title: Dig into problems
