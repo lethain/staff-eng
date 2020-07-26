@@ -20,12 +20,11 @@ chapters:
       - title: Organizational Trust
       - title: Be Easy to Know and to Find
       - title: Think broadly & build broad skills
-      - title: Know when to break glass
       - title: Org-scoped Projects
       - title: "Communication: Written, Verbal, Meetings, and Public"
-      - title: "Edit the team's work"
-      - title: Navigate ambiguity
+      - title: Fill the gaps
       - title: Impact beyond yourself
+      - title: Navigate ambiguity
       - title: Give feedback
   - title: Getting the title
     sections:
@@ -39,10 +38,9 @@ chapters:
       - title: Staff Projects
       - title: Deciding to switch companies
       - title: Interviewing for Staff-plus roles
-  - title: Keeping the title
+  - title: Operating at Staff
     sections:
       - title: Overview
-      - title: Be a role model
       - title: Stay aligned with authority
         slug: staying-aligned-with-authority
       - title: To lead, you have to follow
@@ -50,26 +48,19 @@ chapters:
       - title: Learn to never be wrong
         slug: learn-to-never-be-wrong
       - title: Represent the business
-      - title: Be a change sink
-      - title: Set boundaries
-      - title: Manage your time
-  - title: Operating at Staff
-    sections:
       - title: Create space for others
         slug: create-space-for-others
       - title: Build a network of peers
-      - title: Work on the right questions - model structured thinking
+      - title: Work on the important questions
+      - title: Work on the System
+      - title: Know when to break glass
       - title: Dig into problems
       - title: Knowing & not knowing
-      - title: Work on the System
-      - title: Sponsor others
       - title: Strategy, vision and North stars
       - title: Maintain technical quality
-      - title: Scale consistency and organizational learning
+      - title: Scale organizational learning
       - title: Lead technology change
       - title: Evolve organizational practices
-      - title: Fill the gaps
-      - title: Stakeholder translation
       - title: Where do Staff-plus engineers fit into the org?
         slug: where-should-staff-plus-eng-report
   - title: Resources
@@ -82,4 +73,5 @@ chapters:
         slug: staff-plus-interview-process
       - title: Career Ladders
         slug: staff-career-ladders
-
+      - title: Introduction to systems thinking
+        slug: systems-thinking
