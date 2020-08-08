@@ -145,7 +145,7 @@ Looking back now, the product architecture has generally held up since launch fo
 
 I think that’s an important criteria for Staff-plus Engineers in product: not to just build something that ships, but for it to roll out smoothly and continue to succeed and grow over time with as few regrettable choices as possible. There will always be corners cut and features descoped during product development, especially for new products. A Staff product engineer makes those product and technical choices deliberately, taking on various different user personas to make the best choice possible and documenting rough edges thoroughly for future engineers.
 
- ** _Did you have to put together a promotion packet?_**
+**_Did you have to put together a promotion packet?_**
 
 When I was promoted to Staff, I was fortunate to have a manager who was extremely engaged in supporting my promotion. To be honest, at the time I didn’t really understand how to write my self-reviews the right way. I wrote self-reflective development plans for what I wanted to learn over the next year instead of documenting the impact and scope of my work. My manager actually did most of the work by writing out my impact in his review.
 
