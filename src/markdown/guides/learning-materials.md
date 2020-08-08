@@ -63,6 +63,7 @@ Articles on engineering strategy in general:
 *   [Defining a Tech Strategy](https://sarahtaraporewalla.com/agile/design/architecture/Defining-a-Tech-Strategy)
 *   [Delivering on an architecture strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/)
 *   [Stepping Stones not Milestones](https://medium.com/@jamesacowling/stepping-stones-not-milestones-e6be0073563f)
+*   [Achieving Alignment and Efficiency Through a Technical Strategy](https://yenkel.dev/posts/achieving-alignment-and-efficiency-through-a-technical-strategy)
 
 Examples of engineering strategies:
 
