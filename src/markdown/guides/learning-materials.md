@@ -24,6 +24,7 @@ Folks’ descriptions of their roles:
 *   [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/) by Julia Evans
 *   [What a Senior Staff Software Engineer Actually Does, Part 1: The Role and My Tasks](https://medium.com/box-tech-blog/what-a-senior-staff-software-engineer-actually-does-f3fc140d5f33) and [Part 2: The Mindset and Focus of the Role](https://medium.com/box-tech-blog/what-a-senior-staff-software-engineer-actually-does-d55308fcdd41) by Joy Ebertz
 *   [What does Staff level mean at GitLab?](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/)
+*   [Being a principal engineer at Skyscanner](https://medium.com/@SkyscannerEng/being-a-principal-engineer-at-skyscanner-1830dfa17d30)
 
 ### Becoming a Staff-plus Engineer
 
