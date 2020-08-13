@@ -5,18 +5,18 @@ date: "2020-06-29"
 kind: "guide"
 ---
 
-If you’re safely nestled within the comfortable clutches of the Senior Engineer [career level](https://lethain.com/career-levels-and-more/), you might wonder if you ought to pursue the Staff title. It’s a considerable investment of time and energy, along with requiring a good amount of luck, is that investment worth your time?
+If you’re safely nestled within the comfortable clutches of the Senior Engineer [career level](https://lethain.com/career-levels-and-more/), you might wonder if you ought to pursue the Staff title. It’s a considerable investment of time and energy, along with requiring a good amount of luck.
+Is that investment worth your time?
 
-The answer is, of course, that it might be! The four consistent advantages that generally come with a Staff-plus title are:
-
-
+The answer is, of course, that it might be! The three consistent advantages that generally come with a Staff-plus title are:
 
 1. allowing you to bypass informal gauges of seniority,
 2. facilitating access to “the room,”
-3. increase in current compensation,
-4. Compounding increase in total career compensation.
+3. increase in current and career compensation.
 
-The title also grants more agency onto the projects you work on, but some find that increase in agency is swallowed by a commensurate increase in accountability to the business.
+A potential fourth advantage is
+that some folks find that the title grants more agency to select the projects you work on, but others find that
+increase in agency is swallowed by a commensurate increase in accountability to the business.
 
 
 ## Informal gauges of seniority
@@ -25,9 +25,16 @@ When I spoke with [Nelson Elhage](https://staffeng.com/stories/nelson-elhage) ab
 
 > The question of “allowed” is interesting, and might not be quite the right question because there were very few official policies on who got what kind of role. Most things relied on more informal gauges of seniority.
 
-Many technology companies describe themselves as pursuing meritocracy, creating the conditions for their most talented employees to rise to the top. We lack any widely accepted measure of merit, which leads most companies pursuing an equity of ideas to favor what Nelson aptly termed “informal gauges of seniority.” While these informal gauges are intended to create an equal playing field of ideas, the sheer informality of such gauges creates a vector for bias and often conflates confidence with competence.
+Many technology companies describe themselves as pursuing meritocracy, defined as
+creating the conditions for talented employees to naturally rise to the top.
+Given there isn't any widely accepted measure of individual merit, such companies
+come to rely on what Nelson aptly termed “informal gauges of seniority.”
+While these gauges are believed to objectively evaluate ideas,
+their sheer informality becomes a broad vector of bias, and often conflate confidence with competence.
 
-The freedom from the cycle of re-establishing one’s competence came up frequently as a key advantage of the Staff title. [Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa) said,
+Freedom from the cycle of re-establishing one’s competence came up frequently as a key advantage of the Staff title.
+
+[Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa) said,
 
 > “What’s something that’s changed for you since becoming a Staff-plus engineer? Honestly? Being listened to and being treated like I have expertise. The title carries weight, and I’m taken more seriously from the jump.”
 
@@ -35,7 +42,11 @@ Similarly, [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) shared,
 
 > “When you have a title, you don’t have to spend so much energy putting your credentials on the table. It helps set the context for others. You’re more respected from the outset, and that’s been really noticeable.”
 
-A Staff-plus title allows you to reinvest the energy you’ve previously spent on proving yourself into the core work you’re evaluated on. If you find that you’re not investing much energy into this, perhaps you’ve been at your current company long enough to prove yourself many times over, then you may not even notice the difference. If you do find your time diverted towards proving and reproving yourself, the title will return a considerable measure of time to you for reinvestment.
+A Staff-plus title allows you to reinvest the energy you’ve previously spent on proving yourself into the core work you’re evaluated on. If you find that you’re not investing much energy into proving yourself, that's great!
+Perhaps you’ve been at your current company long enough and proven yourself enough times
+that it's no longer an issue.
+If you _do_ find your time diverted towards proving and reproving yourself,
+the title will return a considerable measure of time to you for reinvestment.
 
 
 ## Being in the room
@@ -48,7 +59,7 @@ Another frequent advantage of a Staff-plus title is “being in the room.” [Da
 
 > “Getting included in certain private email groups, being invited to performance calibration meetings, and so on. Calibration meetings are particularly important, because you can bring feedback that might not otherwise surface in a room of managers.”
 
-For any important decision, there’s the time leading up to the core decision being made and then there’s everything afterwards. In more senior roles, you’re often in the right place to provide input while it’s relatively cheap to incorporate, where otherwise your feedback  might not incorporated--despite being very valuable--because the related rollout or implementation has already begun.
+For any important decision, there’s the time leading up to the core decision being made and then there’s everything afterwards. In more senior roles, you’re often in the right place to provide input while it’s relatively cheap to incorporate, where otherwise your feedback  might not be incorporated--despite being very valuable--because the related rollout or implementation has advanced too far.
 
 
 ## Compensation
