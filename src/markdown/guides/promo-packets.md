@@ -6,7 +6,7 @@ slug: "/guides/promo-packets"
 ---
 
 
-Some folks think of their promotion packet as the capstone of reaching a Staff-pus role, but I’ve seen many folks succeed by taking an opposite approach: starting to write their first Staff promotion packet long before they think they’re likely to be promoted to Staff, much the way they might use a [brag document](https://jvns.ca/blog/brag-documents/). Used this way, your packet becomes the map to accomplishing your goal.
+Some folks think of their promotion packet as the capstone of reaching a Staff-plus role, but I’ve seen many folks succeed by taking an opposite approach: starting to write their first Staff promotion packet long before they think they’re likely to be promoted to Staff, much the way they might use a [brag document](https://jvns.ca/blog/brag-documents/). Used this way, your packet becomes the map to accomplishing your goal.
 
 It’s likely your company will have its own format for promotion packets, and _eventually_ you’ll need to translate your packet into that format before it’s submitted to an internal promotion committee or process, but there’s no need to rush it. You’ll spend more time relying on it as a guide than as a formal artifact for official review, so optimize for the former.
 
