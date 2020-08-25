@@ -46,7 +46,7 @@ const Layout = ({ children }) => {
         {` `}
         <Link to="/rss">RSS</Link>.
 	{` `}
-        <a href="https://github.com//lethain/staff-eng">Edit on Github</a>.
+        <a href="https://github.com/lethain/staff-eng">Edit on GitHub</a>.
       </footer>
     </div>
   );
