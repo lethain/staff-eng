@@ -11,7 +11,7 @@ The more folks I spoke with, the better their experiences clustered into four di
 
 The four common archetypes of Staff-plus roles I encountered are:
 
-* The **Team Lead** guides the approach and execution of a particular team. Most frequently they partner closely with a single manager, but sometimes they partner with two or three managers within a focused area.
+* The **Tech Lead** guides the approach and execution of a particular team. Most frequently they partner closely with a single manager, but sometimes they partner with two or three managers within a focused area.
 * The **Architect** is responsible for the direction, quality and approach within a critical area, both today and stretching into the multi-year future horizon. They combine a deep knowledge of technical constraints, user needs, and organization level leadership.
 * The **Solver** digs deep into arbitrarily complex problems and finds an appropriate path forward. Some focus on a given area for long periods, others bounce from hotspot to hotspot as guided by organizational leadership.
 * The **Right Hand** is a partner and an extension of an executive-level manager, borrowing their scope and authority to operate particularly complex organizations. They provide additional leadership bandwidth to leaders of large-scale organizations.
@@ -19,17 +19,17 @@ The four common archetypes of Staff-plus roles I encountered are:
 This taxonomy is more focused on being _useful_ than _complete_, but so far I’ve been able to fit every Staff-plus engineer I’ve spoken to into one of these categories, albeit certainly some folks fit more easily than others.
 
 
-## Team Lead
+## Tech Lead
 
 _Examples_: [Diana Pojar](/stories/diana-pojar), [Dan Na](/stories/dan-na), [Duretti Hirpa](/stories/duretti-hirpa), [Ritu Vincent](/stories/ritu-vincent)
 
-_Team Leads_ are the most common Staff archetype, and lead a team or small group of teams in their approach and execution. They’re comfortable scoping complex tasks, coordinating their team towards solving them, and unblocking them along the way. _Team Leads_ often carry the team’s context and maintain many of the essential cross-team and cross-functional relationships necessary for the team’s success.
+_Tech Leads_ are the most common Staff archetype, and lead a team or small group of teams in their approach and execution. They’re comfortable scoping complex tasks, coordinating their team towards solving them, and unblocking them along the way. _Tech Leads_ often carry the team’s context and maintain many of the essential cross-team and cross-functional relationships necessary for the team’s success.
 
 Earlier in their career they will have implemented their team’s most complex technical projects, but at this point they default to delegating such projects across the team. They do this both to grow their teammates and in acknowledgement that their team’s impact grows as their coding blocks shrink.
 
-The _Team Lead_ role is many folks their first experience as a Staff Engineer. A few forces conspire towards that result. First, the _Team Lead_ role tends to develop early on within companies that have a strong concept of team, which is common among companies using agile methodologies, and most companies attempt an agile approach at some point. Another factor is that the day-to-day work of a _Team Lead_ is most similar to the work you’d already be doing as a Senior Engineer, maybe it an intuitive transition.
+The _Tech Lead_ role is many folks their first experience as a Staff Engineer. A few forces conspire towards that result. First, the _Tech Lead_ role tends to develop early on within companies that have a strong concept of team, which is common among companies using agile methodologies, and most companies attempt an agile approach at some point. Another factor is that the day-to-day work of a _Tech Lead_ is most similar to the work you’d already be doing as a Senior Engineer, maybe it an intuitive transition.
 
-To acknowledge a source of potential confusion, some companies use _Team Lead_ as a title that you get promoted into instead of as a role. In this list of archetypes, the _Team Lead_ is one approach to operating as a Staff Engineer, but it’s quite common to operate in the _Team Lead_ role without having the impact expected of a Staff-level engineer. Indeed, you’ll find non-Staff engineers acting with the behaviors of every archetype. Being a Staff-engineer is not just a role, rather it’s the intersection of the role, your behaviors, your impact, and the organization’s recognition of all those things.
+To acknowledge a source of potential confusion, some companies use _Tech Lead_ as a title that you get promoted into instead of as a role. In this list of archetypes, the _Tech Lead_ is one approach to operating as a Staff Engineer, but it’s quite common to operate in the _Tech Lead_ role without having the impact expected of a Staff-level engineer. Indeed, you’ll find non-Staff engineers acting with the behaviors of every archetype. Being a Staff-engineer is not just a role, rather it’s the intersection of the role, your behaviors, your impact, and the organization’s recognition of all those things.
 
 
 ## Architect
@@ -51,7 +51,7 @@ The _Solver_ is a trusted agent of the organization who goes deep into knotty pr
 
 Where most Staff-level roles require a very heavy dose of organizational wrangling, the _Solver_ generally operates on problems that are already identified as organizational priorities, and thus are called on to do relatively little org-level chiropractics. On the other hand, they generally stop working on problems once they’re contained, which can create the feeling of transience, and requires a soft touch to avoid infuriating the teams left behind to maintain the “solved” problem.
 
-The _Solver_ is most common in companies with a weak concept of team, where team sprints are displaced by a lightly directed anarchy. In such companies, it’s common to see the _Solver_ become prevalent in the place of the _Team Lead_. You’re less likely to encounter this role at traditionally managed sprint-centric companies until those companies become relatively large or long-lived enough to acquire their own varietal of technical debt.
+The _Solver_ is most common in companies with a weak concept of team, where team sprints are displaced by a lightly directed anarchy. In such companies, it’s common to see the _Solver_ become prevalent in the place of the _Tech Lead_. You’re less likely to encounter this role at traditionally managed sprint-centric companies until those companies become relatively large or long-lived enough to acquire their own varietal of technical debt.
 
 
 ## Right Hand
@@ -76,7 +76,7 @@ As you think about which of these archetypes would fit you, you have to first co
 
 All companies develop a need for engineers who can fill the _Tech Lead_ role, which makes it the best entry archetype to Staff engineering. Companies with weak team constructs often develop the _Solver_ early, whereas companies that operate under strict sprints or agile methodologies tend to develop that role late, if ever. In the recent crops of fast growing technology companies, the _Architect_ and _Right Hand_ roles have generally emerged as the organizations reached one hundred and one thousand engineers respectively, and simply don’t exist beforehand. Companies with other strains of cultural DNA often develop them earlier, or sometimes never.
 
-Success in these roles requires remaining engaged, which makes it important to spend time understanding what kinds of work energize you. The _Team Lead_ and _Architect_ tend to work with the same people on the same problems over the course of years, developing a tight sense of team and shared purpose. Some months their focus will be a top company priority, and sometimes they’ll be humming along so well that executives forget your team exists.
+Success in these roles requires remaining engaged, which makes it important to spend time understanding what kinds of work energize you. The _Tech Lead_ and _Architect_ tend to work with the same people on the same problems over the course of years, developing a tight sense of team and shared purpose. Some months their focus will be a top company priority, and sometimes they’ll be humming along so well that executives forget your team exists.
 
 The _Solver_ and _Right Hand_ bounce from fire to fire, often having more transactional interactions with the folks they’re working with on any given week. They’re tightly aligned with executive priorities and are likely to receive recognition for addressing leadership’s most pressing problems. On the other hand, while they’ll nominally be on a team with other folks, there will generally be little-to-no overlap within their team’s areas of focus, and they’ll often have a limited sense of community.
 
