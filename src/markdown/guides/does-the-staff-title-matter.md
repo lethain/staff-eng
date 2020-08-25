@@ -77,7 +77,7 @@ Even if your current company doesn’t compensate for Staff-plus engineer roles 
 Many folks take on Staff-plus roles believing it will give them access to the most impactful or exciting work.
 That’s true to some extent, but it depends on the Staff archetypes which are most prevalent at your company.
 For example, _Solvers_ often do get access to the most interesting work.
-Conversely, a _Team Lead_ would probably be undermining their own team if they operated that way.
+Conversely, a _Tech Lead_ would probably be undermining their own team if they operated that way.
 
 Among the folks I’ve spoken with, the most consistently effective way to get access to interesting work is being hired to do it, such as [Ritu Vincent](https://staffeng.com/stories/ritu-vincent) hired to launch Dropbox's product incubator and [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) hired to design Fastly's API strategy.
 
