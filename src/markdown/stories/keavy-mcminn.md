@@ -59,13 +59,13 @@ I help get other people to care about the same things, like I’m going to start
 
 ___How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?___
 
-This hasn’t been as much of a focus for me in my current role. At Github I was conscious that I had privileges from my seniority and tenure, and sponsored an engineer there. I would give him more and more challenging things to work on, encouraged him to question anything that was unclear or curious to him about my work, and advocated for further responsibility and recognition for him.
+This hasn’t been as much of a focus for me in my current role. At GitHub I was conscious that I had privileges from my seniority and tenure, and sponsored an engineer there. I would give him more and more challenging things to work on, encouraged him to question anything that was unclear or curious to him about my work, and advocated for further responsibility and recognition for him.
 
 ___How did you build organizational trust?___
 
 At Fastly, I was given trust from the beginning. When I joined, I was hired to come in and work on specific things. I remember asking, “Is there a time scale for this?” and for their notions about strategy, and being told explicitly that they wanted _me_ to figure it out and tell _them_. So definitely a lot of trust and responsibility.
 
-There are pros and cons of when you build that trust instead of being hired with it. As you build up trust, you simultaneously build up a lot of context, which is how it worked for me at Github. Although, I find in my current job that it was actually really useful to come in without context and be a set of fresh eyes. That makes it easy to question when folks think, “Oh, well, maybe we’ve just always done it this way.” It can be liberating not to be tied to the past.
+There are pros and cons of when you build that trust instead of being hired with it. As you build up trust, you simultaneously build up a lot of context, which is how it worked for me at GitHub. Although, I find in my current job that it was actually really useful to come in without context and be a set of fresh eyes. That makes it easy to question when folks think, “Oh, well, maybe we’ve just always done it this way.” It can be liberating not to be tied to the past.
 
 ___There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a "Staff Project," and if so what was it?___
 

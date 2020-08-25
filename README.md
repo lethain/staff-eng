@@ -29,7 +29,7 @@ Roughly following [these instructions](https://www.gatsbyjs.org/docs/how-gatsby-
 
     npm run deploy
 
-Longer term I'd like to figure out how to get CI/CD setup using [Github Actions](https://help.github.com/en/actions/creating-actions)
+Longer term I'd like to figure out how to get CI/CD setup using [GitHub Actions](https://help.github.com/en/actions/creating-actions)
 and these [gatsby deploy instructions](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/).
-Or maybe [this github action](https://github.com/enriikke/gatsby-gh-pages-action)? Although I think that one assumes a different
+Or maybe [this GitHub Action](https://github.com/enriikke/gatsby-gh-pages-action)? Although I think that one assumes a different
 branch structure, which is fine.
