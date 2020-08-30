@@ -12,18 +12,13 @@ chapters:
   - title: Before Staff
     sections:
       - title: Overview
-      - title: Build Something Important
-      - title: Own Something Hard
-      - title: Help Without Owning
-      - title: Getting in the room
+      - title: Build something hard
+      - title: Own something important
+      - title: Be easy to know
+      - title: Build organizational trust
+      - title: Get in the room
         slug: getting-in-the-room
-      - title: Organizational Trust
-      - title: Be Easy to Know and to Find
-      - title: Think broadly & build broad skills
-      - title: Org-scoped Projects
       - title: "Communication: Written, Verbal, Meetings, and Public"
-      - title: Fill the gaps
-      - title: Impact beyond yourself
       - title: Navigate ambiguity
       - title: Give feedback
   - title: Getting the title
@@ -51,11 +46,8 @@ chapters:
       - title: Create space for others
         slug: create-space-for-others
       - title: Build a network of peers
-      - title: Work on the important questions
-      - title: Work on the System
-      - title: Know when to break glass
-      - title: Dig into problems
-      - title: Knowing & not knowing
+      - title: Work on what matters
+        draft: https://docs.google.com/document/d/1pNzmBV0szri7Vjr4RA3N80J3fmZHTU2juCWqdNkQ1Eo/edit#
       - title: Strategy, vision and North stars
       - title: Maintain technical quality
       - title: Scale organizational learning
