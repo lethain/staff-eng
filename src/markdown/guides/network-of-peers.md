@@ -1,7 +1,7 @@
 ---
 title: "Build a network of peers"
 slug: "/guides/network-of-peers"
-date: "2020-09-04"
+date: "2020-09-03"
 kind: "guide"
 ---
 

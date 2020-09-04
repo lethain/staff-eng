@@ -48,7 +48,7 @@ chapters:
       - title: Build a network of peers
         slug: network-of-peers
       - title: Work on what matters
-        draft: https://docs.google.com/document/d/1pNzmBV0szri7Vjr4RA3N80J3fmZHTU2juCWqdNkQ1Eo/edit#
+        slug: work-on-what-matters
       - title: Strategy, vision and North stars
       - title: Maintain technical quality
       - title: Scale organizational learning
