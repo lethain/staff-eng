@@ -13,6 +13,11 @@ or building a powerful network of colleagues. This section is a collection of re
 
 Almost unanimously Staff-plus engineers’ most valuable learning resource weren’t a book, blog, talk or paper, but instead their network of peers and mentors. If you only have one hour to develop yourself as an engineer, your best bet would be [meeting people](https://lethain.com/meeting-people/) in similar roles.
 
+If you're looking for a Slack community, `#staff-principal-engineering` in the
+[Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
+is a fairly lively room.
+
+
 ### What do Staff-plus Engineers do?
 
 Folks’ descriptions of their roles:
