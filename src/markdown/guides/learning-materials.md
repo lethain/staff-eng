@@ -1,5 +1,5 @@
 ---
-title: "Further learning"
+title: "Additional resources on Staff-plus engineering"
 slug: "/guides/learning-materials"
 date: "2020-06-21"
 kind: "guide"
