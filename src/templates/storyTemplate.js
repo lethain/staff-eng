@@ -14,7 +14,7 @@ export default function Template(
   if (frontmatter.kind == "guide") {
     return (
       <Layout>
-        <SEO title={frontmatter.title} />
+        <SEO title={frontmatter.title} content="article" />
         <h4 className="quiet">
           <a href={"/guides"}>Guides</a>
           {" / "}
@@ -34,7 +34,7 @@ export default function Template(
   } else if (frontmatter.kind == "story") {
     return (
       <Layout>
-        <SEO title={frontmatter.name + " - " + frontmatter.role} />
+            <SEO title={frontmatter.name + " - " + frontmatter.role} content="article" />
         <h2 className="lead">{frontmatter.name}</h2>
         <h4 className="quiet">{frontmatter.role}</h4>
         <div

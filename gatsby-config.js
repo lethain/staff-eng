@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `StaffEng`,
-    description: `Stories of folks reaching Staff-plus engineering levels.`,
+    description: `Stories of folks reaching Staff Engineer roles.`,
+    content: "website",
     author: `@lethain`,
     mailingListURL: (
       `https://lethain.us20.list-manage.com/subscribe/post?u=f7003ed301623a88fab7cf783&amp;id=9c7b745cce`
@@ -19,6 +20,12 @@ module.exports = {
 
             }
         },
+	{
+	    resolve: 'gatsby-plugin-robots-txt',
+	    options: {
+		policy: [{ userAgent: '*', allow: '/' }]
+	    }
+	},
     {
       resolve: `gatsby-plugin-feed`,
       options: {
