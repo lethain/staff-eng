@@ -31,7 +31,7 @@ export default function Template(
         </p>
       </Layout>
     );
-  } else {
+  } else if (frontmatter.kind == "story") {
     return (
       <Layout>
         <SEO title={frontmatter.name + " - " + frontmatter.role} />
@@ -46,7 +46,17 @@ export default function Template(
         </p>
       </Layout>
     );
-  }
+  } else {
+    return (
+      <Layout>
+        <SEO title={frontmatter.title} />
+        <div
+          className="blog-post-content"
+          dangerouslySetInnerHTML={{ __html: html }}
+        />
+      </Layout>
+    );
+  }      
 }
 
 export const pageQuery = graphql`
