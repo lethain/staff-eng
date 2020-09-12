@@ -1,16 +1,14 @@
-import React from "react";
-import { graphql } from "gatsby";
+import React from "react"
+import { graphql } from "gatsby"
 
-import Layout from "../components/layout";
-import SEO from "../components/seo";
+import Layout from "../components/layout"
+import SEO from "../components/seo"
 
-export default function Template(
-  {
-    data // this prop will be injected by the GraphQL query below.
-  }
-) {
-  const { markdownRemark } = data; // data.markdownRemark holds your post data
-  const { frontmatter, html } = markdownRemark;
+export default function Template({
+  data, // this prop will be injected by the GraphQL query below.
+}) {
+  const { markdownRemark } = data // data.markdownRemark holds your post data
+  const { frontmatter, html } = markdownRemark
   if (frontmatter.kind == "guide") {
     return (
       <Layout>
@@ -25,16 +23,23 @@ export default function Template(
           dangerouslySetInnerHTML={{ __html: html }}
         />
         <p class="center">
-          <em><a href="/guides">Read another guide?</a></em>
-          {" "}or{" "}
-          <em><a href="/stories">Back to the stories?</a></em>
+          <em>
+            <a href="/guides">Read another guide?</a>
+          </em>{" "}
+          or{" "}
+          <em>
+            <a href="/stories">Back to the stories?</a>
+          </em>
         </p>
       </Layout>
-    );
+    )
   } else if (frontmatter.kind == "story") {
     return (
       <Layout>
-            <SEO title={frontmatter.name + " - " + frontmatter.role} content="article" />
+        <SEO
+          title={frontmatter.name + " - " + frontmatter.role}
+          content="article"
+        />
         <h2 className="lead">{frontmatter.name}</h2>
         <h4 className="quiet">{frontmatter.role}</h4>
         <div
@@ -42,10 +47,12 @@ export default function Template(
           dangerouslySetInnerHTML={{ __html: html }}
         />
         <p class="center">
-          <em><a href="/stories">Ready to read another story?</a></em>
+          <em>
+            <a href="/stories">Ready to read another story?</a>
+          </em>
         </p>
       </Layout>
-    );
+    )
   } else {
     return (
       <Layout>
@@ -55,8 +62,8 @@ export default function Template(
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </Layout>
-    );
-  }      
+    )
+  }
 }
 
 export const pageQuery = graphql`
@@ -73,4 +80,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

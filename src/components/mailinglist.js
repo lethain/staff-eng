@@ -1,15 +1,15 @@
-import PropTypes from "prop-types";
-import React from "react";
+import PropTypes from "prop-types"
+import React from "react"
 
 class MailingList extends React.Component {
   constructor(props) {
-    super(props);
-    this.url = props.url;
-    this.state = { value: "" };
-    this.handleChange = this.handleChange.bind(this);
+    super(props)
+    this.url = props.url
+    this.state = { value: "" }
+    this.handleChange = this.handleChange.bind(this)
   }
   handleChange(event) {
-    this.setState({ value: event.target.value });
+    this.setState({ value: event.target.value })
   }
 
   render() {
@@ -65,16 +65,16 @@ class MailingList extends React.Component {
           </div>
         </form>
       </div>
-    );
+    )
   }
 }
 
 MailingList.propTypes = {
-  url: PropTypes.string
-};
+  url: PropTypes.string,
+}
 
 MailingList.defaultProps = {
-  url: ``
-};
+  url: ``,
+}
 
-export default MailingList;
+export default MailingList

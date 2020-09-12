@@ -1,12 +1,10 @@
-import React from "react";
-import { Link } from "gatsby";
+import React from "react"
+import { Link } from "gatsby"
 
 const GuideLink = ({ post }) => (
   <li>
-    <Link to={post.frontmatter.slug}>
-      {post.frontmatter.title}
-    </Link>
+    <Link to={post.frontmatter.slug}>{post.frontmatter.title}</Link>
   </li>
-);
+)
 
-export default GuideLink;
+export default GuideLink

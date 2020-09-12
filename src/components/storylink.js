@@ -1,5 +1,5 @@
-import React from "react";
-import { Link } from "gatsby";
+import React from "react"
+import { Link } from "gatsby"
 
 const StoryLink = ({ post }) => (
   <li>
@@ -7,6 +7,6 @@ const StoryLink = ({ post }) => (
       {post.frontmatter.name} - {post.frontmatter.role}
     </Link>
   </li>
-);
+)
 
-export default StoryLink;
+export default StoryLink

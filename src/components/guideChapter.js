@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 const GuideChapter = ({ chapter }) => {
   const Sections = chapter.sections.map(section => {
@@ -7,17 +7,20 @@ const GuideChapter = ({ chapter }) => {
         <li key={section.title}>
           <a href={"/guides/" + section.slug}>{section.title}</a>
         </li>
-      );
+      )
     } else if (section.draft) {
       return (
         <li key={section.title}>
-          {section.title} <a href={section.draft} target={" _blank"}>DRAFT</a>
+          {section.title}{" "}
+          <a href={section.draft} target={" _blank"}>
+            DRAFT
+          </a>
         </li>
-      );
+      )
     } else {
-      return <li key={section.title}>{section.title}</li>;
+      return <li key={section.title}>{section.title}</li>
     }
-  });
+  })
 
   return (
     <li key={chapter.title}>
@@ -25,7 +28,7 @@ const GuideChapter = ({ chapter }) => {
       <strong>{chapter.title}</strong>
       <ol>{Sections}</ol>
     </li>
-  );
-};
+  )
+}
 
-export default GuideChapter;
+export default GuideChapter
