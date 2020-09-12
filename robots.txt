@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://staffeng.com/sitemap.xml
+Host: https://staffeng.com
