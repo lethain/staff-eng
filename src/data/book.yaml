@@ -22,7 +22,7 @@ chapters:
       - title: Get in the room, and stay there
         slug: getting-in-the-room
       - title: Being visible
-        draft: https://docs.google.com/document/d/1EmJwx_uBUmspYf5dFiTYedb3tzjuIRCwGZBzN6j2rDg/edit
+        slug: being-visible
   - title: Getting the title somewhere else
     sections:
       - title: Deciding to switch companies
