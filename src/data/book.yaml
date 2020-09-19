@@ -26,7 +26,7 @@ chapters:
   - title: Getting the title somewhere else
     sections:
       - title: Deciding to switch companies
-        draft: https://docs.google.com/document/d/12xC7Q6fDMF5JXWTBJyjkOTjl5_GZbb3S0gGlUGiNMyU/edit    
+        slug: deciding-to-switch
       - title: Finding the right company
         draft: https://docs.google.com/document/d/1rsJKqfAHd25azP2UU4yN5MoU-u5edybKOmO5D4mvVAc/edit
       - title: Interviewing for Staff-plus roles
