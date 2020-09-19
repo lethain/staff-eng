@@ -3,7 +3,7 @@ title: "Stephen Wan - Staff Engineer at Samsara"
 name: "Stephen Wan"
 role: "Staff Engineer at Samsara"
 slug: "/stories/stephen-wan"
-date: "2020-09-17"
+date: "2020-09-20"
 kind: "story"
 ---
 
