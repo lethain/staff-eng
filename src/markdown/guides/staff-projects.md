@@ -51,7 +51,9 @@ However, it’s also true that many companies require, or informally enforce, St
 
 [Ritu Vincent](https://staffeng.com/stories/ritu-vincent) describes her experience at Dropbox,
 
-> I definitely had a Staff Project… Important note: The promotion didn’t come until I had also served some meaningful time as tech lead and delivered a lot of value there. But this project was definitely the firestarter.
+> I definitely had a Staff Project. Back in the day, Dropbox was initially a consumer product that people downloaded and installed on their machines. When we launched Dropbox for Business there was a request for both your personal and work Dropbox accounts to work simultaneously, including being able to switch across them without needing to log out and log back in.
+> The initial implementation was written under immense time pressure, and it ran multiple Dropbox processes. One for your personal account and another for business. My Staff project was to make it so a single Dropbox process could run with multiple users logged in. The hard part was that the project stretched from the kernel all the way to the user interface. I had to understand every single layer of the Dropbox system.
+> Initially we thought it would take six months, and it ended up taking eighteen months. It took up most of the Desktop Client team’s resources for quite a while.
 
 [Ras Kasa Williams](https://staffeng.com/stories/ras-kasa-williams) joined an inflight project that he later became the lead on, which served as his Staff project:
 
