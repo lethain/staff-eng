@@ -34,7 +34,7 @@ To acknowledge a source of potential confusion, some companies use _Tech Lead_ a
 
 ## Architect
 
-_Examples_: [Joy Ebertz](/stories/joy-ebertz), Katie Sylor-Miller, [Keavy McMinn](/stories/keavy-mcminn), [Silvia Botros](/stories/silvia-botros)
+_Examples_: [Joy Ebertz](/stories/joy-ebertz), [Katie Sylor-Miller](/stories/katie-sylor-miller), [Keavy McMinn](/stories/keavy-mcminn), [Silvia Botros](/stories/silvia-botros)
 
 The _Architect_ title has fallen out of style in many companies, but the _Architect_ role remains alive and well for folks operating at Staff-plus levels. _Architects_ are responsible for the success of a specific technical domain within their company, for example the company’s API design, frontend stack, storage strategy or cloud infrastructure. For a domain to merit an _Architect_, it must be both complex _and_ enduringly central to the company’s success.
 
