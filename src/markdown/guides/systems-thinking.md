@@ -40,7 +40,7 @@ They focus on four measures of developer velocity:
 1.  **Time to restore service** is time spent recovering from defects.
 
 The book uses surveys from tens of thousands of organizations to assess their
-overall producitivity and show how it correlates to their performance on those
+overall productivity and show how it correlates to their performance on those
 four dimensions.
 
 ![System diagram for developer productivity.](/static/systems/dev-velocity-sys.png)
