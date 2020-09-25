@@ -27,7 +27,7 @@ If you’re operating without much visibility within your company, this may like
 
 ---
 
-It’s interesting to briefly reflect on how inclusive organizations mitigate the negative gatekeeping aspects of validating folks are appropriate additions to your leadership team. The answer is that they design mechanisms to ensure the _full_ swath of potential leaders get exposure to the folks who will evaluate them for leadership roles. Conversely, less inclusive organizations inadvertently center access on folks who most aggressively self-advertise.
+It’s interesting to briefly reflect on how inclusive organizations mitigate the negative gatekeeping aspects of validating folks as appropriate additions to your leadership team. The answer is that they design mechanisms to ensure the _full_ swath of potential leaders get exposure to the folks who will evaluate them for leadership roles. Conversely, less inclusive organizations inadvertently center access on folks who most aggressively self-advertise.
 
 ## Internal visibility
 
@@ -59,4 +59,4 @@ In terms of how to create this sort of visibility for yourself and your work, it
 
 You can always have more visibility within your organization, but at some point increasing your visibility is likely reducing the opportunities for others to create visibility for themselves. Internal visibility is not strictly zero-sum, but it’s constrained by the attention of the folks you want to see your work.
 
-My advice would be to use the [promotion packet exercise](https://staffeng.com/guides/promo-packets) to identify if lack of visibility is likely to hold you back in the promotion process. If so, work to clear that threshold, but not much further. Visibility is a transient currency, learning and developing yourself is a permanent one; focus on the later once you’ve done the minimum to clear the former’s cliff.
+My advice would be to use the [promotion packet exercise](https://staffeng.com/guides/promo-packets) to identify if lack of visibility is likely to hold you back in the promotion process. If so, work to clear that threshold, but not much further. Visibility is a transient currency, learning and developing yourself is a permanent one; focus on the latter once you’ve done the minimum to clear the former’s cliff.

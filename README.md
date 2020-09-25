@@ -7,11 +7,10 @@ The built assets live in the `ghpage` branch.
 Read the instructions at [staffeng.com/share](https://staffeng.com/share),
 but it's basically submitting a story to `src/markdown` in the same format
 as the existing stories!
-    
 
 ## Development
 
-Install Gatsby, then run:
+[Install Gatsby](https://www.gatsbyjs.com/get-started/), then run:
 
     gatsby develop
 

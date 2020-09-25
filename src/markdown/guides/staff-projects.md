@@ -28,7 +28,7 @@ When I asked folks whether they had a Staff project, some of the answers were qu
 
 *   [Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa ), “I was hired in at Staff, so no.”
 *   [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), “I actually didn’t really have a Staff Project.”
-*   [Diana Pojar](https://staffeng.com/stories/diana-pojar), “No, I did not have an assigned ‘Staff Project’ and that is not something that it’s part of the promotion process at Slack.”
+*   [Diana Pojar](https://staffeng.com/stories/diana-pojar), “No, I did not have an assigned ‘Staff Project’ and that is not something that is part of the promotion process at Slack.”
 
 Some folks were even skeptical of the Staff project concept overall. [Nelson Elhage](https://staffeng.com/stories/nelson-elhage ) said,
 
@@ -92,7 +92,7 @@ While deciding that you want to take on a Staff project is the first step, you s
 This comes down to three factors.
 
 1. First, is learning to stay aligned with your leadership team, some strategies for which are described in [Getting in the room](https://staffeng.com/guides/getting-in-the-room) and [Staying aligned with authority](https://staffeng.com/guides/staying-aligned-with-authority).
-2. Second, you need to be known to have the technical aptitude for the problem at hand, which requires _being visible_, the topic of a yet-to-be-written StaffEng piece.
+2. Second, you need to be known to have the technical aptitude for the problem at hand, which requires [Being Visible](https://staffeng.com/guides/being-visible).
 3. Third, is less in your control, which is your company having a pressing need to solve a Staff-level problem, which can require some patience.
 
 

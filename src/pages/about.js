@@ -65,7 +65,7 @@ const AboutPage = () => (
     </p>
     <p>
       Finally, I hope to use those learnings to craft a small number of
-      resources to help draft their own map to Staff Engineer. What should you
+      resources to help others draft their own map to Staff Engineer. What should you
       do in the first ninety days as a Staff Engineer? What are the highest
       leverage activities? What should you stop doing? What are the resources
       you can rely upon? Hopefully we can provide good resources for all of
@@ -103,7 +103,7 @@ const AboutPage = () => (
       </a>
       , and wanted to start on a new project that could eventually lead to
       another book while addressing some of the areas I felt my first work could
-      have been better. Particularly, a more cohesive structure and moving
+      have been better in. Particularly, a more cohesive structure and moving
       beyond my own experiences to operate through a broader lens.
     </p>
 
@@ -113,7 +113,7 @@ const AboutPage = () => (
       or simply sharing these stories out to folks who would benefit from them.
     </p>
     <p>
-      When I starting working on this project, I wrote up some notes on how I'd
+      When I started working on this project, I wrote up some notes on how I'd
       determine this project's success, and a big part of that is the number of
       folks who reach out to say that these stories have helped them. If they've
       helped you, please let me know on Twitter at{" "}

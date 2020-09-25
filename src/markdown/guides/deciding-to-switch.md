@@ -7,7 +7,7 @@ kind: "guide"
 
 My father was a professor of economics. After he completed his PhD in his late twenties, he started teaching at one university, got tenure at that university, and walked out forty-some years later into retirement. Working in technology, that sounds like a fairytale.
 
-There are very few software companies with a forty-year track record, and even fewer folks whose[ forty-year career](https://lethain.com/forty-year-career/) consisted of one employer. There used to be a meme that many engineers spent either one or four years at each company to maximize their equity grants and then bounced on to the next. If that ever happened, it certainly isn’t common behavior for folks who aspire towards or reach Staff-plus roles.
+There are very few software companies with a forty-year track record, and even fewer folks whose [forty-year career](https://lethain.com/forty-year-career/) consisted of one employer. There used to be a meme that many engineers spent either one or four years at each company to maximize their equity grants and then bounced on to the next. If that ever happened, it certainly isn’t common behavior for folks who aspire towards or reach Staff-plus roles.
 
 Instead, generally those folks stay, and are rewarded for staying, at a given company as long as the circumstances support their success. If those circumstances change, they tend to either leave shortly thereafter or spend a while burning out and then leave after exhausting their emotional reservoir.
 
@@ -32,7 +32,7 @@ If your current team is very senior, it may be hard to justify your impact at th
 
 Conversely, when you interview for new roles, you can simply keep interviewing until you find a company that’s able to grant the title. The interview process often brings an automatic sponsor with it -- the hiring manager -- whose incentives will never be more aligned with yours than in the interview process.
 
-The technical interviews are an inconsistent and unreliable predictor of success, which is bad for the industry and bad for companies, but works in your favor if you’re set on attaining a Staff-plus role and are willing to conduct a broad search. Interviewing creates the opportunity to play “bias arbitrage,” finding a company that values your particular brand of bullshit disproportionately. That might be a company that values folks with conference speaking visibility, your experience designing APIs, or [your PhD thesis on compilers](https://staffeng.com/stories/dmitry-petrashko).
+The technical interviews are an inconsistent and unreliable predictor of success, which is bad for the industry and bad for companies, but works in your favor if you’re set on attaining a Staff-plus role and are willing to conduct a broad search. Interviewing creates the opportunity to play “bias arbitrage”, finding a company that values your particular brand of bullshit disproportionately. That might be a company that values folks with conference speaking visibility, your experience designing APIs, or [your PhD thesis on compilers](https://staffeng.com/stories/dmitry-petrashko).
 
 Similarly, sometimes you’ll get into a rut at a company where your reputation is preventing forward progress. Perhaps you’ve tagged “difficult” after flagging inclusion issues. Maybe you embarrassed an influential Director at lunch and they’re blocking your promotion. A new company lets you leave that baggage behind.
 

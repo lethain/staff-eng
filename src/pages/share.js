@@ -42,7 +42,7 @@ const SharePage = () => (
         </a>
         . By submitting a story to StaffEng, you are agreeing to have it
         published under this license. If this isn't a license you're comfortable
-        with, that's totally ok!, but unfortunately we won't be including it on
+        with, that's totally ok, but unfortunately we won't be including it on
         StaffEng.
       </li>
       <li>
@@ -69,7 +69,7 @@ const SharePage = () => (
 
     <p>
       This is all early. If you have suggestions for different questions, how
-      this approach of project can be improved, or what not, please send a note.
+      the approach of the project can be improved, or what not, please send a note.
     </p>
   </Layout>
 )

@@ -15,16 +15,16 @@ The good news if you’re applying to a new company is that while you might inve
 
 If career velocity is your aim, then join a company that, for whatever reason, disproportionately values what you’re good at. For example, Fastly valued [Keavy’s API design experience](https://staffeng.com/stories/keavy-mcminn), and Stripe valued [Dmitry’s work on compilers](https://staffeng.com/stories/dmitry-petrashko). If there’s a gap matching your particular shape that’s limiting their success, your impact on the company will be uniquely high.
 
-Well run organizations value you for what you’re good at. Less well run companies value you for your identity, for example a culture that views aggression as leadership would indeed promote and center the most aggressive folks, but to their culture’s and team’s detriment. Sometimes you’ll find a company that nets you values you appropriately because it values your incidentals without valuing your contributions that you consider to be valuable; that seems like it’ll work out, but generally speaking it’s a recipe for frustration.
+Well run organizations value you for what you’re good at. Less well run companies value you for your identity, for example a culture that views aggression as leadership would indeed promote and center the most aggressive folks, but to their culture’s and team’s detriment. Sometimes you’ll find a company that net values you appropriately because it values your incidentals without valuing your contributions that you consider to be valuable; that seems like it’ll work out, but generally speaking it’s a recipe for frustration.
 
 
 ## Meritocrats and Proceduralists
 
-When you’re trying to identify your company to make the Staff transition, there are a number of company values to consider in your decision. One that’s particularly important is understanding if the company’s leadership fundamentally subscribes to an exception-heavy “meritocratic” view of the world or a consistency-heavy “proceduralist” view. Few companies exist exclusively at one end of this continuum, but most slant heavily in one direction.
+When you’re trying to identify your company to make the Staff transition to, there are a number of company values to consider in your decision. One that’s particularly important is understanding if the company’s leadership fundamentally subscribes to an exception-heavy “meritocratic” view of the world or a consistency-heavy “proceduralist” view. Few companies exist exclusively at one end of this continuum, but most slant heavily in one direction.
 
-Of course, folks won’t describe themselves in these terms. The first style would have called themselves a meritocracy a few years ago. Now that the term has fallen out of favor they’d avoid it, but their core beliefs remain intact. This style is particularly common in Silicon Valley, is heavily exception driven, and consolidates its efforts feting a small cadre of treasured individuals. Generally, in these companies, you’re going to be very successful if you pattern match with whatever they believe high potential looks like. You’re like in for a rough ride if you don’t.
+Of course, folks won’t describe themselves in these terms. The first style would have called themselves a meritocracy a few years ago. Now that the term has fallen out of favor they’d avoid it, but their core beliefs remain intact. This style is particularly common in Silicon Valley, is heavily exception driven, and consolidates its efforts feting a small cadre of treasured individuals. Generally, in these companies, you’re going to be very successful if you pattern match with whatever they believe high potential looks like. You’re likely in for a rough ride if you don’t.
 
-Another style of company you’ll find out there, believes that consistency drives fairness. They’re the sort that [work the policy rather than the exceptions](https://lethain.com/work-policy-not-exceptions/): they design the clock, set it in motion, watch it tick, and make occasional repairs. These companies tend to be more structure-driven and less intuition-driven, which can create wider access to opportunity for more folks, but they can also be rigid bureaucracy whose look on smugly while their machinery grinds an individual down.
+Another style of company you’ll find out there, believes that consistency drives fairness. They’re the sort that [work the policy rather than the exceptions](https://lethain.com/work-policy-not-exceptions/): they design the clock, set it in motion, watch it tick, and make occasional repairs. These companies tend to be more structure-driven and less intuition-driven, which can create wider access to opportunity for more folks, but they can also be rigid bureaucracies who look smugly on while their machinery grinds an individual down.
 
 Inevitably, both meritocrats and proceduralists view their world-view as a moral position, and depending on who you are and who the company’s leadership is, you’ll have a radically different experience.
 
@@ -32,12 +32,12 @@ Some ways to explore during your interview process to help distinguish these min
 
 
 
-*   Companies with rigid compensation bands and who _actually_ _stick to them_ tend to be run by Proceduralists. Those that willing eskew their bands are Meritocrats.
+*   Companies with rigid compensation bands and who _actually_ _stick to them_ tend to be run by Proceduralists. Those that willingly eschew their bands are Meritocrats.
 *   Companies that create one-off roles for individuals to get them onboard tend to be run by Meritocrats. Those that hire to their planned roles are Proceduralists.
 *   Companies with ad-hoc or unstructured interview processes looking to get your “feel”, particularly for senior roles, tend to be run by Meritocrats. More structure means Proceduralists.
 *   Companies that perform ad-hoc conjurations of new, rubric-less interviews tend to be run by Meritocrats. Those that evaluate you rigidly, even if it doesn’t let you shine, tend to be Proceduralists.
 
-Neither meritocratic nor proceduralistic companies have inherently better odds of propelling you into a Staff-plus role, rather it’ll depend on your identity, and the identities of folks in a company’s  leadership roles. Depending on how those pieces align, you can estimate the level of support and friction you’ll encounter pursuing a Staff-plus rol.
+Neither meritocratic nor proceduralistic companies have inherently better odds of propelling you into a Staff-plus role, rather it’ll depend on your identity, and the identities of folks in a company’s leadership roles. Depending on how those pieces align, you can estimate the level of support and friction you’ll encounter pursuing a Staff-plus role.
 
 
 ## Archetypes
@@ -81,6 +81,6 @@ Throughout a [forty year career](https://lethain.com/forty-year-career/), there 
 
 ## And everything else, too
 
-Job searches for leadership roles are much slower than the typical software search, taking months rather than weeks, and it’s trying to rush it rarely works out. As you evaluate a company about where it’s an effective place to reach a Staff-plus role, you also have to evaluate it for everything else that you’d evaluate in a typical process.
+Job searches for leadership roles are much slower than the typical software search, taking months rather than weeks, and it’s trying to rush it rarely works out. As you evaluate a company about whether it’s an effective place to reach for a Staff-plus role in, you also have to evaluate it for everything else that you’d evaluate in a typical process.
 
 Dig into your whisper network for toxic issues and individuals. Make sure the mission is something you can stay supportive of and engaged with for years. Search for the folks you’ll be able to learn from during your work. If you find that these Staff criteria are pulling you towards a company that you otherwise have concerns about, the good money is that you’ll regret that decision.
