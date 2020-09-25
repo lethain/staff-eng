@@ -24,13 +24,13 @@ Changes to stocks are called _flows_. These can be either _inflows_ or _outflows
 
 The other relationship, represented in this article by a dashed line, is an _information link_. These indicate that the value of a stock is a factor in the size of a flow. Indicated in this diagram by a dashed line. The link here shows that the time available for developing features depends on the number of trained managers.
 
-Often stocks outside of a diagrams scope will be represented as a cloud, indicating that there is something complex happened there that we're not currently exploring. It's best practice to label every flow, and to keep in mind that every flow is a rate, whereas every stock is a quantity.
+Often stocks outside of a diagrams scope will be represented as a cloud, indicating that there is something complex that  happened there that we're not currently exploring. It's best practice to label every flow, and to keep in mind that every flow is a rate, whereas every stock is a quantity.
 
 
 ## Developer velocity
 
 When I started thinking of a useful example of where systems thinking is useful, one came to mind immediately.
-Since reading Forgren's [Accelerate](https://lethain.com/accelerate-developer-productivity/) earlier this year, I've spent a lot of time pondering their definition of velocity.
+Since reading Forsgren's [Accelerate](https://lethain.com/accelerate-developer-productivity/) earlier this year, I've spent a lot of time pondering their definition of velocity.
 
 They focus on four measures of developer velocity:
 
@@ -40,7 +40,7 @@ They focus on four measures of developer velocity:
 1.  **Time to restore service** is time spent recovering from defects.
 
 The book uses surveys from tens of thousands of organizations to assess their
-overall producitivty and show how it correlates to their performance on those
+overall producitivity and show how it correlates to their performance on those
 four dimensions.
 
 ![System diagram for developer productivity.](/static/systems/dev-velocity-sys.png)

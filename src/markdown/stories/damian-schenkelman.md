@@ -21,7 +21,7 @@ At the time of writing, I am working with a group of [Identity and Access Manage
 
 Within Engineering, we are organized in domains (today Identity & Access Management, Developer Experience, Service Management, and Platform). Auth0's Staff Engineers are people that can technically lead teams within a domain. A Staff Engineer would typically be part of a single team in a domain, while also being able to actively contribute to initiatives across the scope of a domain.
 
-Principal is the next level in our ladder. Principal Engineers can either be in a specific team (depth) or work with multiple teams and their scope spans the entire organization (breadth). Today I am operating in "breadth mode". This means both working on specific initiatives and also the definition of technical strategy, technology choices for our Platform, and leading the Design and Architecture workgroup (a.k.a. DNA). 
+Principal is the next level in our ladder. Principal Engineers can either be in a specific team (depth) or work with multiple teams and their scope spans the entire organization (breadth). Today I am operating in "breadth mode". This means both working on specific initiatives and also the definition of technical strategy, technology choices for our Platform, and leading the Design and Architecture workgroup (a.k.a. DNA).
 
 DNA has 6 members (3 permanent Principal, and 3 Staff/Senior II that rotate every 6 months). The workgroup defines decisions and guidelines to help drive Auth0's technology in a specific direction (e.g. avoid language proliferation so we can build libs once and people can switch teams easily) and also collaborate with teams in technical reviews of large initiatives.
 
@@ -90,7 +90,7 @@ These are the things I do to keep in touch with things related to Auth0:
 - Internally: keep an ear to the ground both through Slack and having 1:1s with some tech leads and Engineering Managers. This helps me understand what challenges they are having first hand, and also find patterns or arrive at global solutions instead of local ones.
 - Externally: talk with customers/prospects to see how they use the product, read tweets and news, etc.d mentioning Auth0 and the identity space.
 
-I don't feel I am "keeping in touch" as much as I'd like technology-wise, but I do try to :). So many new important new things are happening in our industry every month that it is hard to keep up. Accepting the fact that meetings and not being hands-on means that I will likely be less in touch than I'd like with things is important. Once I accepted that I could start prioritizing what was valuable. 
+I don't feel I am "keeping in touch" as much as I'd like technology-wise, but I do try to :). So many new important new things are happening in our industry every month that it is hard to keep up. Accepting the fact that meetings and not being hands-on means that I will likely be less in touch than I'd like with things is important. Once I accepted that I could start prioritizing what was valuable.
 
 I read books, carve out time to do some POCs or read blogs/papers about specific topics, and ask to lead specific initiatives to stay up to date with how we are developing even if I don't code that often.
 
@@ -102,7 +102,7 @@ Whenever that happens I typically propose the names of people that I believe wou
 
 **_You first got the title Principal Engineer at Auth0. Were you hired as a Principal Engineer? If not, what was the process of getting promoted to Principal?_**
 
-My story here is a particular one. I started at Auth0 in May 2014 as the fifth engineer, ~tenth employee. There were no titles, no ladder, nothing like that. Around 2015, I started mentoring and doing 1:1s with a couple of new hires. Towards the end of 2015, I was working on my initiatives, and also leading others, helping with hiring, etc. Late 2015 [Matias Woloski](https://twitter.com/woloski), Auth0's CTO and co-founder, was looking for someone to lead Engineering teams and he asked me if I would be a Director of Engineering. 
+My story here is a particular one. I started at Auth0 in May 2014 as the fifth engineer, ~tenth employee. There were no titles, no ladder, nothing like that. Around 2015, I started mentoring and doing 1:1s with a couple of new hires. Towards the end of 2015, I was working on my initiatives, and also leading others, helping with hiring, etc. Late 2015 [Matias Woloski](https://twitter.com/woloski), Auth0's CTO and co-founder, was looking for someone to lead Engineering teams and he asked me if I would be a Director of Engineering.
 
 I've been privileged enough to be able to approach my career in a way that maximizes learning and opportunities for hard problem-solving. That's the main principle that helps me make decisions. When he offered me, a 25 year old living in Argentina, the opportunity to lead the Engineering organization for a "Silicon Valley", remote-first company that was growing exponentially I naturally said "yes". I had never thought "I want to manage", it just happened because I wanted to learn and solve hard problems.
 
@@ -166,12 +166,12 @@ Finally: get used to writing things down and repeating them to others. Writing d
 
 I wasn't planning for it, but when the opportunity came to be Director I took it. However, my thinking is that [there's a pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) where you can go back and forth between the two paths. How easy it will be will depend on the company and how specialized the skills as a Staff/Principal are, but I think it is possible.
 
-Nowadays I am very interested in continuing to develop my technical skills and leadership skills, as that's what I think will bring the most valuable learnings and challenges. 
+Nowadays I am very interested in continuing to develop my technical skills and leadership skills, as that's what I think will bring the most valuable learnings and challenges.
 
 **_What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?_**
 
 I try to follow people on Twitter who I think are doing interesting things and from who I can learn. There are so many people doing interesting things and so much to learn! Some of the names that come to mind:
-- [Aphyr](https://twitter.com/aphyr)'s work with [Jepsen](https://jepsen.io/) and general content about distributed systems is great. 
+- [Aphyr](https://twitter.com/aphyr)'s work with [Jepsen](https://jepsen.io/) and general content about distributed systems is great.
 - [Tanya Reilly](https://twitter.com/whereistanya) has some very good content like [RFC process @ Squarespace](https://engineering.squarespace.com/blog/2019/the-power-of-yes-if) and [Being Glue](https://www.youtube.com/watch?v=KClAPipnKqw).
 - [David Fowler](https://twitter.com/davidfowl) shares a lot of content about the .NET Framework and ASP.NET internals which I find interesting. There's also this video of him sharing how he became the [ASP.NET Architect](https://channel9.msdn.com/Shows/Careers-Behind-the-Code/Becoming-the-ASPNET-Architect-with-David-Fowler).
 - At Auth0 I work with [Jon Allie](https://www.linkedin.com/in/jon-allie-b250296) who is a fantastic engineer and person. He strives for simplicity, can explain things very clearly, and is extremely humble considering how much he knows.

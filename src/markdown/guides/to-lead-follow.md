@@ -7,11 +7,11 @@ kind: "guide"
 
 Years ago, the company I was working with hired a new Director of Engineering, and the CTO was talking about why the new Director was an amazing hire. The new Director’s clinching accomplishment? The best ever explanation of the distinction between leadership and management. This turned out not to be a particularly effective way to evaluate hires, but it is an interesting topic.
 
-Defining leadership and management is such heavily trod terrain that it’s hard to add much to it, but roughly management is a specific profession and leadership is an approach one can demonstrate within any profession.
+Defining leadership and management is such heavily trodden terrain that it’s hard to add much to it, but roughly management is a specific profession and leadership is an approach one can demonstrate within any profession.
 
 The way I think about leadership has evolved a bit over the last few years though, coming to focus on two specific attributes. First, leaders have a sufficiently refined view of how things _ought to work_ that they can rely on their distinction between how things _are_ and how they _ought_ _to be_ to identify proactive, congruent actions to narrow that gap. Second, they care enough about the gap to actually attempt those narrowing actions.
 
-If you only see the gap without acting on it, you might be a visionary but you’re inert. If you take action without a clear view of the goal, many will consider you a leader but your impact will be random, arbitrary and inefficient. Combining both with some luck is likely to take you a long way in your career, and are they’re characteristics common in folks I’ve worked with who successfully navigate the transition into [staff engineering](http://staffeng.com/) or senior management roles.
+If you only see the gap without acting on it, you might be a visionary but you’re inert. If you take action without a clear view of the goal, many will consider you a leader but your impact will be random, arbitrary and inefficient. Combining both with some luck is likely to take you a long way in your career, and these are characteristics common in folks I’ve worked with who successfully navigate the transition into [staff engineering](http://staffeng.com/) or senior management roles.
 
 But this sort of leadership can only take you so far, and personally it took me _years_ of blundering to understand why my approach to leadership created so much early success for me when first joining a company but slowly eroded how my contribution was received over time. The lesson that I slowly learned was that you can’t be an effective long-term leader until you learn how to follow.
 

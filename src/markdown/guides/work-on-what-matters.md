@@ -7,7 +7,7 @@ kind: "guide"
 
 We all have a finite amount of time to live, and within that mortal countdown we devote some fraction towards our work. Even for the most career-focused, your life will be filled by many things beyond work: supporting your family, children, exercise, being a mentor and a mentee, hobbies, and so the list goes on. This is the sign of a rich life, but one side-effect is that time to do your work will become increasingly scarce as you get deeper into your career.
 
-If you’re continuing to advance in your career, then even as your time available for work shrinks, the expectations around your impact will keep growing. For a while you can try sleeping less or depriving yourself of the non-work activities you need to feel whole, but you’ll inevitably find that your work maintains a aloof indifference to your sacrifice rather than rewarding it. Only through [pacing your career to your life](https://lethain.com/forty-year-career/) can you sustain yourself for the long-term.
+If you’re continuing to advance in your career, then even as your time available for work shrinks, the expectations around your impact will keep growing. For a while you can try sleeping less or depriving yourself of the non-work activities you need to feel whole, but you’ll inevitably find that your work maintains an aloof indifference to your sacrifice rather than rewarding it. Only through [pacing your career to your life](https://lethain.com/forty-year-career/) can you sustain yourself for the long-term.
 
 Indeed, pacing yourself becomes the central challenge of a sustained, successful career: increasingly senior roles require that you accomplish more and more, and do it in less and less time. The ledge between these two constraints gets narrower the further you go, but it remains walkable if you take a deliberate approach.
 
@@ -16,7 +16,7 @@ First a discussion on a few common ways to get tripped up: _snacking_, _preening
 
 ## Avoid snacking
 
-Hunter Walk recommends that folks [avoid “snacking”](https://hunterwalk.com/2016/06/18/the-best-startups-resists-snacks-im-not-talking-about-food/) when they prioritize work. If you’re in a well-run organization, at some point you’re going to run out of things that are both high-impact and easy. This leaves you with a choice between shifting right to hard and high-impact or shifting down to easy and low-impact. The later choice--easy and low-impact--is what Walk refers to as _snacking_.
+Hunter Walk recommends that folks [avoid “snacking”](https://hunterwalk.com/2016/06/18/the-best-startups-resists-snacks-im-not-talking-about-food/) when they prioritize work. If you’re in a well-run organization, at some point you’re going to run out of things that are both high-impact and easy. This leaves you with a choice between shifting right to hard and high-impact or shifting down to easy and low-impact. The latter choice--easy and low-impact--is what Walk refers to as _snacking_.
 
 When you’re busy, these snacks give a sense of accomplishment that makes them psychologically rewarding but you’re unlikely to learn much from doing them, others are likely equally capable of completing them (_and_ for some of them it might be a good development opportunity), and there’s a tremendous opportunity cost versus doing something higher impact.
 
@@ -31,12 +31,12 @@ If you’re taking a short-term look at [career growth](https://yenkel.dev/posts
 
 This is also an important factor to consider when choosing a company to work at! Dig into what a company values and ensure it aligns with your intended personal growth. If a company’s leadership is entirely folks who focus their energy on performant urgency or acts of fealty, don’t be surprised when your success in the company depends on those activities.
 
-Worse, to be a successful preener requires a near invulnerability to criticism of your actual impact, and your true work _will_ suffer if your energy is diverted to preening. Typically this means you need to be a vanity hire of a senior leader or to present yourself in the way a company believes leaders look and act. If that isn’t you, then your attempt to exchange your good judgement for company success will end up failing anyway: you’ll get held accountability for the lack of true impact where others who match the company’s expectation of how a leader appears will somehow slip upward.
+Worse, to be a successful preener requires a near invulnerability to criticism of your actual impact, and your true work _will_ suffer if your energy is diverted to preening. Typically this means you need to be a vanity hire of a senior leader or to present yourself in the way a company believes leaders look and act. If that isn’t you, then your attempt to exchange your good judgement for company success will end up failing anyway: you’ll get held accountable for the lack of true impact where others who match the company’s expectation of how a leader appears will somehow slip upward.
 
 
 ## Stop chasing ghosts
 
-Many folks would assume that companies, rational optimizers that they are, avoid spending much time on low-impact high-effort projects. Unfortunately that isn’t consistently the case. It’s surprisingly common for a new senior leader to join a company and immediately drive [a strategy shift that fundamentally misunderstands the challenges at hand](https://lethain.com/grand-migration/ ). The ghosts of their previous situation hold such a firm grasp on their understanding of the new company that they misjudge the familiar as the essential.
+Many folks would assume that companies, rational optimizers that they are, avoid spending much time on low-impact high-effort projects. Unfortunately that isn’t consistently the case. It’s surprisingly common for a new senior leader to join a company and immediately drive [a strategy shift that fundamentally misunderstands the challenges at hand](https://lethain.com/grand-migration/). The ghosts of their previous situation hold such a firm grasp on their understanding of the new company that they misjudge the familiar as the essential.
 
 As a senior leader, you have to maintain a hold on your ego to avoid investing into meaningless work at a grand scale. This can be surprisingly challenging when during your hiring process you’ve been repeatedly told that you’ve been hired to fix something deeply broken -- you’re the newly-hired savior, of course your instincts are right! Taking the time to understand the status quo before shifting it will always repay diligence with results.
 
@@ -62,7 +62,7 @@ Sometimes you’ll find work that’s _worthy_ of attention, but which an organi
 
 There is almost always a great deal of room to do this sort of work that no one is paying attention to, so you’ll be able to make rapid initial progress on it, which _feels_ like a good opportunity to invest. At some point, though, you’ll find that the work needs support, and it’s quite challenging to get support for work that a company is built to ignore or devalue. Your early wins will slowly get eroded by indifference and misalignment, and your initial impact will be reclaimed by the sands of time.
 
-Does this mean you shouldn’t do inclusion work? No, that’s not the conclusion I want you to take away from this. Sometimes an area that an organization doesn’t pay attention to is so important that you’re going to want to advocate for it to start paying attention. Teaching a company to value something it doesn’t care about is considerably the hardest sort of work you can do, and it often fails, so you should do as little of it as you can, but no less. As a senior leader, you have an ethical obligation that goes beyond maximizing your company-perceived impact, but it’s important to recognize what you’re up against and time our efforts accordingly.
+Does this mean you shouldn’t do inclusion work? No, that’s not the conclusion I want you to take away from this. Sometimes an area that an organization doesn’t pay attention to is so important that you’re going to want to advocate for it to start paying attention. Teaching a company to value something it doesn’t care about is considerably the hardest sort of work you can do, and it often fails, so you should do as little of it as you can, but no less. As a senior leader, you have an ethical obligation that goes beyond maximizing your company-perceived impact, but it’s important to recognize what you’re up against and time your efforts accordingly.
 
 
 ## Foster growth
@@ -76,7 +76,7 @@ If you start dedicating even a couple hours a week to developing the team around
 
 A surprising number of projects are one small change away from succeeding, one quick modification that unlocks a new opportunity, or one conversation away from consensus. I think of making those small changes, quick modifications and short conversations as _editing_ your team’s approach.
 
-With your organizational privilege, relationships you’ve built across the company, and ability to see around corners derived from your experience, you can often shift a project outcomes by investing the smallest ounce of effort, and this is some of the most valuable work you can do.
+With your organizational privilege, relationships you’ve built across the company, and ability to see around corners derived from your experience, you can often shift a project's outcomes by investing the smallest ounce of effort, and this is some of the most valuable work you can do.
 
 It’s particularly valuable because it’s quick, it’s easy, it’s highly motivating for both you and the person you help, and it’s hugely impactful when done well. (Also, it’s highly demotivating when done poorly, so your approach matters!)
 
@@ -101,4 +101,4 @@ Whatever it is, things that simply won’t happen if you don’t do them are you
 
 If you’re interviewing for a new role twenty years into your career, the folks interviewing you won’t know what your real impact was on any given project you worked on, nor will they know your true contribution to any of the companies you worked at. Instead you’ll find yourself judged by a series of surprisingly subjective measures: your prestige, the prestige of the titles you’ve had and companies you’ve worked at, your backchannel reputation, and how you present in your interview process.
 
-If you spend your career snacking, preening or chasing ghosts, it’s possible but relatively unlikely that what you’ve done before will be valued at companies you interview with. Instead, the only viable long-term bet on your career is to do work that matters, work that develops your and to steer towards companies that value genuine expertise.
+If you spend your career snacking, preening or chasing ghosts, it’s possible but relatively unlikely that what you’ve done before will be valued at companies you interview with. Instead, the only viable long-term bet on your career is to do work that matters, work that develops you and to steer towards companies that value genuine expertise.
