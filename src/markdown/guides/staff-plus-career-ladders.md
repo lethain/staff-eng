@@ -22,3 +22,5 @@ populations of individuals, they rarely if ever apply cleanly against any indivi
 This effect becomes particularly pronounced in Staff-plus roles which are often only
 populated by a couple of folks. Ladders are important, but don't get caught believing
 they're a map of how things actually work rather than a mythos of how things are intended to work.
+
+Charity Majors has also written a helpful guide of [things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/).

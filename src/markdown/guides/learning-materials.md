@@ -25,6 +25,7 @@ Folks’ descriptions of their roles:
 *   [Defining a Distinguished Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/) by Jessie Frazelle
 *   [How I operated as a Staff engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html) by Amy Unger
 *   [Not all engineering leaders are engineering managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers?utm_campaign=con-base&utm_content=tanya-reilly&utm_medium=social&utm_source=twitter) by Tanya Reilly
+*   [The Nuts and Bolts with Tanya Reilly](https://engineering.squarespace.com/blog/2020/the-nuts-and-bolts-with-tanya-reilly)
 *   [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) by Silvia Botros
 *   [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) by John Allspaw
 *   [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/) by Keavy McMinn
@@ -42,6 +43,7 @@ Folks sharing their stories of becoming a Staff-plus engineer:
 *   [On Mid-Career and Managers](https://www.ryn.works/blog/on-mid-career-and-managers) by Ryn Daniels
 *   [How does one become a Staff Software Engineer at Google?](https://www.quora.com/How-does-one-become-a-Staff-Software-Engineer-at-Google-What-might-a-new-grad-entering-the-company-do-to-grow-their-career-to-reach-that-level) on Quora
 *   [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by Charity Majors
+*   [THings to Know About Engineering Levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/) by Charity Majors
 
 ### Operating as a Staff-plus engineer
 
