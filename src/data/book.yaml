@@ -30,7 +30,7 @@ chapters:
       - title: Interviewing for Staff-plus roles
         draft: https://docs.google.com/document/d/1SED_F_lF5Y8VhB4dFtBoNUOShAWXYNNyunvES-tkP4U/edit
       - title: Negotiating your offer
-        draft: https://docs.google.com/document/d/1ihxIDDneXsuMblvbdkZQtRv-D--0wR_4J5gK8C-rY00/edit
+        slug: negotiating-the-offer
   - title: Operating at Staff
     sections:
       - title: Operating at Staff
