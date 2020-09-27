@@ -5,6 +5,8 @@ date: "2020-06-21"
 kind: "guide"
 ---
 
+**This overview was written early on and needs to be reworked given how much the project has changed since then!**
+
 At most technology companies, you'll reach Senior Software Engineer, the [career level](https://lethain.com/mailbag-beyond-career-level/), in five to eight years. At that point your path branches, and you have the opportunity to pursue engineering management or continue down the path of technical excellence to become a Staff Engineer.
 
 Over the past few years we've seen a flurry of books unlocking the engineering manager career path, like Camille Fournier's [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897), Julie Zhuo's [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) and my own [An Elegant Puzzle](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186). The management career isn't an easy one, but increasingly there is a map available for navigating it.
