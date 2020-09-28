@@ -9,7 +9,9 @@ Back in 2012, Patrick McKenzie wrote [Salary Negotiation](https://www.kalzumeus.
 
 For much of your career, the offer you get is generated in a relatively formulaic way. Maybe they have a compensation calculator, or maybe they base it off your previous compensation, but it’s the company’s system driving the numbers. However, there is a threshold where offer negotiations shift, and companies are willing to engage in a bespoke offer rather than a system-driven offer, but you’ve expected to somehow intuit that you’ve crossed the threshold--no one will ever tell you.
 
-This sort of bespoke offer _starts_ with more flexibility around compensation, but it’s more than just the raw compensation, it’s also about other aspects of the offer that the company doesn’t generally have flexibility around, but is willing to make private exceptions around for senior leaders.
+This sort of bespoke offer _starts_ with more flexibility around compensation, and in particular more flexibility around the equity
+component of your offer.
+That said, it’s more than just the raw compensation, it’s also about other aspects of the offer that the company doesn’t generally have flexibility around, but is willing to make private exceptions around for senior leaders.
 
 For example:
 
