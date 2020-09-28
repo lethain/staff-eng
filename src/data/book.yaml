@@ -10,7 +10,7 @@ chapters:
   - title: Getting the title where you are
     sections:
       - title: Getting the title
-        draft: https://docs.google.com/document/d/1A08A04fdR4sa_jmJFA6WTp4C09lReBkVif5YJexcj1E/edit
+        slug: getting-the-title-where-you-are
       - title: Promotion Packets
         slug: promo-packets
       - title: Find your sponsor
