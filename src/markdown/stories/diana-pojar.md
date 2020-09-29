@@ -46,7 +46,7 @@ ___Where do you feel most impactful as a Staff-plus Engineer? What’s something
 
  I’m also able to uplevel others that are more junior and make their voices heard. Having a Staff+ title brings some privilege that others don’t have and I try to leverage that to help uplevel my team / peers.
 
-___Do you spend time advocating for technology, practice, process or architectural change? What’s something you’ve advocated for? ___
+___Do you spend time advocating for technology, practice, process or architectural change? What’s something you’ve advocated for?___
 
  A significant amount of my time is actually spent on advocating for technical solutions, processes, architectural or cultural changes - it’s not only all about writing code. I'm constantly involved in the technical design review process for many of the teams that need to build systems that rely on the Data Engineering tools and services. Besides being involved in advocating for technical projects, an area of my focus is to improve culture or process changes.
 

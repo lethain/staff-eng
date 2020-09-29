@@ -34,7 +34,7 @@ chapters:
   - title: Operating at Staff
     sections:
       - title: Operating at Staff
-        draft: https://docs.google.com/document/d/1F4-PJ7gus8QP9kLcAK7xd78OO7PMsjRfwVv4fDYlQ2c/edit
+        slug: operating-at-staff
       - title: Stay aligned with authority
         slug: staying-aligned-with-authority
       - title: To lead, you have to follow
