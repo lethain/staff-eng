@@ -41,7 +41,7 @@ As a regular engineer, it can be hard to carve out time. You have to work more w
 
 When you have a title, you don’t have to spend so much energy putting your credentials on the table. It helps set the context for others. You’re more respected from the outset, and that’s been really noticeable. You also get access to executives, so you get information earlier and might have a seat at the table to influence things.
 
-___Do you spend time advocating for technology, practice, process or architectural change? ___
+___Do you spend time advocating for technology, practice, process or architectural change?___
 
 I was hired specifically to set the direction for strategy for the API. Part of that is steering the technical direction and choices we make. I approach it as a collaborative exercise. You know I’ll do the grind work of doing the research, I analyse all the information, present tradeoffs, and make a recommendation. I’ll take in all the organizational and engineering group context.
 
