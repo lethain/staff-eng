@@ -19,7 +19,7 @@ I’m the Payments Products Tech Lead at Stripe, working directly with our Chief
 _Sample of a “top 3” document I keep evergreen:_
 
 
-![alt_text](/static/michelle-bu/Michelle-Bu0.png "image_tooltip")
+![](/static/michelle-bu/Michelle-Bu0.png "image_tooltip")
 
 
 I manage two engineers who embed into high priority areas. This both helps me scale my impact and also gives these engineers the chance to dip into many areas of Stripe. Right now, one is working on the core payments APIs and the other is focused on improving integration experience. I’m still evaluated on the IC ladder—the plan is to never have more than a few reports at a time.
@@ -84,19 +84,19 @@ Designing the [Payment Intents API](https://stripe.com/docs/payments/payment-int
 
 We created a canonical document that defines our idealized abstractions. Even today, folks working on that team use these abstractions as a north star:
 
-![alt_text](/static/michelle-bu/Michelle-Bu3.png "image_tooltip")
+![](/static/michelle-bu/Michelle-Bu3.png "image_tooltip")
 
 If two people asked the same question, we immediately added it to a FAQ that we kept. We took everyone’s feedback and questions very seriously and put the burden of proof on ourselves. Finally, we worked to be fully transparent in our work, even creating a decision log that anyone at the company could use to follow our progress. Each entry in the decision log concisely describes a product or technical decision, documents who was involved in the decision, and links to detailed supporting technical design documents that generally contain the full problem statement and evaluation of alternatives.
 
-![alt_text](/static/michelle-bu/Michelle-Bu4.png "image_tooltip")
+![](/static/michelle-bu/Michelle-Bu4.png "image_tooltip")
 
 
 In general, I’ve found that for ambitious design projects, being extremely transparent but also explicit about whether or not you’re ready for feedback has landed well with folks who care about the topic. Here’s some wording you can find at the top of the (public) notes docs for some projects I’ve led:
 
-![alt_text](/static/michelle-bu/Michelle-Bu5.png "image_tooltip")
+![](/static/michelle-bu/Michelle-Bu5.png "image_tooltip")
 
 
-![alt_text](/static/michelle-bu/Michelle-Bu6.png "image_tooltip")
+![](/static/michelle-bu/Michelle-Bu6.png "image_tooltip")
 
 
 **_Is sponsoring other engineers an important aspect of your role?_**
@@ -109,7 +109,7 @@ Day to day, I find that I can be helpful as a “rubber duck” for folks who wa
 
 Finally, I always keep in mind a list of folks who are amazing at what they do and advocate for them as _visible_ opportunities that align with their interests become available. There’s a balance here, though. I’ve learned that it’s sometimes difficult for folks to say no to me. Recently, I asked an engineer on a team I work with to send an email about some good work she had done. She told me after she sent the email that she originally didn't want to do it, but she also didn't want to say no to me. She then showed me the relevant entry in her [“no log”:](https://twitter.com/amyngyn/status/1224160724072558594)
 
-![alt_text](/static/michelle-bu/Michelle-Bu7.png "image_tooltip")
+![](/static/michelle-bu/Michelle-Bu7.png "image_tooltip")
 
 
 **_Stripe is the first company you’ve worked full time at, and you’re still at Stripe. What was your path to the Staff level?_**
@@ -136,9 +136,9 @@ With Stripe Elements, I built out the infrastructure, designed the initial Card 
 
 In making sure new engineers could onboard onto a pretty complex product that involved a ton of IFRAME-shenanigans, I wrote a lot of documentation. I found that telling a story worked well for teaching folks why things needed to be the way they were:
 
-![alt_text](/static/michelle-bu/Michelle-Bu8.png "image_tooltip")
+![](/static/michelle-bu/Michelle-Bu8.png "image_tooltip")
 
-![alt_text](/static/michelle-bu/Michelle-Bu9.png "image_tooltip")
+![](/static/michelle-bu/Michelle-Bu9.png "image_tooltip")
 
 
 Looking back now, the product architecture has generally held up since launch for both projects. At the time, in addition to implementing these products, I had to wait for a while after they launched for the product choices to prove themselves out with our users and for the technical choices to prove themselves out with engineers internally as they ramped up.
