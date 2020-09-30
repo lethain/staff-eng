@@ -31,7 +31,7 @@ If you’re taking a short-term look at [career growth](https://yenkel.dev/posts
 
 This is also an important factor to consider when choosing a company to work at! Dig into what a company values and ensure it aligns with your intended personal growth. If a company’s leadership is entirely folks who focus their energy on performant urgency or acts of fealty, don’t be surprised when your success in the company depends on those activities.
 
-Worse, to be a successful preener requires a near invulnerability to criticism of your actual impact, and your true work _will_ suffer if your energy is diverted to preening. Typically this means you need to be a vanity hire of a senior leader or to present yourself in the way a company believes leaders look and act. If that isn’t you, then your attempt to exchange your good judgement for company success will end up failing anyway: you’ll get held accountable for the lack of true impact where others who match the company’s expectation of how a leader appears will somehow slip upward.
+Worse, to be a successful preener requires a near invulnerability to criticism of your actual impact, and your true work _will_ suffer if your energy is diverted to preening. Typically this means you need to be a vanity hire of a senior leader or to present yourself in the way a company believes leaders look and act. If that isn’t you, then your attempt to exchange your good judgment for company success will end up failing anyway: you’ll get held accountable for the lack of true impact where others who match the company’s expectation of how a leader appears will somehow slip upward.
 
 
 ## Stop chasing ghosts

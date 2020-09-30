@@ -37,7 +37,7 @@ Some ways to explore during your interview process to help distinguish these min
 *   Companies with ad-hoc or unstructured interview processes looking to get your “feel”, particularly for senior roles, tend to be run by Meritocrats. More structure means Proceduralists.
 *   Companies that perform ad-hoc conjurations of new, rubric-less interviews tend to be run by Meritocrats. Those that evaluate you rigidly, even if it doesn’t let you shine, tend to be Proceduralists.
 
-Neither meritocratic nor proceduralistic companies have inherently better odds of propelling you into a Staff-plus role, rather it’ll depend on your identity, and the identities of folks in a company’s leadership roles. Depending on how those pieces align, you can estimate the level of support and friction you’ll encounter pursuing a Staff-plus role.
+Neither meritocratic nor proceduralist companies have inherently better odds of propelling you into a Staff-plus role, rather it’ll depend on your identity, and the identities of folks in a company’s leadership roles. Depending on how those pieces align, you can estimate the level of support and friction you’ll encounter pursuing a Staff-plus role.
 
 
 ## Archetypes
@@ -49,7 +49,7 @@ Sufficiently large companies end up with at least some folks operating in each o
 
 ## Growth
 
-If you’ve exclusively worked at fast growing, successful startups then it might not cross your mind that there can be a lack of room for additional folks operating in Staff-plus engineering roles, but it’s surprisingly common for slower growing companies to simply not have the work or the budget for more folks in leadership roles. This is also a common constraint for companies that haven’t reached product-market fit--there’s limited leadership slots when a company needs to remain highly aligned while changing frequently--with potential exceptions for those that happen to be selling a developer-centric or technical infrastructure product of some sort.
+If you’ve exclusively worked at fast-growing, successful startups then it might not cross your mind that there can be a lack of room for additional folks operating in Staff-plus engineering roles, but it’s surprisingly common for slower growing companies to simply not have the work or the budget for more folks in leadership roles. This is also a common constraint for companies that haven’t reached product-market fit--there’s limited leadership slots when a company needs to remain highly aligned while changing frequently--with potential exceptions for those that happen to be selling a developer-centric or technical infrastructure product of some sort.
 
 If you join a fast-growing company, new Staff opportunities will organically open up. In slower growing companies, you may need to wait for someone to vacate their current role before another becomes available. That’s not to say that you should necessarily join a fast-growing company if you don’t want to--they’re often stressful and run on perpetually out-of-date processes--just another factor to consider.
 

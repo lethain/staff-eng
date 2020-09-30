@@ -35,7 +35,7 @@ The signals I’d recommend focusing on are:
 
 
 *   **Self-awareness**. Are they accountable for mistakes? Have they demonstrated growth in areas where they’ve previously been weaker?
-*   **Judgement.** Are they able to see around corners to identify problems? Are they able to navigate broad, ambiguous problems? Can they effectively mediate between folks in an argument about tradeoffs or design? Can they derisk execution of difficult problems?
+*   **Judgment.** Are they able to see around corners to identify problems? Are they able to navigate broad, ambiguous problems? Can they effectively mediate between folks in an argument about tradeoffs or design? Can they derisk execution of difficult problems?
 *   **Collaboration.** Do they partner well with others? What about folks less experienced than them? More experienced than them? Their managers? Cross-functionally? Executives?
 *   **Communication.** Are they good listeners who understand the points made by others? Are they able to communicate their ideas clearly? Can they communicate in the formats that your company relies upon (written, verbal, etc)?
 *   **Development.** Do they grow others around them? Does the “organizational bench” grow in areas they lead or atrophy? Do broken systems and processes get cleaned up?

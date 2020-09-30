@@ -5,13 +5,13 @@ date: "2020-09-27"
 kind: "guide"
 ---
 
-Most technology companies have a “career level”, which is intended to be the maximum level that most folks achieve. Senior Engineer is the career level at most companies. While you might get let go for not moving from entry-level engineer to mid-level engineer quickly enough, there’s no expectation--timing or otherwise--that you’ll ever go from Senior to Staff.
+Most technology companies have a “career level”, which is intended to be the maximum level that most folks achieve. Senior Engineer is the career level of most companies. While you might get let go for not moving from entry-level engineer to mid-level engineer quickly enough, there’s no expectation--timing or otherwise--that you’ll ever go from Senior to Staff.
 
 Quite the contrary, once you attain the career level, the promotion system at most companies flips from supporting your progress to deliberately constraining the number of folks who progress further. This is in large part because the fundamental nature of the job changes; a Staff Engineer isn’t a better Senior Engineer, but rather someone who’s moved into fulfilling one of the [Staff archetypes](https://staffeng.com/guides/staff-archetypes).
 
-Even after you’ve developed the prerequisite skills to become a Staff Engineer, there will still be one last hurdle: getting your company to actually grant you the Staff title. For some this process is a relative non-event, perhaps taking one or two cycles longer than anticipated but ultimately succeeding, and for others it may not happen at all at their current company. About two-thirds of the Staff Engineers I surveyed attained their title as a promotion at the company they were already working at, and the remaining third changed companies to attain the title.
+Even after you’ve developed the prerequisite skills to become a Staff Engineer, there will still be one last hurdle: getting your company to grant you the Staff title. For some this process is a relative non-event, perhaps taking one or two cycles longer than anticipated but ultimately succeeding, and for others it may not happen at all at their current company. About two-thirds of the Staff Engineers I surveyed attained their title as a promotion at the company they were already working at, and the remaining third changed companies to attain the title.
 
-If pursuing that sort of role _is_ your goal, then take the promotion to your career level as an opportunity to reset your approach to navigating your career. From that point onward, there is no standard path to follow. The promotion and performance system will now longer be designed around attaining a timely promotion, and may at times take on the feel of gatekeeping.
+If pursuing that sort of role _is_ your goal, then take the promotion to your career level as an opportunity to reset your approach to navigating your career. From that point onward, there is no standard path to follow. The promotion and performance system will no longer be designed around attaining a timely promotion, and may at times take on the feel of gatekeeping.
 
 To go further, _you_ will have to take more deliberate control of your progression, and this chapter shares the tools that have worked for folks who’ve made the progression ahead of you.
 
@@ -26,7 +26,7 @@ If you’ve been relying on your manager to steer your career up to this point, 
 *   A frequent complaint from engineers is that they’re not “in the room” where decisions happen, and they’re usually right: there is a room, and they’re not in it. What’s less frequently acknowledged is that you’re probably not in the room for a good reason. This section describes **[how to get into the room, and also how to stay there](https://staffeng.com/guides/getting-in-the-room)**.
 *   Finally, you won’t get promoted if your company’s leadership doesn't know who you are. How do you **[become visible internally](https://staffeng.com/guides/being-visible)** without hogging all the oxygen?
 
-Apply these techniques consistently, and you’ll be on the way towards a Staff title, although even the best laid plans falter [if you’re conducting them at the wrong company](https://staffeng.com/guides/deciding-to-switch).
+Apply these techniques consistently, and you’ll be on the way towards a Staff title, although even the best-laid plans falter [if you’re conducting them at the wrong company](https://staffeng.com/guides/deciding-to-switch).
 
 ## Should you try management?
 

@@ -34,15 +34,15 @@ For so much of your career, success is making the right decision, and it takes a
 
 > It was also on that project where my manager helped me understand that my first impulse as a tech lead didn’t scale. Initially I was thinking, “I’ll break it into twenty pieces, assign out eighteen pieces, and keep the two hardest for myself,” and my manager pushed me to delegate the hard pieces to the team to stretch and develop them.
 
-On the other hand, it’s hard to transfer your [judgement](https://staffeng.com/guides/staff-plus-interview-process) to someone else, particularly around complex decisions. Fortunately, it’s possible to take an incremental approach to shifting increasingly complex and important decisions to your wider team.
+On the other hand, it’s hard to transfer your [judgment](https://staffeng.com/guides/staff-plus-interview-process) to someone else, particularly around complex decisions. Fortunately, it’s possible to take an incremental approach to shifting increasingly complex and important decisions to your wider team.
 
 
 
 *   **Write it down.** There’s a well-worn model of genius encapsulated in the Feynman algorithm: “1) Write down a problem. 2) Think very hard. 3) Write down the solution.” This mystical view of genius is both unapproachable and discouraging. It’s also unrealistic, but it’s hard for folks to know it’s unrealistic if we don’t write down our thinking process for others to follow. By writing down the process of finding an answer, as well as the rationale for the answer, folks around us can begin to _learn from_ our decisions rather than simply being _directed_ by them
-*   **Circulate early,** and do it before you’ve crystalized on a decision. Most folks struggle to walk back from a formed opinion, and by gathering feedback early it’s much easier to incorporate feedback and involve folks in the decision-making process so they can see the trajectory of your thinking in addition to the final output
+*   **Circulate early,** and do it before you’ve crystallized on a decision. Most folks struggle to walk back from a formed opinion, and by gathering feedback early it’s much easier to incorporate feedback and involve folks in the decision-making process so they can see the trajectory of your thinking in addition to the final output
 *   **Separate style from substance,** and stop giving style feedback on other folks’ decisions. If a piece of feedback won’t meaningfully change a project’s success then consider not giving it. If it’s useful but not critical, potentially make a private suggestion rather than pulling a meeting into your orbit
 *   **Don’t try to [show value](https://lethain.com/showing-value/)**. Some senior folks feel like they need to weigh in on everything to justify their seniority. Others require each decision to exactly mirror a similar decision they once made. Both of these center insecurity over impact, and prevent others from growing as leaders
-*   **Change your mind.** One of the biggest signs of respect for your coworkers is listening to them and then changing your mind afterwards. If senior leaders don’t change their mind, then soon everyone will correlate bluster with success
+*   **Change your mind.** One of the biggest signs of respect for your coworkers is listening to them and then changing your mind afterward. If senior leaders don’t change their mind, then soon everyone will correlate bluster with success
 
 Involving folks in decisions you make and sharing your decision-making approach is a valuable component of growing the team around you, but what about making the decisions _theirs_?
 

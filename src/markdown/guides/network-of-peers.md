@@ -65,7 +65,7 @@ If the idea of building a network this way feels uncomfortable,, then building a
 
 ## Quality over quantity
 
-A coworker once told me the story of someone determined to make their name in Business Development, who would fly from SF to NYC with a list of people they wanted to meet. They’d look for tweets and Foursquare checkins for where those people might be that night, go there, buy a drink and pretend to serendipitously meet them. On a good night, they’d try to meet six or more new connections this way.
+A coworker once told me the story of someone determined to make their name in Business Development, who would fly from SF to NYC with a list of people they wanted to meet. They’d look for tweets and Foursquare check-ins for where those people might be that night, go there, buy a drink and pretend to serendipitously meet them. On a good night, they’d try to meet six or more new connections this way.
 
 It goes without saying that you shouldn’t do that -- it’s a total violation of boundaries. Further, doing this doesn’t even make sense: when it comes to building a network of peers, volume doesn’t matter. Instead focus on slowly building with folks you genuinely trust, respect and are inspired by. That’s what’ll create a truly powerful network to help you solve the hardest problems and trickiest situations that come your way.
 

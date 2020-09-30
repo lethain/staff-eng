@@ -26,7 +26,7 @@ An aside on the “**Office of the CTO**” concept, as many folks haven’t enc
 
 Within these offices you’ll find a mix of _Architects_, _Solvers_ and _Right Hands_.
 
-Typically the _Office of the CTO_ comes relatively late in a company’s evolution, and is often introduced as a work around to an existing organizational problem that is a challenge to address, so example lack of trust between Staff-plus engineers and management teams, or an inability to delegate by the CTO. If you find yourself reaching for it _early_ in a company’s evolution, ask yourself if you’re avoiding a problem you should be fixing instead of introducing this concept into your structure.
+Typically the _Office of the CTO_ comes relatively late in a company’s evolution, and is often introduced as a workaround to an existing organizational problem that is a challenge to address, so example lack of trust between Staff-plus engineers and management teams, or an inability to delegate by the CTO. If you find yourself reaching for it _early_ in a company’s evolution, ask yourself if you’re avoiding a problem you should be fixing instead of introducing this concept into your structure.
 
 ## But in practice…
 
