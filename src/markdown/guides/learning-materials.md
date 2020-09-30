@@ -22,17 +22,19 @@ is a fairly lively room.
 
 Folks’ descriptions of their roles:
 
+*   [Being a principal engineer at Skyscanner](https://medium.com/@SkyscannerEng/being-a-principal-engineer-at-skyscanner-1830dfa17d30)
 *   [Defining a Distinguished Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/) by Jessie Frazelle
 *   [How I operated as a Staff engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html) by Amy Unger
 *   [Not all engineering leaders are engineering managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers?utm_campaign=con-base&utm_content=tanya-reilly&utm_medium=social&utm_source=twitter) by Tanya Reilly
 *   [The Nuts and Bolts with Tanya Reilly](https://engineering.squarespace.com/blog/2020/the-nuts-and-bolts-with-tanya-reilly)
 *   [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) by Silvia Botros
 *   [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) by John Allspaw
+*   [Staff Engineering](https://tychoish.com/post/staff-engineering/) by Sam Kleinman
 *   [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/) by Keavy McMinn
 *   [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/) by Julia Evans
 *   [What a Senior Staff Software Engineer Actually Does, Part 1: The Role and My Tasks](https://medium.com/box-tech-blog/what-a-senior-staff-software-engineer-actually-does-f3fc140d5f33) and [Part 2: The Mindset and Focus of the Role](https://medium.com/box-tech-blog/what-a-senior-staff-software-engineer-actually-does-d55308fcdd41) by Joy Ebertz
 *   [What does Staff level mean at GitLab?](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/)
-*   [Being a principal engineer at Skyscanner](https://medium.com/@SkyscannerEng/being-a-principal-engineer-at-skyscanner-1830dfa17d30)
+
 
 ### Becoming a Staff-plus Engineer
 
