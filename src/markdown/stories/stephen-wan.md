@@ -25,7 +25,7 @@ Today, I work in our Infrastructure & Platform (I&P) group, spending most of my 
 
 **_What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?_**
 
-We have 7 engineers at Staff+ position, out of an engineering team of ~150. Most of them are in specialized roles, either in web infrastructure or device firmware. I suppose that puts me in the majority, but the work our Staff engineers do is varied so it's a bit hard to claim being "normal" in the role.
+Most of our Staff+ engineers are in specialized roles, either in web infrastructure or device firmware. I suppose that puts me in the majority, but the work our Staff engineers do is varied so it's a bit hard to claim being "normal" in the role.
 
 When looking at parallels between the IC and management tracks, Staff is considered a director-equivalent role. Staff engineers have the option to participate in many processes that are typically reserved for managers. We're invited to the cross-eng director's meeting and, at least in I&P, we're involved in roadmap planning and management syncs. Recently, we've brought in Staff engineers to participate in some promotion calibration meetings.
 
