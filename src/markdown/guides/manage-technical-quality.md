@@ -5,7 +5,69 @@ date: "2020-10-17"
 kind: "guide"
 ---
 
-e reasons why best practices have such a bad reputation. In theory, organizations would benefit from adopting best practices before fixing quality hot spots, but I recommend practices after hot spotting. Adopting best practices requires a level of organizational and leadership maturity that takes some time to develop.
+If there's one thing that engineers, engineering managers, and technology executives are likely to agree on, it's that there's a crisis of technical quality. One diagnosis and cure is easy to identify: our engineers aren't prioritizing quality, and we need to hire better engineers or retrain the ones we have. Of course, you should feel free to replace "engineers" with "Product Managers" or "executives" if that feels more comfortable. It's a compelling narrative with a clear villain, and it conveniently shifts blame away from engineering leadership. Still, like most narratives that move accountability towards the folks with the least power, it's both unhelpful and wrong.
+
+When you accept the premise that low technical quality results from poor decision-making, you start looking for bad judgment, and someone at the company must be the culprit. Is it the previous CTO? Is it that Staff Engineer looking at you with a nervous smile? Is it everyone? What if it's none of those folks, and stranger yet isn't even your fault either?
+
+In most cases, low technical quality isn't a crisis; it's the expected, normal state. Engineers generally make reasonable quality decisions when they make them, and successful companies raise their quality bar over time as they scale, pivot, or shift up-market towards enterprise users. At a well-run and successful company, most of your previous technical decisions won't meet your current quality threshold. Rather than a failure, closing the gap between your current and target technical quality is a routine, essential part of effective engineering leadership.
+
+
+## The problem
+
+As an engineering leadership team, your goal is to maintain an appropriate technical quality level while devoting as much energy as possible towards the core business. You must balance quality across multiple timeframes, and those timeframes generally have conflicting needs. For example, you’ll do very different work getting that critical partnership out the door for next week’s deadline versus the work you’ll do to build a platform that supports launching ten times faster next quarter.
+
+Just as your company’s technical quality bar will shift over time, your approach to managing technical quality will evolve in tandem:
+
+
+
+1. fix the** hot spots** that are causing immediate problems
+2. adopt** best practices** that are known to improve quality
+3. prioritize** leverage points** that preserve quality as your software changes
+4. align **technical vectors** in how your organization changes software
+5. **measure** **technical quality** to guide deeper investment
+6. spin up a **technical quality team** to create systems and tools for quality
+7. run a **quality program** to measure, track and create accountability
+
+As we dig into this toolkit of approaches, remember to pick the cheapest, most straightforward tool likely to work. Technical quality is a long-term game. There’s no such thing as winning, only learning and earning the chance to keep playing.
+
+
+### Ascending the staircase
+
+There's a particular joy in drilling into the challenge at hand until you find a generalized problem worth solving. However, an equally important instinct is solving the current situation quickly and moving on to the next pressing issue.
+
+As you think about the right quality improvements to make for your team and organization, it's generally most effective to start with the lightest weight solutions and only progressing towards massive solutions as earlier efforts collapse under the pressure of scale. If you can't get teams to adopt proper code linting, your attempts to roll out a comprehensive quality program are doomed. Although the latter can be more effective at scale, they're much, much harder to execute.
+
+So, do the quick stuff first!
+
+Even if it doesn't work, you'll learn more and more quickly from failing to roll out the easy stuff than failing to roll out the hard stuff. Then you'll get to an improved second iteration sooner. Over time you will move towards comprehensive approaches, but there's no need to rush. Don't abandon the ease, joy, and innocence of early organizations for the perils of enterprise-scale coordination without proper need.
+
+It's convenient to present these phases are a linear staircase to be ascended, but that's rarely how real organizations use them. You're more likely to fix a quality hot spot, roll out a best practice, start running an architecture review, abolish that architecture review, and go back to hot-spotting for a bit. Premature processes add more friction than value and are quick to expose themselves as ineffective. If something isn't working, try for a bit to make it work, and then celebrate its demise.
+
+
+## Hot spots
+
+When confronted by a quality problem, the first instinct is often to identify a process failure that necessarily requires a process solution. If a deployment causes an outage, it's because the author didn't correctly follow the code test process, so now we're going to require tests with every commit -- that'll teach those lazy developers!
+
+There's the old joke about [Sarbannes-Oxley](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act): it doesn't reduce risk; it just makes it clear who to blame when things go wrong. Unfortunately, that joke applies without humor to how many organizations roll out processes. Accountability has its role, but it's much more important to understand the problem at hand and try to fix it directly than to create process-driven accountability.
+
+Process rollout requires humans to change how they work, which you shouldn't undertake lightly. Rather than reaching for process improvement, start by donning the performance engineer's mindset. Measure the problem at hand, identify where the bulk of the issue occurs, and focus on precisely that area.
+
+The previous example of an untested deploy might benefit from giving direct feedback to the deploying engineer about changing their testing habits. Alternatively, maybe you're better served by acknowledging that your software design is error-prone and adopting the "define errors out of existence" approach described in [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201).
+
+If you have a development velocity problem, it might be optimizing test runtimes, moving your Docker compile step onto a [RAM disk](https://en.wikipedia.org/wiki/RAM_drive), or using the techniques described in [Software Design X-Rays](https://www.amazon.com/Software-Design-X-Rays-Technical-Behavioral-ebook-dp-B07BVRLZ87/dp/B07BVRLZ87/) to find the specific files to improve.
+
+[Systems thinking](https://lethain.com/systems-thinking/) is the most transformative thinking technique I've encountered in my career. Still, at times it can be a siren beckoning you towards fixing a current system you may be better discarding. Sure, you can roll out a new training program to teach your team how to write better tests, but alternatively, maybe you can just delete the one test file where 98% of test failures happen. That's the unreasonable effectiveness of prioritizing hot spots, and why it should be the first technique you use to improve technical quality.
+
+At some point, you're likely to find that your organization is creating quality problems faster than you're able to fix hot spots, and that's when it's time to move on to adopting best practices.
+
+
+## Best practices
+
+I once worked at a company that didn't have a team planning process. Over time the head of engineering was increasingly frustrated with the inability to project target dates and mandated that we use [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)). After the mandate, a manager wrote the Scrum process on a wiki. There was an announcement that we were using Scrum. Managers told their teams to use Scrum. Mission accomplished!
+
+Of course, no one started to use Scrum. Everyone kept doing what they'd done before. It's awkward to acknowledge mistakes, so the head of engineering declared adoption a major win, and no one had the heart to say differently.
+
+This sad tale mirrors how many companies try to roll out best practices, and it's one of the reasons why best practices have such a bad reputation. In theory, organizations would benefit from adopting best practices before fixing quality hot spots, but I recommend practices after hot spotting. Adopting best practices requires a level of organizational and leadership maturity that takes some time to develop.
 
 When you're rolling out a new practice, remember that a [good process is evolved](https://lethain.com/good-process-is-evolved/) rather than mandated. Study how other companies adopt similar practices, document your intended approach, experiment with the practice with a few engaged teams, sand down the rough edges, improve the documentation based on the challenges, and only then roll it out further. A rushed process is a failed process.
 
@@ -16,7 +78,6 @@ Adopting a single new practice at a time also forces you to think carefully abou
 While all of Accelerate's recommendations are data-driven and quite good, the handful that I've found most helpful to adopt early are version control, trunk-based development, CI/CD, and production observability (including developers on-call for the systems they write), and working in small, atomic changes. There are many other practices I'd love to advocate for, who hasn't spent a career era advocating for [better internal documentation](https://increment.com/documentation/why-investing-in-internal-docs-is-worth-it/), but I don't trust my intuition like I once did.
 
 The transition from fixing hot spots to adopting best practices comes when you're overwhelmed by too many hot spots to cool. The next transition, from best practices to leverage points, comes when you find yourself wanting to adopt a new best practice before your in-progress best practice is working. Rather than [increasing your best practice adoption-in-progress limit](https://lethain.com/limiting-wip/), move on to the next tool.
-
 
 ## Leverage points
 
