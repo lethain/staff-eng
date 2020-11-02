@@ -66,10 +66,21 @@ Folks sharing their stories of becoming a Staff-plus engineer:
 *   [Where to Start](https://keavy.com/work/where-to-start/) by Keavy McMinn
 * [Design Docs, Markdown and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/) by Caitie McCaffrey
 
+### Technical Specifications
+
+* [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
+* [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+* [Design Docs, Markdown, and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/)
+* [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
+* [How to write a better technical design document](https://www.range.co/blog/better-tech-specs)
+* [Writing Technical Design Docs](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
+
+
 ### Engineering Strategy
 
 Articles on engineering strategy in general:
 
+*   [A Framework For Responsible Innovation](https://multithreaded.stitchfix.com/blog/2019/08/19/framework-for-responsible-innovation/)
 *   [How Big Technical Changes Happen at Slack - Several People Are Coding](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b)
 *   [On Drafting an Engineering Strategy](https://www.paperplanes.de/2020/1/31/on-drafting-an-engineering-strategy.html)
 *   [Defining a Tech Strategy](https://sarahtaraporewalla.com/agile/design/architecture/Defining-a-Tech-Strategy)
