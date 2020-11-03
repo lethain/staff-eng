@@ -37,8 +37,8 @@ chapters:
         slug: operating-at-staff
       - title: Work on what matters
         slug: work-on-what-matters
-      - title: Writing an engineering strategy
-        draft: https://docs.google.com/document/d/1h-CAWgYt6GNjbavv2l0RrIDS1_Lksqszpg_CmzPknL4/edit
+      - title: Writing engineering strategy
+        slug: engineering-strategy
       - title: Managing technical quality
         slug: manage-technical-quality
       - title: Stay aligned with authority
