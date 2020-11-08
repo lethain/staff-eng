@@ -14,7 +14,7 @@ chapters:
       - title: Promotion Packets
         slug: promo-packets
       - title: Find your sponsor
-        draft: https://docs.google.com/document/d/1pQ9Tx-EFLnv4QNwzk6QrybdcYfOdwWk4vrzBThXfKb8/edit
+        slug: find-your-sponsor
       - title: Staff projects
         slug: staff-projects
       - title: Get in the room, and stay there
