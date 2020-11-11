@@ -24,13 +24,17 @@ Companies with cohesive engineering strategies don’t rely on any single docume
 
 ## Definitions
 
-Vision, strategy, and specification are all overloaded terms, so it’s helpful to define how I’m using them. For additional concrete examples, refer to [the collection of resources](https://staffeng.com/guides/learning-materials).
+Vision, strategy, and specification are all overloaded terms, so it’s helpful to define how I’m using them.
+In fact, my core argument is that when folks ask for "an engineering strategy", it takes all three documents
+to properly answer their request.
 
 A **vision** describes how you want your technology and organization to work in two to three years. Tastelessly [quoting myself](https://lethain.com/strategies-visions/), “Visions should be detailed, but the details are used to illustrate the dream vividly, not to prescriptively constrain its possibilities.” It creates lightweight alignment across projects, aligning their vectors’ direction. There are, unfortunately, few public examples of this sort of engineering vision. The closest you can get is to infer a company’s vision from its organizational chart, which also implicitly [reflects its technical architecture](https://en.wikipedia.org/wiki/Conway%27s_law).
 
 A **strategy** guides tradeoffs _and_ explains the rationale behind that guidance. This is the “diagnosis” and “guiding policies” components of _Good Strategy, Bad Strategy_’s definition (the “coherent action” component is handled in your technical specifications). A couple of great examples to refer to are [A Framework for Responsible Innovation](https://multithreaded.stitchfix.com/blog/2019/08/19/framework-for-responsible-innovation/) and [How Big Technical Changes Happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack/).
 
-A **specification** describes the decisions and tradeoffs you’ve made in a specific project. If strategies are the “legal precedent” for a given area, then each specification is an individual case. There are many formats to pick from. I’d recommend starting with [Design Docs, Markdown, and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/) and [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/).
+A **specification** describes the decisions and tradeoffs you’ve made in a specific project, and various companies  might call them RFCs, tech specs, or design docs. If strategies are the “legal precedent” for a given area, then each specification is an individual case. There are many formats to pick from. I’d recommend starting with [Design Docs, Markdown, and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/) and [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/).
+
+For additional concrete examples, refer to [the collection of resources](https://staffeng.com/guides/learning-materials).
 
 
 ## More synthesis than genius
@@ -55,7 +59,14 @@ When you start trying to write an engineering strategy, it’s easy to get overw
 
 Working on strategy, it’s easy to be paralyzed by the inherently vast ambiguity we work in, but you’ve just got to dive in and start writing. Waiting for missing information doesn’t work: every missing document is missing for a good reason. Those documents you’re waiting on will be your Sisyphean boulder, never letting you make forward progress. Rest assured that whatever you write will need to change, and if you write something particularly bad, you’ll quickly realize the need to change it. Where you are now is always the best place to start.
 
-If there are additional materials that would help you, add them to a list. If there are folks who you think are likely to disagree, add them to a list too. If you don’t feel comfortable speaking for the entire engineering organization, then speak from the perspective of your team. If your ideas aren’t perfect, then frame them as an attempt to provoke discussion. If you look for reasons not to get started, you’ll always find them. Start wherever you are, and start now.
+If there are additional materials that would help you, add them to a list. If there are folks who you think are likely to disagree, add them to a list too. If you don’t feel comfortable speaking for the entire engineering organization, then speak from the perspective of your team. If your ideas aren’t perfect, then frame them as an attempt to provoke discussion. If you look for reasons not to get started, you’ll always find them.
+
+On the other hand, sometimes folks try to write reality out of existence by not acknowledging
+existing decisions (say, a commitment staying profitable) or ignoring major constraints that genuinely do exist
+(say, a large Python monolith). That doesn't work either, you need to acknowledge what exists.
+Good strategy aligns with your  business, company and technical realities.
+
+Start wherever you are, and start now.
 
 
 ### Write the specifics
