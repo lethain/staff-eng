@@ -5,6 +5,9 @@ date: "2020-07-25"
 kind: "guide"
 ---
 
+> At this point I spend less time advocating for specific technologies or programs and more time empowering others to advocate for the technologies and programs that they think are important. I also try to be a source of knowledge and support that people can reach out to for feedback, especially on cross-cutting product decisions and on presentation of ideas to the rest of the organization.
+> \- [Michelle Bu](/stories/michelle-bu)
+
 One of the best measures of your long-term success as a Staff-plus engineer is that the organization around you increasingly benefits from, **but doesn’t rely upon**, your contributions. Because many folks reach their first Staff-plus role by being the “go to” person for the organization, it can be a difficult transition from essential to adjacent.
 
 This transition requires learning to deliberately create space for the team around you, and comes down to actively involving them in discussions, decisions, and ultimately substituting sponsorship for repeating the successes that got you to Staff in the first place.

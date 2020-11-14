@@ -5,6 +5,10 @@ date: "2020-06-21"
 kind: "guide"
 ---
 
+> It’s about taking that global thinking and applying it locally. That means aligning your team’s (technical) initiatives / roadmaps to the Engineering–wide technical strategy; and being intentional about when you veer off of that path to serve the needs of your team’s immediate stakeholders. That means collaborating with your team’s managers in adopting successful practices in hiring, onboarding, and production operations from other teams; and sharing practices from your team that would be beneficial for others. That means taking context from company–wide business / product strategy and translating that to how it impacts your team’s immediate projects
+> \- [Ras Kasa Williams](/stories/ras-kasa-williams)
+
+
 Years ago, the company I was working with hired a new Director of Engineering, and the CTO was talking about why the new Director was an amazing hire. The new Director’s clinching accomplishment? The best ever explanation of the distinction between leadership and management. This turned out not to be a particularly effective way to evaluate hires, but it is an interesting topic.
 
 Defining leadership and management is such heavily trodden terrain that it’s hard to add much to it, but roughly management is a specific profession and leadership is an approach one can demonstrate within any profession.
@@ -26,7 +30,3 @@ There are many ways to put this approach into practice.
 If this is something you’ve struggled with, I’m sympathetic, I’ve struggled with it too. When you have a strong enough worldview to lead, you’ll start to collect others around you who rely on you maintaining that world’s physics, and tolerating any deviation from your vision can feel like you’re letting them down. But this is the epitome of something that’ll get you to one level of success but block the next: continued growth requires learning to incorporate your worldview into the worldviews of those around you, accelerating overall progress around you even if it means tolerating a detour from your vision.
 
 What you can accomplish alone is far from what you can accomplish by creating leaders. To be a great leader, take your time learning to follow.
-
----
-
-_Some of these ideas also came up in [Staying aligned with authority](https://lethain.com/staying-aligned-with-authority/)._

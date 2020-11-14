@@ -5,6 +5,12 @@ date: "2020-06-29"
 kind: "guide"
 ---
 
+> "What’s changed for you since becoming a Staff-plus engineer?"
+> Honestly? Being listened to and being treated like I have expertise. The title carries weight, and I’m taken more seriously from the
+> jump. - [Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa)
+
+
+
 If you’re safely nestled within the comfortable clutches of the Senior Engineer [career level](https://lethain.com/career-levels-and-more/), you might wonder if you ought to pursue the Staff title. It’s a considerable investment of time and energy, along with requiring a good amount of luck.
 Is that investment worth your time?
 

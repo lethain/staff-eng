@@ -5,6 +5,9 @@ date: "2020-06-21"
 kind: "guide"
 ---
 
+
+
+
 At most technology companies, you'll reach Senior Software Engineer, the [career level](https://lethain.com/mailbag-beyond-career-level/),
 in five to eight years. At that point your path branches, and you have the opportunity to pursue engineering management or continue down
 the path of technical excellence to become a Staff Engineer (or whatever other term your company decides to use).

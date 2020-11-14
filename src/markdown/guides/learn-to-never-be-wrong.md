@@ -5,6 +5,9 @@ date: "2020-06-21"
 kind: "guide"
 ---
 
+> I present what I think is the best case for us, and people can disagree with that. And, you know, they often do. I’m steering and influencing more than saying, “I’ve got the authority to just tell you what to do.” I’ve never seen that style work well.  
+> \- [Keavy McMinn](/stories/keavy-mcminn)
+
 Most folks have worked with someone who thinks they’re never wrong. In each discussion, they lean in, broaden their shoulders and breach their way into the role of the decider. They’ll continue debating until their perspective wins the day or time runs out. They are often right, but right in a way that sucks the oxygen out of the room. As their tenure at a company increases, they may fancy that they’ve become very persuasive, but frequently it’s a form of persuasion characterized by the resignation of their peers.
 
 A few of the technical leaders that I’ve worked with have found a way to never be wrong without dominating the room. To be right while creating space for others. Someone who has always embodied this approach for me is [Franklin Hu](https://twitter.com/thisisfranklin), who I’ve seen reliably disarm contentious discussions with his commitment to finding the best outcome for everyone, willingness to leave his starting position, and the default assumption that there’s always an additional piece of context that reconciles seemingly conflicting perspectives into a unified view.

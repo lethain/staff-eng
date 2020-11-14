@@ -5,6 +5,9 @@ date: "2020-09-27"
 kind: "guide"
 ---
 
+> The best advice I’ve heard is that often reaching Staff is a combination of luck, timing, and work.
+> \- [Bert Fan](/stories/bert-fan)
+
 Most technology companies have a “career level”, which is intended to be the maximum level that most folks achieve. Senior Engineer is the career level of most companies. While you might get let go for not moving from entry-level engineer to mid-level engineer quickly enough, there’s no expectation--timing or otherwise--that you’ll ever go from Senior to Staff.
 
 Quite the contrary, once you attain the career level, the promotion system at most companies flips from supporting your progress to deliberately constraining the number of folks who progress further. This is in large part because the fundamental nature of the job changes; a Staff Engineer isn’t a better Senior Engineer, but rather someone who’s moved into fulfilling one of the [Staff archetypes](https://staffeng.com/guides/staff-archetypes).

@@ -5,6 +5,12 @@ date: "2020-06-21"
 kind: "guide"
 ---
 
+
+>  “What do Principal Engineers do?” is a fascinating question. Before the acquisition there was a big effort to align titles between SendGrid and Twilio,
+> and while we did do that, some of the underlying parts still haven’t coalesced entirely, and maybe they’ll never totally align depending on the Business Unit
+> and product. - [Silvia Botros](/stories/silvia-botros)
+
+
 Most [career ladders](https://lethain.com/perf-management-system/) define a single, uniform set of expectations for Staff Engineers. These career ladders attempt to identify the commonalities across many folks performing similar roles in their organization, but in the end, these ladders are a tool that applies better against populations than people. In the case of Staff-plus engineers, career ladders paper over several distinct roles clustered under a single moniker.
 
 The more folks I spoke with, the better their experiences clustered into four distinct archetypes, although these archetypes weren’t present across every company. The _Tech Lead_ archetype did occur within every company, but if you look hard enough I’m sure you’ll find a company that has forgone even the _Tech Lead_. Other archetypes showed up sporadically or only after a company had scaled into the many hundreds or thousands of software engineers.

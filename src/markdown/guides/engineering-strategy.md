@@ -5,6 +5,10 @@ date: "2020-11-02"
 kind: "guide"
 ---
 
+> I feel most impactful when I can facilitate setting a technical vision for an area and get people moving toward that vision. I think we would all agree that we want our code to be better architected than it is or improved in some way. However, I’ve found that often people have some vague sense of wanting better without having a clear idea of what that thing they want is. I like to help the group decide on a shared understanding of where exactly they’re trying to get (it’s actually okay if we never get there) and come up with a general game plan of how to get there. This way we’re all marching in the
+> same direction. - [Joy Ebertz](/stories/joy-ebertz)
+
+
 One of the projects from my time at Stripe that I’m proud of was writing our engineering strategy, which I later sanitized into a public version in [Magnitudes of exploration](https://lethain.com/magnitudes-of-exploration/). The strategy was an elegant document that carefully reconciled two worldviews that had initially appeared incompatible within the engineering organization. While it was both a conceptually pure and utterly pragmatic document, in the end, it wasn’t particularly useful. It reflected how we _described_ making tradeoffs as opposed to how we _genuinely_ made tradeoffs.
 
 Excessive optimism is one of several recurring patterns that prevent most companies from creating a useful engineering strategy. The most damaging of those patterns is disagreement on what an engineering strategy ought to accomplish.
