@@ -34,7 +34,6 @@ export const storyList = graphql`
       chapters {
         title
         sections {
-          draft
           slug
           title
         }

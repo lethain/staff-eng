@@ -28,7 +28,7 @@ chapters:
       - title: Finding the right company
         slug: finding-the-right-company
       - title: Interviewing for Staff-plus roles
-        draft: https://docs.google.com/document/d/1SED_F_lF5Y8VhB4dFtBoNUOShAWXYNNyunvES-tkP4U/edit
+        slug: interviewing-staff-plus-roles
       - title: Negotiating your offer
         slug: negotiating-the-offer
   - title: Operating at Staff
