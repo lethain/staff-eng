@@ -9,12 +9,6 @@ kind: "guide"
 > \- [Katie Sylor-Miller](/stories/katie-sylor-miller)
 
 
->  “What do Principal Engineers do?” is a fascinating question. Before the acquisition there was a big effort to align titles between SendGrid and Twilio,
-> and while we did do that, some of the underlying parts still haven’t coalesced entirely, and maybe they’ll never totally align depending on the Business Unit
-> and product. - [Silvia Botros](/stories/silvia-botros)
-
-
-
 Many engineers become focused on the Staff-plus career path because the engineering manager path has too many meetings or requires too much collaboration with other coworkers… and woah are you going to be surprised if you begin a Staff-plus with that mindset. Although Staff Engineer roles are generally positioned as the sequential step beyond Senior Engineer, it’s genuinely a different role and you’ll increasingly spend your time doing sorts of work that you previously did infrequently or not-at-all.
 
 The role’s work also has a much slower feedback cycle. The delayed feedback can initially feel quite demoralizing as you replace the visceral coding [REPL](https://en.wikipedia.org/wiki/Read–eval–print_loop) with the uneven progress of mentorship, relationship building, and strategy. This chapter discusses the work you’ll be doing instead.
