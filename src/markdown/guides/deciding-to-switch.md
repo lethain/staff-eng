@@ -5,6 +5,10 @@ date: "2020-09-19"
 kind: "guide"
 ---
 
+> I was hired at Fastly as a Principal Engineer. So, to be honest, for me the biggest factor was changing companies. The type of work I was doing didn’t dramatically change, but changing companies was the thing that ultimately enabled me to get the title.
+> \- [Keavy McMinn](/stories/keavy-mcminn)
+
+
 My father was a professor of economics. After he completed his PhD in his late twenties, he started teaching at one university, got tenure at that university, and walked out forty-some years later into retirement. Working in technology, that sounds like a fairytale.
 
 There are very few software companies with a forty-year track record, and even fewer folks whose [forty-year career](https://lethain.com/forty-year-career/) consisted of one employer. There used to be a meme that many engineers spent either one or four years at each company to maximize their equity grants and then bounced on to the next. If that ever happened, it certainly isn’t common behavior for folks who aspire towards or reach Staff-plus roles.

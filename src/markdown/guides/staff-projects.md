@@ -5,6 +5,9 @@ date: "2020-09-09"
 kind: "guide"
 ---
 
+> There isn’t an explicit expectation, nor is it listed anywhere as a formal requirement, but it is understood that you’ll complete a Staff Project to get promoted. I can’t think of any Staff promotion that didn’t include a really strong project, typically a multi-person project where the engineer was the Tech Lead.  
+> \- [Ritu Vincent](/stories/ritu-vincent)
+
 A popular recurring idea around reaching a Staff-plus role is that first you need to successfully complete a “Staff project.” A project that is considered complex and important enough that the person who completes it has proven themselves as a Staff engineer. However popular this idea is, if you’re pursuing a Staff-plus role it’s important to pierce the mythology of these projects and focus on the experiences of folks who’ve walked the path before you.
 
 The short answer on Staff projects is that most engineers don’t complete one as part of reaching a Staff role, although a large minority do complete one, particularly folks who attain the role via promotion at a company they’ve grown up in. For the folks who don’t complete one, typically it’s either because they accumulated a track record of success over a longer period without a single capstone, or because they switched companies to reach the title.

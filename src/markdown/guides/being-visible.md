@@ -5,10 +5,14 @@ date: "2020-09-13"
 kind: "guide"
 ---
 
+
+> When folks, particularly women and non-binary people, come to me for advice, I think they expect me to talk about how to grow as a technical leader, and are surprised when I say “You’ve probably already got the technical chops, what you need to do is work on your reputation at the company.” For better or for worse, you can’t get to Staff without a good reputation.
+> \- [Katie Sylor-Miller](/stories/katie-sylor-miller)
+
+
+
 [Bert Fan](https://staffeng.com/stories/bert-fan)’s best advice for those trying to reach a Staff-plus role was,
-
-> often reaching Staff is a combination of luck, timing, and work.
-
+"Often reaching Staff is a combination of luck, timing, and work."
 Timing is a particular sort of luck, so in some ways you can simplify this even further down to just luck and work.
 
 If you’re fortunate, then you won’t have to pursue a deliberate path to a Staff-plus role.. You’re already working on your company’s top priorities, have a well-positioned manager who cares about supporting your career, and are working from your company’s headquarters office. If you’re starting with none of those things, getting promoted is going to be quite a challenge, but don’t count yourself out: it’s easy to  underestimate your own role in getting lucky.

@@ -77,7 +77,7 @@ Yeah, I think it’s been a huge factor for my career development in general. I 
 
 Mostly, I enjoyed the people I met at conferences. Later the speaker networks led to job opportunities for me.
 
-___How did you first get a Staff or Principal title? What factors contributed most in you reaching that title? ___
+___How did you first get a Staff or Principal title? What factors contributed most in you reaching that title?___
 
 I was hired at Fastly as a Principal Engineer. So, to be honest, for me the biggest factor was changing companies. The type of work I was doing didn’t dramatically change, but changing companies was the thing that ultimately enabled me to get the title.
 

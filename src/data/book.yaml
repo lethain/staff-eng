@@ -31,14 +31,14 @@ chapters:
     sections:
       - title: Getting the title
         slug: getting-the-title-where-you-are
-      - title: Promotion Packets
+      - title: Promotion packets
         slug: promo-packets
+      - title: Get in the room, and stay there
+        slug: getting-in-the-room	
       - title: Find your sponsor
         slug: find-your-sponsor
       - title: Staff projects
         slug: staff-projects
-      - title: Get in the room, and stay there
-        slug: getting-in-the-room
       - title: Being visible
         slug: being-visible
   - title: Switching companies to get the title
