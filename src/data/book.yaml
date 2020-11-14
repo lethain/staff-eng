@@ -7,6 +7,26 @@ chapters:
         slug: staff-archetypes
       - title: Does the title even matter?
         slug: does-the-title-even-matter
+  - title: Operating at Staff
+    sections:
+      - title: Operating at Staff
+        slug: operating-at-staff
+      - title: Work on what matters
+        slug: work-on-what-matters
+      - title: Writing engineering strategy
+        slug: engineering-strategy
+      - title: Managing technical quality
+        slug: manage-technical-quality
+      - title: Stay aligned with authority
+        slug: staying-aligned-with-authority
+      - title: To lead, you have to follow
+        slug: to-lead-follow
+      - title: Learn to never be wrong
+        slug: learn-to-never-be-wrong
+      - title: Create space for others
+        slug: create-space-for-others
+      - title: Build a network of peers
+        slug: network-of-peers	
   - title: Getting the title where you are
     sections:
       - title: Getting the title
@@ -31,26 +51,6 @@ chapters:
         slug: interviewing-staff-plus-roles
       - title: Negotiating your offer
         slug: negotiating-the-offer
-  - title: Operating at Staff
-    sections:
-      - title: Operating at Staff
-        slug: operating-at-staff
-      - title: Work on what matters
-        slug: work-on-what-matters
-      - title: Writing engineering strategy
-        slug: engineering-strategy
-      - title: Managing technical quality
-        slug: manage-technical-quality
-      - title: Stay aligned with authority
-        slug: staying-aligned-with-authority
-      - title: To lead, you have to follow
-        slug: to-lead-follow
-      - title: Learn to never be wrong
-        slug: learn-to-never-be-wrong
-      - title: Create space for others
-        slug: create-space-for-others
-      - title: Build a network of peers
-        slug: network-of-peers
   - title: Resources
     sections:
       - title: Additional resources on Staff-plus engineering

@@ -33,9 +33,9 @@ and folded that into something richer in experience, nuance and perspective than
 Those recommendations are grouped into five sections:
 
 *   **Overview** - survey of your career, the Staff Engineer role, and why the title matters
+*   **Operating at Staff** - how to do  the work on the other side of the title
 *   **Getting the title where you are** - how to attain a Staff-plus role at your current company
 *   **Switching companies to get the title** - when and how changing companies can support attaining a Staff-plus title
-*   **Operating at Staff** - how to do  the work on the other side of the title
 *   **Resources** - collection of templates and further readings if you’re looking for more
 
 As a final admission, my career has been centered in companies that follow some version of the Silicon Valley playbook,
