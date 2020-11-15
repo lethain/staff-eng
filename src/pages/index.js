@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
 import StoryLink from "../components/storylink"
+import GuideLink from "../components/guidelink"
 import RecentGuides from "../components/recentGuides"
 import SEO from "../components/seo"
 
@@ -11,9 +12,58 @@ const IndexPage = ({
     allMarkdownRemark: { edges },
   },
 }) => {
-  const Stories = edges.map(edge => (
-    <StoryLink slug={edge.node.id} post={edge.node} />
-  ))
+  const Stories = edges.map(edge => <StoryLink post={edge.node} />)
+  const featStoryData = [
+    {
+      frontmatter: {
+        slug: "/stories/duretti-hirpa",
+        name: "Duretti Hirpa",
+        role: "Formerly Staff Engineer at Mailchimp",
+      },
+    },
+    {
+      frontmatter: {
+        slug: "/stories/bert-fan",
+        name: "Bert Fan",
+        role: "Senior Staff Engineer at Slack",
+      },
+    },
+    {
+      frontmatter: {
+        slug: "/stories/michelle-bu",
+        name: "Michelle Bu",
+        role: "Payments Product Tech lead at Stripe",
+      },
+    },
+  ]
+  const FeatStories = featStoryData.map(node => <StoryLink post={node} />)
+  const featGuideData = [
+    {
+      frontmatter: {
+        slug: "/guides/work-on-what-matters",
+        title: "Work on what matters",
+      },
+    },
+    {
+      frontmatter: {
+        slug: "/guides/staying-aligned-with-authority/",
+        title: "Staying aligned with authority",
+      },
+    },
+    {
+      frontmatter: {
+        slug: "/guides/promo-packets/",
+        title: "Promotion packets",
+      },
+    },
+    {
+      frontmatter: {
+        slug: "/guides/manage-technical-quality/",
+        title: "Manage technical quality",
+      },
+    },
+  ]
+  const FeatGuides = featGuideData.map(node => <GuideLink post={node} />)
 
   return (
     <Layout>
@@ -47,9 +97,12 @@ const IndexPage = ({
 
       <div class="pull">
         <p>
-          <strong>Recent Stories</strong>
+          <strong>Stories</strong>
         </p>
-        <ul>{Stories}</ul>
+        <ul>
+          {FeatStories}
+          {Stories}
+        </ul>
         <p>
           <Link to={"/stories"}>
             <em>Looking for more? Read all stories…</em>
@@ -67,9 +120,12 @@ const IndexPage = ({
       </p>
       <div class="pull">
         <p>
-          <strong>Recent Guides</strong>
+          <strong>Guides</strong>
         </p>
-        <RecentGuides />
+        <ul>
+          {FeatGuides}
+          <RecentGuides />
+        </ul>
         <p>
           <Link to={"/guides"}>
             <em>Looking for more? Read all guides…</em>
@@ -95,7 +151,7 @@ export const stories = graphql`
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { kind: { eq: "story" } } }
-      limit: 5
+      limit: 2
     ) {
       edges {
         node {

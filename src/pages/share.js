@@ -69,7 +69,8 @@ const SharePage = () => (
 
     <p>
       This is all early. If you have suggestions for different questions, how
-      the approach of the project can be improved, or what not, please send a note.
+      the approach of the project can be improved, or what not, please send a
+      note.
     </p>
   </Layout>
 )

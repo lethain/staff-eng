@@ -10,7 +10,7 @@ const RecentGuides = () => {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { kind: { eq: "guide" } } }
-          limit: 5
+          limit: 2
         ) {
           edges {
             node {
@@ -29,7 +29,7 @@ const RecentGuides = () => {
   const Guides = data.allMarkdownRemark.edges.map(edge => (
     <GuideLink post={edge.node} />
   ))
-  return <ul>{Guides}</ul>
+  return Guides
 }
 
 export default RecentGuides

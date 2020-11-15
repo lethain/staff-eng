@@ -65,11 +65,11 @@ const AboutPage = () => (
     </p>
     <p>
       Finally, I hope to use those learnings to craft a small number of
-      resources to help others draft their own map to Staff Engineer. What should you
-      do in the first ninety days as a Staff Engineer? What are the highest
-      leverage activities? What should you stop doing? What are the resources
-      you can rely upon? Hopefully we can provide good resources for all of
-      this.
+      resources to help others draft their own map to Staff Engineer. What
+      should you do in the first ninety days as a Staff Engineer? What are the
+      highest leverage activities? What should you stop doing? What are the
+      resources you can rely upon? Hopefully we can provide good resources for
+      all of this.
     </p>
 
     <h3>Who am I?</h3>
