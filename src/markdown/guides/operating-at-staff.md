@@ -24,7 +24,7 @@ In the interviews for this book, as well as my own experience leading and coachi
 3. **[Learn to never be wrong](https://staffeng.com/guides/learn-to-never-be-wrong)** and you can spend less time cleaning up mistakes
     and more time having an impact. Comes with the added benefit of fewer folks complaining about you to your manager.
 4. **[Create space for others](https://staffeng.com/guides/create-space-for-others)** so that your team grows stronger than your contribution.
-5. **[Build a network of peers](https://staffeng.com/guides/network-of-peers)** to vete difficult decisions, and to give you
+5. **[Build a network of peers](https://staffeng.com/guides/network-of-peers)** to vet difficult decisions, and to give you
     honest feedback when your role's authority starts to temper feedback.
 6. **[Work on what matters](https://staffeng.com/guides/work-on-what-matters)** to make the most of the working hours you have,
     particularly as you get further along in your career and life's commitments expand.
