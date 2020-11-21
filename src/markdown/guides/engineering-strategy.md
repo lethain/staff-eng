@@ -5,100 +5,72 @@ date: "2020-11-02"
 kind: "guide"
 ---
 
-> I feel most impactful when I can facilitate setting a technical vision for an area and get people moving toward that vision. I think we would all agree that we want our code to be better architected than it is or improved in some way. However, I’ve found that often people have some vague sense of wanting better without having a clear idea of what that thing they want is. I like to help the group decide on a shared understanding of where exactly they’re trying to get (it’s actually okay if we never get there) and come up with a general game plan of how to get there. This way we’re all marching in the
-> same direction. - [Joy Ebertz](/stories/joy-ebertz)
+
+> I kind of think writing about engineering strategy is hard because good strategy is pretty boring, and it's kind of boring to write about. Also I think when people hear "strategy" they think "innovation" - [Camille Fournier](https://twitter.com/skamille/status/1328763503973429250)
+
+Few companies understand their engineering strategy and vision. One consequence of this uncertainty is the industry belief that these documents are difficult to write. In some conversations it can feel like you’re talking about something mystical, but these are just mundane documents. The reality is that good engineering strategy is boring, and that it’s _easier_ to write an effective strategy than a bad one.
+
+To write an engineering strategy, write five design documents, and pull the similarities out. That’s your engineering strategy. To write an engineering vision, write five engineering strategies, and forecast their implications two years into the future. That’s your engineering vision.
+
+If you can’t resist the urge to include your most brilliant ideas into the process, then you can include them in your prework. Write all of your best ideas into a giant document, delete it, and never mention any of them again. Now that those ideas are out of your head, your head is cleared for the work ahead.
+
+Durably useful engineering strategy and vision are the output of iterative, bottoms-up organizational learning. As such, all learning contributes to your organization’s strategy and vision, but your contribution doesn’t have to be so abstract. Even if you’re not directly responsible for that work, your contribution, there are practical steps that _you_ can take to advance your organization’s strategy and vision, starting _right now_.
+
+## Write five design docs
+
+Design documents describe the decisions and tradeoffs you’ve made in specific projects. Your company might call them RFCs or tech specs. Stranger names happen too; Uber bewilderingly called them DUCKS until they later [standardized on RFC](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/). A good design document describes a specific problem, surveys possible solutions, and explains the selected approach’s details. There are many formats to pick from, a few places to start your thinking are [Design Docs, Markdown, and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/) and [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/).
+
+Whether a given project requires a design document comes down to personal judgment, but I’ve found a few rules useful. You should write design documents for any project whose capabilities will be used by numerous future projects. You should also write design documents for projects that meaningfully impact your users. You should write a design document for any work taking more than a month of engineering time.
+
+A batch of five design docs is the ideal ingredient for writing an effective strategy because design documents have what bad strategies lack: detailed specifics grounded in reality. It’s easy for two well-meaning engineers on the same team to interpret an abstract strategy in different ways, but it’s much harder to stay misaligned when you’re implementing a specific solution.
+
+A few recommendations as you write:
+
+*   **Start from the problem.** The clearer the problem statement, the more obvious the solutions. If solutions aren’t obvious, spend more time clarifying the problem. If you’ve stuck articulating the problem, show what you have to five people and ask them what’s missing: fresh eyes always see the truth.
+*   **Keep the template simple.** Most companies have a design document template, which is a great pattern to follow. However, those templates are often expanded to serve too many goals. Overloaded templates discourage folks from writing design documents in the first place. Prefer minimal design document templates that allow authors to select the most useful sections and only insist on exhaustive details for the riskiest projects.
+*   **Gather and review together, write alone.** It’s very unlikely that you personally have all the relevant context to write the best design document on a given topic. Before getting far into the process, collect input from folks with relevant perspective, particularly those who will rely on the output of your design document. However, be skeptical of carrying that collaborative process into writing the design document itself. Most folks are better writers than they are editors. This means it’s usually harder to edit a group document into clear writing than to identify one author to write a clearer document. Gather perspectives widely but write alone. Just be careful not to fall in love with what you’ve written until _after_ you’ve reviewed it with others.
+*   **Prefer good over perfect.** It’s better to write a good document and get it in front of others than it is to delay for something marginally better. This is particularly valuable to keep in mind when giving feedback on other folks’ designs, it’s easy to fall into the trap of expecting their designs to be just as good as your best design. Particularly as you become more senior, it’s toxic to push every design to meet the bar of your own best work. Focus on pushing designs to be good, rather than fixating on your own best as the relevant quality bar.
+
+It takes a lot of practice to write great design documents. If you want to improve yours, my best advice is to reread your designs _after_ you’ve finished implementing them, and study where the places where your implementation deviated from your plan--what caused those deviations? Oh, and of course just keep writing more of them.
+
+## Synthesize those five design docs into a strategy
+
+After your organization has written five design documents, sit down and read them all together. Look for controversial decisions that came up in multiple designs, particularly those that were hard to agree on. A recent example of mine was get stuck debating whether Redis was appropriate as durable storage or only as a cache. Rather than starting from zero in each design document review, wouldn’t it be easier if we reviewed our recent decisions about using Redis, reflected on how we made thoes decisions, and wrote them down as a strategy?
+
+Good strategies guide tradeoffs and explain the rationale behind that guidance. Bad strategies state a policy without explanation, which decouples them from the context they were made. Without context, your strategy rapidly becomes incomprehensible--why did they decide this?--and difficult to adapt as the underlying context shifts. A few interesting strategies to read while thinking about writing your own are [A Framework for Responsible Innovation](https://multithreaded.stitchfix.com/blog/2019/08/19/framework-for-responsible-innovation/), and [How Big Technical Changes Happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack/).
+
+If you’re a [Good Strategy, Bad Strategy](https://www.amazon.com/dp/B004J4WKEC) convert--and that book has wholly transformed how I think about strategy--then you’ll note this definition of strategy is the “diagnosis” and “guiding policies” sections, deferring “coherent action” to the design documents.
+
+My best advice for writing a strategy document is:
+
+*   **Start where you are.** Working on strategy, it’s easy to be paralyzed by the inherently vast ambiguity we work in, but you’ve just got to dive in and start writing. Waiting for missing information doesn’t work: every missing document is missing for a good reason. Whatever you write will need to change, and if you write something particularly bad, you’ll quickly realize the need to change it. Where you are now is always the best place to start.
+*   **Write the specifics.** Write until you start to generalize, and then stop writing. If you can’t be specific, wait until you’ve written more design documents. Specific statements create alignment; generic statements create the illusion of alignment.
+*   **Be opinionated.** Good strategies are opinionated. If they aren’t opinionated, then they won’t provide any clarity on decision making.  However, being opinionated on its own isn’t enough, you also need to...
+*   **Show your work.** In math classes growing up, you had to show your work to get full credit. Here too, you must show the rationale behind your opinions. Showing your work builds confidence in the first version of a document, but even more importantly, by showing your work, you make it possible for others to modify and extend your work as the underlying context shifts.
+
+Some of the best strategies you write may at the time feel too obvious to bother writing. “When should we write design documents?” is a strategy worth writing. “Which databases do we use for which use cases?” is a strategy worth writing. “Which services should page during off-hours?” is worth writing, too. As we leave behind the idea of strategy as a permanent brilliance, we can start to write far more of them, and we can write them more casually. If it ends up not being used, you can always deprecate it later.
+
+## Extrapolate five strategies into a vision
+
+As you collect more strategies, it’ll become increasingly challenging to reason about how the various strategies interact. Maybe one of your strategies is to [Run less software](https://www.intercom.com/blog/run-less-software/) and rely more on cloud solutions, but another one of your strategies is to prefer offloading complexity to the database whenever possible. How do you reconcile those strategies if you identify a database that would allow you to offload a great deal of complexity but that isn’t offered by your cloud vendor?
+
+Take five of your recent strategies, extrapolate how their tradeoffs will play out over the next two to three years. As you edit through the contradictions and weave the threads together, you’ve written an engineering vision. The final version will give you what [Tanya Reilly](https://twitter.com/whereistanya) calls [a robust belief in the future](https://leaddev.com/technical-direction-strategy/sending-gifts-future-you), which makes it easier to understand how your existing strategies relate to each other, and simplifies writing new strategies that stand the test of time.
+
+For a useful vision, a few things to focus on are:
+
+*   **Write two to three years out.** Companies, organizations and technology all change quickly enough that thinking too far into the future is fraught. It also doesn’t work if you write a vision that expires in six months--how many strategies would you realistically write within that six month window? Try to focus on two to three years out, you can expand that horizon a bit if you’re a fairly established company.
+*   **Ground in your business and your users.** Effective visions ground themselves in serving your users and your business. That tight connection keeps the vision aligned with your leadership team’s core values--users and business. Bad visions treat technical sophistication as a self-justifying purpose raison d'être--a view that is never shared by your company’s leadership.
+*   **Be optimistic rather than audacious.** Visions should be ambitious, but they shouldn’t be audacious. They should be possible, but the best possible version of possible. Do write what you could accomplish if every project finished on time and without major setbacks. Don’t write what you think would be possible with infinite resources.
+*   **Stay concrete and specific.** Visions get more useful as they get more specific. Generic statements are easy to agree with but don’t help reconcile conflicting strategies. Be a bit more detailed than you’re comfortable with. Details in visions are often illustrative rather than declarative, giving a taste of the future’s flavor rather than offering a binding commitment.
+*   **Keep it one to two pages long.** The reality is that most people don’t read long document. If you write something five or six pages long, readers will start dropping off without finishing it (or will skim it very rapidly without engaging with the details). Force yourself to write something compact, and reference extra context by linking to other documents for the subset of folks who want the full details.
+
+After you finish writing your vision, the first step folks usually take is to share it widely across the engineering organization. There is so much work behind the vision--five design docs for each strategy, five strategies for one vision--it’s hard _not_ to get excited when you’re done. It’s easy to get discouraged, then, when the response to your strategy will almost always be a muted one.
+
+There are a few reasons for the muted response. First, the core audience for your vision is folks writing strategies, which is a relatively small cohort. Second, a great vision is usually so _obvious_ that it bores more than it excites. Don’t measure vision by the initial excitement it creates. Instead measure it by reading a design document from two years ago and then one from last week; if there’s marked improvement, then your vision is good.
+
+## When and why
 
 
-One of the projects from my time at Stripe that I’m proud of was writing our engineering strategy, which I later sanitized into a public version in [Magnitudes of exploration](https://lethain.com/magnitudes-of-exploration/). The strategy was an elegant document that carefully reconciled two worldviews that had initially appeared incompatible within the engineering organization. While it was both a conceptually pure and utterly pragmatic document, in the end, it wasn’t particularly useful. It reflected how we _described_ making tradeoffs as opposed to how we _genuinely_ made tradeoffs.
+Now that you have a recipe for creating effective strategies and visions, a good follow up question is, “When and why should I actually create them?” Strategies are tools of proactive alignment, that empower teams to move quickly and with confidence. Strategies allow everyone--not just the empowered few--to make quick, confident decisions that might have otherwise cost them a week of discussion. Strategies are also the bricks that narrow your many possible futures down enough that it’s possible to write a realistic vision.
 
-Excessive optimism is one of several recurring patterns that prevent most companies from creating a useful engineering strategy. The most damaging of those patterns is disagreement on what an engineering strategy ought to accomplish.
-
-Someone in most companies has read [Good Strategy, Bad Strategy](https://lethain.com/good-strategy-bad-strategy/), and can quote Rumelt’s classic definition of strategy as a diagnosis, guiding policy, and coherent action. This is an excellent definition of “strategy” but isn’t entirely what folks mean when they ask your engineering leadership team, “What’s our engineering strategy?” When folks ask for an engineering strategy, [the questions they want to answer are](https://lethain.com/survey-of-engineering-strategies/):
-
-
-
-1. What will our organization look like in two to three years?
-2. How does my team fit into the broader organization?
-3. What are our approved technologies?
-4. How do we evaluate and adopt new technologies?
-5. What technologies should we use for this particular project?
-
-Companies with cohesive engineering strategies don’t rely on any single document to answer this messy expanse of questions. They guide engineering strategy with three tools: a vision, a collection of context-specific strategies to route towards your vision, and technical specifications that explain the decisions you made at each juncture thus far.
-
-
-## Definitions
-
-Vision, strategy, and specification are all overloaded terms, so it’s helpful to define how I’m using them.
-In fact, my core argument is that when folks ask for "an engineering strategy", it takes all three documents
-to properly answer their request.
-
-A **vision** describes how you want your technology and organization to work in two to three years. Tastelessly [quoting myself](https://lethain.com/strategies-visions/), “Visions should be detailed, but the details are used to illustrate the dream vividly, not to prescriptively constrain its possibilities.” It creates lightweight alignment across projects, aligning their vectors’ direction. There are, unfortunately, few public examples of this sort of engineering vision. The closest you can get is to infer a company’s vision from its organizational chart, which also implicitly [reflects its technical architecture](https://en.wikipedia.org/wiki/Conway%27s_law).
-
-A **strategy** guides tradeoffs _and_ explains the rationale behind that guidance. This is the “diagnosis” and “guiding policies” components of _Good Strategy, Bad Strategy_’s definition (the “coherent action” component is handled in your technical specifications). A couple of great examples to refer to are [A Framework for Responsible Innovation](https://multithreaded.stitchfix.com/blog/2019/08/19/framework-for-responsible-innovation/) and [How Big Technical Changes Happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack/).
-
-A **specification** describes the decisions and tradeoffs you’ve made in a specific project, and various companies  might call them RFCs, tech specs, or design docs. If strategies are the “legal precedent” for a given area, then each specification is an individual case. There are many formats to pick from. I’d recommend starting with [Design Docs, Markdown, and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/) and [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/).
-
-For additional concrete examples, refer to [the collection of resources](https://staffeng.com/guides/learning-materials).
-
-
-## More synthesis than genius
-
-In a computer science course learning about object-oriented design, you might write an _Animal_ class that is later extended by _Dog_ and _Cat_. Starting at the top and working your way down into the details is an efficient way to model a problem because the downstream details uniformly benefit from their inherited constraints.
-
-It’s tempting to follow that same approach when defining your company’s engineering strategy. Start by writing a compelling vision, decompose that into a handful of specific strategy documents, and finally write technical specifications influenced by those strategies. It’s an appealing approach, but it’s not how successful engineering organizations practice strategy. Attempts at top-down engineering strategy ultimately describe how the authors _wish_ things worked rather than how they _actually_ work.
-
-In my first year as CTO at Calm, the most important engineering strategy decision I made was sequencing our move to services firmly _after_ establishing clear interfaces within our monolithic application. Was this the sort of inspiring, audacious strategy that you’d build a vision around in a vacuum? Nope. Was it the thing we needed to align and move forward together effectively? Yep, and this strategy was only obviously important after several technical specifications got caught up in questions around service boundaries and size.
-
-An effective engineering strategy starts with technical specifications that explain the reasoning behind a specific solution to a particular problem. As a pattern becomes more prominent, it is then graduated into a “diagnosis and guiding policy” strategy document. Once you’ve accumulated enough strategy documents, you can finally extrapolate their impact on your long term vision. Even then, your vision and strategies aren’t stone tablets. Instead, they’re living documents that influence and are influenced by each new specification your organization writes.
-
-
-## Guidelines
-
-Engineering strategy isn’t created by a team of architects, it’s a living corpus that anyone doing any technical work can contribute to. If you’ve viewed your role in engineering strategy as bemoaning that someone else hasn’t done a better job at it, this can be an intimidating inversion of perspective. But it doesn’t have to be an intimidating process if you follow a few guidelines to evolving strategy.
-
-
-### Start where you are
-
-When you start trying to write an engineering strategy, it’s easy to get overwhelmed by the sheer number of things you don’t know. When you show your initial writings to peers for feedback, don’t be surprised if the first thing they say is, “We need to know our product roadmap for next year before we can write this” or maybe “We need to finalize our long term org structure before we make these decisions.”
-
-Working on strategy, it’s easy to be paralyzed by the inherently vast ambiguity we work in, but you’ve just got to dive in and start writing. Waiting for missing information doesn’t work: every missing document is missing for a good reason. Those documents you’re waiting on will be your Sisyphean boulder, never letting you make forward progress. Rest assured that whatever you write will need to change, and if you write something particularly bad, you’ll quickly realize the need to change it. Where you are now is always the best place to start.
-
-If there are additional materials that would help you, add them to a list. If there are folks who you think are likely to disagree, add them to a list too. If you don’t feel comfortable speaking for the entire engineering organization, then speak from the perspective of your team. If your ideas aren’t perfect, then frame them as an attempt to provoke discussion. If you look for reasons not to get started, you’ll always find them.
-
-On the other hand, sometimes folks try to write reality out of existence by not acknowledging
-existing decisions (say, a commitment staying profitable) or ignoring major constraints that genuinely do exist
-(say, a large Python monolith). That doesn't work either, you need to acknowledge what exists.
-Good strategy aligns with your  business, company and technical realities.
-
-Start wherever you are, and start now.
-
-
-### Write the specifics
-
-One of the reasons to start by writing technical specifications is that specifications are inherently specific. When you’re describing the design decisions for next week’s projects, there’s a proximity to implementation that focuses you on the details.
-
-Strategies and visions are not inherently specific, and it’s easy to get in trouble by writing overly general statements. It’s pleasant that “We never compromise on quality,” but if five people read that statement they’ll interpret it five different ways. The goal of engineering strategy is to create alignment, but generic statements instead create the illusion of alignment. You’re better off being explicitly not aligned--at least you know it’s an area to work on--than to allow generic statements to mislead you into believing you’re aligned when you aren’t.
-
-When you’re writing strategy and vision, write until you start to generalize, and then stop writing. If you can’t be specific, wait until you’ve written more technical specifications to flow into the strategy (or written more strategies to flow into the vision).
-
-
-### Show your work
-
-Good strategies and visions are opinionated. If they aren’t opinionated, then they won’t provide any clarity on decision making, which means they won’t create much alignment. Indeed, if your document doesn’t narrow folk’s possible approaches, then you should just skip writing it--it won’t be worth the cognitive load it creates by existing. However, being opinionated on its own isn’t enough.
-
-In math classes growing up, you had to show your work to get full credit. Here too, you must show the rationale behind your opinions. Showing your work builds confidence in the first version of a document, but even more importantly, by showing your work, you make it possible for others to modify and extend your work as the underlying context shifts.
-
-
-### Synthesize in batch
-
-Effective incident management programs depend on identifying remediations that eliminate entire categories of problems. Failing incident management programs focus on custom fixes that never ladder into something larger. The former look at incidents in batches. The latter look at them individually.
-
-The same logic applies to writing your strategies and vision. If you write a strategy based on a single specification, it’s almost certainly going to be a short-lived strategy. It’s much more effective to look at the specifications in batch, synthesize the common themes, and then write your strategy.
-
-
-## Practical over audacious
-
-There’s something about the word “strategy” that inspires folks to shove a thesaurus and a lifetime’s supply of ambition into one overwrought document. Sometimes this approach creates a beautiful document, but it’s rarely a useful one. You don’t need to do something flashy to contribute towards engineering strategy. The seeds of your strategy already exists in each of the technical specifications you’ve written. Keep writing specifications. Occasionally synthesize specifications into guiding strategies. Very rarely extrapolate where those strategies are taking you into a shared vision.
-
-If any of that sounds intimidating, don’t get caught up in the challenges; just start writing and the rest will take care of itself as you go. Every successful engineering strategy grows from a single technical specification, slowly accumulating and refining into something uniquely powerful for your particular company and your particular needs.
-
+When you’ve rehashed the same discussion three or four times, it’s time to write another strategy. When the future’s too hazy to identify investments worth making, it’s time to write another vision. If neither of those sound like familiar problems -- move on to other work for now and return later.
