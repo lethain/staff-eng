@@ -37,7 +37,7 @@ const IndexPage = ({
     },
   ]
   const FeatStories = featStoryData.map(node => <StoryLink post={node} />)
-  const featGuideData = [
+    const featGuideData = [
     {
       frontmatter: {
         slug: "/guides/work-on-what-matters",
@@ -60,6 +60,12 @@ const IndexPage = ({
       frontmatter: {
         slug: "/guides/manage-technical-quality/",
         title: "Manage technical quality",
+      },
+    },
+    {
+      frontmatter: {
+          slug: "/guides/engineering-strategy",
+          title: "Engineering strategy",
       },
     },
   ]
