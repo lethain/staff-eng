@@ -28,8 +28,9 @@ In the interviews for this book, as well as my own experience leading and coachi
     honest feedback when your role's authority starts to temper feedback.
 6. **[Work on what matters](https://staffeng.com/guides/work-on-what-matters)** to make the most of the working hours you have,
     particularly as you get further along in your career and life's commitments expand.
-7. **Writing an engineering strategy** [WIP] to guide your organization’s approach to supporting your company’s business objectives with its architecture, technology selection, and organizational structure.
-8. **Curating technical quality** [WIP] to maintain the quality of your company’s architecture and software as it grows and tacks over time.
+7. **[Writing an engineering strategy](/guides/engineering-strategy)** to guide your organization’s approach to supporting your company’s business objectives with its architecture, technology selection, and organizational structure.
+8. **[Curating technical quality](/guides/manage-technical-quality)** to maintain the quality of your company’s architecture and software as it grows and tacks over time.
+
 
 As you deliberately practice in each of these areas, you’ll slowly progress from the newly minted Staff Engineer towards the trusted organizational leadership. That said, these won’t cover everything you do. At times you’ll find your role surprisingly similar to that of an Engineering Director, and at other times strangely familiar to previous work in your career.
 
