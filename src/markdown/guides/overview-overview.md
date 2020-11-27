@@ -8,9 +8,12 @@ kind: "guide"
 
 
 
-At most technology companies, you'll reach Senior Software Engineer, the [career level](https://lethain.com/mailbag-beyond-career-level/),
-in five to eight years. At that point your path branches, and you have the opportunity to pursue engineering management or continue down
-the path of technical excellence to become a Staff Engineer (or whatever other term your company decides to use).
+At most technology companies, you'll reach Senior Software Engineer, the [career level](https://lethain.com/mailbag-beyond-career-level/)
+for software engineers, in five to eight years.
+At that point your path branches, and you have the opportunity to pursue engineering management or continue down
+the path of technical excellence to become a Staff Engineer.
+Of course, your company might use a different title here, so replace
+"Staff Engineer: with  whatever title your company uses for the role beyond the career level.
 
 Over the past few years we've seen a flurry of books unlocking the engineering manager career path, like
 Camille Fournier's [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897),
