@@ -10,13 +10,17 @@ kind: "guide"
 
 At most technology companies, you'll reach Senior Software Engineer, the [career level](https://lethain.com/mailbag-beyond-career-level/)
 for software engineers, in five to eight years.
+At that career level, you'll no longer be required to work towards the next promotion,
+and being promoted beyond it is exceptional rather than expected.
 At that point your career path will branch, and you have to decide between
-continuing down the path of technical excellence to become a Staff Engineer
-or to switch into engineering management.
-The specific titles vary by company;
-replace "Staff Engineer" with whatever title your company uses for the level beyond your career level.
+remaining at your current level,
+continuing down the path of technical excellence to become a Staff Engineer,
+or switching into engineering management.
+Of course, the specific titles vary by company, and you can replace
+"Senior Engineer" and "Staff Engineer"
+with whatever titles your company prefers.
 
-Over the past few years we've seen a flurry of books unlocking the engineering manager career path, like
+Over the past few years we've seen a flurry of books unlocking the engineering management career path, like
 Camille Fournier's [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897),
 Julie Zhuo's [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/),
 Lara Hogan's [Resilient Management](https://resilient-management.com)
@@ -29,7 +33,7 @@ remains challenging and undocumented. What are the skills you need to develop to
 Are technical abilities alone sufficient to reach and succeed in that role?
 How do most folks reach this role?
 What is your manager's role in helping you along the way?
-Will you enjoy being a Staff Engineer or toil for years to achieve a role that doesn't suit you?
+Will you enjoy being a Staff Engineer or you will toil for years to achieve a role that doesn't suit you?
 
 In my engineering management career, I've developed an increasingly clear point of view on
 answering those questions around the Staff Engineer role,

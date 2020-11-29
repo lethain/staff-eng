@@ -49,7 +49,10 @@ The _Architect_ title has fallen out of style in many companies, but the _Archit
 
 There is a toxic perception that _Architects_ design systems in isolation, pass their designs to others to implement, and mandate their adoption, but reciting that stereotype would slander the successful architects I spoke with. Instead, they dedicated their energy to maintaining an intimate understanding of the business’ needs, their users’ goals, and the relevant technical constraints. They wielded that insight to identify and advocate for effective approaches within their area of focus, leading constellations of teams despite limited tailwinds from bestowed organizational authority.
 
-The _Architect_ role tends to evolve in relatively large companies or companies that struggle to hire senior talent early on and later attempt to compensate for a less experienced team with one or two senior hires. Some companies push for _Architects to_ remain deep in the codebase, and others set a clear expectation that _Architects must not_ write code: both models work for some companies.
+The _Architect_ role tends to evolve in relatively large companies,
+companies with exceptionally complex or coupled codebases, and
+companies struggling to repay the technical debt they created in their initial sprint to product-market fit.
+Some companies push for _Architects to_ remain deep in the codebase, and others set a clear expectation that _Architects must not_ write code: both models work for some companies.
 
 
 ## Solver

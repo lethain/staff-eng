@@ -5,7 +5,7 @@ date: "2020-09-28"
 kind: "guide"
 ---
 
-> One of the best pieces of advice that someone gave me, and that I make sure to pass on to other staff engineers, is that there's a misconception that you become a Staff Engineer and then you’ll be in control of the work you do, and everyone will listen to you and do what you want them to do. That's absolutely the opposite of what happens! You have this really tangible goal of getting a promotion for so long, and then you become a Staff Engineer, and all of a sudden, everything is vague and ambiguous. You transition from solving somewhat clear-cut problems, to being responsible for finding the right problems, and then figuring out how to convince people that it’s important to solve them.
+> One of the best pieces of advice that someone gave me, and that I make sure to pass on to other staff engineers, is that there's a misconception that you become a Staff Engineer and then you’ll be in control of the work you do, and everyone will listen to you and do what you want them to do. That's absolutely the opposite of what happens!
 > \- [Katie Sylor-Miller](/stories/katie-sylor-miller)
 
 
@@ -25,20 +25,32 @@ finding the parts of the role which are personally fulfilling and organizational
 
 In the interviews for this book, as well as my own experience leading and coaching Staff-plus engineers, a handful of topics kept coming up as keystones of personal development. They aren’t _everything_ you’ll do in the role, but they are the places where you’re most likely to have an outsized impact or accidentally commit a career-limiting move.
 
-
-1. **[Stay aligned with authority](https://staffeng.com/guides/staying-aligned-with-authority)** to remain an effective leader over time.
-2. **[To lead, you have to follow](https://staffeng.com/guides/to-lead-follow)**. Having a vivid sense of how things ought to work
-    is a powerful leadership tool, but it's also essential to learn to blend your vision with the visions from your peers and leadership.
-3. **[Learn to never be wrong](https://staffeng.com/guides/learn-to-never-be-wrong)** and you can spend less time cleaning up mistakes
-    and more time having an impact. Comes with the added benefit of fewer folks complaining about you to your manager.
-4. **[Create space for others](https://staffeng.com/guides/create-space-for-others)** so that your team grows stronger than your contribution.
-5. **[Build a network of peers](https://staffeng.com/guides/network-of-peers)** to vet difficult decisions, and to give you
-    honest feedback when your role's authority starts to temper feedback.
-6. **[Work on what matters](https://staffeng.com/guides/work-on-what-matters)** to make the most of the working hours you have,
+1. **[Work on what matters](https://staffeng.com/guides/work-on-what-matters)** to make the most of the working hours you have,
     particularly as you get further along in your career and life's commitments expand.
-7. **[Writing an engineering strategy](/guides/engineering-strategy)** to guide your organization’s approach to supporting your company’s business objectives with its architecture, technology selection, and organizational structure.
-8. **[Curating technical quality](/guides/manage-technical-quality)** to maintain the quality of your company’s architecture and software as it grows and tacks over time.
+2. **[Writing an engineering strategy](/guides/engineering-strategy)** to guide your organization’s approach to supporting your company’s business objectives with its architecture, technology selection, and organizational structure.
+3. **[Curating technical quality](/guides/manage-technical-quality)** to maintain the quality of your company’s architecture and software as it grows and tacks over time.
+4. **[Stay aligned with authority](https://staffeng.com/guides/staying-aligned-with-authority)** to remain an effective leader over time.
+    Technical leadership roles rely on proxied authority from another (usually, managerial) leader, and continued access to that authority
+    depends on staying aligned, trustworthy, and predictable.
+5. **[To lead, you have to follow](https://staffeng.com/guides/to-lead-follow)**. Having a vivid sense of how things ought to work
+    is a powerful leadership tool, but it's also essential to learn to blend your vision with the visions from your peers and leadership.
+6. **[Learning to never be wrong](https://staffeng.com/guides/learn-to-never-be-wrong)**
+    is shifting away from being right and towards understanding and communication.
+    Stop spending your social capital repairing relationships frayed by conflict, and learn to collaborate with folks with different priorities and perspectives.
+    This also comes with the added benefit of fewer folks complaining about you to your manager.
+7. **[Create space for others](https://staffeng.com/guides/create-space-for-others)** so that your team grows stronger than your contribution.
+8. **[Build a network of peers](https://staffeng.com/guides/network-of-peers)** to vet difficult decisions, and to give you
+    honest feedback when your role's authority starts to temper feedback.
 
+An astute reader will notice two critical themes discussed in [What do Staff engineers actually do?](/guides/what-do-staff-engineers-actually-do)
+are missing from this topic list: the first is "mentorship and sponsorship," and the second is "being glue."
+Both concepts are essential to the success of Staff-plus engineers,
+but ultimately I think the canonical pieces on these topics already exist,
+and you're better served by reading those than my watery rehash.
+For mentorship and sponsorship, spend some time with Lara Hogan's
+[What Does Sponsorship Look Like?](https://larahogan.me/blog/what-sponsorship-looks-like/),
+and for being glue, spend time with Tanya Reilly's piece that bore the phrase,
+[Being Glue](https://noidea.dog/glue).
 
 As you deliberately practice in each of these areas, you’ll slowly progress from the newly minted Staff Engineer towards the trusted organizational leadership. That said, these won’t cover everything you do. At times you’ll find your role surprisingly similar to that of an Engineering Director, and at other times strangely familiar to previous work in your career.
 

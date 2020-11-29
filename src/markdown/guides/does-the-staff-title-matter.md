@@ -39,6 +39,10 @@ While these gauges are believed to objectively evaluate ideas,
 their sheer informality becomes a broad vector of bias, and often conflate confidence with competence.
 
 Freedom from the cycle of re-establishing one’s competence came up frequently as a key advantage of the Staff title.
+I imagine you will be disappointed but not surprised to hear that
+these informal gauges weren't mentioned by every Staff-plus engineer I spoke with,
+but they were routinely mentioned by women
+and anyone who didn't conform to their company's stereotype of an experienced technologist,
 
 [Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa) said,
 
