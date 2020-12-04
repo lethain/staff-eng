@@ -45,6 +45,8 @@ To acknowledge a source of potential confusion, some companies use _Tech Lead_ a
 
 ## Architect
 
+![Weekly calendar for a Staff eng following Architect archetype. Emphasis on architecture review, 1:1s, and planning.](/archetypes//ArchitectCalendar.png)
+
 _Examples_: [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), [Katie Sylor-Miller](https://staffeng.com/stories/katie-sylor-miller), [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn), [Silvia Botros](https://staffeng.com/stories/silvia-botros)
 
 The _Architect_ title has fallen out of style in many companies, but the _Architect_ role remains alive and well for folks operating at Staff-plus levels. _Architects_ are responsible for the success of a specific technical domain within their company, for example, the company’s API design, frontend stack, storage strategy, or cloud infrastructure. For a domain to merit an _Architect_, it must be both complex _and enduringly_ central to the company’s success.
@@ -59,6 +61,8 @@ Some companies push for _Architects to_ remain deep in the codebase, and others 
 
 ## Solver
 
+![Weekly calendar for a Staff eng following Solver archetype. Emphasis on unplanned scalability issue taking up whole week.](/archetypes//SolverCalendar.png)
+
 _Examples_: [Bert Fan](https://staffeng.com/stories/bert-fan), [Nelson Elhage](https://staffeng.com/stories/nelson-elhage)
 
 The _Solver_ is a trusted agent of the organization who goes deep into knotty problems, continuing to work on them until they’re resolved. Folks in this role are moved onto problems identified by organizational leadership as critical and either lacking a clear approach or with a high degree of execution risk.
@@ -69,6 +73,8 @@ The _Solver_ is most common in companies with a weak concept of team, where team
 
 
 ## Right Hand
+
+![Weekly calendar for a Staff eng following Right Hand archetype. Emphasis on participating in and leading many different projects.](/archetypes//RightHandCalendar.png)
 
 _Examples_: [Michelle Bu](https://staffeng.com/stories/michelle-bu), [Rick Boone](https://staffeng.com/stories/rick-boone)
 
