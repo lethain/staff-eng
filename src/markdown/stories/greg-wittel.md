@@ -3,7 +3,7 @@ title: "Greg Wittel - Principal Software Engineer at Proofpoint"
 name: "Greg Wittel"
 role: "Principal Software Engineer at Proofpoint"
 slug: "/stories/greg-wittel"
-date: "2020-12-04"
+date: "2020-12-05"
 kind: "story"
 ---
 
@@ -24,7 +24,7 @@ Outside of core projects, my time is often spent:
 
 **_What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?_**
 
-While it varies across different parts of the company most Staff-plus engineers are leading key initiatives (new or ongoing), or delving into early research/POC phase work.  They will be deeply involved in one or both of the design and implementation of projects.  Typically these will involve multiple teams, and possibly multiple divisions within the company.
+While it varies across different parts of the company most Staff-plus engineers are leading key initiatives (new or ongoing), or delving into early research/proof-of-concept phase work.  They will be deeply involved in one or both of the design and implementation of projects.  Typically these will involve multiple teams, and possibly multiple divisions within the company.
 
 For projects with customer facing elements, typically engineers are working with product teams to help shape the solution and end to end plan.  Purely backend projects are usually engineering lead, coordinating with other teams as needed.  At implementation time, most Staff-plus engineers are hands on, though some delegate work to the respective teams.  By choice, I work in the hands on category.
 
@@ -80,7 +80,7 @@ While I have sponsored other engineers, it is not a key aspect of my role.  Usua
 
 For sponsoring at a mentorship level, my bandwidth just doesn't allow for me to do an effective job.  In the past, I've mentored a few people with mixed results.  My biggest failing is not being able to put in the required effort to make it a productive endeavor.  Mentorship requires work on both sides; both in finding a fit (what type of help are they seeking, can you provide it?), as well as a way to ensure progress.  Expecting to be able to do this in an ad-hoc manner limited the usefulness of the mentoring.  Doing a better job requires careful forethought to ask mentees the right questions and have actionable measurable feedback.  In time, I hope to be able to do more of this.
 
-**_You first got the title Staff Engineer at your current company. Were you hired as a Staff Engineer? If not, what was the process of getting promoted to Staff?_**
+**_You first got the title Staff Engineer at your current company. What was the process of getting promoted to Staff?_**
 
 I first was promoted to the title of Staff Engineer at my current company.  While there was no formal process, it started by asking questions to management around what it meant to grow:  What should I be doing that I am not to be Staff (or Principal)?  How or where can I improve?
 
