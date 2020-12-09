@@ -74,6 +74,7 @@ Folks sharing their stories of becoming a Staff-plus engineer:
 * [Design Docs, Markdown, and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/)
 * [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 * [How to write a better technical design document](https://www.range.co/blog/better-tech-specs)
+* [Technical Decision-Making and Alignment in a Remote Culture](https://multithreaded.stitchfix.com/blog/2020/12/07/remote-decision-making/)
 * [Writing Technical Design Docs](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
 
 
