@@ -61,9 +61,9 @@ In my role we’ll often go weeks without being in the same room together, but I
 
 It also means that I have to truly understand his goals, intent, values and principles, to make sure that I’m ready to stake my reputation and credibility on pushing them forward. Often, part of my role involves advocating for or translating his vision and/or implementation to engineers, sometimes when supplemental context isn’t always known. When I do this, I have to make sure that I not only understand the logic and value of what he’s doing, but that I also believe in it myself - otherwise, advocacy becomes hard, not to mention disingenuous.
 
-This is something I really struggled with a lot when I started in the role. Matthew would constantly tell me, “You’re my representative; you should feel free to push on and perform things using my name and role .” That was difficult for me because I’ve never been in a role like that before. Previously I’ve always operated using my own name and reputation, and now I was to operating  under the aegis of the Vice President and everything which that carried . Over time I’ve learned how to be deliberate with using that hammer, since you don’t want to overuse it.
+This is something I really struggled with a lot when I started in the role. Matthew would constantly tell me, “You’re my representative; you should feel free to push on and perform things using my name and role .” That was difficult for me because I’ve never been in a role like that before. Previously I’ve always operated using my own name and reputation, and now I was operating  under the aegis of the Vice President and everything which that carried . Over time I’ve learned how to be deliberate with using that hammer, since you don’t want to overuse it.
 
-I’ve also learned that I have to let folks know which hat I’m wearing sometimes. I love to mentor people, but sometimes folks aren’t sure if they’re getting the strategic advisor working for the benefit of the organization and companyor the mentor, working for the benefit of that person and their career; I try to let them know which role I’m currently in within a particular conversation. If I meet with someone I’m mentoring, they might want to get advice about changing teams, or even leaving the organization or the company, and they want to know which perspective I’m giving advice from.
+I’ve also learned that I have to let folks know which hat I’m wearing sometimes. I love to mentor people, but sometimes folks aren’t sure if they’re getting the strategic advisor working for the benefit of the organization and company or the mentor, working for the benefit of that person and their career; I try to let them know which role I’m currently in within a particular conversation. If I meet with someone I’m mentoring, they might want to get advice about changing teams, or even leaving the organization or the company, and they want to know which perspective I’m giving advice from.
 
 **_What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?_**
 
@@ -110,7 +110,7 @@ Matthew and I had already had several positive interactions before that, where w
 
 When he first suggested that I take the role, I had a ton of imposter syndrome about it. I tried to get him to rescind the offer, thinking it wouldn’t be a good fit, but ultimately I did accept and have been in the role since.
 
-**_What two or three factors were most important in you becoming an strategic advisor? How have the companies you joined, your location, or your education impacted your path?_**
+**_What two or three factors were most important in you becoming a strategic advisor? How have the companies you joined, your location, or your education impacted your path?_**
 
 In addition to Rob’s recommendation, the most important factor was doing visible work that aligned with Matthew’s values. One project I worked on was joining the working group to  understand and improve SRE’s culture back in 2017. The working group was already planned before [Susan Fowler’s blog post](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber) went out, and our first meeting was coincidentally three days after she posted it. I really think the culture working group did some great work, work which myself and the other group members are extremely proud of and over eighteen months we really moved the culture of a hundred person organization in a meaningful way.
 
@@ -126,7 +126,7 @@ Another thing that’s helped is having mentors. Specifically I like mentors who
 
 This goes back to how I got where I am based on having a broad set of interests in organizational psychology, culture, mentorship and so on, in addition to the technology. I’ve never been a pure engineer that’s just deep in the code 24/7. I’ve never been that person, and I had to make my peace with that.
 
-For me it’s been important to follow my passions. Recently that’s been around mentorship, but it’s also been around other things like machine learning, which has always been a hobby of mine. I love how machines can generate insights that mimichow people think - it’s the perfect marriage of my interests in technology + psychology.
+For me it’s been important to follow my passions. Recently that’s been around mentorship, but it’s also been around other things like machine learning, which has always been a hobby of mine. I love how machines can generate insights that mimic how people think - it’s the perfect marriage of my interests in technology + psychology.
 
 So I have these passions that I stoke, and then when opportunities to align those passions with something the company needs arise, I take them. For example, my previous team at Uber was generating insights into fleet utilization for capacity planning purposes, and that a great chance to [pull together my interest in machine learning and site reliability](https://www.youtube.com/watch?v=9ool1BQybaE).
 
@@ -136,7 +136,7 @@ Small companies give you the chance to do many different things, but at a certai
 
 It’s something that I think about sometimes, even now it’s something I’m thinking about. It’s on my list of possibilities, and throughout my career folks have asked, “Have you considered moving into management?”
 
-What I want to focus on right now is becoming effective as a high-level, big-picture leader. Eventually I’d like to develop the people management skillset too, maybe somewhere in the medium future. The thing that appeals to me is that human behavior excites me to no end, and people management is a great opportunity to spend time on that.
+What I want to focus on right now is becoming effective as a high-level, big-picture leader. Eventually I’d like to develop the people management skill set too, maybe somewhere in the medium future. The thing that appeals to me is that human behavior excites me to no end, and people management is a great opportunity to spend time on that.
 
 **_What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?_**
 
@@ -144,4 +144,4 @@ You know, for the first two-thirds of my career I used to love reading as much t
 
 Also, last year I started compiling a [reading list of books about the human brain and behavior](https://docs.google.com/document/d/1WIqIYuSGfyoU_ZO-xZMDXfaaUmnG2tmnkHiGZQ7pvqg/edit?usp=sharing) which I share with anyone who’s also interested in the topic(s).
 
-I do still keep up with [r/linux](https://www.reddit.com/r/linux/) and [r/programing](https://www.reddit.com/r/programming/) on Reddit, which have replaced RSS feeds for me in discovering new things to read.
+I do still keep up with [r/linux](https://www.reddit.com/r/linux/) and [r/programming](https://www.reddit.com/r/programming/) on Reddit, which have replaced RSS feeds for me in discovering new things to read.
