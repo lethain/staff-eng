@@ -116,7 +116,7 @@ I will also provide input on an engineer's growth when the engineering manager i
 ...
 
 **_Were you hired as a Staff Engineer? If not, what was the process of getting promoted to Staff?_**
-I was hired as a Staff engineer at Jobber and was previously a Staff engineer at Intuit.
+I was hired as a Staff engineer at Jobber and was previously a Staff engineer at Intuit. I've been a Staff engineer for 5 years and a Principal engineer for 3.
 
 The process to move from Staff engineer to Principal at Jobber basically followed the increasing impact I had on the engineering team and beyond to the rest of Jobber.
 
