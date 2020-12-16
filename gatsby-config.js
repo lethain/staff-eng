@@ -12,6 +12,7 @@ module.exports = {
   },
     plugins: [
         `gatsby-plugin-sitemap`,
+	`gatsby-plugin-preload-fonts`,
         `gatsby-transformer-yaml`,
         {
             resolve: `gatsby-source-filesystem`,
@@ -88,17 +89,6 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`
-      }
-    },
-    {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
-      options: {
-        fonts: [
-          {
-            family: `Roboto`,
-            variants: [`300`, "300italic", `700`, "700italic"]
-          }
-        ]
       }
     },
     {
