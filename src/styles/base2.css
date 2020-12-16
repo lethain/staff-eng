@@ -41,6 +41,11 @@ nav {
 nav h2 a {
     color: #4a4a4a;
 }
+nav h2 a img {
+    height: 30px;
+    padding-right: 5px;
+}
+
 
 nav ul {
     list-style: none;

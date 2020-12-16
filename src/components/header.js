@@ -1,4 +1,5 @@
 import { useStaticQuery, graphql, Link } from "gatsby"
+import Img from "gatsby-image"
 import PropTypes from "prop-types"
 import React from "react"
 
@@ -18,7 +19,9 @@ const Header = ({ siteTitle }) => {
   return (
     <nav>
       <h2>
-        <a href="/">{siteTitle}</a>
+          <a href="/">
+	      <img src="/StaffEngLogoSm.png" alt="StaffEng logo" />
+	  {siteTitle}</a>
       </h2>
       <ul>
         <li>
@@ -26,9 +29,6 @@ const Header = ({ siteTitle }) => {
         </li>
         <li>
           <Link to="/guides">Guides</Link>
-        </li>
-        <li>
-          <Link to="/share">Submit</Link>
         </li>
         <li>
           <a href={data.site.siteMetadata.mailingListURL} target={"_blank"}>
