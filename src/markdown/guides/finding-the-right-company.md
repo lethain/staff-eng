@@ -44,7 +44,7 @@ Neither meritocratic nor proceduralist companies have inherently better odds of 
 
 Most companies only hire one or two of [the Staff archetypes](https://staffeng.com/guides/staff-archetypes), even though they all use the same titles to describe the role they’re hiring for. If you’re trying to figure out a given company’s preferences, it’s most effective to reach out to some of their existing Staff-plus engineers and get a sense of the work they do. Most companies don’t deliberately think about the sort of Staff engineers they support, so asking directly rarely works as well as it should.
 
-Sufficiently large companies end up with at least some folks operating in each of the archetypes, but it takes a long time until that’s the case, usually_ _after their engineering organization has scaled to _thousands_ of engineers.
+Sufficiently large companies end up with at least some folks operating in each of the archetypes, but it takes a long time until that’s the case, usually _after_ their engineering organization has scaled to _thousands_ of engineers.
 
 
 ## Growth
