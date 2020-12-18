@@ -5,11 +5,6 @@ date: "2020-06-29"
 kind: "guide"
 ---
 
-> "What’s changed for you since becoming a Staff-plus engineer?"
-> Honestly? Being listened to and being treated like I have expertise. The title carries weight, and I’m taken more seriously from the
-> jump. - [Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa)
-
-
 
 If you’re safely nestled within the comfortable clutches of the Senior Engineer [career level](https://lethain.com/career-levels-and-more/), you might wonder if you ought to pursue the Staff title. It’s a considerable investment of time and energy, along with requiring a good amount of luck.
 Is that investment worth your time?
@@ -42,13 +37,9 @@ Freedom from the cycle of re-establishing one’s competence came up frequently 
 I imagine you will be disappointed but not surprised to hear that
 these informal gauges weren't mentioned by every Staff-plus engineer I spoke with,
 but they were routinely mentioned by women
-and anyone who didn't conform to their company's stereotype of an experienced technologist,
+and anyone who didn't conform to their company's stereotype of an experienced technologist.
 
-[Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa) said,
-
-> What’s something that’s changed for you since becoming a Staff-plus engineer? Honestly? Being listened to and being treated like I have expertise. The title carries weight, and I’m taken more seriously from the jump.
-
-Similarly, [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) shared,
+[Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) shared,
 
 > When you have a title, you don’t have to spend so much energy putting your credentials on the table. It helps set the context for others. You’re more respected from the outset, and that’s been really noticeable.
 

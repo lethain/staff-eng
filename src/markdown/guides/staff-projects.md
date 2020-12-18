@@ -27,9 +27,6 @@ Into the messy details we go.
 
 When I asked folks whether they had a Staff project, some of the answers were quite concise:
 
-
-
-*   [Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa ), “I was hired in at Staff, so no.”
 *   [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), “I actually didn’t really have a Staff Project.”
 *   [Diana Pojar](https://staffeng.com/stories/diana-pojar), “No, I did not have an assigned ‘Staff Project’ and that is not something that is part of the promotion process at Slack.”
 

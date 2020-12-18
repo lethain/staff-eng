@@ -32,7 +32,7 @@ This taxonomy is more focused on being _useful_ than _complete_, but so far, I�
 
 ![Weekly calendar for a Staff engineer following Tech Lead archetype. Emphasis on team meetings 1:1s, planning and some core work.](/archetypes//TechLeadCalendar.png)
 
-_Examples_: [Diana Pojar](https://staffeng.com/stories/diana-pojar), [Dan Na](https://staffeng.com/stories/dan-na), [Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa), [Ritu Vincent](https://staffeng.com/stories/ritu-vincent)
+_Examples_: [Diana Pojar](https://staffeng.com/stories/diana-pojar), [Dan Na](https://staffeng.com/stories/dan-na), [Ritu Vincent](https://staffeng.com/stories/ritu-vincent)
 
 _Tech Leads_ are the most common Staff archetype and lead one team or a cluster of teams in their approach and execution. They’re comfortable scoping complex tasks, coordinating their team towards solving them, and unblocking them along the way. _Tech Leads_ often carry the team’s context and maintain many of the essential cross-team and cross-functional relationships necessary for the team’s success.
 

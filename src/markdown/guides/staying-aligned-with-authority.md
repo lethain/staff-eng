@@ -18,9 +18,7 @@ Titles come with the sort of power called organizational authority, and that var
 
 ## Beyond the safety net
 
-When asked for advice on entering a Staff-plus role, [Duretti Hirpa](/stories/duretti-hirpa) shared, “Staff engineering is a **completely** different job. It’s no longer about your technical expertise. The job isn’t “computer” any more, as I’m fond of saying. You’re now an agent of the organization.”
-
-The golden rule of being an agent of the organization is that you must stay aligned with your organizational authority. Retire any remaining expectations that the company is designed to set you up for success. Now _you_ are one of the people responsible for setting the company, your team and your manager up for success.
+Retire your remaining expectations that the company is designed to set you up for success. Now _you_ are one of the people responsible for setting the company, your team and your manager up for success.
 
 Most mature technology companies succeed in creating a predictable promotion pipeline from folks joining early in their careers up through attaining the Senior Engineer title. The process of getting a Staff Title is generally more complex than preceding titles, but usually navigated with the support of your engineering manager. Throughout this pipeline, you may become comfortable with your manager guiding your development and providing a safety net for your continued success. After reaching a Staff role, your safety net will cease to exist, or at best the safety net will be short enough that you’re quite capable of jumping past it and into the awaiting chasm. This will be increasingly true as you go further into Senior Staff and Distinguished Engineer roles.
 

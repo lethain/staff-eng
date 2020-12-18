@@ -51,10 +51,6 @@ But even though Joy hated her management experience, she felt it may have helped
 
 > It’s possible that if I hadn’t taken a meander through management, I would have gotten to Staff sooner. That said, I don’t regret doing it and I learned a lot about how people think, how organizations are run and how larger projects are prioritized. All of these have continued to help me do my job on the IC track and likely helped me further get promoted to Senior Staff. While I do think it’s distinctly possible that it slowed down when I got to Staff, I’m actually less sure for the next level - I think there’s a real chance I would have hung out at Staff longer without it. All of this is to say that even though I didn’t take the most direct route, I still learned a lot that has helped me out long term.
 
-Ultimately, though, the best advice to consider when you’re pondering an engineering management role is [Duretti Hirpa](https://staffeng.com/stories/duretti-hirpa)’s cautionary wisdom against taking the opportunity for the wrong reasons,
-
-> I did consider engineering management: I’m an extroverted, charismatic, people person. I’d be a damn fine engineering manager. However, I didn’t want to be a first-time engineering manager and experiment on someone else’s career. Time is a non-renewable resource, and we act like it isn’t. I couldn’t stomach taking a year to get good at a job and possibly rob someone of career progression. I couldn’t pretend it wasn’t a theft, and I wasn’t willing to do that to someone.
-
 People management is bigger than simply maximizing your trajectory to a Staff Engineer role. You’ll have a profound impact on the folks you support as a manager, and if you take it on with the wrong motivations you’ll regret the experience, but not nearly as much as your team will. If you’re motivated to help your team grow and succeed, then go ahead and do it; if you’re only doing it for yourself, then don’t.
 
 ## A semi-permeable boundary
