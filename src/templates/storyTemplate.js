@@ -9,7 +9,7 @@ export default function Template({
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-  if (frontmatter.kind == "guide") {
+  if (frontmatter.kind === "guide") {
     return (
       <Layout>
         <SEO title={frontmatter.title} content="article" />
@@ -33,7 +33,7 @@ export default function Template({
         </p>
       </Layout>
     )
-  } else if (frontmatter.kind == "story") {
+  } else if (frontmatter.kind === "story") {
     return (
       <Layout>
         <SEO

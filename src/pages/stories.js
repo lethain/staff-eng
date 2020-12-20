@@ -31,7 +31,7 @@ export default StoriesPage
 export const storyList = graphql`
   query {
     allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort: { order: ASC, fields: [frontmatter___date] }
       filter: { frontmatter: { kind: { eq: "story" } } }
     ) {
       edges {
