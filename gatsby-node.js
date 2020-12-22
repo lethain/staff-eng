@@ -4,7 +4,11 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 const { createFilePath } = require(`gatsby-source-filesystem`)
+const express = require(`express`)
 
+exports.onCreateDevServer = ({ app }) => {
+    app.use(express.static("static"))
+}
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
     const { createPage } = actions
