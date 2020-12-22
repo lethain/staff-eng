@@ -1,10 +1,10 @@
 ---
-title: "Dmitry Petrashko - Infrastructure Pillar Tech Lead at Stripe"
+title: "Dmitry Petrashko - Technical Advisor to the Head of Intrastructe at Stripe"
 slug: "/stories/dmitry-petrashko"
 date: "2020-05-07"
 name: "Dmitry Petrashko"
 kind: "story"
-role: "Infrastructure Pillar Tech Lead at Stripe"
+role: "Technical Advisor to the Head of Intrastructe at Strip"
 ---
 
 <span class="date">May, 2020</span>
@@ -13,21 +13,25 @@ role: "Infrastructure Pillar Tech Lead at Stripe"
 [linkedin](https://www.linkedin.com/in/darkdimius/)
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
-I am a Staff engineer and one of 5 Pillar Tech Leads of the Infrastructure org at Stripe, representing Developer Productivity group of teams.
+I am a Staff engineer and the Technical Advisor to head of Infrastructure at Stripe. 
 
-My team builds processes, tools and core libraries used during product development at Stripe, including testing frameworks, linters, typecheckers, build tools, libraries used for gradual rollout, and many others. Our work empowers Stripe engineers to focus on product.
+My current team is all of Stripe Infrastructure, which is responsible for foundational infrastructure services at Stripe - Compute, Networking, Storage, Database, Data Engineering, Performance & Efficiency, Observability Services, and Developer Tools. Our work empowers Stripe engineers to focus on product.
+
+The team that I "grew" from was Developer productivity, which builds processes, tools and core libraries used during product development at Stripe, including testing frameworks, linters, typecheckers, build tools, libraries used for gradual rollout, and many others. I started as engineer on that team(while it was still a singular team), eventually becoming a Pillar Tech Lead of that group.
 
 **_What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?_**
 
-A Staff Engineer at Stripe isn’t a role, rather it’s a level that corresponds to expectation of impact, communication, people and project leadership skills. Staff engineers fill different roles, mine is a Pillar Tech Lead (PTL) role. In that role:
+A Staff Engineer at Stripe isn’t a role, rather it’s a level that corresponds to expectation of impact, communication, people and project leadership skills. Staff engineers fill different roles, mine is a current one is Technical Advisor(TA). In that role I partner closely with the Head of Foundation, Rahul Patil, with the goal of researching critical topics ahead of time, diving into critical issues (design, code, analytical), brainstorming technical action items, assisting with urgent technical follow-ups, instrumenting code for data collection, etc. This role is designed to expand Rahul’s bandwidth and strategic thinking, but the person will not directly be making technical decisions.
 
+As a stepping stone to that role, I was also a Pillar Tech Lead. As we have more PTLs, the expectations are better defined:
 *   PTLs help their teams make technical decisions that will play well with each other and with technical decisions made by other groups at Stripe. Teams at Stripe make most technical decisions themselves, but an experienced PTL can help fine tune those decisions to achieve better outcomes. PTLs also work as arbiters in cases where teams cannot reach an agreement amongst themselves on technical topics.
 *   PTLs guide the technical direction of Stripe, providing input on what are the most important problems to solve and setting the high level technical approaches to solving them.
-*   PTLs help their organization by representing it to other pillar tech leads and also bring technical decisions made elsewhere back to the teams they work with to create alignment.
+*   PTLs help their organization by representing it to other Pillar Tech Leads and also bring technical decisions made elsewhere back to the teams they work with to create alignment.
 *   PTLs create opportunities for other engineers to take on impactful projects and help them succeed.
 
-In this role, I closely partner with the Head of Developer Productivity and managers of the teams inside the group. We exchange context and work towards an agreed goal. Due to the kind of work that I do, I have good insight into the needs of our users & tools at our disposal to address them, while the Head of DevProd has a better understanding of Stripe-wide non-technical constraints(e.g. resourcing constraints).
+In the PTL role, I used to partner closely with the Head of Developer Productivity and managers of the teams inside the group. We exchanged context and worked towards an agreed goal. 
 
+Both of these roles(PTL and TA) are similar in that they partner with engineerign manager and share insight into the needs of our users & tools at our disposal to address them, while the EM has a better understanding of Stripe-wide non-technical constraints(e.g. resourcing constraints).
 
 <div class="pull">
 <p><strong>Talks from Dmitry</strong></p>
@@ -62,9 +66,11 @@ In the early days of Sorbet, we’ve carefully chosen what features to add based
 
 **_How do you keep in touch with how things really work as you spend less time on hands-on development?_**
 
-I try to have at least a couple of days a week where I can code. Additionally, I work closely with other engineers on my teams and we continuously learn from each other.
+While I was a PTL, I had a least a couple of days a week where I got code. I worked closely with other engineers on my teams and we continuously learn from each other.
 
-Developer productivity also organises a Stripe-wide engineer survey, where we are looking to find what are the biggest things keeping our engineers from being productive: maybe there’s some tool that became slow since the last survey or some use case that had a user base grow that’s not well supported. While this survey rarely finds things that we weren’t aware of, it’s a great tool for relative prioritization: we can compare how many people complain about things and prioritize them accordingly.
+As a TA, I wasn't able to write code as much as I was as a PTL. I mostly wrote code when it was code-yellow situation. But the success in this role is dependent on having good insignts and deep engineering understanding. To do this, I speak to our internal customers and stay on top of designs and, notably, failure thresholds and failure modes of systems of teams that I support.
+
+In my role, it's highly important to understand needs of customers. One helpful resource for that is the Stripe-wide engineer survey that Developer Productivity group organises, where we are looking to find what are the biggest things keeping our engineers from being productive: maybe there’s some tool that became slow since the last survey or some use case that had a user base grow that’s not well supported. While this survey rarely finds things that we weren’t aware of, it’s a great tool for relative prioritization: we can compare how many people complain about things and prioritize them accordingly.
 
 Additionally, before Covid-19-induced lockdown, I used to join random tables for dinners at Stripe. I’d ask 3 questions:
 
@@ -72,7 +78,9 @@ Additionally, before Covid-19-induced lockdown, I used to join random tables for
 *   What makes it hard?
 *   How can infrastructure teams help?
 
-This became a great tool in two ways: 1) connecting me to my users, helping discover their needs; 2) helping mitigate unhappiness of teams that aren’t yet supported by having a discussion similar to: “yes, I agree we could help you by doing X, now, lets together look on what we should stop doing to create place for this”, where a person would frequently discover that, while they would like us to address their pain point, they don't want it addressed at cost of us deprioritizing our current projects.
+This became a great tool in two ways: 1) connecting me to my users, helping discover their needs; 2) helping mitigate unhappiness of teams that aren’t yet supported by having a discussion similar to: “yes, I agree we could help you by doing X, now, lets together look on what we should stop doing to create place for this”, where a person would frequently discover that, while they would like us to address their pain point, they don't want it addressed at cost of us deprioritizing our current projects. 
+
+As I was transitioning away from role of PTL, I've created a group that's currently called DevProd Assembly that gathers leaders of developer productivity teams. Each member of this group is expected to build a high trust relationship with 2-3 product teams, interview them monthly and share feedback with Assembly.
 
 **_How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?_**
 
