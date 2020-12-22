@@ -15,12 +15,12 @@ const Header = ({ siteTitle }) => {
     `
   )
 
-  return (
-    <nav>
+    return (
+    <div>
+      <img src="/banner.png" alt="StaffEng Banner" />	
+      <nav>
       <h2>
-          <a href="/">
-	      <img src="/StaffEngLogoSm.png" alt="StaffEng logo" />
-	  {siteTitle}</a>
+          <a href="/">{siteTitle}</a>
       </h2>
       <ul>
         <li>
@@ -35,7 +35,8 @@ const Header = ({ siteTitle }) => {
           </a>
         </li>
       </ul>
-    </nav>
+      </nav>
+    </div>
   )
 }
 
