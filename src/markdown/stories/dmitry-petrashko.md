@@ -21,7 +21,7 @@ The team that I "grew" from was Developer productivity, which builds processes, 
 
 **_What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?_**
 
-A Staff Engineer at Stripe isn’t a role, rather it’s a level that corresponds to expectation of impact, communication, people and project leadership skills. Staff engineers fill different roles, mine is a current one is Technical Advisor(TA). In that role I partner closely with the Head of Foundation, Rahul Patil, with the goal of researching critical topics ahead of time, diving into critical issues (design, code, analytical), brainstorming technical action items, assisting with urgent technical follow-ups, instrumenting code for data collection, etc. This role is designed to expand Rahul’s bandwidth and strategic thinking, but the person will not directly be making technical decisions.
+A Staff Engineer at Stripe isn’t a role, rather it’s a level that corresponds to expectation of impact, communication, people and project leadership skills. Staff engineers fill different roles, mine is a current one is Technical Advisor(TA). In that role I partner closely with the Head of Foundation, Rahul Patil, with the goal of researching critical topics ahead of time, diving into critical issues (design, code, analytical), brainstorming technical action items, assisting with urgent technical follow-ups, instrumenting code for data collection, etc. This role is designed to expand Rahul’s bandwidth and strategic thinking, but does not dirrectly make technical decisions.
 
 As a stepping stone to that role, I was also a Pillar Tech Lead. As we have more PTLs, the expectations are better defined:
 *   PTLs help their teams make technical decisions that will play well with each other and with technical decisions made by other groups at Stripe. Teams at Stripe make most technical decisions themselves, but an experienced PTL can help fine tune those decisions to achieve better outcomes. PTLs also work as arbiters in cases where teams cannot reach an agreement amongst themselves on technical topics.
@@ -64,11 +64,13 @@ I was hired specifically to introduce typechecking into Ruby at Stripe. This inc
 
 In the early days of Sorbet, we’ve carefully chosen what features to add based on usecases that Stripe needs the most. I believe we’ve succeeded in covering most of usecases that Stripe had with a typesystem and, at the same time, keeping the simplicity: it’s very easy to get to a typesystem and culture that promotes complexity and elitism for sake of it and I’m happy that our efforts avoided swinging from untypedness to the other end of spectrum.
 
+Today, in my role as Technical Advisor, I advocate for changes that will have outsized impact, most commonly in terms of Reliability, Scalability, Security and Productivity at Stripe. That can be changing the way data is sharded/stored, or changing the way we address change management. The big difference though is that unlike in Sorbet where I stayed on project for years, I'd be looking to find/grow a person who'll take over the project pretty soon - after organization is bought in, and there's a plan with well articulated milestones and controlled risks. I'll keep having frequent checkings with people driving these important projects with goal to help mitigate these risks and discover opportunitites to deliver the project faster, and thus my involvement is visible only in early stages of project.
+
 **_How do you keep in touch with how things really work as you spend less time on hands-on development?_**
 
 While I was a PTL, I had a least a couple of days a week where I got code. I worked closely with other engineers on my teams and we continuously learn from each other.
 
-As a TA, I wasn't able to write code as much as I was as a PTL. I mostly wrote code when it was code-yellow situation. But the success in this role is dependent on having good insignts and deep engineering understanding. To do this, I speak to our internal customers and stay on top of designs and, notably, failure thresholds and failure modes of systems of teams that I support.
+As a Technical Advisor, I wasn't able to write code as much as I was as a PTL. I mostly wrote code when it was code-yellow situation. But the success in this role is dependent on having good insignts and deep engineering understanding. To do this, I speak to our internal customers and stay on top of designs and, notably, failure thresholds and failure modes of systems of teams that I support.
 
 In my role, it's highly important to understand needs of customers. One helpful resource for that is the Stripe-wide engineer survey that Developer Productivity group organises, where we are looking to find what are the biggest things keeping our engineers from being productive: maybe there’s some tool that became slow since the last survey or some use case that had a user base grow that’s not well supported. While this survey rarely finds things that we weren’t aware of, it’s a great tool for relative prioritization: we can compare how many people complain about things and prioritize them accordingly.
 
@@ -80,7 +82,7 @@ Additionally, before Covid-19-induced lockdown, I used to join random tables for
 
 This became a great tool in two ways: 1) connecting me to my users, helping discover their needs; 2) helping mitigate unhappiness of teams that aren’t yet supported by having a discussion similar to: “yes, I agree we could help you by doing X, now, lets together look on what we should stop doing to create place for this”, where a person would frequently discover that, while they would like us to address their pain point, they don't want it addressed at cost of us deprioritizing our current projects. 
 
-As I was transitioning away from role of PTL, I've created a group that's currently called DevProd Assembly that gathers leaders of developer productivity teams. Each member of this group is expected to build a high trust relationship with 2-3 product teams, interview them monthly and share feedback with Assembly.
+As I was transitioning away from role of PTL, I've created a group that's currently called DevProd Assembly that gathers leaders of developer productivity teams. Each member of this group is expected to build a high trust relationship with 2-3 product teams, interview them monthly and aggregate feedback with other members of Assembly.
 
 **_How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?_**
 
