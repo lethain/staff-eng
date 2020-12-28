@@ -14,7 +14,7 @@ To write an engineering strategy, write five design documents, and pull the simi
 
 If you can’t resist the urge to include your most brilliant ideas into the process, then you can include them in your prework. Write all of your best ideas into a giant document, delete it, and never mention any of them again. Now that those ideas are out of your head, your head is cleared for the work ahead.
 
-Durably useful engineering strategy and vision are the output of iterative, bottoms-up organizational learning. As such, all learning contributes to your organization’s strategy and vision, but your contribution doesn’t have to be so abstract. Even if you’re not directly responsible for that work, your contribution, there are practical steps that _you_ can take to advance your organization’s strategy and vision, starting _right now_.
+Durably useful engineering strategy and vision are the output of iterative, bottom-up organizational learning. As such, all learning contributes to your organization’s strategy and vision, but your contribution doesn’t have to be so abstract. Even if you’re not directly responsible for that work, your contribution, there are practical steps that _you_ can take to advance your organization’s strategy and vision, starting _right now_.
 
 ## Write five design docs
 
@@ -35,7 +35,7 @@ It takes a lot of practice to write great design documents. If you want to impro
 
 ## Synthesize those five design docs into a strategy
 
-After your organization has written five design documents, sit down and read them all together. Look for controversial decisions that came up in multiple designs, particularly those that were hard to agree on. A recent example of mine was get stuck debating whether Redis was appropriate as durable storage or only as a cache. Rather than starting from zero in each design document review, wouldn’t it be easier if we reviewed our recent decisions about using Redis, reflected on how we made thoes decisions, and wrote them down as a strategy?
+After your organization has written five design documents, sit down and read them all together. Look for controversial decisions that came up in multiple designs, particularly those that were hard to agree on. A recent example of mine was get stuck debating whether Redis was appropriate as durable storage or only as a cache. Rather than starting from zero in each design document review, wouldn’t it be easier if we reviewed our recent decisions about using Redis, reflected on how we made those decisions, and wrote them down as a strategy?
 
 Good strategies guide tradeoffs and explain the rationale behind that guidance. Bad strategies state a policy without explanation, which decouples them from the context they were made. Without context, your strategy rapidly becomes incomprehensible--why did they decide this?--and difficult to adapt as the underlying context shifts. A few interesting strategies to read while thinking about writing your own are [A Framework for Responsible Innovation](https://multithreaded.stitchfix.com/blog/2019/08/19/framework-for-responsible-innovation/), and [How Big Technical Changes Happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack/).
 
