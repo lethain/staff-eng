@@ -4,7 +4,7 @@ slug: "/stories/dmitry-petrashko"
 date: "2020-05-07"
 name: "Dmitry Petrashko"
 kind: "story"
-role: "Technical Advisor to the Head of Intrastructe at Stripe"
+role: "Technical Advisor to the Head of Infrastructure at Stripe"
 ---
 
 <span class="date">May, 2020</span>
