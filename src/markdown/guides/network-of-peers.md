@@ -25,11 +25,9 @@ While it’s helpful to know you _should_ build a network, some folks struggle t
 ## Be visible
 
 There is so much pent-up demand for community among Staff-plus engineers that the easiest way to build your network is being easy to find as a Staff-plus engineer.
-
-One effective approach is contributing to the discussion around Staff-plus engineering itself as described by [SIlvia Botros](https://staffeng.com/stories/silvia-botros).
-
-> My network of Principals really all started with that one blog post, [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html). After I wrote that, I got invited to all these private Slacks and got to meet a bunch of people. Part of that was timing, as it was around the time that everyone was out there creating a hundred new Slacks for everything. I don’t travel very much, so this was really what worked for me.
-
+One effective approach is contributing to the discussion around Staff-plus engineering itself,
+like Joy Ebert'z [What a Senior Staff Software Engineer Actually Does](https://staffeng.com/stories/joy-ebertz)
+or Keavy McMinn's [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/).
 Although there are a good number of folks [who’ve written up their view on the Staff-plus role](https://staffeng.com/guides/learning-materials), each one brings a new, valuable perspective. There’s room for your words on the topic.
 
 If writing isn’t your jam, there’s room for your voice, and speaking at tech conferences is another effective way to become visible in the broader community. [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) described her motivation for conference speaking as,

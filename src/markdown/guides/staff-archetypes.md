@@ -6,10 +6,6 @@ kind: "guide"
 ---
 
 
->  “What do Principal Engineers do?” is a fascinating question. Before the acquisition there was a big effort to align titles between SendGrid and Twilio,
-> and while we did do that, some of the underlying parts still haven’t coalesced entirely, and maybe they’ll never totally align depending on the Business Unit
-> and product. - [Silvia Botros](/stories/silvia-botros)
-
 
 Most [career ladders](https://lethain.com/perf-management-system/) define a single, uniform set of expectations for Staff Engineers. These career ladders attempt to identify the commonalities across many folks performing similar roles in their organization.
 Still, in the end, these ladders are a tool that applies better against populations than people. In the case of Staff-plus engineers, career ladders paper over several distinct roles clustered under a single moniker.
@@ -47,7 +43,7 @@ To acknowledge a source of potential confusion, some companies use _Tech Lead_ a
 
 ![Weekly calendar for a Staff eng following Architect archetype. Emphasis on architecture review, 1:1s, and planning.](/archetypes//ArchitectCalendar.png)
 
-_Examples_: [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), [Katie Sylor-Miller](https://staffeng.com/stories/katie-sylor-miller), [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn), [Silvia Botros](https://staffeng.com/stories/silvia-botros)
+_Examples_: [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), [Katie Sylor-Miller](https://staffeng.com/stories/katie-sylor-miller), [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn)
 
 The _Architect_ title has fallen out of style in many companies, but the _Architect_ role remains alive and well for folks operating at Staff-plus levels. _Architects_ are responsible for the success of a specific technical domain within their company, for example, the company’s API design, frontend stack, storage strategy, or cloud infrastructure. For a domain to merit an _Architect_, it must be both complex _and enduringly_ central to the company’s success.
 

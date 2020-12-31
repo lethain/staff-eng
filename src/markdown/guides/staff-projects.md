@@ -34,10 +34,6 @@ Some folks were even skeptical of the Staff project concept overall. [Nelson Elh
 
 > I'm instinctively a little bit wary of this sort of idea of a staff project, in part because one of the archetypes of Staff Engineers that I've seen are people who don't necessarily run grand projects themselves or do big things. But just are sort of incredibly effective gurus and routers who make the whole engineering organization run better.
 
-Or [Silvia Botros](https://staffeng.com/stories/silvia-botros) who earned her promotion through sustained impact,
-
-> I don't know if other engineers who are trying to get to Principal have had explicit “Staff Projects” where they had to complete this specific project to get promoted, but I did not have one. Most of my promotions have come from work that I’ve been doing for many months and we can see the results.
-
 There are also folks like [Dan Na](https://staffeng.com/stories/dan-na) or [Damian Schenkelman](https://staffeng.com/stories/damian-schenkelman) who took a detour through engineering management to reach the role. Damian describes bypassing the Staff project,
 
 > I did not. Because of how I grew at Auth0 I kind of "skipped that part". As a Director at a startup, I got the opportunity to technically lead a lot of big, critical initiatives, but there was no specific/explicit "staff/principal project".

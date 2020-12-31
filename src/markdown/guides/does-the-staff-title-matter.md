@@ -56,10 +56,6 @@ Another frequent advantage of a Staff-plus title is “being in the room.” [Da
 
 > I have a seat at the table in higher-level engineering discussions that occur at a level above individual projects and teams. We have recurring staff engineering meetings where we discuss problems that span teams which are both technical and non-technical in nature. As a hypothetical example, I'd feel comfortable surfacing what I perceive as shortcomings in the engineering onboarding process in this type of meeting.
 
-[Silvia Botros](https://staffeng.com/stories/silvia-botros) called out performance calibration meetings as a particularly impactful moment to be in the room:
-
-> Getting included in certain private email groups, being invited to performance calibration meetings, and so on. Calibration meetings are particularly important, because you can bring feedback that might not otherwise surface in a room of managers.
-
 For any important decision, there’s the time leading up to the core decision being made and then there’s everything afterward. In more senior roles, you’re often in the right place to provide input while it’s relatively cheap to incorporate, where otherwise your feedback might not be incorporated--despite being very valuable--because the related roll out or implementation has advanced too far.
 
 
