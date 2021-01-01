@@ -22,7 +22,7 @@ One line that many folks in Staff-plus roles draw is they’re unwilling to prac
 
 ## Debug the process
 
-After you’ve draw your lines, next you’ll need to figure out the actual interview process used at the company you’re interviewing with. It might feel like asking these questions could push the company to reconsider your candidacy, but it’s _always_ reasonable to ask the recruiting team and hiring manager for more details about your interview process. At the Staff-plus level it’s almost a point of concern if you _don’t_ ask for more details. Companies want you to exceed, and understanding the process is an essential part of preparation.
+After you’ve drawn your lines, next, you’ll need to figure out the actual interview process used at the company you’re interviewing with. It might feel like asking these questions could push the company to reconsider your candidacy, but it’s _always_ reasonable to ask the recruiting team and hiring manager for more details about your interview process. At the Staff-plus level, it’s almost a point of concern if you _don’t_ ask for more details. Companies want you to exceed, and understanding the process is an essential part of preparation.
 
 The three most important things to understand before you start interviewing are:
 
@@ -32,16 +32,16 @@ The three most important things to understand before you start interviewing are:
 2. Do any of the interviews require specific preparation?
 3. Who are the interviewers?
 
-Once you’ve answered those, then it’s just a matter of preparation. Take notes about how you want to approach the different kind of questions. Prepare materials for any presentations interviews. _Briefly_ research the interviewers to tailor questions to their background.
+Once you’ve answered those, then it’s just a matter of preparation. Take notes about how you want to approach the different kinds of questions. Prepare materials for any presentations interviews. _Briefly_ research the interviewers to tailor questions to their background.
 
-This is also a moment to debug if you’re in the right process. If your interview panel is composed primarily of early-career and mid-level engineers, it will rarely generate a Staff-plus offer; the panel will be ill-equipped to evaluate your strengths and folks are often resistant to offers more senior than their own. If there are no deepdives into your previous accomplishments and no presentation opportunities, it’s similarly hard to demonstrate the expertise to support a Staff-plus offer.
+This is also a moment to debug if you’re in the right process. If your interview panel is composed primarily of early-career and mid-level engineers, it will rarely generate a Staff-plus offer; the panel will be ill-equipped to evaluate your strengths, and folks are often resistant to offers more senior than their own. If there are no deep-dives into your previous accomplishments and no presentation opportunities, it’s similarly hard to demonstrate the expertise to support a Staff-plus offer.
 
-If it’s the wrong loop but you’re exceptionally good at whatever the loop does measure, then you’ll potentially get a Staff-plus offer anyway. However, if you’re less confident in those incidental measures, then raise your concerns politely and constructive, perhaps point them at [resources around designing Staff-plus interview loops](https://staffeng.com/guides/staff-plus-interview-process). Don’t allow momentum to pull you into a process that doesn’t support your goals.
+If it’s the wrong loop, but you’re exceptionally good at whatever the loop does measure, then you’ll potentially get a Staff-plus offer anyway. However, if you’re less confident in those incidental measures, then raise your concerns politely and constructive, perhaps point them at [resources around designing Staff-plus interview loops](https://staffeng.com/guides/staff-plus-interview-process). Don’t allow momentum to pull you into a process that doesn’t support your goals.
 
-It’s particularly valuable to understand is when leveling happens within the company’s progress. Some companies advertise roles with level-specific titles, which lets you apply directly to level you think is appropriate. If you’re hoping for a Senior Engineer role, then apply for the Staff Engineer job posting. However, many companies use those as provisional titles and finalize them later; other companies are quite rigid. The only way to know is to ask.
+It’s particularly valuable to understand is when leveling happens within the company’s progress. Some companies advertise roles with level-specific titles, which lets you apply directly to the level you think is appropriate. If you’re hoping for a Senior Engineer role, then apply for the Staff Engineer job posting. However, many companies use those as provisional titles and finalize them later; other companies are quite rigid. The only way to know is to ask.
 
-It may feel very unnatural to take more control over your interview process, and in theory you might miss out on some opportunities this way, but that’s a good outcome: your goal is to find the best available leadership opportunity, not the first available opportunity.
+It may feel very unnatural to take more control over your interview process, and in theory, you might miss out on some opportunities this way, but that’s a good outcome: your goal is to find the best available leadership opportunity, not the first available opportunity.
 
 ## Finish well
 
-Even if you skate through the interview process, always [negotiatie the details](https://staffeng.com/guides/negotiating-the-offer), and remember to finish well. Brief your references on the role’s details. Send followup emails to interviewers. Accept the offered sell chats and bring thoughtful questions into them. In this csae, the last mile is the easiest as long as you take the time to walk it.
+Even if you skate through the interview process, always [negotiatie the details](https://staffeng.com/guides/negotiating-the-offer), and remember to finish well. Brief your references on the role’s details. Send follow-up emails to interviewers. Accept the offered sell chats and bring thoughtful questions into them. In this case, the last mile is the easiest as long as you take the time to walk it.
