@@ -44,4 +44,4 @@ It may feel very unnatural to take more control over your interview process, and
 
 ## Finish well
 
-Even if you skate through the interview process, always [negotiatie the details](https://staffeng.com/guides/negotiating-the-offer), and remember to finish well. Brief your references on the role’s details. Send follow-up emails to interviewers. Accept the offered sell chats and bring thoughtful questions into them. In this case, the last mile is the easiest as long as you take the time to walk it.
+Even if you skate through the interview process, always [negotiate the details](https://staffeng.com/guides/negotiating-the-offer), and remember to finish well. Brief your references on the role’s details. Send follow-up emails to interviewers. Accept the offered sell chats and bring thoughtful questions into them. In this case, the last mile is the easiest as long as you take the time to walk it.
