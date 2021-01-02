@@ -11,7 +11,7 @@ kind: "guide"
 
 
 
-[Bert Fan](https://staffeng.com/stories/bert-fan) 's best advice for those trying to reach a Staff-plus role was,
+[Bert Fan](https://staffeng.com/stories/bert-fan)'s best advice for those trying to reach a Staff-plus role was,
 "Often reaching Staff is a combination of luck, timing, and work."
 Timing is a particular sort of luck, so you can simplify this even further down to just luck and work.
 
@@ -42,7 +42,7 @@ Sometimes that isn't enough, though, and some other strategies are:
 
 
 *   Write more long-lived documents, like architecture docs or technical specifications.
-*   Lead (and, to a less extent, participate in) company forums like architecture reviews, company all hands, and learning circles.
+*   Lead (and, to a lesser extent, participate in) company forums like architecture reviews, company all hands, and learning circles.
 *   Be a cheerleader for your team's and peers' work on Slack.
 *   You can also cheerlead via email instead of Slack.
 *   [Share weekly notes](https://lethain.com/weekly-updates/) of your work to your team and stakeholders in a way that other folks can get access to your notes if they're interested.
