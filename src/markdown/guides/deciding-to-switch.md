@@ -1,86 +1,76 @@
 ---
-title: "Finding the right company"
-slug: "/guides/finding-the-right-company"
-date: "2020-09-22"
+title: "Deciding to switch companies"
+slug: "/guides/deciding-to-switch"
+date: "2020-09-19"
 kind: "guide"
 ---
 
-
-There are only a few magic spells to attain a Staff-plus role: negotiate for the title while switching roles or find a supportive environment to “bake in place” while building your internal credibility with an empowered sponsor who’ll advocate for you. The most important reagent in both spells is picking the right company to perform them at.
-
-The good news is you’re applying to a new company is that while you might invest _weeks_ of energy into determining if you can get a Staff role there, you won’t need to invest _years_. On the other hand, if you’re looking for a company to join and grow within, you’re embarking on a years-long journey into an unknown organization. This is a daunting decision to make, and picking the right company for _you_ will have a considerable impact on whether you attain a Staff-plus role.
+> I was hired at Fastly as a Principal Engineer. So, to be honest, for me, the biggest factor was changing companies. The type of work I was doing didn’t dramatically change, but changing companies was the thing that ultimately enabled me to get the title.
+> \- [Keavy McMinn](/stories/keavy-mcminn)
 
 
-## Disproportionately values you
+My father was a professor of economics. After he completed his Ph.D. in his late twenties, he started teaching at one university, got tenure at that university, and walked out forty-some years later into retirement. Working in technology, that sounds like a fairytale.
 
-If career velocity is your aim, then join a company that, for whatever reason, disproportionately values what you’re good at. For example, Fastly valued [Keavy’s API design experience](https://staffeng.com/stories/keavy-mcminn), and Stripe valued [Dmitry’s work on compilers](https://staffeng.com/stories/dmitry-petrashko). If there’s a gap matching your particular shape that’s limiting their success, your impact on the company will be uniquely high.
+There are very few software companies with a forty-year track record, and even fewer folks whose [forty-year career](https://lethain.com/forty-year-career/) consisted of one employer. There used to be a meme that many engineers spent either one or four years at each company to maximize their equity grants and then bounced on to the next. If that ever happened, it certainly isn’t common behavior for folks who aspire towards or reach Staff-plus roles.
 
-Well, run organizations value you for what you’re good at. Less well run companies value you for your identity. For example, a culture that views aggression as leadership would indeed promote and center the most aggressive folks, but to their culture’s and team’s detriment. Sometimes you’ll find a company that net values you appropriately because it values your incidentals without valuing the contributions that you consider to be valuable; that seems like it’ll work out, but generally speaking, it’s a recipe for frustration.
+Instead, generally, those folks stay and are rewarded for staying at a given company as long as the circumstances support their success. If those circumstances change, they tend to either leave shortly thereafter or spend a while burning out and then leave after exhausting their emotional reservoir.
 
+It takes years to build the visibility and social credibility to get promoted from a Senior Engineer role to a Staff-plus role, which makes it very difficult to walk away if you feel like you’re _just_ one hump away from the promotion. Leaving, it can feel like, means starting over from scratch.
 
-## Meritocrats and Proceduralists
+Then again, as described by [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn), it’s common for folks to attain their first Staff-plus title by joining a new company. Even with all your internal credibility, sometimes leaving is the most effective path forward.
 
-When you’re trying to identify your company to make the Staff transition to, there are a number of company values to consider in your decision. One that’s particularly important is understanding if the company’s leadership fundamentally subscribes to an exception-heavy “meritocratic” view of the world or a consistency-heavy “proceduralist” view. Few companies exist exclusively at one end of this continuum, but most slant heavily in one direction.
-
-Of course, folks won’t describe themselves in these terms. The first style would have called themselves a meritocracy a few years ago. Now that the term has fallen out of favor, they’d avoid it, but their core beliefs remain intact. This style is particularly common in Silicon Valley, is heavily exception driven, and consolidates its efforts feting a small cadre of treasured individuals. Generally, in these companies, you’re going to be very successful if you pattern match with whatever they believe high potential looks like. You’re likely in for a rough ride if you don’t.
-
-Another style of company you’ll find out there believes that consistency drives fairness. They’re the sort that [work the policy rather than the exceptions](https://lethain.com/work-policy-not-exceptions/): they design the clock, set it in motion, watch it tick, and make occasional repairs. These companies tend to be more structure-driven and less intuition-driven, which can create wider access to opportunity for more folks, but they can also be rigid bureaucracies who look smugly on while their machinery grinds an individual down.
-
-Inevitably, both meritocrats and proceduralists view their world-view as a moral position and depending on who you are and who the company’s leadership is, you’ll have a radically different experience.
-
-Some ways to explore during your interview process to help distinguish these mindsets:
+What’s the right decision for you?
 
 
 
-*   Companies with rigid compensation bands and who _actually stick to them_ tend to be run by Proceduralists. Those that willingly eschew their bands are Meritocrats.
-*   Companies that create one-off roles for individuals to get them on board tend to be run by Meritocrats. Those that hire to their planned roles are Proceduralists.
-*   Companies with ad-hoc or unstructured interview processes looking to get your “feel,” particularly for senior roles, tend to be run by Meritocrats. More structure means Proceduralists.
-*   Companies that perform ad-hoc conjurations of new, rubric-less interviews tend to be run by Meritocrats. Those that evaluate you rigidly, even if it doesn’t let you shine, tend to be Proceduralists.
-
-Neither meritocratic nor proceduralist companies have inherently better odds of propelling you into a Staff-plus role. Rather it’ll depend on your identity and the identities of folks in a company’s leadership roles. Depending on how those pieces align, you can estimate the level of support and friction you’ll encounter pursuing a Staff-plus role.
+---
 
 
-## Archetypes
+Before going further, I want to recognize two very different job-switching experiences: one of privileged flexibility and another of rigid constraints. Your residency might depend on a work-sponsored visa. You might be supporting an extended family. You might be constrained to a geographical area with few employers. This advice focuses on the former circumstances, which are more common circumstances for someone who’s deep enough into a technology career to pursue a Staff role. You should absolutely discount it to the extent this doesn’t reflect your circumstances.
 
-Most companies only hire one or two of [the Staff archetypes](https://staffeng.com/guides/staff-archetypes), even though they all use the same titles to describe the role they’re hiring for. If you’re trying to figure out a given company’s preferences, it’s most effective to reach out to some of their existing Staff-plus engineers and get a sense of the work they do. Most companies don’t deliberately think about the sort of Staff engineers they support, so asking directly rarely works as well as it should.
+## Why leaving works
 
-Sufficiently large companies end up with at least some folks operating in each of the archetypes, but it takes a long time until that’s the case, usually _after_ their engineering organization has scaled to _thousands_ of engineers.
+The company that knows your strengths the best is your current company, and they are the company most likely to give you a Staff-plus role. However, actually awarding the role depends on so many circumstantial concerns that this isn’t how it works out in practice.
 
+If your current team is very senior, it may be hard to justify your impact at the Staff engineer level because it’s being attributed to your peers. Your manager might have a limited budget that doesn’t have room for another Staff engineer. You might lack an internal sponsor. There simply might not be the need for an additional Staff engineer at your company. Any of these can mean that while you ought to be promoted, your current company won’t.
 
-## Growth
+Conversely, when you interview for new roles, you can simply keep interviewing until you find a company that’s able to grant the title. The interview process often brings an automatic sponsor with it -- the hiring manager -- whose incentives will never be more aligned with yours than in the interview process.
 
-If you’ve exclusively worked at fast-growing, successful startups, then it might not cross your mind that there can be a lack of room for additional folks operating in Staff-plus engineering roles, but it’s surprisingly common for slower-growing companies to simply not have the work or the budget for more folks in leadership roles. This is also a common constraint for companies that haven’t reached product-market fit--there are limited leadership slots when a company needs to remain highly aligned while frequently changing--with potential exceptions for those that happen to be selling a developer-centric or technical infrastructure product of some sort.
+The technical interviews are an inconsistent and unreliable predictor of success, which is bad for the industry and bad for companies, but works in your favor if you’re set on attaining a Staff-plus role and are willing to conduct a broad search. Interviewing creates the opportunity to play “bias arbitrage,” finding a company that values your particular brand of bullshit disproportionately. That might be a company that values folks with conference speaking visibility, your experience designing APIs, or [your Ph.D. thesis on compilers](https://staffeng.com/stories/dmitry-petrashko).
 
-If you join a fast-growing company, new Staff opportunities will organically open up. In slower-growing companies, you may need to wait for someone to vacate their current role before another becomes available. That’s not to say that you should necessarily join a fast-growing company if you don’t want to--they’re often stressful and run on perpetually out-of-date processes--just another factor to consider.
+Similarly, sometimes you’ll get into a rut at a company where your reputation is preventing forward progress. Perhaps you’ve tagged “difficult” after flagging inclusion issues. Maybe you embarrassed an influential Director at lunch, and they’re blocking your promotion. A new company lets you leave that baggage behind.
 
+----
 
-## Sponsorship
+Yeah, of course, it’s always an open question whether you can *really* leave anything behind you in the tech industry. It can feel a bit cliquey at times. If you’ve worked in tech hubs, at larger companies, and for more than ten years, then you almost certainly have mutual connections with the folks interviewing you.
 
-Getting a Staff-plus offer at a new company requires someone inside that company who believes in you and is willing to push through a fair amount of organizational friction to get you the title. Getting promoted to Staff-plus requires a manager and management chain who believe in you and their willingness to push through _even more_ friction to get you the title. Without an empowered leader within a company who’s willing to invest their organizational capital in you, you can’t get a leadership role.
+If you have a bad run at a company, maybe your manager was a bully, or maybe you were going through a challenging period in your own life, it can feel like a cloud poisoning your future prospects. That said, much like the interview process in general, references and backchannel reference checks are deeply random. If you need any further evidence of that, look to the serial harassers who continue to get hired job after job at prominent companies.
 
-When looking for a company to pursue a Staff-plus role at, a big part of the equation is identifying a company where you’ll have an effective sponsor. Interviewing outside of your current company is often effective at finding you a sponsor: your would-be hiring manager tends to have well-aligned incentives to extend you a Staff offer. Equally important, your time investment is high but still _relatively_ low compared to working at a company for two years to realize you’re never going to reach your goal.
+## Things to try before leaving
 
-The easiest sponsors to find are folks who you’ve worked with before. The [flying wedge](https://en.wikipedia.org/wiki/Flying_wedge) pattern of one senior leader joining a company and then bringing on their previous coworkers is a well-known and justifiably-despised pattern that relies on this built-in referrer-as-sponsor, but it doesn’t have to be toxic if done sparingly.
+If you’re planning to leave due to a lack of interest, excitement, support, or opportunity, it’s worthwhile to at least explore the internal waters first. This lets you carry your internal network with you while still getting many of the advantages of switching companies. Depending on your company’s size and growth rate, this might not be an option for you, but there are some folks who switch roles every two-to-three years within the same parent company and find that an effective way to remain engaged and learning.
 
-This is also where having [an external presence and network](https://staffeng.com/guides/network-of-peers) can greatly aid your search. Folks who’ve seen your presentations, read your blog posts, or nodded in agreement at your tweets are more likely to become your proactive sponsor in the interview process and later during promotion discussions.
+On the other hand, if you’re considering leaving due to burnout or exhaustion, it’s sometimes possible to negotiate a paid or unpaid sabbatical where you can take a few months recharging yourself, often in conjunction with switching internal roles. This is more common at larger companies. (In case you were wondering, no, your coworkers taking parental leave is not “on sabbatical” or “on vacation.”)
 
+## Leaving without a job
 
-## Durability
-
-Particularly if you’re earlier in your career and pursuing a promotion into a Staff role, it’s important to consider the company’s durability: will the company even exist five years from now when you’re hoping your work will culminate in a Staff-plus promotion?
-
-Somewhat more subtly, you also have to consider the longevity of your would-be Staff sponsor. There are some wonderful engineering leaders creating pockets of equitable access to Staff-plus roles, but all too often, these turn into a [Values Oasis](https://lethain.com/values-oasis/) that can’t sustain itself once the sponsoring leader departs the company or changes roles.
-
-Derisk durability by ensuring you join companies with business models that actually work and work for leaders who are values-aligned with their organization’s senior-most leadership (that way, even if they leave, you’re still aligned with potential sponsors).
+Speaking of burnout, if you’re _particularly_ burned out, it’s worth considering leaving your job without another job lined up. There’s a fairly simple checklist to determine if this is a good option for you:
 
 
-## Pace
 
-Throughout a [forty-year career](https://lethain.com/forty-year-career/), there are times when you’re rested and looking for a challenging, enveloping role. There are going to be other times when you’re drained and worn out. You will harm yourself by accepting a role that demands more pace from you than you’re able to presently sustain. When taking on a technical leadership role, it’s particularly important to make sure that the company’s pace expectations align with what you’re able to provide because you’ll be evaluated in part on being a role model for the company’s pace.
+*   Does your visa support this?
+*   Are you financially secure for at least a year without working?
+*   Do you work in a high-density job market remotely, or are you flexible on where your next job is?
+*   Do you interview well?
+*   Could you articulate a coherent narrative to someone asking you why you left without a job lined up?
+*   Are there folks at your previous company who can provide positive references?
 
+If all of those are true, then I don’t know anyone who _regrets_ taking a sabbatical. However, bear in mind that it’s only the folks who took six-month-plus sabbaticals who felt reborn by the experience. Folks taking shorter stints have appreciated them but often come back only partially restored.
 
-## And everything else, too
+## Taking the plunge
 
-Job searches for leadership roles are much slower than the typical software search, taking months rather than weeks, and it’s trying to rush it rarely works out. As you evaluate whether a company might be an effective place to reach a Staff-plus role, you also have to assess it on everything else that you’d look into in a typical process.
+If you’re almost at the Staff promotion in your current company, there is absolutely another company out there that will give you the Staff title. Whether or not you’ll enjoy working there or be supported after getting there, that’s a lot harder to predetermine. If your internal reputation is damaged or if you’ve been repeatedly on the cusp of promotion but a victim to a moving criteria line, then you should seriously consider switching roles if the title is important to you -- at some point, you have to hear what your current company is telling you.
 
-Dig into your whisper network for toxic issues and individuals. Make sure the mission is something you can stay supportive of and engaged with for years. Search for the folks you’ll be able to learn from during your work. If you find that these Staff criteria are pulling you towards a company that you otherwise have concerns about, the good money is that you’ll regret that decision.
+Conversely, if you’re happy in your current role outside of the title, consider if you can be more intentional about pursuing your promotion rather than leaving. Many folks hit a rut in their promotion path to Staff-plus, and using techniques like the [promotion packet](https://staffeng.com/guides/promo-packets) can help you get unstuck. If you’ve used all the approaches, taken your self-development seriously, and still can’t get there -- it’s probably time to change.
+
+That said, it’s easy to overthink these things. Few folks tell their decade-past story of staying at or leaving some job.
