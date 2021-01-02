@@ -35,8 +35,7 @@ Apply these techniques consistently, and you'll be on the way towards a Staff ti
 
 A large majority of folks who reach Staff-plus roles **do not** spend time in engineering management, but some do. Of those, the majority find management a rewarding experience, like [Dan Na](https://staffeng.com/stories/dan-na) who said,
 
-> I still enjoy both shipping code and running teams, and I think the ability to do both at a high level is critical for long-term engineering success. Charity Majors has a fantastic blog post on this topic that I recommend reading: "[The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)".  \
-> \
+> I still enjoy both shipping code and running teams, and I think the ability to do both at a high level is critical for long-term engineering success. Charity Majors has a fantastic blog post on this topic that I recommend reading: "[The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)".
 > Charity argues that "manager career path vs engineering career path" is a false dichotomy, and taking time to alternate between both roles makes you better at both. This maps to my own experience. I'm a better manager because I know how terrible it is to be an IC on a poorly planned project, and I'm a better IC because I know how and when to sound an alarm when a project is going poorly.
 
 [Ritu Vincent](https://staffeng.com/stories/ritu-vincent) shared a similar perspective,
