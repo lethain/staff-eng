@@ -15,26 +15,30 @@ const Header = ({ siteTitle }) => {
     `
   )
 
-    return (
+  return (
     <div>
-      <img src="/banner.png" alt="StaffEng Banner" />	
+      <img src="/banner.png" alt="StaffEng Banner" />
       <nav>
-      <h2>
+        <h2>
           <a href="/">{siteTitle}</a>
-      </h2>
-      <ul>
-        <li>
-          <Link to="/stories">Stories</Link>
-        </li>
-        <li>
-          <Link to="/guides">Guides</Link>
-        </li>
-        <li>
-          <a href={data.site.siteMetadata.mailingListURL} rel="noreferrer" target={"_blank"}>
-            Subscribe
-          </a>
-        </li>
-      </ul>
+        </h2>
+        <ul>
+          <li>
+            <Link to="/stories">Stories</Link>
+          </li>
+          <li>
+            <Link to="/guides">Guides</Link>
+          </li>
+          <li>
+            <a
+              href={data.site.siteMetadata.mailingListURL}
+              rel="noreferrer"
+              target={"_blank"}
+            >
+              Subscribe
+            </a>
+          </li>
+        </ul>
       </nav>
     </div>
   )

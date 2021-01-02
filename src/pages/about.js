@@ -109,8 +109,8 @@ const AboutPage = () => (
 
     <h3>Want to help?</h3>
     <p>
-      The best ways to help are <a href="/share">sharing your story</a>{" "}
-      or simply sharing these stories out to folks who would benefit from them.
+      The best ways to help are <a href="/share">sharing your story</a> or
+      simply sharing these stories out to folks who would benefit from them.
     </p>
     <p>
       When I started working on this project, I wrote up some notes on how I'd
