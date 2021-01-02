@@ -38,6 +38,9 @@ const Header = ({ siteTitle }) => {
               Subscribe
             </a>
           </li>
+          <li>
+            <Link to="/book">Book</Link>
+          </li>	    
         </ul>
       </nav>
     </div>
