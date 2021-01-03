@@ -27,9 +27,10 @@ The foundation of communicating effectively with executives is to get a clear un
 
 Although these are distinct activities, your goal is to extract as much perspective from the executive as possible. If you go into the meeting to change their mind, you’ll probably come across as inflexible. Go into the meeting to understand why your approach is misaligned with their priorities. You’ll come across as strategic and probably leave with enough information to adapt your existing plan to work within the executive’s newly articulated constraints.
 
-The best way to extract perspective is to write a structured document. Writing it down forces you to think through your perspective. The structure ensures you focus the reader on what’s important. There are many structures that can work, but a structure that always works is the [Minto Pyramid Principle](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516/ ), alternatively known as SCQA: Situation, Complication, Question, and Answer.
-
-
+The best way to extract perspective is to write a structured document. Writing it down forces you to think through your perspective.
+The structure ensures you focus the reader on what’s important.
+There are many structures that can work, but a structure that always works is SCQA--Situation, Complication, Question, and Answer--introduced
+in Barbara Minto's [The Pyramid Principle](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516/).
 
 *   **Situation**: what is the relevant context? _Example_: We’ve been falling behind our competition in shipping product features for two years. Last year, we doubled our engineering team but shipped fewer features than the year before.
 *   **Complication:** why is the current situation problematic? _Example_: We plan to double our engineering team again this year, but based on last year’s experience, we think that will decrease velocity further while significantly increasing our organizational budget.
