@@ -13,9 +13,9 @@ Before answering, it's worth describing the most common configurations you'll fi
 
 
 
-*   **Tech Leads** typically report to a manager responsible for one team. Less frequently, they'll report to a manager responsive for two to four teams. In both cases, they'll operate at the same scope as that manager. _Examples_: [Dan Na](https://staffeng.com/stories/dan-na) reported to the manager for the Internationalization Platform.
+*   **Tech Leads** typically report to a manager responsible for one team. Less frequently, they'll report to a manager responsible for two to four teams. In both cases, they'll operate at the same scope as that manager. _Examples_: [Dan Na](https://staffeng.com/stories/dan-na) reported to the manager for the Internationalization Platform.
 *   **Architects** typically report to a more senior manager, often a manager of managers. Often they'll be responsible for a horizontal-slice across that manager's area of responsibility, for example, data modeling. _Examples_: [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) reported to the CTO.
-*   **Solvers** typically operate in companies that feature a "[weak team concept](https://lethain.com/staff-engineer-archetypes/)," and often reporting hierarchies are less defined or deliberate in such companies. It is _most_ common to see them reporting to a team manager, but you'll find a bit of everything. Another common pattern is collecting these folks into an _ "Office of the CTO"_ or "_Office of the CEO"_ where they report to an executive who directs their work. _Examples_: [Ritu Vincent](https://staffeng.com/stories/ritu-vincent) is part of an incubator reporting to the CEO.
+*   **Solvers** typically operate in companies that feature a "[weak team concept](https://lethain.com/staff-engineer-archetypes/)," and often reporting hierarchies are less defined or deliberate in such companies. It is _most_ common to see them reporting to a team manager, but you'll find a bit of everything. Another common pattern is collecting these folks into an _"Office of the CTO"_ or _"Office of the CEO"_ where they report to an executive who directs their work. _Examples_: [Ritu Vincent](https://staffeng.com/stories/ritu-vincent) is part of an incubator reporting to the CEO.
 *   **Right Hands** report into a senior leader, often managers responsible for a hundred or more folks, operating with that leader's authority. _Examples_: [Rick Boone](https://staffeng.com/stories/rick-boone) reported to the VP of Infrastructure; Michelle Bu reported to the [Chief Product Officer](https://staffeng.com/stories/michelle-bu).
 
 Understanding how these different archetypes typically report differently into the organization helps decode _some_ of the seeming arbitrariness of reporting structures.
@@ -26,7 +26,7 @@ An aside on the "**Office of the CTO**" concept, as many folks haven't encounter
 
 Within these offices, you'll find a mix of _Architects_, _Solvers_ and _Right Hands_.
 
-Typically the _Office of the CTO_ comes relatively late in a company's evolution and is often introduced as a workaround to an existing organizational problem that is a challenge to address, so example, lack of trust between Staff-plus engineers and management teams, or an inability to delegate by the CTO. If you find yourself reaching for it _early_ in a company's evolution, ask yourself if you're avoiding a problem you should be fixing instead of introducing this concept into your structure.
+Typically the _Office of the CTO_ comes relatively late in a company's evolution and is often introduced as a workaround to an existing organizational problem that is a challenge to address, for example, lack of trust between Staff-plus engineers and management teams, or an inability to delegate by the CTO. If you find yourself reaching for it _early_ in a company's evolution, ask yourself if you're avoiding a problem you should be fixing instead of introducing this concept into your structure.
 
 ## But in practice…
 
