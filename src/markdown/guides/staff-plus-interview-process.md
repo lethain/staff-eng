@@ -53,7 +53,7 @@ The two key questions to ask yourself when designing an interview loop are alway
 
 Most senior candidates become increasingly diplomatic and _asking_ them about their work is never as helpful as _watching_ them do the work. If mentorship is the most important activity, don't rely on them talking about mentorship, but instead find a way to _see_ them mentoring someone. If it's architecture, present your current systems and ask them to bring their questions to see how they react to decisions they disagree with -- get away from the ambiguous abstract.
 
-Moving beyond the typical one-on-one discussions and programing interviews, some of the interview formats and structures that I've found particularly effective for evaluating Staff-plus signals are:
+Moving beyond the typical one-on-one discussions and programming interviews, some of the interview formats and structures that I've found particularly effective for evaluating Staff-plus signals are:
 
 
 
