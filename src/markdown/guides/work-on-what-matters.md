@@ -51,7 +51,8 @@ I had a recent discussion with someone who argued that new senior leaders _delib
 
 ## Existential issues
 
-Now that you're done snacking, preening, and chasing ghosts, the first place to look for work that matters is exploring whether your company is experiencing an existential risk. Companies operate in an eternal [iterative elimination tournament](https://lethain.com/iterative-elimination-tournaments/), balancing future success against surviving until that future becomes the present. If you're about to lose one of those rounds, then always focus there.
+Now that you're done snacking, preening, and chasing ghosts, it's time to to start thinking from the other direction: what should you work on?
+The first place to look for work that matters is exploring whether your company is experiencing an existential risk. Companies operate in an eternal [iterative elimination tournament](https://lethain.com/iterative-elimination-tournaments/), balancing future success against surviving until that future becomes the present. If you're about to lose one of those rounds, then always focus there.
 
 Running out of money, [like my experience at Digg](https://lethain.com/digg-v4/), can be the most obvious issue, but not every existential issue is financial, like [Twitter's fail whale stability challenges](https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/) or adapting to the shifts caused by the Covid-19 pandemic.
 
@@ -105,6 +106,7 @@ Whatever it is, things that simply won't happen if you don't do them are your bi
 
 ## Why it matters
 
-If you're interviewing for a new role twenty years into your career, the folks interviewing you won't know what your real impact was on any given project you worked on, nor will they know your true contribution to any of the companies you worked at. Instead, you'll find yourself judged by a series of surprisingly subjective measures: your prestige, the prestige of the titles you've had and companies you've worked at, your backchannel reputation, and how you present in your interview process.
+Suppose you're interviewing for a new role twenty years into your career.
+Will the folks interviewing you understand your real impact on any of your previous projects or companies? No, I guarantee they won't.  Instead, you'll find yourself judged by a series of surprisingly subjective measures: your accumulated prestige, the titles you've had and companies you've worked at, your backchannel reputation, and how you present in your interview process.
 
-If you spend your career snacking, preening, or chasing ghosts, it's possible but relatively unlikely that what you've done before will be valued at companies you interview with. Instead, the only viable long-term bet on your career is to do work that matters, projects that develop you, and steer towards companies that value genuine expertise.
+You can't escape subjective interview practices, but you can deliberately accumulate expertise from doing valuable work. Indeed, that's the only viable long-term bet on your career: focus on work that matters, do projects that develop you, and steer towards companies that value genuine experience.

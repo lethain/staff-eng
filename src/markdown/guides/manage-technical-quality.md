@@ -95,7 +95,9 @@ I call those quality leverage points, and the three most impactful points are in
 
 _Interfaces_ are contracts between systems. Effective interfaces decouple clients from the encapsulated implementation. Durable interfaces expose all the underlying essential complexity and none of the underlying accidental complexity. Delightful interfaces are [Eagerly discerning, discerningly eager](https://increment.com/apis/api-design-for-eager-discering-developers/).
 
-State is the hardest part of any system to change, and that resistance to change makes _stateful systems_ another critical leverage point. State's inertia comes from its scale. From its tendency to accrete complexity on behalf of availability, reliability, and compliance properties. From having the sort of correctness described with probabilities rather than theorems. (Or in the case of distributed state, both probabilities and theorems.)
+_State_ is the hardest part of any system to change, and that resistance to change makes _stateful systems_ another critical leverage point.
+State gets complex faster than other systems and has an inertia that makes it relatively expensive to improve later.
+As you incorporate business obligations around security, privacy, and compliance, changing your stateful systems becomes even more challenging.
 
 _Data models_ are the intersection of the interfaces and state, constraining your stateful system's capabilities down to what your application considers legal. A good data model is rigid: it only exposes what it genuinely supports and prevents invalid states' expression. A good data model is tolerant of evolution over time. Effective data models are not even slightly clever.
 
@@ -108,7 +110,8 @@ One of the hidden powers of investing in leverage points is that you don't need 
 
 ## Technical vectors
 
-Effective organizations marshall the majority of their efforts towards a shared vision. If you plot every project, every technical decision really, as a vector on a grid, the more those vectors point in the same direction, the more you'll accomplish over time. Conversely, some of the most impressive engineers I've worked with created vectors with an extraordinary magnitude but a misaligned direction and ultimately harmed their organization as they attempted to lead it.
+Effective organizations marshall the majority of their efforts towards a shared vision. If you plot every technical decision as a vector on a grid, the more those vectors point in the same direction, the more you'll accomplish over time. Conversely, some of the most impressive engineers I've worked with created vectors with an extraordinary magnitude but a misaligned direction.
+Ultimately those engineers harmed their organizations in their attempts to lead it.
 
 One sure-fire solution to align technical direction is to route all related decisions to the same person with [Architect](https://staffeng.com/guides/staff-archetypes) somewhere in their title. This works well but is challenging to scale, and the quality of an architect's decisions degrade the further they get from doing real work on real code in the real process. On the other extreme, you can allow every team to make independent decisions. But an organization that allows any tool is an organization with uniformly unsupported tooling.
 
@@ -189,9 +192,9 @@ It's a good sign when your team has more available high-impact work than you can
 
 ## Quality program
 
-A _quality program_ isn't computer code at all, but rather an initiative led by a dedicated team to maintain technical quality across an organization. A quality program takes on the broad remit of achieving the organization's target level of software quality. These are relatively uncommon, but something similar that you've probably encountered is an incident program responsible for a company's incident retrospectives and remediations.
+A _quality program_ isn't computer code at all, but rather an initiative led by a dedicated team to maintain technical quality across an organization. A quality program takes on the broad remit of achieving the organization's target level of software quality. These are relatively uncommon, but something similar you've probably encountered is an incident program responsible for a company's incident retrospectives and remediations.
 
-Given this is written for an audience of senior technical leaders, let's assume you have the technical perspective covered. Your next step is to find a Technical Program Manager who can co-lead the program and operate its mechanics. You can make considerable progress on the informational aspects of an organizational program without a Technical Program Manager; it's a trap. You'll be crushed by the coordination overhead of solo-driving a program in a large organization.
+The technical components of running a quality program are the sorts of things discussed above, so here we'll focus on managing a program effectively. Your first step is to find a Technical Program Manager who can co-lead the program and operate its mechanics. You can make considerable progress on an organizational program's informational aspects without a Technical Program Manager; however, it's a trap. You'll be crushed by the coordination overhead of solo-driving a program in a large organization.
 
 Operating organizational programs is [a broad topic about which much has been written](https://lethain.com/programs-owning-the-unownable/), but the core approach is:
 
@@ -208,8 +211,6 @@ Operating organizational programs is [a broad topic about which much has been wr
 In a lot of ways, a program is just an endless migration, and [the techniques that apply to migrations work for programs as well](http://lethain.com/migrations/).
 
 If you get all of those steps right, you're running a genuinely great program. This might feel like a lot of work, and wow, it is: a lot of programs go wrong. The three leading causes of failed programs are:
-
-
 
 1. running it purely from a process perspective and becoming detached from how the reality of what you're trying to accomplish,
 2. running it purely from a technical perspective and thinking that you can skip the essential steps of advocating for your goal and listening to the folks you're trying to motivate,
