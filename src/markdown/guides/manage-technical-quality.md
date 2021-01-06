@@ -110,7 +110,7 @@ One of the hidden powers of investing in leverage points is that you don't need 
 
 ## Technical vectors
 
-Effective organizations marshall the majority of their efforts towards a shared vision. If you plot every technical decision as a vector on a grid, the more those vectors point in the same direction, the more you'll accomplish over time. Conversely, some of the most impressive engineers I've worked with created vectors with an extraordinary magnitude but a misaligned direction.
+Effective organizations marshal the majority of their efforts towards a shared vision. If you plot every technical decision as a vector on a grid, the more those vectors point in the same direction, the more you'll accomplish over time. Conversely, some of the most impressive engineers I've worked with created vectors with an extraordinary magnitude but a misaligned direction.
 Ultimately those engineers harmed their organizations in their attempts to lead it.
 
 One sure-fire solution to align technical direction is to route all related decisions to the same person with [Architect](https://staffeng.com/guides/staff-archetypes) somewhere in their title. This works well but is challenging to scale, and the quality of an architect's decisions degrade the further they get from doing real work on real code in the real process. On the other extreme, you can allow every team to make independent decisions. But an organization that allows any tool is an organization with uniformly unsupported tooling.
