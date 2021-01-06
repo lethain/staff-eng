@@ -16,6 +16,19 @@ If you can't resist the urge to include your most brilliant ideas into the proce
 
 Durably useful engineering strategy and vision are the output of iterative, bottom-up organizational learning. As such, all learning contributes to your organization's strategy and vision, but your contribution doesn't have to be so abstract. Even if you're not directly responsible for that work, your contribution, there are practical steps that _you_ can take to advance your organization's strategy and vision, starting _right now_.
 
+
+## When and why
+
+Before diving into the recipe for creating effective strategies and visions,
+a good starting question is, "When and why should I actually create them?"
+Strategies are tools of proactive alignment that empower teams to move quickly and with confidence.
+Strategies allow everyone--not just the empowered few--to make quick, confident decisions that might have otherwise cost them a week of discussion.
+Strategies are also the bricks that narrow your many possible futures down enough that it's possible to write a realistic vision.
+If you realize that you've rehashed the same discussion three or four times, it's time to write a strategy.
+When the future's too hazy to identify investments worth making, it's time to write another vision.
+If neither of those sound like familiar problems -- move on to other work for now and return later.
+
+
 ## Write five design docs
 
 Design documents describe the decisions and tradeoffs you've made in specific projects. Your company might call them RFCs or tech specs. Stranger names happen, too; Uber bewilderingly called them DUCKS until they later [standardized on RFC](https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/). A good design document describes a specific problem, surveys possible solutions, and explains the selected approach's details. There are many formats to pick from; a few places to start your thinking are [Design Docs, Markdown, and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/), [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/), and [Technical Decision-Making and Alignment in a Remote Culture](https://multithreaded.stitchfix.com/blog/2020/12/07/remote-decision-making/).
@@ -48,7 +61,8 @@ My best advice for writing a strategy document is:
 *   **Be opinionated.** Good strategies are opinionated. If they aren't opinionated, then they won't provide any clarity on decision making.  However, being opinionated on its own isn't enough. You also need to show your work.
 *   **Show your work.** In math classes growing up, you had to show your work to get full credit. Here too, you must show the rationale behind your opinions. Showing your work builds confidence in the first version of a document, but even more importantly, by showing your work, you make it possible for others to modify and extend your work as the underlying context shifts.
 
-Some of the best strategies you write may at the time feel too obvious to bother writing. "When should we write design documents?" is a strategy worth writing. "Which databases do we use for which use cases?" is a strategy worth writing. "Which services should page during off-hours?" is worth writing, too. As we leave behind the idea of strategy as a permanent brilliance, we can start to write far more of them, and we can write them more casually. If it ends up not being used, you can always deprecate it later.
+Some of the best strategies you write may at the time feel too obvious to bother writing. "When should we write design documents?" is a strategy worth writing. "Which databases do we use for which use cases?" is a strategy worth writing. "How should we stage our migration from monolith to services?"
+is worth writing, too. As we leave behind the idea of strategy as a permanent brilliance, we can start to write far more of them, and we can write them more casually. If it ends up not being used, you can always deprecate it later.
 
 ## Extrapolate five strategies into a vision
 
@@ -64,12 +78,7 @@ For a useful vision, a few things to focus on are:
 *   **Stay concrete and specific.** Visions get more useful as they get more specific. Generic statements are easy to agree with but don't help reconcile conflicting strategies. Be a bit more detailed than you're comfortable with. Details in visions are often illustrative rather than declarative, giving a taste of the future's flavor rather than offering a binding commitment.
 *   **Keep it one to two pages long.** The reality is that most people don't read long documents. If you write something five or six pages long, readers will start dropping off without finishing it (or will skim it very rapidly without engaging with the details). Force yourself to write something compact, and reference extra context by linking to other documents for the subset of folks who want the full details.
 
-After you finish writing your vision, the first step folks usually take is sharing it widely across the engineering organization. There is so much work behind the vision--five design docs for each strategy, five strategies for one vision--it's hard _not_ to get excited when you're done. It's easy to get discouraged, then, when the response to your strategy will almost always be a muted one.
+After you finish writing your vision, the first step folks usually take is sharing it widely across the engineering organization. There is so much work behind the vision--five design docs for each strategy, five strategies for one vision--it's hard _not_ to get excited when you're done. So excited that it's easy to get discouraged, then, when the response to your strategy will almost always be muted. There are a few reasons for the muted response. First, the core audience for your vision is folks writing strategies, which is a relatively small cohort. Second, a great vision is usually so _obvious_ that it bores more than it excites.
 
-There are a few reasons for the muted response. First, the core audience for your vision is folks writing strategies, which is a relatively small cohort. Second, a great vision is usually so _obvious_ that it bores more than it excites. Don't measure vision by the initial excitement it creates. Instead, measure it by reading a design document from two years ago and then one from last week; if there's marked improvement, then your vision is good.
+Don't measure vision by the initial excitement it creates. Instead, measure it by reading a design document from two years ago and then one from last week; if there's marked improvement, then your vision is good.
 
-## When and why
-
-Now that you have a recipe for creating effective strategies and visions, a good follow up question is, "When and why should I actually create them?" Strategies are tools of proactive alignment that empower teams to move quickly and with confidence. Strategies allow everyone--not just the empowered few--to make quick, confident decisions that might have otherwise cost them a week of discussion. Strategies are also the bricks that narrow your many possible futures down enough that it's possible to write a realistic vision.
-
-When you've rehashed the same discussion three or four times, it's time to write another strategy. When the future's too hazy to identify investments worth making, it's time to write another vision. If neither of those sound like familiar problems -- move on to other work for now and return later.
