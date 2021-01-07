@@ -46,7 +46,16 @@ Just remember that you're representing the interests of all of engineering, not 
 
 > In my current role within the incubator, I'm spending all day prototyping, but in my previous tech lead role, I did a lot of different things. - [Ritu Vincent](https://staffeng.com/stories/ritu-vincent)
 
-[Hill-climbing](https://en.wikipedia.org/wiki/Hill_climbing) can't solve every problem, but it's so effective that many companies struggle to take other approaches. This can be a consumer-oriented company struggling to support enterprise deals or a mature company struggling to compete with a smaller competitor's release cadence. It can even be the case that your current business is so valuable that [it's hard to prioritize new businesses](https://en.Wikipedia.org/wiki/The_Innovator's_Dilemma), even though the valuable business' growth rate is trailing downwards.
+[Hill-climbing](https://en.wikipedia.org/wiki/Hill_climbing) is a simple optimization algorithm. Imagine you're standing on a mountain somewhere and want to get to the top.
+You turn around in a circle, identify the highest nearby point, and then walk there. Once you get there, you turn around in a circle again, find the highest nearby
+point from your new location, and go there. If you keep doing this, you'll get to the top of whatever mountain you're on.
+However, imagine you tried this on a foggy day. Because you can't see very far, you might get to the highest nearby point and later realize there
+was a much higher point just out of sight.
+
+Hill-climbing can't solve every problem, but it's so effective that many companies struggle to take other approaches.
+This can be a consumer-oriented company struggling to support enterprise deals or a mature company struggling to compete with a smaller competitor's release cadence.
+It can even be the case that your current business is so valuable that [it's hard to prioritize new businesses](https://en.Wikipedia.org/wiki/The_Innovator's_Dilemma),
+even though the valuable business' growth rate is trailing downwards.
 
 In the long-term, companies either learn to explore, or they fade away; this isn't an ignorable challenge. Simply assigning a team that's mastered hill-climbing [to do exploratory work](https://lethain.com/how-to-invest-technical-infrastructure/) is far from a sure thing, so many companies take a different approach. They find a couple of trusted individuals with broad skills, allocate some resources, and check back in a few months later to see what they've discovered. One of those engineers is often a Staff engineer.
 
@@ -57,7 +66,9 @@ This is some of the most rewarding and the riskiest work companies do. It takes 
 
 ## Being Glue
 
-[Tanya Reilly](https://noidea.dog) wrote a wonderful post, [Being Glue](https://noidea.dog/glue), which captures another core element of successful Staff engineers: doing the needful to identify the right work and get it shipped. It's not glamorous, but high impact organizations often have one or more Staff engineer working behind the scenes expediting the [most important work and ensuring it gets finished](https://staffeng.com/guides/work-on-what-matters).
+[Tanya Reilly](https://noidea.dog) wrote a wonderful post, [Being Glue](https://noidea.dog/glue), which captures another core element of successful Staff engineers: doing the needful
+to keep the team moving forward and shipping its work.
+It's not glamorous, but high impact organizations often have one or more Staff engineer working behind the scenes expediting the [most important work and ensuring it gets finished](https://staffeng.com/guides/work-on-what-matters).
 
 
 ## But will you still write software?
