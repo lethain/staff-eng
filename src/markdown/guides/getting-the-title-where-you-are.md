@@ -8,9 +8,20 @@ kind: "guide"
 > The best advice I've heard is that often reaching Staff is a combination of luck, timing, and work.
 > \- [Bert Fan](/stories/bert-fan)
 
-Most technology companies have a "career level," which is intended to be the maximum level that most folks achieve. Senior engineer is the career level of most companies. While you might get let go for not moving from entry-level engineer to mid-level engineer quickly enough, there's no expectation--timing or otherwise--that you'll ever go from Senior to Staff.
+Most technology companies have a "career level," which is intended to be the highest level that most folks achieve. Senior engineer is the career level at most companies. While you might get let go for not moving from entry-level engineer to mid-level engineer quickly enough,
+most companies have no expectation that you'll ever go from Senior to Staff.
+Six years at mid-level? Ah, that's a problem.
+Twenty years at Senior? Sure, that's fine.
 
-Quite the contrary, once you attain the career level, the promotion system at most companies flips from supporting your progress to deliberately constraining the number of folks who progress further. This is in large part because the fundamental nature of the job changes; a Staff Engineer isn't a better Senior Engineer, but rather someone who's moved into fulfilling one of the [Staff archetypes](https://staffeng.com/guides/staff-archetypes).
+More than the expectation of progress going away, companies' promotion systems
+will often impede your further progress once you attain the career level. 
+Sometimes the folks who already have Staff engineer titles are protective
+of diluting their prestige.
+In other cases, organizations may be wary of having multiple Staff engineers on a single team
+due to team health or budgetary concerns.
+However, I think the strongest source of friction is that
+the nature of the job changes. A Staff Engineer isn't a better Senior Engineer,
+but someone who's moved into fulfilling one of the [Staff archetypes](https://staffeng.com/guides/staff-archetypes).
 
 Even after you've developed the prerequisite skills to become a Staff Engineer, there will still be one last hurdle: getting your company to grant you the Staff title. For some, this process is a relative non-event, perhaps taking one or two cycles longer than anticipated but ultimately succeeding, and for others, it may not happen at all at their current company. About two-thirds of the Staff Engineers I surveyed attained their title as a promotion at the company they were already working at, and the remaining third changed companies to attain the title.
 
@@ -20,8 +31,11 @@ To go further, _you_ will have to take more deliberate control of your progressi
 
 ## Finding your trail
 
-If you've been relying on your manager to steer your career up to this point, the transition to a self-directed career can feel rather abrupt. There are hefty tomes written about [managing your career](https://www.learninpublic.org/), which is too broad a topic to cover in its entirety here, but there are a few aspects of the career transition which apply particularly to moving into your first Staff-plus role, and it's those that this chapter digs into:
-
+If you've been relying on your manager to steer your career up to this point, the transition to a self-directed career can feel rather abrupt.
+There are many books about [managing your software career](https://www.learninpublic.org/),
+but most focus from your first job until you reach Senior Engineer.
+Few focus on managing your career beyond the Senior title,
+which is where this chapter focuses:
 
 
 *   Your **[promotion packet](https://staffeng.com/guides/promo-packets)** is your foundational tool to demystify the Staff promotion, prioritize the right personal development to ensure you get there and activate your internal sponsors and network in support of your progression.
@@ -33,7 +47,15 @@ Apply these techniques consistently, and you'll be on the way towards a Staff ti
 
 ## Should you try management?
 
-A large majority of folks who reach Staff-plus roles **do not** spend time in engineering management, but some do. Of those, the majority find management a rewarding experience, like [Dan Na](https://staffeng.com/stories/dan-na) who said,
+Most folks who reach Staff-plus roles **do not** spend time in engineering management, but some do.
+It's easy to view this as a critical, life-changing decision, but that's probably overthinking it a bit.
+If you want to give management a try, you should.
+Most companies understand that management isn't the right role for everyone and will be glad to let
+you rotate back into an engineering role.
+
+Those that try management gain a broader perspective that helps them even when they
+move back into a software engineering role.
+This was [Dan Na](https://staffeng.com/stories/dan-na)'s experience,
 
 > I still enjoy both shipping code and running teams, and I think the ability to do both at a high level is critical for long-term engineering success. Charity Majors has a fantastic blog post on this topic that I recommend reading: "[The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)".
 > Charity argues that "manager career path vs engineering career path" is a false dichotomy, and taking time to alternate between both roles makes you better at both. This maps to my own experience. I'm a better manager because I know how terrible it is to be an IC on a poorly planned project, and I'm a better IC because I know how and when to sound an alarm when a project is going poorly.
@@ -42,19 +64,21 @@ A large majority of folks who reach Staff-plus roles **do not** spend time in en
 
 > I do [pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) a decent amount because I'm interested in so many things on both sides of the career ladder. I'm interested in growing people, I really like working with recruiting, I'm one of those engineers that actually enjoy interviewing, I like understanding how teams grow. But I also really like writing code, and after I spend some time managing, I want to get back into the code and hack around a little bit.
 
-Others like [Joy Ebertz](https://staffeng.com/stories/joy-ebertz) try engineering management but don't enjoy the experience,
+Some folks try management and end up hating it.
+[Joy Ebertz](https://staffeng.com/stories/joy-ebertz) didn't care for engineering management much,
 
 > I actually managed for about a year and a half in the middle of my time at Box and found that I hated it (you can find more about that in my [blog post on that topic](https://code.likeagirl.io/why-i-left-management-the-engineering-technical-track-vs-management-track-abef5b1d914d)). That said, I found that there is actually a lot of overlap between management and staff+ roles in most companies.
 
-But even though Joy hated her management experience, she felt it might have helped her longer-term career,
+Even though Joy hated her management experience, she felt it might have helped her longer-term career,
 
 > It's possible that if I hadn't taken a meander through management, I would have gotten to Staff sooner. That said, I don't regret doing it, and I learned a lot about how people think, how organizations are run, and how larger projects are prioritized. All of these have continued to help me do my job on the IC track and likely helped me further get promoted to Senior Staff. While I do think it's distinctly possible that it slowed down when I got to Staff, I'm actually less sure for the next level - I think there's a real chance I would have hung out at Staff longer without it. All of this is to say that even though I didn't take the most direct route, I still learned a lot that has helped me out long term.
 
-People management is bigger than simply maximizing your trajectory to a Staff Engineer role. You'll have a profound impact on the folks you support as a manager, and if you take it on with the wrong motivations, you'll regret the experience, but not nearly as much as your team will. If you're motivated to help your team grow and succeed, then go ahead and do it; if you're only doing it for yourself, then don't.
+The final caveat I'd give for someone considering this switch is that
+people management is bigger than simply maximizing your trajectory to a Staff Engineer role. You'll have a profound impact on the folks you support as a manager, and if you take it on with the wrong motivations, you'll regret the experience, but not nearly as much as your team will. If you're motivated to help your team grow and succeed, then go ahead and do it; if you're only doing it for yourself, then don't.
 
 ## A semi-permeable boundary
 
-As a final caveat, Staff-plus titles are leadership positions, and it's uniquely challenging to gain a leadership position if the existing leadership team doesn't identify with you as a potential member. What that means is, unfortunately, folks with the privilege of _seeming_ _like_ the existing leadership team have a much easier time making the transition.
+As a final caveat, Staff-plus titles are leadership positions. It's uniquely challenging to gain a leadership position if the existing leadership team doesn't identify with you as a potential member. What that means is, unfortunately, folks with the privilege of _seeming_ _like_ they are already part of the existing leadership team have a much easier time making the transition.
 
 If you read through this chapter and become increasingly frustrated that you're _already_ doing everything here, then it's possible that you're experiencing that structural disadvantage. Roughly half the women I spoke with had to change companies to attain the Staff title, whereas promotion friction generally didn't come up as a topic during discussions with other folks.
 
