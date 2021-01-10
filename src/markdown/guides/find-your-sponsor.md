@@ -44,4 +44,5 @@ If you find yourself in a situation where you and your manager don’t work toge
 
 You’ll cheat yourself if you immediately try to switch teams or companies after running into friction with your manager. Companies generally don’t allow transfers unless your manager approves it, so you may burn a bridge to nowhere that you’re standing on. More importantly, you’ll lose the opportunity to develop your skill of working with folks you don’t immediately click with: it’s not a fun skill to develop, but leadership _always_ involves influencing and building relationships with folks with conflicting goals and styles.
 
-If you’ve spent six months proactively trying to make the relationship work, then it probably is time to explore moving teams and to perhaps [consider switching companies](https://staffeng.com/guides/deciding-to-switch).
+If you’ve spent six months proactively trying to make the relationship work, then it probably is time to explore moving teams and to perhaps [consider switching companies](https://staffeng.com/guides/deciding-to-switch). This is one of many cases where it's extremely helpful to have developed your relationship with your skip-level manager,
+who can help you find a new team, even if you and your manager aren't working together effectively.
