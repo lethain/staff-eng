@@ -39,8 +39,6 @@ The single best way to create internal visibility is to [work on the things that
 
 Sometimes that isn't enough, though, and some other strategies are:
 
-
-
 *   Write more long-lived documents, like architecture docs or technical specifications.
 *   Lead (and, to a lesser extent, participate in) company forums like architecture reviews, company all hands, and learning circles.
 *   Be a cheerleader for your team's and peers' work on Slack.
@@ -50,6 +48,18 @@ Sometimes that isn't enough, though, and some other strategies are:
 *   Attend, or potentially even host, office hours for your team or org.
 
 Find the right mix of activities that leverage your strengths, aren't already overburdened with volume, and feel authentic to you. If you've never done much communication of your work, it may feel awkward to self-promote your work. You never want to wholly lose that sense of awkwardness--restraint helps--but you will have to get comfortable with some of it.
+
+## Executive visibility
+
+To be promoted to a leadership role, the most important kind of internal visibility is executive visibility.
+Using the [promotion packet](/guides/promo-packets/), you will create visibility with your manager,
+but it's helpful to go further.
+It's particularly valuable to find opportunities to build a relationship with your manager's manager,
+but all positive, visibility at that layer will be helpful to you.
+
+These are the folks who tend to be in the room that approves promotions into Staff-plus roles,
+and they rarely support folks whose work they don't know.
+
 
 ## External visibility
 
