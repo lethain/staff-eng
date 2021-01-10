@@ -45,6 +45,29 @@ which is where this chapter focuses:
 
 Apply these techniques consistently, and you'll be on the way towards a Staff title, although even the best-laid plans falter [if you're conducting them at the wrong company](https://staffeng.com/guides/deciding-to-switch).
 
+## Opportunity is unevenly distributed
+
+One inconvenient reality you'll encounter in pursuit of a Staff role is that
+opportunity at any given company is unevenly distributed.
+If your company leadership views infrastructure engineering as inherently
+"more complex" or "more leveraged" than product engineering, then
+opportunity will consolidate within infrastructure teams.
+If you work in an organization that emphasizes shipping features,
+then it will be easier to be rewarded for fixing an outage you cause
+than preventing future outages.
+Your work will be more visible if you work in your company's headquarters than in a [distributed office](https://lethain.com/how-to-start-distributed-engineering-office/).
+
+Many companies believe they have a vested interest in pretending opportunity is evenly distributed, even when it clearly isn't.
+This makes it hard to have conviction these dynamics exist,
+but the trends become clear as you collect more data.
+
+Once you recognize these challenges, you have to assess how fixable they are and where you want to prioritize your energy.
+It's much simpler to align your approach with these unspoken currents rather than reroute the river creating them.
+If you choose to address the causes of inequality,
+start by finding a senior sponsor who supports the cause.
+You can only change a system with sponsorship from within.
+
+
 ## Should you try management?
 
 Most folks who reach Staff-plus roles **do not** spend time in engineering management, but some do.
