@@ -42,18 +42,18 @@ Here are some important factors for me when switching between manager and IC rol
 
 "Replace indignation with curiosity."
 
-Several years ago, I was complaining to my manager about how another team was cutting corners and causing problems for my team. When I finished, he gave me that advice.  I hadn't been curious about why the other team was acting that way. It turned out, they had constraints that made their behavior quite reasonable. By approaching them with curiosity and a helpful mindset (instead of frustration), we quickly found a process that improved both teams' workflows.
+Several years ago, I was complaining to my manager about how another team was cutting corners and causing problems for my team. When I finished, he gave me that advice.  I hadn't been curious about why the other team was acting that way. It turns out they had constraints that made their behavior quite reasonable. By approaching them with curiosity and a helpful mindset (instead of frustration), we quickly found a process that improved both our workflows.
 
 More recently, while struggling with burnout, a career coach asked me, "What would let you approach each day with energy and optimism?"
 
-It's become my morning mantra, ensuring that I make time for operational excellence and mentorship; and bring genuine enthusiasm to my work.
+It's become my morning mantra, ensuring that I make time for operational excellence and mentorship and bring genuine enthusiasm to my work.
 
 
 **_How do you spend your time day-to-day?_**
 
 My days are roughly 50% scheduled meetings, 35% deep-focus blocks, and 15% unplanned work.
 
-I work hard to make sure the meetings are effective. That usually means at least having an agenda. The meeting should have a clear purpose known to attendees beforehand, such making a decision, generating ideas, or reviewing information. Meetings often have a negative connotation because they're facilitated poorly; but they can be incredibly productive. I've tried to be better at facilitating productive meetings and using synchronous attention well. High Output Management by Andrew Grove is a great resource to learn about effective meetings.
+I work hard to make sure the meetings are effective. That usually means at least having an agenda. The meeting should have a clear purpose known to attendees beforehand, such making a decision, generating ideas, or reviewing information. Meetings often have a negative connotation because they're facilitated poorly; but they can be incredibly productive. I try to get better at facilitating productive meetings and using synchronous attention well. _High Output Management_ by Andrew Grove is a great resource to learn about effective meetings.
 
 A technique I recently learned from my CTO is to schedule reading time at the start of a group meeting. Say you're in a hiring debrief: everyone spends the first 5 minutes reading each other's feedback about the candidate. It's a great way to ensure attendees truly read the document and have it top-of-mind. It ultimately saves time in the subsequent discussion.
 
@@ -63,7 +63,7 @@ The deep-focus blocks are marked off on my calendar. My entire company observes 
 
 My schedule is unusual in that I stop work around 4pm most days, then work later in the evenings, ~8-10pm. This gives me several high-quality hours with my family each day. I have difficulty concentrating in the afternoon, and can more easily concentrate at night. And I enjoy getting something done right before bedtime. So this schedule has improved both my work/life balance and improved productivity. I changed my schedule out of childcare necessities with during the coronavirus pandemic; but I think I'll keep it long-term. I encourage everyone to reflect on what habits and schedules are helpful for your work. An open discussion with your manager and some flexibility can go a long way.
 
-The unplanned work is mostly answering Slack messages, advising on urgent issues, or sometimes responding to production incidents. I try to approach this word with a helpful attitude, and also with an eye towards cross-training and discoverable documentation to minimize future unplanned work.
+The unplanned work is mostly answering Slack messages, advising on urgent issues, or sometimes responding to a production incident. I try to approach this work with a helpful attitude, and also with an eye towards cross-training and writing discoverable documentation to minimize future unplanned work.
 
 **_Where do you feel most impactful as a Staff-plus Engineer? A specific story would be grand._**
 
