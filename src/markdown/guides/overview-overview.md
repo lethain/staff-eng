@@ -46,11 +46,12 @@ they will provide a pragmatic aid in its pursuit.
 Depending on which of those best describe you, jump to the sections that sound most interesting;
 there's no right way to read this book:
 
-*   **Overview** - a survey of the Staff Engineer role, how it varies by company, and why the title matters
-*   **Operating at Staff** - how to do  the work on the other side of the title
-*   **Getting the title where you are** - how to attain a Staff-plus role at your current company
-*   **Switching companies to get the title** - when and how changing companies can support the pursuit of a Staff-plus title
-*   **Resources** - a collection of templates and further readings if you're looking for more
+*   **[Overview](/guides/overview-overview)** - a survey of the Staff Engineer role, how it varies by company, and why the title matters
+*   **[Operating at Staff](/guides/operating-at-staff)** - how to do  the work on the other side of the title
+*   **[Getting the title where you are](/guides/getting-the-title-where-you-are)** - how to attain a Staff-plus role at your current company
+*   **[Switching companies to get the title](/guides/deciding-to-switch)** - when and how changing companies can support the pursuit of a Staff-plus title
+*   **[Stories](/guides/stories)** - collected stories from Staff-plus engineers about what they do and how they reached their role
+*   **[Resources](/guides/learning-materials)** - a collection of templates and further readings if you're looking for more
 
 Each section is a mix of advice and interviews with practitioners. I hope they combine into a narrative
 comprehensive beyond their parts, but take the parts that resonate with you and discard the rest.
