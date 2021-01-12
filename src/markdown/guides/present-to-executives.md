@@ -81,7 +81,7 @@ Even if you do a great job preparing for your execution presentation, these thin
 
 **Don't present a question without an answer.** A frequent piece of advice given to new leaders is to "never bring your manager a problem without a solution." That's not generally great advice, but if you present a problem to an executive without a proposed answer, then in the back of their mind, they're wondering if they need to hire a more senior leader to supplement or replace you. You can't create alignment in the room unless you have a proposal for folks to align behind.
 
-**Avoid academic-style presentations.** The way you're taught to present about topics in school is more-or-less the entirely wrong approach for presenting to executives. The _Minto Pyramid Principle _will steer you in the right direction if you follow its scripture.
+**Avoid academic-style presentations.** The way you're taught to present about topics in school is more-or-less the entirely wrong approach for presenting to executives. The _Minto Pyramid Principle_ will steer you in the right direction if you follow its scripture.
 
 **Don't fixate on your preferred outcome.** It's very common for folks to get so caught up on the outcome that they want that they spend their energy resisting the clear, unavoidable signs that it isn't going to happen that way. It's very easy to get frustrated about the "wrong" decision getting made, but it's helpful to keep in mind that there is a great deal of context that you're missing. There is no such thing as a permanent decision: almost every decision will be reconsidered multiple times over the next two years.
 
