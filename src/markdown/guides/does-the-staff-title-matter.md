@@ -70,7 +70,7 @@ Even if your current company doesn't compensate for Staff-plus engineer roles mu
 ## Access to interesting work
 
 Many folks take on Staff-plus roles believing it will give them access to the most visible or exciting work.
-That's true to some extent, but it depends on the Staff archetypes which are most prevalent at your company.
+That's true to some extent, but it depends on the [Staff archetypes](https://staffeng.com/guides/staff-archetypes) which are most prevalent at your company.
 For example, _Solvers_ often do get access to the most interesting work.
 Conversely, a _Tech Lead_ would probably be undermining their team if they operated that way.
 
