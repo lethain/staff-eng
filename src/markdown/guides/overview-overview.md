@@ -43,8 +43,7 @@ something richer in nuance, breadth, and perspective than I could have ever writ
 If you're already in a Staff-plus role, I hope these writings will energize you in your
 journey as a leader outside the management track. If you aim for such a role, I hope
 they will provide a pragmatic aid in its pursuit.
-Depending on which of those best describe you, jump to the sections that sound most interesting;
-there's no right way to read this book:
+This book can be read cover to cover, but depending on which of those best describe you, feel jump to the sections that sound most interesting.
 
 *   **[Overview](/guides/overview-overview)** - a survey of the Staff Engineer role, how it varies by company, and why the title matters
 *   **[Operating at Staff](/guides/operating-at-staff)** - how to do  the work on the other side of the title
@@ -53,5 +52,6 @@ there's no right way to read this book:
 *   **[Stories](/guides/stories)** - collected stories from Staff-plus engineers about what they do and how they reached their role
 *   **[Resources](/guides/learning-materials)** - a collection of templates and further readings if you're looking for more
 
-Each section is a mix of advice and interviews with practitioners. I hope they combine into a narrative
-comprehensive beyond their parts, but take the parts that resonate with you and discard the rest.
+Every company puts its own spin on Staff-plus roles, so it's likely that some parts won't map to your experience.
+If that's the case, please take what resonates and discard what doesn't!
+

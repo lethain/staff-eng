@@ -20,8 +20,8 @@ and the archetype term is helpful for labeling these frequent variants of Staff-
 
 The four common archetypes of Staff-plus roles I encountered are:
 
-*   The **Tech Lead** guides the approach and execution of a particular team. They partner closely with a single manager, but sometimes they partner with two or three managers within a focused area.
-*   The **Architect** is responsible for the direction, quality, and approach within a critical area, both today and stretching into the multi-year future horizon. They combine in-depth knowledge of technical constraints, user needs, and organization level leadership.
+*   The **Tech Lead** guides the approach and execution of a particular team. They partner closely with a single manager, but sometimes they partner with two or three managers within a focused area. Some companies also have a  _Tech Lead Manager_ role, which is similar to the _Tech Lead_ archetype but exists on the engineering manager ladder and includes people management responsibilities.
+*   The **Architect** is responsible for the direction, quality, and approach within a critical area. They combine in-depth knowledge of technical constraints, user needs, and organization level leadership.
 *   The **Solver** digs deep into arbitrarily complex problems and finds an appropriate path forward. Some focus on a given area for long periods. Others bounce from hotspot to hotspot as guided by organizational leadership.
 *   The **Right Hand** extends an executive's attention, borrowing their scope and authority to operate particularly complex organizations. They provide additional leadership bandwidth to leaders of large-scale organizations.
 
@@ -34,13 +34,26 @@ This taxonomy is more focused on being _useful_ than _complete_, but so far, I'v
 
 _Stories featuring Tech Lead archetpye_: [Diana Pojar](https://staffeng.com/stories/diana-pojar), [Dan Na](https://staffeng.com/stories/dan-na), [Ritu Vincent](https://staffeng.com/stories/ritu-vincent)
 
-_Tech Leads_ are the most common Staff archetype and lead one team or a cluster of teams in their approach and execution. They're comfortable scoping complex tasks, coordinating their team towards solving them, and unblocking them along the way. _Tech Leads_ often carry the team's context and maintain many of the essential cross-team and cross-functional relationships necessary for the team's success.
+_Tech Leads_ are the most common Staff archetype and lead one team or a cluster of teams in their approach and execution. They're comfortable scoping complex tasks, coordinating their team towards solving them, and unblocking them along the way. _Tech Leads_ often carry the team's context and maintain many of the essential cross-team and cross-functional relationships necessary for the team's success. They're a close partner to the team's product manager and the first person called when the roadmap needs to be shuffled.
 
-Earlier in their career, they will have implemented their team's most complex technical projects, but at this point, they default to delegating such projects across the team. They do this both to grow their teammates and in acknowledgment that their team's impact grows as their coding blocks shrink.
+Earlier in their career, they will have implemented their team's most complex technical projects, but at this point, they default to delegating such projects across the team.
+They do this both to grow their teammates and in acknowledgment that the team's impact grows as the _Tech Lead_'s coding blocks shrink.
+While they're coding less, they are still the person defining their team's technical vision, and stepping in to
+build alignment within the team on complex issues.
 
-The _Tech Lead_ role is, for many folks, their first experience as a Staff engineer. A few forces conspire towards that result. First, the _Tech Lead_ role tends to develop early on within companies that have a strong concept of team, which is common among companies using agile methodologies, and most companies attempt an agile approach at some point. Another factor is that the day-to-day work of a _Tech Lead_ is most similar to the work you'd already be doing as a Senior engineer. This makes it a fairly intuitive transition.
 
-To acknowledge a source of potential confusion, some companies use _Tech Lead_ as a title that you get promoted into instead of as a role. In this list of archetypes, the _Tech Lead_ is one approach to operating as a Staff engineer, but it's quite common to operate in the _Tech Lead_ role without having the impact expected of a Staff-level engineer. Indeed, you'll find non-Staff engineers acting with the behaviors of every archetype. Being a Staff-engineer is not just a role. It's the intersection of the role, your behaviors, your impact, and the organization's recognition of all those things.
+The _Tech Lead_ role is, for many folks, their first experience as a Staff engineer. A few forces conspire towards that result.
+First, the _Tech Lead_ role tends to develop early on within companies that have a strong concept of team,
+which is common among companies using agile methodologies, and most companies attempt an agile approach at some point.
+Another factor is that the day-to-day work of a _Tech Lead_ is most similar to the work you'd already be doing as a Senior engineer, making it a fairly intuitive transition.
+Most importantly, an organization needs roughly one _Tech Lead_ for every eight engineers, making it far more common than other archetypes.
+
+Somewhat confusingly, some companies use _Tech Lead_ as a title, and others use it as a role.
+In this list of archetypes, the _Tech Lead_ is one approach to operating as a Staff engineer,
+but it's quite common to perform the _Tech Lead_ role without having the impact expected of a Staff-level engineer.
+Indeed, you'll find non-Staff engineers acting with the behaviors of every archetype.
+Being a Staff-engineer is not just a role.
+It's the intersection of the role, your behaviors, your impact, and the organization's recognition of all those things.
 
 
 ## Architect
@@ -51,7 +64,7 @@ _Stories featuring Architect archetype_: [Joy Ebertz](https://staffeng.com/stori
 
 The _Architect_ title has fallen out of style in many companies, but the _Architect_ role remains alive and well for folks operating at Staff-plus levels. _Architects_ are responsible for the success of a specific technical domain within their company, for example, the company's API design, frontend stack, storage strategy, or cloud infrastructure. For a domain to merit an _Architect_, it must be both complex _and enduringly_ central to the company's success.
 
-There is a toxic perception that _Architects_ design systems in isolation and then pass their designs to others to implement.
+There is a toxic preconception that _Architects_ design systems in isolation and then pass their designs to others to implement.
 That does happen in some cases, but reciting that stereotype would slander the architects I interviewed.
 Influential architects dedicate their energy to maintaining an intimate understanding of the business' needs, their users' goals, and the relevant technical constraints.
 They use that insight to identify and advocate for effective approaches within their area of focus,
@@ -85,14 +98,15 @@ relatively large or long-lived enough to acquire their own varietal of technical
 
 _Stories featuring Right Hand archetype_: [Michelle Bu](https://staffeng.com/stories/michelle-bu), [Rick Boone](https://staffeng.com/stories/rick-boone)
 
-The _Right Hand_ is the least common of the archetypes, showing up as an organization reaches one thousand or more engineers and is akin to operating as a senior organizational leader without direct managerial responsibilities. [Rick Boone](https://staffeng.com/stories/rick-boone) compared his role to the [Hand of the King](https://awoiaf.westeros.org/index.php/Hand_of_the_King) in Game of Thrones and [Leo McGarry](https://westwing.fandom.com/wiki/Leo_McGarry) from The West Wing, operating with the borrowed authority of a senior leader. However, borrowing authority comes with the obligation of [remaining deeply aligned](https://lethain.com/staying-aligned-with-authority/) with that leader's approach, beliefs, and values.
+The _Right Hand_ is the least common of the archetypes, showing up as an organization reaches hundreds of engineers and is akin to operating as a senior organizational leader without direct managerial responsibilities. [Rick Boone](https://staffeng.com/stories/rick-boone) compared his role to the [Hand of the King](https://awoiaf.westeros.org/index.php/Hand_of_the_King) in Game of Thrones and [Leo McGarry](https://westwing.fandom.com/wiki/Leo_McGarry) from The West Wing, operating with the borrowed authority of a senior leader. However, borrowing authority comes with the obligation of [remaining deeply aligned](https://lethain.com/staying-aligned-with-authority/) with that leader's approach, beliefs, and values.
 
 Folks in this role attend their leader's staff meetings and work to scale that leader's impact by removing important problems from their plate. Problems addressed at this level are never purely technical and instead involve the intersection of the business, technology, people, culture, and process. _Right Hands_ often dive into a fire, edit the approach, delegate execution to the most appropriate team, and then pop over to the next fire elsewhere in the organization. The joy of these roles is that you only work on essential problems. The tragedy is that you're always on to the next issue by the time those problems are solved.
 
 
 ## Which is right for you?
 
-As you think about which of these archetypes would fit you, start by considering which roles are available within your company, and second, reflect on the kind of work that energizes you.
+As you think about which of these archetypes would fit you, start by reflecting on the kinds of work that energize you,
+and then consider which roles are available within your company.
 
 All companies develop a need for engineers who can fill the _Tech Lead_ role, which makes it the most accessible archetype to attain your first Staff engineering role.
 Companies that emphasize individual ownership rather than team ownership often develop the _Solver_ early.
