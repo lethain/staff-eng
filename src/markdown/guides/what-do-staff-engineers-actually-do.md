@@ -27,7 +27,12 @@ Some Staff-plus engineers are explicitly hired to lead a specific area such [as 
 
 There's a popular vision of heroic leadership that centers on extraordinarily productive individuals whose decisions change their company's future. Most of those narratives are intentionally designed by public relations teams to create a good story. You're far more likely to change your company's long-term trajectory by growing the engineers around you than through personal heroics. The best way to grow those around you is by creating an active practice of mentorship and sponsorship.
 
-Many career ladders have an obligatory checkbox around mentorship to qualify for a promotion into a Staff role, and mentorship is a key part of the role. Sharing your experience and advice, along with an ongoing relationship to understand the recipient's context, is high impact work. In senior roles, mentorship is just the bar for admissions. The most effective Staff engineers pair a moderate amount of mentorship with considerably more sponsorship: putting your thumb directly on the scale to help advance and support those around you. If you haven't read it already, Lara Hogan has written the canonical piece on the distinction between sponsorship and mentorship, [What does sponsorship look like?](https://larahogan.me/blog/what-sponsorship-looks-like/)
+Sometimes folks see a requirement for mentorship in their career ladder and try to mechanically check that box,
+which is a shame because mentorship is one of the most valuable activities in a Staff-plus role.
+Sharing your experience and advice, along with building an ongoing relationship to understand the recipient's context, is high impact work.
+The most effective Staff engineers pair a moderate amount of mentorship with considerably more sponsorship: putting your thumb
+directly on the scale to help advance and support those around you. If you haven't read it already, Lara Hogan has written the
+canonical piece on the distinction between sponsorship and mentorship, [What does sponsorship look like?](https://larahogan.me/blog/what-sponsorship-looks-like/)
 
 
 ## Providing engineering perspective
@@ -36,7 +41,9 @@ Many career ladders have an obligatory checkbox around mentorship to qualify for
 
 Effective organizations streamline routine decision making. A good example of this is the process of reviewing contracts for potential enterprise customers. Early on, there will be some contracts signed that the product and engineering teams are uncomfortable supporting. After that happens a few times, the process will include more stakeholders in the review steps, and over time the right people will be in the right places at the right time.
 
-There's a second category of decisions, those which are both time-sensitive and important, and it's more challenging to get the right folks into the room before those decisions get finalized. It's frequent for [an organizational restructure](https://lethain.com/running-an-engineering-reorg/) to occur without valuable input that would have changed the outcome. Similarly, it's common for interview loops for infrequent roles--those where you might hire one person into them each year like executives or Staff-plus engineers in an early-stage company--to not evaluate the candidate on an important dimension. For some companies, even things like roadmap planning fall into this category.
+Even companies that are great at making routine decisions often struggle when an unexpected decision shows up.
+The sort which is both time-sensitive and important, and it's challenging to even pull the right folks together before the decision needs to get made.
+It's frequent for [an organizational restructure](https://lethain.com/running-an-engineering-reorg/) to occur without valuable input that would have changed the outcome. Similarly, it's common for interview loops for infrequent roles--those where you might hire one person into them each year like executives or Staff-plus engineers in an early-stage company--to not evaluate the candidate on an important dimension. For some companies, even things like roadmap planning fall into this category.
 
 Staff-plus engineers are the folks who will often get unexpectedly pulled [into the room](https://staffeng.com/guides/getting-in-the-room) where this sort of decision is happening. This gives them the opportunity to inject the engineering context and perspective into a decision while it's still possible to change the outcome. These brief moments of input on critical decisions are unduly impactful and will allow you to inject an engineering perspective where it would otherwise be missed.
 Just remember that you're representing the interests of all of engineering, not just your own.
@@ -82,10 +89,15 @@ It's impolite to end any discussion of the Staff engineer role without opining o
 [Joy Ebertz](https://staffeng.com/stories/joy-ebertz) said, "The more senior you get, the less your job is about code. Sure, unlike a people manager, you still have a very technical slant, and even through principal, you'll likely be doing at least some coding. However, the higher you get, the more your job becomes about mentoring and growing the people around you (and more broadly), building your team through building your company's public tech brand, noticing larger technical trends that can be improved upon or corrected, helping to set the tech vision for your team or the company and advocating for resourcing for tech debt projects."
 
 Most write some, some write none, but none write as much as they used to earlier in their career. There will be the occasional week that is purely coding, but those won't be the norm, and if they happen too often, it's usually a sign of working [on something comfortable rather than important](https://staffeng.com/guides/work-on-what-matters).
+Even if you're not writing much, you'll be reading _a ton_ of your coworkers' code and doing a fair number of code reviews.
 
 
 ## Slow but rewarding
 
-One unifying theme across Staff-plus work is that the timeframes are longer. Early in your career, it's easy to get attached to software development's quick feedback cycle--write, test, ship, repeat--and most of the work you'll be doing at this level replaces that feedback loop with one that takes weeks, months and years.
+One unifying theme across Staff-plus work is that the timeframes are longer. Early in your career, it's easy to get attached to software development's quick feedback cycle--write, test, ship, repeat--and most of the work you'll be doing at this level replaces that feedback loop with one that takes weeks, months, and years.
+These longer timeframes can feel surprisingly demoralizing when you first take on a Staff-plus role.
+It's normal to end some days as a Staff-plus engineer feeling like you haven't accomplished anything--keep at it!
 
-The impact and the personal growth lives in those longer timeframes, and while everyone I spoke with wished they'd occasionally get more time to code, none of them regretted their transition into their current roles.
+The impact and the personal growth lives in those longer timeframes, and while everyone I spoke with wished they'd occasionally get more time to code,
+and admitted worrying some days that they weren't accomplishing much,
+none of them regretted their transition into their current roles.
