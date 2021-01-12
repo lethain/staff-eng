@@ -34,10 +34,8 @@ While these gauges are believed to evaluate ideas objectively,
 their sheer informality becomes a broad vector of bias and often conflate confidence with competence.
 
 Freedom from the cycle of re-establishing one's competence came up frequently as a key advantage of the Staff title.
-I imagine you will be disappointed but not surprised to hear that
-these informal gauges weren't mentioned by every Staff-plus engineer I spoke with,
-but they were routinely mentioned by women
-and anyone who didn't conform to their company's stereotype of an experienced technologist.
+These informal gauges weren't mentioned by every Staff-plus engineer I spoke with,
+but they were routinely mentioned by individuals who didn't conform to their company's stereotype of an experienced technologist.
 
 [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) shared,
 
@@ -77,6 +75,14 @@ For example, _Solvers_ often do get access to the most interesting work.
 Conversely, a _Tech Lead_ would probably be undermining their team if they operated that way.
 
 Among the folks I've spoken with, the most consistently effective way to get access to interesting work is being hired to do it, such as [Ritu Vincent](https://staffeng.com/stories/ritu-vincent) who was hired to launch Dropbox's product incubator and [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) who was hired to design Fastly's API strategy.
+
+This doesn't always work out.
+Sometimes the interesting work will be plainly visible but still inaccessible.
+You'll be too obligated to the business' needs to pursue a project out of personal interest.
+In earlier roles, you might be able to sneak that sort of project into your backlog,
+but now you'll have a responsibility to model good behavior.
+Even in cases where the project is the best thing for the company, you'll often decide to
+pass the opportunity on to another engineer who would benefit from it more than you would.
 
 
 ## Different rather than better
