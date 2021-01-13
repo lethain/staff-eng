@@ -20,10 +20,10 @@ and the archetype term is helpful for labeling these frequent variants of Staff-
 
 The four common archetypes of Staff-plus roles I encountered are:
 
-*   The **Tech Lead** guides the approach and execution of a particular team. They partner closely with a single manager, but sometimes they partner with two or three managers within a focused area. Some companies also have a  _Tech Lead Manager_ role, which is similar to the _Tech Lead_ archetype but exists on the engineering manager ladder and includes people management responsibilities.
-*   The **Architect** is responsible for the direction, quality, and approach within a critical area. They combine in-depth knowledge of technical constraints, user needs, and organization level leadership.
-*   The **Solver** digs deep into arbitrarily complex problems and finds an appropriate path forward. Some focus on a given area for long periods. Others bounce from hotspot to hotspot as guided by organizational leadership.
-*   The **Right Hand** extends an executive's attention, borrowing their scope and authority to operate particularly complex organizations. They provide additional leadership bandwidth to leaders of large-scale organizations.
+* The **Tech Lead** guides the approach and execution of a particular team. They partner closely with a single manager, but sometimes they partner with two or three managers within a focused area. Some companies also have a  _Tech Lead Manager_ role, which is similar to the _Tech Lead_ archetype but exists on the engineering manager ladder and includes people management responsibilities.
+* The **Architect** is responsible for the direction, quality, and approach within a critical area. They combine in-depth knowledge of technical constraints, user needs, and organization level leadership.
+* The **Solver** digs deep into arbitrarily complex problems and finds an appropriate path forward. Some focus on a given area for long periods. Others bounce from hotspot to hotspot as guided by organizational leadership.
+* The **Right Hand** extends an executive's attention, borrowing their scope and authority to operate particularly complex organizations. They provide additional leadership bandwidth to leaders of large-scale organizations.
 
 This taxonomy is more focused on being _useful_ than _complete_, but so far, I've been able to fit every Staff-plus engineer I've spoken to into one of these categories. Admittedly, some folks are easier to classify than others.
 
@@ -62,7 +62,7 @@ It's the intersection of the role, your behaviors, your impact, and the organiza
 
 _Stories featuring Architect archetype_: [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), [Katie Sylor-Miller](https://staffeng.com/stories/katie-sylor-miller), [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn)
 
-The _Architect_ title has fallen out of style in many companies, but the _Architect_ role remains alive and well for folks operating at Staff-plus levels. _Architects_ are responsible for the success of a specific technical domain within their company, for example, the company's API design, frontend stack, storage strategy, or cloud infrastructure. For a domain to merit an _Architect_, it must be both complex _and enduringly_ central to the company's success.
+The _Architect_ title has fallen out of style in many companies, but the _Architect_ role remains alive and well for folks operating at Staff-plus levels. _Architects_ are responsible for the success of a specific technical domain within their company, for example, the company's API design, frontend stack, storage strategy, or cloud infrastructure. For a domain to merit an _Architect_, it must be both complex and enduringly central to the company's success.
 
 There is a toxic preconception that _Architects_ design systems in isolation and then pass their designs to others to implement.
 That does happen in some cases, but reciting that stereotype would slander the architects I interviewed.
@@ -114,7 +114,8 @@ On the other hand, companies that operate under strict sprints or agile methodol
 In the recent crops of fast-growing technology companies, the _Architect_ and _Right Hand_ roles have generally emerged as the organizations reached one hundred and one thousand engineers,
 respectively, and simply don't exist beforehand. Companies with other strains of cultural DNA often develop them earlier, or sometimes never.
 
-Success in these roles requires remaining engaged; it's essential to understand what kinds of work energize you. The _Tech Lead_ and _Architect_ tend to work with the same people on the same problems for years, developing a tight sense of team and shared purpose. Some months their focus will be a top company priority, and sometimes they'll be humming along so well that executives forget your team exists.
+Success in these roles requires remaining engaged; it's essential to understand what kinds of work energize you. The _Tech Lead_ and _Architect_ tend to work with the same people on the same problems for years, developing a tight sense of team and shared purpose.
+Some months their focus will be a top company priority, and sometimes they'll be humming along so well that executives forget their team exists.
 
 The _Solver_ and _Right Hand_ bounce from fire to fire, often having more transactional interactions with the folks they're working with on any given week. They're tightly aligned with executive priorities and are likely to receive recognition for addressing leadership's most pressing problems. On the other hand, while they'll nominally be on a team with other folks, there will generally be little-to-no overlap within their team's areas of focus, and they'll often have a limited sense of community.
 
