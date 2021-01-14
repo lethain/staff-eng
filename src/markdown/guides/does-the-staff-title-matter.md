@@ -62,7 +62,7 @@ For any important decision, there's the time leading up to the core decision bei
 Small companies tend to have fairly ad-hoc compensation, and increases come from direct negotiation with your manager. A promotion to a Staff-plus role in such a company might not even come with a corresponding increase in your compensation.
 However, most companies introduce compensation bands for each role by the time they reach one to two hundred folks. Those compensation bands will generally ensure your compensation increases along with the role.
 
-The highest-paid roles at any company tend to be the executive and senior management roles. As companies grow, they typically create a compensation mapping between management and engineering roles, such that reaching Staff-plus roles--and sometimes this is Sr Staff or Distinguished roles rather than the initial Staff role--will significantly bump your compensation.
+The highest-paid roles at any company tend to be the executive and senior management roles. As companies grow, they typically create a compensation mapping between management and engineering roles, such that reaching Staff-plus roles (and sometimes this is Sr Staff or Distinguished roles rather than the initial Staff role) will significantly bump your compensation.
 
 Even if your current company doesn't compensate for Staff-plus engineer roles much differently than for Senior engineer roles, _[some companies do](https://www.levels.fyi/)_. Throughout your career, you can choose to steer towards such companies, and doing so with a Staff-plus title will meaningfully increase your lifetime earnings.
 

@@ -9,17 +9,17 @@ kind: "guide"
 
 Anyone who has been cornered by relatives at a party and asked to explain what software engineers _actually do_ knows that explaining the work can be challenging. Over time you may have created a compelling answer for your relatives, but many folks' minds go blank when their coworker leans over and asks, "What's a Staff engineer do?"
 
-The easiest answer is that Staff engineers keep doing much of what made them successful as Senior engineers: building relationships, writing software, coordinating projects. However, that's a misleading answer. They do those same tasks, but whereas previously they were the core of the work, they've become auxiliary work, and they have new priorities. Their daily schedule varies a bit [by archetype](https://staffeng.com/guides/staff-archetypes), but there's a shared foundation across all archetypes: setting and editing technical direction, providing sponsorship and mentorship, injecting engineering context into organizational decisions, exploration, and what [Tanya Reilly](https://noidea.dog) calls [being glue](https://noidea.dog/glue).
+The most straightforward answer is that Staff engineers keep doing much of what made them successful as Senior engineers: building relationships, writing software, coordinating projects. However, that's a misleading answer. Staff engineers do those same tasks, but whereas previously they were the core of their work, now they're auxiliary tasks.
+Their daily schedule varies a bit [by archetype](https://staffeng.com/guides/staff-archetypes), but there's a shared foundation across all archetypes: setting and editing technical direction, providing sponsorship and mentorship, injecting engineering context into organizational decisions, exploration, and what [Tanya Reilly](https://noidea.dog) calls [being glue](https://noidea.dog/glue).
 
 
 ## Setting technical direction
 
 > I feel most impactful when I can facilitate setting a technical vision for an area and get people moving toward that vision. I think we would all agree that we want our code to be better architected than it is or improved in some way. However, I've found that often people have some vague sense of wanting better without having a clear idea of what that thing they want is. I like to help the group decide on a shared understanding of where exactly they're trying to get (it's actually okay if we never get there) and come up with a general game plan of how to get there. - [Joy Ebertz](https://staffeng.com/stories/joy-ebertz)
 
-Much as [the Lorax](https://en.wikipedia.org/wiki/The_Lorax) speaks for the trees in his popular children's book, Staff engineers speak for their companies' technology. Technology cannot speak for itself and requires effective advocates on its behalf. Folks who successfully advance technology are pragmatic, deliberate, and focus more on the long-term trend of progress than viewing each individual decisions as a make-or-break crisis. It can be helpful to think of this as being a part-time Product Manager for technology.
+Much as [the Lorax](https://en.wikipedia.org/wiki/The_Lorax) speaks for the trees in his popular children's book, Staff engineers speak for their companies' technology. Technology cannot speak for itself and requires effective advocates on its behalf. Folks who successfully advance technology are pragmatic, deliberate, and focus more on the long-term trend of progress than viewing each individual decision as a make-or-break crisis. It can be helpful to think of this as being a part-time product manager for technology.
 
-Some Staff-plus engineers are explicitly hired to lead a specific area such [as API design](https://staffeng.com/stories/keavy-mcminn), and in other cases, they find themselves [editing and aligning approaches across a broad area](https://staffeng.com/stories/rick-boone). One constant across all roles is that the reality of setting technical direction is far more about understanding and solving the real needs of the organization around you and far less about prioritizing technology and approaches that you personally are excited to learn about. In earlier roles, you may have tried to influence decisions towards technology choices you're motivated by; in senior positions, you're accountable to the business and organization first and yourself second.
-
+Some Staff-plus engineers are explicitly hired to lead a specific area such [as API design](https://staffeng.com/stories/keavy-mcminn), and in other cases, they find themselves [editing and aligning approaches across a broad area](https://staffeng.com/stories/rick-boone). One constant across all roles is that the reality of setting technical direction is far more about understanding and solving the real needs of the organization around you and far less about prioritizing technology and approaches that you personally are excited to learn about. In earlier roles, you may have tried to influence decisions towards technology choices you were motivated by; in senior positions, you're accountable to the business and organization first and yourself second.
 
 ## Mentorship and sponsorship
 
@@ -73,8 +73,8 @@ This is some of the most rewarding and the riskiest work companies do. It takes 
 
 ## Being Glue
 
-[Tanya Reilly](https://noidea.dog) wrote a wonderful post, [Being Glue](https://noidea.dog/glue), which captures another core element of successful Staff engineers: doing the needful
-to keep the team moving forward and shipping its work.
+[Tanya Reilly](https://noidea.dog) wrote a wonderful post, [Being Glue](https://noidea.dog/glue), which captures another core element of successful Staff engineers:
+doing the needed, but often invisible, tasks to keep the team moving forward and shipping its work.
 It's not glamorous, but high impact organizations often have one or more Staff engineer working behind the scenes expediting the [most important work and ensuring it gets finished](https://staffeng.com/guides/work-on-what-matters).
 
 

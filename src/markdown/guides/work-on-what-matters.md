@@ -13,7 +13,7 @@ kind: "guide"
 
 We all have a finite amount of time to live, and within that mortal countdown, we devote some fraction towards our work. Even for the most career-focused, your life will be filled with many things beyond work: supporting your family, children, exercise, being a mentor and a mentee, hobbies, and so the list goes on. This is the sign of a rich life, but one side-effect is that time to do your work will become increasingly scarce as you get deeper into your career.
 
-If you're continuing to advance in your career, then even as your time available for work shrinks, the expectations around your impact will keep growing. For a while, you can try sleeping less or depriving yourself of the non-work activities you need to feel whole, but you'll inevitably find that your work maintains an aloof indifference to your sacrifice rather than rewarding it. Only through [pacing your career to your life](https://lethain.com/forty-year-career/) can you sustain yourself for the long-term.
+If you're continuing to advance in your career, then even as your time available for work shrinks, the expectations around your impact will keep growing. You can try sleeping less or depriving yourself of the non-work activities you need to feel whole, but you'll inevitably find that your work maintains an aloof indifference to your sacrifice rather than rewarding it. Only through [pacing your career to your life](https://lethain.com/forty-year-career/) can you sustain yourself for the long-term.
 
 Indeed, pacing yourself becomes the central challenge of a sustained, successful career: increasingly senior roles require that you accomplish more and more and do it in less and less time. The ledge between these two constraints gets narrower the further you go, but it remains walkable if you take a deliberate approach.
 
@@ -31,11 +31,11 @@ It's ok to spend some of your time on snacks to keep yourself motivated between 
 
 ## Stop preening
 
-Where "snacking" is the broad category of doing easy and low-impact work, there's a particularly seductive subset of snacking that I call "preening." Preening is doing low-impact, high-visibility work. Many companies conflate high-visibility and high-impact so strongly that they can't distinguish between preening and impact, which is why it's not uncommon to see some companies' senior-most engineers spend the majority of their time doing work of dubious value, but that is frequently recognized in company meetings.
+Where "snacking" is the broad category of doing easy and low-impact work, there's a particularly seductive subset of snacking that I call "preening." Preening is doing low-impact, high-visibility work. Many companies conflate high-visibility and high-impact so strongly that they can't distinguish between preening and impact, which is why it's not uncommon to see some companies' senior-most engineers spend the majority of their time doing work that's of dubious value, but that is frequently recognized in company meetings.
 
 If you're taking a short-term look at [career growth](https://yenkel.dev/posts/how-to-achieve-career-growth-opportunities-skills-sponsors), then optimizing for your current organization's pathologies in evaluating impact is the optimal path: go forth and preen gloriously. However, if you're thinking about developing yourself to succeed as your [current role grows in complexity](https://lethain.com/growing-with-your-company/) or across multiple organizations, then it's far more important to strike a balance between valued work and self-growth.
 
-This is also an important factor to consider when choosing a company to work at! Dig into what a company values and ensure it aligns with your intended personal growth. If a company's leadership consists entirely of folks who focus their energy on performant urgency or acts of fealty, don't be surprised when your success in the company depends on those activities.
+This is also an important factor to consider when choosing a company to work at! Dig into what a company values and ensure it aligns with your intended personal growth. If a company's leadership consists entirely of folks who focus their energy on performative urgency or acts of fealty, don't be surprised when your success in the company depends on those activities.
 
 Worse, to be a successful preener requires near invulnerability to criticism of your actual impact, and your true work _will_ suffer if your energy is diverted to preening. Typically this means you need to be a vanity hire of a senior leader or to present yourself in the way a company believes leaders look and act. If that isn't you, then your attempt to exchange your good judgment for company success will end up failing anyway: you'll get held accountable for the lack of true impact where others who match the company's expectation of how a leader appears will somehow slip upward.
 
@@ -81,7 +81,7 @@ If you start dedicating even a couple of hours a week to developing the team aro
 
 ## Edit
 
-A surprising number of projects are one small change away from succeeding, one quick modification that unlocks a new opportunity, or one conversation away from consensus. I think of making those small changes, quick modifications, and short conversations as _editing_ your team's approach.
+A surprising number of projects are one small change away from succeeding, one quick modification away from unlocking a new opportunity, or one conversation away from consensus. I think of making those small changes, quick modifications, and short conversations as _editing_ your team's approach.
 
 With your organizational privilege, relationships you've built across the company, and ability to see around corners derived from your experience, you can often shift a project's outcomes by investing the smallest ounce of effort, and this is some of the most valuable work you can do.
 
