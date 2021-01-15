@@ -8,7 +8,7 @@ kind: "guide"
 > There isn't an explicit expectation, nor is it listed anywhere as a formal requirement, but it is understood that you'll complete a Staff Project to get promoted. I can't think of any Staff promotion that didn't include a really strong project, typically a multi-person project where the engineer was the Tech Lead.  
 > \- [Ritu Vincent](/stories/ritu-vincent)
 
-A popular recurring idea around reaching a Staff-plus role is that first, you need to successfully complete a "Staff project." A project that is considered complex and important enough that the person who completes it has proven themselves as a Staff engineer. However popular this idea is, if you're pursuing a Staff-plus role, it's important to pierce the mythology of these projects and focus on the experiences of folks who've walked the path before you.
+A popular recurring idea around reaching a Staff-plus role is that first, you need to successfully complete a "Staff project." This is a project that is considered complex and important enough that the person who completes it has proven themselves as a Staff engineer. However popular this idea is, if you're pursuing a Staff-plus role, it's important to pierce the mythology of these projects and focus on the experiences of folks who've walked the path before you.
 
 The short answer on Staff projects is that most engineers don't complete one as part of reaching a Staff role, although a large minority do complete one, particularly folks who attain the role via promotion at a company they've grown up in. For the folks who don't complete one, typically, it's either because they accumulated a track record of success over a longer period without a single capstone or because they switched companies to reach the title.
 
@@ -34,7 +34,7 @@ Some folks were even skeptical of the Staff project concept overall. [Nelson Elh
 
 There are also folks like [Dan Na](https://staffeng.com/stories/dan-na) or [Damian Schenkelman](https://staffeng.com/stories/damian-schenkelman) who took a detour through engineering management to reach the role. Damian describes bypassing the Staff project,
 
-> I did not. Because of how I grew at Auth0, I kind of "skipped that part". As a Director at a startup, I got the opportunity to technically lead a lot of big, critical initiatives, but there was no specific/explicit "staff/principal project".
+> I did not. Because of how I grew at Auth0, I kind of "skipped that part". As a Director at a startup, I got the opportunity to technically lead a lot of big, critical initiatives, but there was no specific/explicit "staff/principal project."
 
 From these stories, it's clear that anyone who tells you that you _must_ complete a Staff project to reach a Staff-plus title is wrong: there are many avenues to reach Staff-plus titles without doing a Staff project, with [a stint in engineering management](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) prominent among them.
 
@@ -62,7 +62,7 @@ Few companies write down their Staff project requirements. They're more frequent
 
 Sometimes it's hard to determine the precise line between gatekeeping and evaluation, and the premise of a Staff project exists in that hazy realm. Taking on a project of immense scope, navigating that ambiguity, and delivering it successfully is an effective way to distinguish folks who've reached Staff-plus impact, but it's also clear that many folks attain Staff-plus roles without completing such a project.
 
-My advice is that although you can attain a Staff-plus role without completing a Staff project, they're a particularly valuable opportunity to develop yourself as an engineer. You will _personally_ be stretched and grown by this kind of project in a way that other varieties of Staff level work won't.
+My advice is that although you can attain a Staff-plus role without completing a Staff project, they're a particularly valuable opportunity to develop yourself as an engineer. You will _personally_ be stretched and grown by this kind of project in a way that you won't be by other varieties of Staff level work.
 
 [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) describes how her Staff project helped her,
 
@@ -73,8 +73,8 @@ Although each of these projects is different, there are a few typical characteri
 
 
 *   **Complex and ambiguous** - early in your career, you're given well-defined problems, but as you get deeper into it, you'll increasingly encounter poorly defined or undefined problems, and Staff projects will generally start with a poorly scoped but complex and _important_ problem. Your project might start with only the assertion that your company's aging monolith is crippling product development. From that broad, unclear (and potentially wrong) statement, you'll have to identify a concrete approach that works.
-*   **Numerous and divided stakeholders** - the easiest projects start with organizational alignment around both the problem and the solution, but your Staff project might likely start with neither. It might be an area in which management views as an existential risk, but many engineers feel it is good enough. It might be an area that everyone agrees is a problem, but with strong factional disagreement about approach, for example, disagreement between pursuing a service strategy or reinvesting in your existing monolith.
-*   **Named bet where failure matters** - it's going to be a project important enough that senior leadership talks about it at all organization or all-company meetings. This means folks will be watching your work closely, and any failures will be very visible. Success will be highly visible, as well!
+*   **Numerous and divided stakeholders** - the easiest projects start with organizational alignment around both the problem and the solution, but your Staff project might likely start with neither. It might be an area which management views as an existential risk, but many engineers feel it is good enough. It might be an area that everyone agrees is a problem, but with strong factional disagreement about approach, for example, disagreement between pursuing a service strategy or reinvesting in your existing monolith.
+*   **Named bet where failure matters** - it's going to be a project important enough that senior leadership talks about it at all-organization or all-company meetings. This means folks will be watching your work closely, and any failures will be very visible. Success will be highly visible, as well!
 
 If you meet these, it's probably a staff project. These can be pretty nerve-wracking, which is also why they're so effective at developing you.
 

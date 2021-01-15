@@ -15,12 +15,11 @@ This transition requires learning to deliberately create space for the team arou
 
 ## Discussions
 
-When you’re focused on maximizing your personal impact, a good discussion is one that ends quickly with a reasonable answer, alignment among the participants, and positive feelings among the participants. When you start thinking about creating space, the definition of a good meeting expands quite a bit!
+When you’re focused on maximizing your personal impact, a good discussion is one that ends quickly with a reasonable answer, alignment among the participants, and positive feelings among the participants. When you start thinking about creating space, the definition of a good discussion expands quite a bit!
 
-In this broader definition, a good meeting depends on getting more folks involved and getting to a good set of decisions without much of your own personal contribution. A good meeting is, in this new world, one that it turns out you didn’t need to attend. When you make a key contribution, feel good about it, and then think about what needs to happen for someone else to make that contribution next time.
+This broader definition depends on getting more folks involved and getting to a good set of decisions without much of your own personal contribution. A good discussion is, in this new world, one that it turns out you didn’t need to attend. When you make a key contribution, feel good about it, and then think about what needs to happen for someone else to make that contribution next time.
 
 Along with the shift in mindset, there are a few techniques that I’ve found helpful in creating more space in discussions:
-
 
 
 *   Shift your contribution towards asking questions. Asking the right questions [helps avoid missteps](https://lethain.com/learn-to-never-be-wrong/), but also makes it easier for more folks to contribute
@@ -28,7 +27,7 @@ Along with the shift in mindset, there are a few techniques that I’ve found he
 *   Be the one to take notes. This helps destigmatize note-taking as “low status” and also frees up an alternative would-be notetaker to contribute more instead. It also gives you something to focus on other than speaking!
 *   If you realize someone’s missing from the discussion who should be there, be the person to pull them into the next occurrence of the meeting. Talk with the meeting coordinator to let them know why it’s valuable to include them
 
-As you follow these more and more faithfully, your experience in meetings will shrink, and your impact on the organization will grow.
+As you follow these more and more faithfully, your speaking in meetings will shrink, and your impact on the organization will grow.
 
 
 ## Decisions
@@ -60,7 +59,7 @@ This final step is [sponsoring](https://larahogan.me/blog/what-sponsorship-looks
 
 When you identify new critical work, perhaps identifying a gap in your tooling or process, think about who else could be generating that work and then sit down with them to have them put together the proposal you planned to write. Then build support for their proposal just as you would have for your own.
 
-Importantly, when the work becomes theirs, you have to let it be theirs. Council, give advice, provide context, but ultimately sponsorship includes letting them take an approach that you wouldn’t. It might end up going poorly, and they’ll learn from that -- just like you’ve learned from your mistakes over your career. It might end up going very well, and then you’ll learn something instead.
+Importantly, when the work becomes theirs, you have to let it be theirs. Councel, give advice, provide context, but ultimately sponsorship includes letting them take an approach that you wouldn’t. It might end up going poorly, and they’ll learn from that -- just like you’ve learned from your mistakes over your career. It might end up going very well, and then you’ll learn something instead.
 
 While sponsorship should become your default approach to problems, it shouldn’t be your only tool. Most Staff-plus engineers find it’s important to remain directly involved in some projects to retain their context of how their software, tooling, and organization work in practice. If you need a rule of thumb, keep a sponsorship journal and ensure you’re sponsoring others at least a few times a month -- if you find yourself sponsoring less frequently than that, dig into what’s stopping you.
 

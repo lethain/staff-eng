@@ -25,7 +25,7 @@ To get good at this, you need to master three approaches: listen through questio
 
 **Listening through questions** is a form of active listening with the goal of understanding the rest of the room's perspectives. The act of asking good questions with good intent opens up a conversation, creating space and safety for others to ask their own questions. Good questions are asked with the desire to learn, and they are specific. They sharpen the conversation. They free the answerer from the obligation to defend their position. In a potentially contentious meeting, ask three good questions before you share your perspective, and you'll see the room shift around you.
 
-Good meetings start from a clear purpose and agenda, but many meetings don't meet that definition of a good meeting, particularly ad-hoc discussions. If you ever find yourself in a conversation with an unclear goal, then **define the purpose**. Take a moment to ask if your understanding of what the group hopes to accomplish is correct. This works best as a statement wrapped in a clarifying question along the lines of, "Just to check, our goal here is to decide whether to postpone launching the project by two weeks?"
+Good meetings start from a clear purpose and agenda, but many meetings don't meet that definition, particularly ad-hoc discussions. If you ever find yourself in a conversation with an unclear goal, then **define the purpose**. Take a moment to ask if your understanding of what the group hopes to accomplish is correct. This works best as a statement wrapped in a clarifying question along the lines of, "Just to check, our goal here is to decide whether to postpone launching the project by two weeks?"
 
 Note that defining the purpose can be disruptive if it's used too frequently. Rather than helping to clarify the conversation, in that case, it creates conversational churn. For the most part, try to avoid using it if someone else has already made an attempt. Meetings with multiple failed reframings almost always end with scheduling another meeting.
 
@@ -36,7 +36,7 @@ Finally, in each meeting, you have to **read the room**. Oftentimes folks get fr
 
 If these behaviors don't come naturally to you, that's okay; the opportunity to practice is all around. Every comment on a document is an opportunity. Every meeting is an opportunity. Every pull request is an opportunity.
 
-Start each week by picking one of these skills you want to explicitly use in the meetings you head into. If you have a particularly difficult meeting come up, spend some time practicing in your head or with a peer on how you might use these approaches to facilitate forward progress despite the challenges.
+Start each week by picking one of these skills you want to explicitly use in the meetings you head into. If you have a particularly difficult meeting come up, spend some time practicing in your head or with a peer how you might use these approaches to facilitate forward progress despite the challenges.
 
 
 ## Jerks

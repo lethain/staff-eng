@@ -38,9 +38,9 @@ Few focus on managing your career beyond the Senior title,
 which is where this chapter focuses:
 
 
-*   Your **[promotion packet](https://staffeng.com/guides/promo-packets)** is your foundational tool to demystify the Staff promotion, prioritize the right personal development to ensure you get there and activate your internal sponsors and network in support of your progression.
-*   There is a widespread belief that moving into a Staff-plus role requires successfully completing a **[Staff project](https://staffeng.com/guides/staff-projects)**. This section discusses the reality that most Staff Engineers _do not_ have a Staff project but also describes how to approach one if you're at a company that does require them.
-*   A frequent complaint from engineers is that they're not "in the room" where decisions happen, and they're usually right: there is a room, and they're not in it. What's less frequently acknowledged is that you're probably not in the room for a good reason. This section describes **[how to get into the room, and also how to stay there](https://staffeng.com/guides/getting-in-the-room)**.
+*   Your **[promotion packet](https://staffeng.com/guides/promo-packets)** is your foundational tool to demystify the Staff promotion, prioritize the right personal development to ensure you get there and activate your internal sponsors and network in support of your progression
+*   There is a widespread belief that moving into a Staff-plus role requires successfully completing a **[Staff project](https://staffeng.com/guides/staff-projects)**. This section discusses the reality that most Staff Engineers _do not_ have a Staff project but also describes how to approach one if you're at a company that does require them
+*   A frequent complaint from engineers is that they're not "in the room" where decisions happen, and they're usually right: there is a room, and they're not in it. What's less frequently acknowledged is that you're probably not in the room for a good reason. This section describes **[how to get into the room, and also how to stay there](https://staffeng.com/guides/getting-in-the-room)**
 *   Finally, you won't get promoted if your company's leadership doesn't know who you are. How do you **[become visible internally](https://staffeng.com/guides/being-visible)** without hogging all the oxygen?
 
 Apply these techniques consistently, and you'll be on the way towards a Staff title, although even the best-laid plans falter [if you're conducting them at the wrong company](https://staffeng.com/guides/deciding-to-switch).
@@ -103,6 +103,6 @@ people management is bigger than simply maximizing your trajectory to a Staff En
 
 As a final caveat, Staff-plus titles are leadership positions. It's uniquely challenging to gain a leadership position if the existing leadership team doesn't identify with you as a potential member. What that means is, unfortunately, folks with the privilege of _seeming_ _like_ they are already part of the existing leadership team have a much easier time making the transition.
 
-If you read through this chapter and become increasingly frustrated that you're _already_ doing everything here, then it's possible that you're experiencing that structural disadvantage. Roughly half the women I spoke with had to change companies to attain the Staff title, whereas promotion friction generally didn't come up as a topic during discussions with other folks.
+If you read through this chapter and become increasingly frustrated that you're _already_ doing everything here, then it's possible that you're experiencing that structural disadvantage. Roughly half the women I spoke with had to change companies to attain the Staff title, whereas promotion friction come up less frequently during discussions with men.
 
-Don't ignore those experiences--they're real and many folks feel stymied by them--by also take hope that there are many successful role models out there regardless of how you identify and how you want to plot your course towards Staff Engineer.
+Don't ignore those experiences--they're real and many folks feel stymied by them--but also take hope that there are many successful role models out there regardless of how you identify and how you want to plot your course towards Staff Engineer.

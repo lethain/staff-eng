@@ -141,7 +141,7 @@ I played basketball as a kid and during my teens and I realized early on it felt
 
 **_There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
 
-I did not. Because of how I grew at Auth0 I kind of "skipped that part". As a Director at a startup, I got the opportunity to technically lead a lot of big, critical initiatives, but there was no specific/explicit "staff/principal project".
+I did not. Because of how I grew at Auth0 I kind of "skipped that part". As a Director at a startup, I got the opportunity to technically lead a lot of big, critical initiatives, but there was no specific/explicit "staff/principal project."
 
 I think implicitly the closest thing to a "Staff Project" was the work I led in 2017 & 2018 to increase the reliability and scalability of Auth0, leading some projects to offer higher SLAs for a subset of our key customers.
 

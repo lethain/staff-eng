@@ -5,7 +5,7 @@ date: "2020-09-03"
 kind: "guide"
 ---
 
-As I talk to more and more Staff-plus engineers about career advice, the most consistent recommendation was to develop a personal network of peers doing similar work. Not _every_ person emphasized this approach, but more than half mentioned it, and for those who did, it tended to be their first and strongest recommendation.
+As I talked to more and more Staff-plus engineers about career advice, the most consistent recommendation was to develop a personal network of peers doing similar work. Not _every_ person emphasized this approach, but more than half mentioned it, and for those who did, it tended to be their first and strongest recommendation.
 
 [Ritu Vincent](https://staffeng.com/stories/ritu-vincent) said,
 
@@ -43,7 +43,7 @@ Rather than focusing on public speaking and writing, [Katie Sylor-Miller](https:
 
 > Networking, networking, networking, networking… You have to be really cognizant of who you're talking to and make sure that you have connections across multiple teams and multiple groups to leverage those networks.
 
-Although it's easy to think of networking as something that only happens externally, it's often easier to do at the company you're already in, happening semi-organically and semi-deliberately over the course of your work. This approach has the added advantage of directly improving your day-to-day work as well. Longer-term, those folks will eventually leave and spread across the industry, bootstrapping your broader network. This works _really_ well when you're at a decently large or prestigious company and is a bit less effective as your current company gets smaller or less prestigious.
+Although it's easy to think of networking as something that only happens externally, it's often easier to do at the company you're already in, where it happens semi-organically and semi-deliberately over the course of your work. This approach has the added advantage of directly improving your day-to-day work as well. Longer-term, those folks will eventually leave and spread across the industry, bootstrapping your broader network. This works _really_ well when you're at a decently large or prestigious company and is a bit less effective as your current company gets smaller or less prestigious.
 
 
 ## Ambient networks
@@ -52,13 +52,13 @@ Among the folks who didn't mention developing a personal network, most mentioned
 
 [Diana Pojar](https://staffeng.com/stories/diana-pojar)’s comment was
 
-> I use Twitter extensively, but I'm mostly a consumer and follow many people in tech. I usually follow people that I saw talking at conferences, or I worked with, and I find their content relevant to me. Here’s a couple, in no specific order: [Camille Fournier](https://twitter.com/skamille),[Lara Hogan](https://twitter.com/lara_hogan), [Josh Wills](https://twitter.com/josh_wills), [Vicki Boykis](https://twitter.com/vboykis), [David Gasca](https://twitter.com/gasca), [Julia Grace](https://twitter.com/jewelia), [Holden Karau](https://twitter.com/holdenkarau), [John Allspaw](https://twitter.com/allspaw), [Charity Majors](https://twitter.com/mipsytipsy), [Theo Schlossnagle](https://twitter.com/postwait), [Jessica Joy Kerr](https://twitter.com/jessitron), [Sarah Catanzaro](https://twitter.com/sarahcat21), [Orange Book](https://twitter.com/orangebook_).
+> I use Twitter extensively, but I'm mostly a consumer and follow many people in tech. I usually follow people that I saw talking at conferences, or I worked with, and I find their content relevant to me. Here’s a couple, in no specific order: [Camille Fournier](https://twitter.com/skamille), [Lara Hogan](https://twitter.com/lara_hogan), [Josh Wills](https://twitter.com/josh_wills), [Vicki Boykis](https://twitter.com/vboykis), [David Gasca](https://twitter.com/gasca), [Julia Grace](https://twitter.com/jewelia), [Holden Karau](https://twitter.com/holdenkarau), [John Allspaw](https://twitter.com/allspaw), [Charity Majors](https://twitter.com/mipsytipsy), [Theo Schlossnagle](https://twitter.com/postwait), [Jessica Joy Kerr](https://twitter.com/jessitron), [Sarah Catanzaro](https://twitter.com/sarahcat21), [Orange Book](https://twitter.com/orangebook_).
 
 [Damian Schenkelman](https://staffeng.com/stories/damian-schenkelman) mentioned,
 
 > I try to follow people on Twitter who I think are doing interesting things and from who I can learn. There are so many people doing interesting things and so much to learn! Some of the names that come to mind: [including [Aphyr](https://twitter.com/aphyr), [Tanya Reilly](https://twitter.com/whereistanya), and [David Fowler](https://twitter.com/davidfowl)].
 
-If the idea of building a network this way feels uncomfortable, then building an ambient network can be a good starting step in the right direction. That said, you'll find the personal network more impactful, and finding an authentic way to build one is an important step towards reaching and remaining impactful in senior roles over the long arch of your career.
+If the idea of building a network this way feels uncomfortable then building an ambient network can be a good starting step in the right direction. That said, you'll find the personal network more impactful, and finding an authentic way to build one is an important step towards reaching and remaining impactful in senior roles over the long arch of your career.
 
 
 ## Quality over quantity
