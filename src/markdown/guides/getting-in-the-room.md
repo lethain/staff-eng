@@ -5,7 +5,7 @@ date: "2020-06-21"
 kind: "guide"
 ---
 
-One of the most common frustrations I've heard from engineers is that they're not in the room where important decisions are being made. They don't understand the company decisions and have important context that seems to be missing or ignored. Staff-plus engineers frequently cite access to "the room" as a major benefit of their level, and titles do increase the likelihood that you'll be involved in decisions that impact you.
+One of the most common frustrations I've heard from engineers is that they're not in the room where important decisions are being made. They don't understand the company's decisions and have important context that seems to be missing or ignored. Staff-plus engineers frequently cite access to "the room" as a major benefit of their level, and titles do increase the likelihood that you'll be involved in decisions that impact you.
 
 However, it's important to remember there's no single "room" to enter. Getting into the right room isn't a one-time challenge to be faced.  Entering rooms will be an ongoing, iterative career challenge. That means it's worth getting good at!
 
@@ -32,7 +32,7 @@ On the other side of things, sometimes the easiest way to increase your value to
 *   **Optimize for the group.** One of Stripe's old operating principles was "Optimize for Stripe," and that mentality of optimizing widely for others builds trust and confidence in your judgment.
 *   **Speak clearly and concisely.** Learn to speak concisely: as you develop an economy of speech, you'll be able to contribute more ideas with less time. Learn to speak clearly: if folks don't understand your proposal, then it doesn't matter how good it is. Keep in mind that it's your obligation to be understood, not the obligation of everyone else to understand you.
 *   **Be low friction.** It's easy to fall into the trap of viewing each discussion as the last opportunity to stop an impending disaster. With that mindset, each discussion is a near-emergency, and emotions run high. Those sorts of discussions usually spend their time draining frustration rather than making forward progress. If you're known as someone who can navigate difficult conversations effectively, you're much more likely to be involved.
-*   **Come prepared.** Some companies infantilize their engineers, accepting that even very senior engineers won't read the agenda, do the pre-reads or prepare for the discussion. There's a considerable gap between what's tolerated and what's rewarded, and you'll stand out if you take the time to organize your thoughts before each meeting. Equally more important is following up on what you committed to.
+*   **Come prepared.** Some companies infantilize their engineers, accepting that even very senior engineers won't read the agenda, do the pre-reads or prepare for the discussion. There's a considerable gap between what's tolerated and what's rewarded, and you'll stand out if you take the time to organize your thoughts before each meeting. Equally important is following up on what you committed to.
 * **Focus and be present.** 
     Once you've entered the room, be sure to show up and engage.
     Be attentive and engaged. Whatever else you want to be doing, it will wait.
@@ -56,7 +56,7 @@ There are a few patterns that will consistently get you kicked out of the room:
 *   **Embarrassing your sponsor.** Remember that you got into a room because someone in the room advocated for your inclusion.
 *   **Being flakey or not showing up regularly.** There are only so many slots, and the person running the meeting will prioritize them on people who show up.
 
-That said, I think it's easy to get caught up worrying too much about staying in the room. Sometimes you're better thinking about whether the room's a valuable place to invest your time.
+That said, I think it's easy to get caught up worrying too much about staying in the room. Sometimes you're better off thinking about whether the room's a valuable place to invest your time.
 
 
 ## Exiting the room

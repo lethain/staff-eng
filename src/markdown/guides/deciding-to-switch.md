@@ -30,18 +30,18 @@ Before going further, I want to recognize two very different job-switching exper
 
 ## Why leaving works
 
-The company that knows your strengths the best is your current company, and they are the company most likely to give you a Staff-plus role. However, actually awarding the role depends on so many circumstantial concerns that this isn’t how it works out in practice.
+The company that knows your strengths the best is your current company, and they are the company most likely to give you a Staff-plus role. However, actually awarding the role depends on so many circumstantial factors that this isn’t how it works out in practice.
 
-If your current team is very senior, it may be hard to justify your impact at the Staff engineer level because it’s being attributed to your peers. Your manager might have a limited budget that doesn’t have room for another Staff engineer. You might lack an internal sponsor. There simply might not be the need for an additional Staff engineer at your company. Any of these can mean that while you ought to be promoted, your current company won’t.
+If your current team is very senior, it may be hard to justify your impact at the Staff engineer level because it’s being attributed to your peers. Your manager might have a limited budget that doesn’t have room for another Staff engineer. You might lack an internal sponsor. There simply might not be the need for an additional Staff engineer at your company. Any of these can mean that while you ought to be promoted, you won't be at your current company.
 
 Conversely, when you interview for new roles, you can keep interviewing until you find a company that’s able to grant the title.
 You can also deliberately choose to interview at earlier stage companies who are likely to
 value your experience more highly.
 The interview process also brings an automatic sponsor with it--the hiring manager--whose incentives will never be more aligned with yours than in the interview process.
 
-The technical interviews are an inconsistent and unreliable predictor of success, which is bad for the industry and bad for companies, but works in your favor if you’re set on attaining a Staff-plus role and are willing to conduct a broad search. Interviewing creates the opportunity to play “bias arbitrage,” finding a company that values your particular brand of bullshit disproportionately. That might be a company that values folks with conference speaking visibility, your experience designing APIs, or [your Ph.D. thesis on compilers](https://staffeng.com/stories/dmitry-petrashko).
+Technical interviews are an inconsistent and unreliable predictor of success, which is bad for the industry and bad for companies, but works in your favor if you’re set on attaining a Staff-plus role and are willing to conduct a broad search. Interviewing creates the opportunity to play “bias arbitrage,” finding a company that disproportionately values *you*. That might be a company that values folks with conference speaking visibility, your experience designing APIs, or [your Ph.D. thesis on compilers](https://staffeng.com/stories/dmitry-petrashko).
 
-Similarly, sometimes you’ll get into a rut at a company where your reputation is preventing forward progress. Perhaps you’ve tagged “difficult” after flagging inclusion issues. Maybe you embarrassed an influential Director at lunch, and they’re blocking your promotion. A new company lets you leave that baggage behind.
+Similarly, sometimes you’ll get into a rut at a company where your reputation is preventing forward progress. Perhaps you’re tagged as “difficult” after flagging inclusion issues. Maybe you embarrassed an influential Director at lunch, and they’re blocking your promotion. A new company lets you leave that baggage behind.
 
 ----
 
@@ -53,7 +53,7 @@ If you have a bad run at a company, maybe your manager was a bully, or maybe you
 
 If you’re planning to leave due to a lack of interest, excitement, support, or opportunity, it’s worthwhile to at least explore the internal waters first. This lets you carry your internal network with you while still getting many of the advantages of switching companies. Depending on your company’s size and growth rate, this might not be an option for you, but there are some folks who switch roles every two-to-three years within the same parent company and find that an effective way to remain engaged and learning.
 
-On the other hand, if you’re considering leaving due to burnout or exhaustion, it’s sometimes possible to negotiate a paid or unpaid sabbatical where you can take a few months recharging yourself, often in conjunction with switching internal roles. This is more common at larger companies. (In case you were wondering, no, your coworkers taking parental leave is not “on sabbatical” or “on vacation.”)
+On the other hand, if you’re considering leaving due to burnout or exhaustion, it’s sometimes possible to negotiate a paid or unpaid sabbatical where you can take a few months recharging yourself, often in conjunction with switching internal roles. This is more common at larger companies. (In case you were wondering, no, your coworkers taking parental leave are not “on sabbatical” or “on vacation.”)
 
 ## Leaving without a job
 
@@ -64,7 +64,7 @@ Speaking of burnout, if you’re _particularly_ burned out, it’s worth conside
 *   Do you work in a high-density job market remotely, or are you flexible on where your next job is?
 *   Do you interview well?
 *   Could you articulate a coherent narrative to someone asking you why you left without a job lined up?
-*   Are there folks at your previous company who can provide positive references?
+*   Are there folks who can provide positive references on your work?
 
 If all of those are true, I don’t know anyone who _regrets_ taking a sabbatical. However, bear in mind that it’s only the folks who took six-month-plus sabbaticals
 who felt reborn by the experience. Folks taking shorter stints have appreciated them but often come back only partially restored.
@@ -76,6 +76,6 @@ Even if you don't share what you've written, it'll help process the experiences.
 
 If you’re almost at the Staff promotion in your current company, there is absolutely another company out there that will give you the Staff title. Whether or not you’ll enjoy working there or be supported after getting there, that’s a lot harder to predetermine. If your internal reputation is damaged or if you’ve been repeatedly on the cusp of promotion but a victim to a moving criteria line, then you should seriously consider switching roles if the title is important to you. At some point, you have to hear what your current company is telling you.
 
-Conversely, if you’re happy in your current role outside of the title, consider if you can be more intentional about pursuing your promotion rather than leaving. Many folks hit a rut in their promotion path to Staff-plus, and using techniques like the [promotion packet](https://staffeng.com/guides/promo-packets) can help you get unstuck. If you’ve used all the approaches, taken your self-development seriously, and still can’t get there--it’s probably time to change.
+Conversely, if you’re happy in your current role outside of the title, consider if you can be more intentional about pursuing your promotion rather than leaving. Many folks hit a rut in their promotion path to Staff-plus, and using techniques like the [promotion packet](https://staffeng.com/guides/promo-packets) can help you get unstuck. If you’ve used all the approaches, taken your self-development seriously, and still can’t get there--it’s probably time to leave.
 
 That said, it’s easy to overthink these things. Few folks tell their decade-past story of staying at or leaving some job.

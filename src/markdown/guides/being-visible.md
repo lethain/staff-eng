@@ -31,7 +31,7 @@ If you're operating without much visibility within your company, this may likely
 
 ---
 
-It's interesting to briefly reflect on how inclusive organizations mitigate the negative gatekeeping aspects of validating folks as appropriate additions to your leadership team. The answer is that they design mechanisms to ensure the _full_ swath of potential leaders get exposure to the folks who will evaluate them for leadership roles. Conversely, less inclusive organizations inadvertently center access on folks who most aggressively self-advertise.
+It's interesting to briefly reflect on how inclusive organizations mitigate the negative gatekeeping aspects of validating folks as appropriate additions to their leadership team. The answer is that they design mechanisms to ensure the _full_ swath of potential leaders get exposure to the folks who will evaluate them for leadership roles. Conversely, less inclusive organizations inadvertently center access on folks who most aggressively self-advertise.
 
 ## Internal visibility
 
@@ -39,15 +39,15 @@ The single best way to create internal visibility is to [work on the things that
 
 Sometimes that isn't enough, though, and some other strategies are:
 
-*   Write and distribute more long-lived documents, like architecture docs or technical specifications.
-*   Lead (and, to a lesser extent, participate in) company forums like architecture reviews, company all hands, and learning circles.
-*   Be a cheerleader for your team's and peers' work on Slack.
-*   You can also cheerlead via email instead of Slack.
-*   [Share weekly notes](https://lethain.com/weekly-updates/) of your work to your team and stakeholders in a way that other folks can get access to your notes if they're interested.
-*   Contribute to your company's blog.
-*   Attend, or potentially even host, office hours for your team or org.
+*   Write and distribute more long-lived documents, like architecture docs or technical specification
+*   Lead (and, to a lesser extent, participate in) company forums like architecture reviews, company all hands, and learning circles
+*   Be a cheerleader for your team's and peers' work on Slack
+*   You can also cheerlead via email instead of Slack
+*   [Share weekly notes](https://lethain.com/weekly-updates/) of your work to your team and stakeholders in a way that other folks can get access to your notes if they're interested
+*   Contribute to your company's blog
+*   Attend, or potentially even host, office hours for your team or org
 
-Find the right mix of activities that leverage your strengths, aren't already overburdened with volume, and feel authentic to you. If you've never done much communication of your work, it may feel awkward to self-promote your work. You never want to wholly lose that sense of awkwardness--restraint helps--but you will have to get comfortable with some of it.
+Find the right mix of activities that leverage your strengths, aren't already overburdened with volume, and feel authentic to you. If you've never communicated about your work, it may feel awkward to self-promote. You never want to wholly lose that sense of awkwardness--restraint helps--but you will have to get comfortable with some of it.
 
 ## Executive visibility
 

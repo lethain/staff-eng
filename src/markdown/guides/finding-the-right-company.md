@@ -11,7 +11,7 @@ There are only a few magic spells to attain a Staff-plus role: negotiate for the
 The good news is you’re applying to a new company is that while you might invest _weeks_ of energy into determining if you can get a Staff role there, you won’t need to invest _years_. On the other hand, if you’re looking for a company to join and grow within, you’re embarking on a years-long journey into an unknown organization. This is a daunting decision to make, and picking the right company for _you_ will have a considerable impact on whether you attain a Staff-plus role.
 
 
-## Disproportionately values you
+## Find a place that disproportionately values you
 
 If career velocity is your aim, then join a company that, for whatever reason, disproportionately values what you’re good at. For example, Fastly valued [Keavy’s API design experience](https://staffeng.com/stories/keavy-mcminn), and Stripe valued [Dmitry’s work on compilers](https://staffeng.com/stories/dmitry-petrashko). If there’s a gap matching your particular shape that’s limiting their success, your impact on the company will be uniquely high.
 
@@ -20,7 +20,7 @@ Well, run organizations value you for what you’re good at. Less well run compa
 
 ## Meritocrats and Proceduralists
 
-When you’re trying to identify your company to make the Staff transition to, there are a number of company values to consider in your decision. One that’s particularly important is understanding if the company’s leadership fundamentally subscribes to an exception-heavy “meritocratic” view of the world or a consistency-heavy “proceduralist” view. Few companies exist exclusively at one end of this continuum, but most slant heavily in one direction.
+When you’re trying to identify a company to make the Staff transition to, there are a number of company values to consider in your decision. One that’s particularly important is understanding if the company’s leadership fundamentally subscribes to an exception-heavy “meritocratic” view of the world or a consistency-heavy “proceduralist” view. Few companies exist exclusively at one end of this continuum, but most slant heavily in one direction.
 
 Of course, folks won’t describe themselves in these terms. The first style would have called themselves a meritocracy a few years ago. Now that the term has fallen out of favor, they’d avoid it, but their core beliefs remain intact. This style is particularly common in Silicon Valley, is heavily exception driven, and consolidates its efforts feting a small cadre of treasured individuals. Generally, in these companies, you’re going to be very successful if you pattern match with whatever they believe high potential looks like. You’re likely in for a rough ride if you don’t.
 
@@ -35,9 +35,9 @@ Some ways to explore during your interview process to help distinguish these min
 *   Companies with rigid compensation bands and who _actually stick to them_ tend to be run by Proceduralists. Those that willingly eschew their bands are Meritocrats.
 *   Companies that create one-off roles for individuals to get them on board tend to be run by Meritocrats. Those that hire to their planned roles are Proceduralists.
 *   Companies with ad-hoc or unstructured interview processes looking to get your “feel,” particularly for senior roles, tend to be run by Meritocrats. More structure means Proceduralists.
-*   Companies that perform ad-hoc conjurations of new, rubric-less interviews tend to be run by Meritocrats. Those that evaluate you rigidly, even if it doesn’t let you shine, tend to be Proceduralists.
+*   Companies that perform ad-hoc conjurations of new, rubric-less interviews tend to be run by Meritocrats. Those that evaluate you rigidly, even if they don't let you shine, tend to be Proceduralists.
 
-Neither meritocratic nor proceduralist companies have inherently better odds of propelling you into a Staff-plus role. Rather it’ll depend on your identity and the identities of folks in a company’s leadership roles. Depending on how those pieces align, you can estimate the level of support and friction you’ll encounter pursuing a Staff-plus role.
+Neither Meritocratic nor Proceduralist companies have inherently better odds of propelling you into a Staff-plus role. Rather it’ll depend on your identity and the identities of folks in a company’s leadership roles. Depending on how those pieces align, you can estimate the level of support and friction you’ll encounter pursuing a Staff-plus role.
 
 
 ## Archetypes
@@ -69,7 +69,7 @@ This is also where having [an external presence and network](https://staffeng.co
 
 Particularly if you’re earlier in your career and pursuing a promotion into a Staff role, it’s important to consider the company’s durability: will the company even exist five years from now when you’re hoping your work will culminate in a Staff-plus promotion?
 
-Somewhat more subtly, you also have to consider the longevity of your would-be Staff sponsor. There are some wonderful engineering leaders creating pockets of equitable access to Staff-plus roles, but all too often, these turn into a [Values Oasis](https://lethain.com/values-oasis/) that can’t sustain itself once the sponsoring leader departs the company or changes roles.
+Somewhat more subtly, you also have to consider the longevity of your would-be Staff sponsor. There are some wonderful engineering leaders creating pockets of equitable access to Staff-plus roles, but those pockets can quickly turn into a [Values Oasis](https://lethain.com/values-oasis/) that can’t sustain itself once the sponsoring leader departs the company or changes roles.
 
 Derisk durability by ensuring you join companies with business models that actually work and work for leaders who are values-aligned with their organization’s senior-most leadership (that way, even if they leave, you’re still aligned with potential sponsors).
 
@@ -81,6 +81,6 @@ Throughout a [forty-year career](https://lethain.com/forty-year-career/), there 
 
 ## And everything else, too
 
-Job searches for leadership roles are much slower than the typical software search, taking months rather than weeks, and it’s trying to rush it rarely works out. As you evaluate whether a company might be an effective place to reach a Staff-plus role, you also have to assess it on everything else that you’d look into in a typical process.
+Job searches for leadership roles are much slower than the typical software search, taking months rather than weeks, and trying to rush it rarely works out. As you evaluate whether a company might be an effective place to reach a Staff-plus role, you also have to assess it on everything else that you’d look into in a typical process.
 
 Dig into your whisper network for toxic issues and individuals. Make sure the mission is something you can stay supportive of and engaged with for years. Search for the folks you’ll be able to learn from during your work. If you find that these Staff criteria are pulling you towards a company that you otherwise have concerns about, the good money is that you’ll regret that decision.
