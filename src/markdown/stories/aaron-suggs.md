@@ -41,7 +41,7 @@ Here are some important factors for me when switching between manager and IC rol
 
 "Replace indignation with curiosity."
 
-Several years ago, I was complaining to my manager about how another team was cutting corners and causing problems for my team. When I finished, he gave me that advice.  I hadn't been curious about why the other team was acting that way. It turned out they had constraints that made their behavior quite reasonable. By approaching them with curiosity and a helpful mindset (instead of frustration), we quickly found a process that improved both our workflows.
+Several years ago, I was telling my manager about another team behaving in a way that caused problems for my team. When I finished, he gave me that advice.  I hadn't been curious about why the other team was acting that way. It turned out they had constraints that made their behavior quite reasonable. By approaching them with curiosity and a helpful mindset (instead of frustration), we quickly found a process that improved both our workflows.
 
 More recently, while struggling with burnout, a career coach asked me, "What would let you approach each day with energy and optimism?"
 
