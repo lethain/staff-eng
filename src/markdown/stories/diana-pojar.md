@@ -7,10 +7,7 @@ kind: "story"
 role: "Staff Data Engineer at Slack"
 ---
 
-<span class="date">April, 2020</span>
-[blog](https://diana.dev/),
-[twitter](https://twitter.com/podiana),
-[linkedin](https://www.linkedin.com/in/dianapojar/)
+_This story was recorded in April, 2020. Learn more about Diana on her [blog](https://diana.dev/), [Twitter](https://twitter.com/podiana), and [Linkedin](https://www.linkedin.com/in/dianapojar/)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 

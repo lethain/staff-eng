@@ -6,10 +6,8 @@ slug: "/stories/damian-schenkelman"
 date: "2020-08-10"
 kind: "story"
 ---
-<span class="date">August, 2020</span>
-[blog](https://yenkel.dev),
-[twitter](https://twitter.com/dschenkelman),
-[linkedin](https://www.linkedin.com/in/damianschenkelman/)
+
+_Story recorded in August, 2020. Learn more about Damian on his [blog](https://yenkel.dev), [Twitter](https://twitter.com/dschenkelman), and [Linkedin](https://www.linkedin.com/in/damianschenkelman/)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 

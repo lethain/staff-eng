@@ -7,10 +7,7 @@ kind: "story"
 role: "Senior Staff Engineer at Slack"
 ---
 
-<span class="date">May, 2020</span>
-[blog](https://bert.org),
-[twitter](https://twitter.com/bertrandom),
-[linkedin](https://www.linkedin.com/in/bertrandom/)
+_This story was recorded in May, 2020. Learn more about Bert on his [blog](https://bert.org), [Twitter](https://twitter.com/bertrandom), and [Linkedin](https://www.linkedin.com/in/bertrandom/)._
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
 

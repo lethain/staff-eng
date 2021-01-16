@@ -7,10 +7,7 @@ kind: "story"
 role: "Senior Staff Software Engineer at Split"
 ---
 
-<span class="date">March, 2020</span>
-[blog](https://medium.com/@jkebertz),
-[twitter](https://twitter.com/jkebertz),
-[linkedin](https://www.linkedin.com/in/joyebertz/)
+_Story recorded in March, 2020. Learn more about Joy on her [blog](https://medium.com/@jkebertz), [Twitter](https://twitter.com/jkebertz), and [Linkedin](https://www.linkedin.com/in/joyebertz/)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 

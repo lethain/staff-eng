@@ -7,10 +7,8 @@ kind: "story"
 role: "Technical Advisor to the Head of Infrastructure at Stripe"
 ---
 
-<span class="date">May, 2020</span>
-[presentations](https://d-d.me/site/presentations/),
-[twitter](https://twitter.com/darkdimius),
-[linkedin](https://www.linkedin.com/in/darkdimius/)
+_This story was recorded in May, 2020. Learn more about Dmitry on [Twitter](https://twitter.com/darkdimius) or [Linkedin](https://www.linkedin.com/in/darkdimius/), and reading his [presentations](https://d-d.me/site/presentations/)._
+
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 

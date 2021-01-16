@@ -7,8 +7,7 @@ kind: "story"
 role: "Staff Engineer at Dropbox"
 ---
 
-<span class="date">March, 2020</span>
-[linkedin](https://www.linkedin.com/in/rituvincent/)
+_This story was recorded in March, 2020. Learn more about Ritu on her [Linkedin](https://www.linkedin.com/in/rituvincent/)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 

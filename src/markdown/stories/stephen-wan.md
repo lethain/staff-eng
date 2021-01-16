@@ -7,10 +7,7 @@ date: "2020-09-20"
 kind: "story"
 ---
 
-<span class="date">September, 2020</span>
-[github](https://github.com/stephen),
-[twitter](https://twitter.com/stpnwn),
-[linkedin](https://www.linkedin.com/in/stephenwan/)
+_This story was recorded in September, 2020. Learn more about Stephen on his [Github](https://github.com/stephen), [Twitter](https://twitter.com/stpnwn), and [Linkedin](https://www.linkedin.com/in/stephenwan/)._
 
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___

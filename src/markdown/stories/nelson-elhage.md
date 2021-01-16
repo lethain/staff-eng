@@ -7,10 +7,7 @@ kind: "story"
 role: "Formerly Staff Engineer at Stripe"
 ---
 
-
-<span class="date">April, 2020</span>
-[twitter](https://twitter.com/nelhage),
-[blog](https://blog.nelhage.com/)
+_This story was recorded in April, 2020. Learn more about Nelson on his [Twitter](https://twitter.com/nelhage) and [blog](https://blog.nelhage.com/)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 

@@ -7,10 +7,7 @@ kind: "story"
 role: "Staff Engineer and Team Lead at Squarespace"
 ---
 
-<span class="date">March, 2020</span>
-[blog](https://blog.danielna.com/),
-[twitter](https://twitter.com/dxna),
-[linkedin](https://www.linkedin.com/in/danielna/)
+_Story recorded in March, 2020. Learn more about Dan on his [blog](https://blog.danielna.com/), [Twitter](https://twitter.com/dxna), and [Linkedin](https://www.linkedin.com/in/danielna/)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 

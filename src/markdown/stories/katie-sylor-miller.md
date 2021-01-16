@@ -7,10 +7,7 @@ date: "2020-08-09"
 kind: "story"
 ---
 
-<span class="date">August, 2020</span>
-[website](https://sylormiller.com/),
-[linkedin](https://www.linkedin.com/in/ksylor/),
-[twitter](https://twitter.com/ksylor)
+_This story was recorded in August, 2020. Learn more about Katie on her [website](https://sylormiller.com/), [Linkedin](https://www.linkedin.com/in/ksylor/), and [Twitter](https://twitter.com/ksylor)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 
