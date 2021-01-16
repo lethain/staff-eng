@@ -22,6 +22,8 @@ First, a discussion on a few common ways to get tripped up: _snacking_, _preenin
 
 ## Avoid snacking
 
+![Quadrants of high and low impact by high and low effort.](/snacking.png)
+
 Hunter Walk recommends that folks [avoid "snacking"](https://hunterwalk.com/2016/06/18/the-best-startups-resists-snacks-im-not-talking-about-food/) when they prioritize work. If you're in a well-run organization, at some point, you're going to run out of things that are both high-impact and easy. This leaves you with a choice between shifting right to hard and high-impact or shifting down to easy and low-impact. The latter choice--easy and low-impact--is what Walk refers to as _snacking_.
 
 When you're busy, these snacks give a sense of accomplishment that makes them psychologically rewarding. Still, you're unlikely to learn much from doing them, others are likely equally capable of completing them (_and_ for some of them, it might be a good development opportunity), and there's a tremendous opportunity cost versus doing something higher impact.
