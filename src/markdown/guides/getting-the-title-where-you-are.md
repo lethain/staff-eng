@@ -20,10 +20,10 @@ of diluting their prestige.
 In other cases, organizations may be wary of having multiple Staff engineers on a single team
 due to team health or budgetary concerns.
 However, I think the strongest source of friction is that
-the nature of the job changes. A Staff Engineer isn't a better Senior Engineer,
+the nature of the job changes. A Staff engineer isn't a better Senior engineer,
 but someone who's moved into fulfilling one of the [Staff archetypes](https://staffeng.com/guides/staff-archetypes).
 
-Even after you've developed the prerequisite skills to become a Staff Engineer, there will still be one last hurdle: getting your company to grant you the Staff title. For some, this process is a relative non-event, perhaps taking one or two cycles longer than anticipated but ultimately succeeding, and for others, it may not happen at all at their current company. About two-thirds of the Staff Engineers I surveyed attained their title as a promotion at the company they were already working at, and the remaining third changed companies to attain the title.
+Even after you've developed the prerequisite skills to become a Staff engineer, there will still be one last hurdle: getting your company to grant you the Staff title. For some, this process is a relative non-event, perhaps taking one or two cycles longer than anticipated but ultimately succeeding, and for others, it may not happen at all at their current company. About two-thirds of the Staff engineers I surveyed attained their title as a promotion at the company they were already working at, and the remaining third changed companies to attain the title.
 
 If pursuing that sort of role _is_ your goal, then take the promotion to your career level as an opportunity to reset your approach to navigating your career. From that point onward, there is no standard path to follow. The promotion and performance system will no longer be designed around attaining a timely promotion and may, at times, take on the feel of gatekeeping.
 
@@ -33,13 +33,13 @@ To go further, _you_ will have to take more deliberate control of your progressi
 
 If you've been relying on your manager to steer your career up to this point, the transition to a self-directed career can feel rather abrupt.
 There are many books about [managing your software career](https://www.learninpublic.org/),
-but most focus from your first job until you reach Senior Engineer.
+but most focus from your first job until you reach Senior engineer.
 Few focus on managing your career beyond the Senior title,
 which is where this chapter focuses:
 
 
 *   Your **[promotion packet](https://staffeng.com/guides/promo-packets)** is your foundational tool to demystify the Staff promotion, prioritize the right personal development to ensure you get there and activate your internal sponsors and network in support of your progression
-*   There is a widespread belief that moving into a Staff-plus role requires successfully completing a **[Staff project](https://staffeng.com/guides/staff-projects)**. This section discusses the reality that most Staff Engineers _do not_ have a Staff project but also describes how to approach one if you're at a company that does require them
+*   There is a widespread belief that moving into a Staff-plus role requires successfully completing a **[Staff project](https://staffeng.com/guides/staff-projects)**. This section discusses the reality that most Staff engineers _do not_ have a Staff project but also describes how to approach one if you're at a company that does require them
 *   A frequent complaint from engineers is that they're not "in the room" where decisions happen, and they're usually right: there is a room, and they're not in it. What's less frequently acknowledged is that you're probably not in the room for a good reason. This section describes **[how to get into the room, and also how to stay there](https://staffeng.com/guides/getting-in-the-room)**
 *   Finally, you won't get promoted if your company's leadership doesn't know who you are. How do you **[become visible internally](https://staffeng.com/guides/being-visible)** without hogging all the oxygen?
 
@@ -97,7 +97,7 @@ Even though Joy hated her management experience, she felt it might have helped h
 > It's possible that if I hadn't taken a meander through management, I would have gotten to Staff sooner. That said, I don't regret doing it, and I learned a lot about how people think, how organizations are run, and how larger projects are prioritized. All of these have continued to help me do my job on the IC track and likely helped me further get promoted to Senior Staff. While I do think it's distinctly possible that it slowed down when I got to Staff, I'm actually less sure for the next level - I think there's a real chance I would have hung out at Staff longer without it. All of this is to say that even though I didn't take the most direct route, I still learned a lot that has helped me out long term.
 
 The final caveat I'd give for someone considering this switch is that
-people management is bigger than simply maximizing your trajectory to a Staff Engineer role. You'll have a profound impact on the folks you support as a manager, and if you take it on with the wrong motivations, you'll regret the experience, but not nearly as much as your team will. If you're motivated to help your team grow and succeed, then go ahead and do it; if you're only doing it for yourself, then don't.
+people management is bigger than simply maximizing your trajectory to a Staff engineer role. You'll have a profound impact on the folks you support as a manager, and if you take it on with the wrong motivations, you'll regret the experience, but not nearly as much as your team will. If you're motivated to help your team grow and succeed, then go ahead and do it; if you're only doing it for yourself, then don't.
 
 ## A semi-permeable boundary
 
@@ -105,4 +105,4 @@ As a final caveat, Staff-plus titles are leadership positions. It's uniquely cha
 
 If you read through this chapter and become increasingly frustrated that you're _already_ doing everything here, then it's possible that you're experiencing that structural disadvantage. Roughly half the women I spoke with had to change companies to attain the Staff title, whereas promotion friction come up less frequently during discussions with men.
 
-Don't ignore those experiences--they're real and many folks feel stymied by them--but also take hope that there are many successful role models out there regardless of how you identify and how you want to plot your course towards Staff Engineer.
+Don't ignore those experiences--they're real and many folks feel stymied by them--but also take hope that there are many successful role models out there regardless of how you identify and how you want to plot your course towards Staff engineer.

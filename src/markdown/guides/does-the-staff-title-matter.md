@@ -6,7 +6,7 @@ kind: "guide"
 ---
 
 
-If you're safely nestled within the comfortable clutches of the Senior Engineer [career level](https://lethain.com/career-levels-and-more/), you might wonder if you ought to pursue the Staff title. It's a considerable investment of time and energy, along with requiring a good amount of luck.
+If you're safely nestled within the comfortable clutches of the Senior engineer [career level](https://lethain.com/career-levels-and-more/), you might wonder if you ought to pursue the Staff title. It's a considerable investment of time and energy, along with requiring a good amount of luck.
 Is that investment worth your time?
 
 The answer is, of course, that it might be! The three consistent advantages that generally come with a Staff-plus title are:
@@ -89,7 +89,7 @@ pass the opportunity on to another engineer who would benefit from it more than 
 
 Even though the title does matter, it's not necessarily the case that you ought to pursue the role. Even if you love the privileges and perks of a Staff-plus title, it's important to recognize that they come on the back of a very different job. [Michelle Bu](https://staffeng.com/stories/michelle-bu) captured this in her advice for folks pursuing the Staff title,
 
-> If you're more focused on hitting Staff than on setting yourself up to do work that energizes you, it's easy to end up stuck in a role you don't want. Being a Staff-plus Engineer, especially a broad-scoped Staff-plus Engineer, is a very different job than being a Senior Engineer. It's important to take a step back and think about whether it's a job you really want.
+> If you're more focused on hitting Staff than on setting yourself up to do work that energizes you, it's easy to end up stuck in a role you don't want. Being a Staff-plus engineer, especially a broad-scoped Staff-plus engineer, is a very different job than being a Senior engineer. It's important to take a step back and think about whether it's a job you really want.
 
 The advantages of senior titles are real, and for some folks, those advantages shift their career from one characterized by survival to one with the necessary prerequisites for their success. However, many folks find that their Staff role's heightened expectations eliminate the work that used to excite them. In your career, there are few choices without consequences, and this isn't one of them.
 

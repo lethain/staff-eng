@@ -28,7 +28,7 @@ Some of these are quite difficult to address, others are easy as long as you kee
 
 ## Signals
 
-The [best interview loops](https://lethain.com/designing-interview-loops/) reason forward from the signals you want to capture back to the interview topics and format, which means the first important question to answer is, "Which signals are important for hiring successful Staff-plus Engineers?"
+The [best interview loops](https://lethain.com/designing-interview-loops/) reason forward from the signals you want to capture back to the interview topics and format, which means the first important question to answer is, "Which signals are important for hiring successful Staff-plus engineers?"
 
 The signals I'd recommend focusing on are:
 

@@ -10,7 +10,7 @@ kind: "guide"
 > \- [Ritu Vincent](/stories/ritu-vincent)
 
 
-As I’ve spoken with more folks trying to reach their first Staff-plus role, most folks run into similar challenges. Many have miscalibrated their own impact and simply haven’t done the work yet to operate at that level: a Staff Engineer isn’t just a faster Senior Engineer. However, there’s a large cohort who have done the work--they’re [visible across their organization](https://staffeng.com/guides/being-visible) and have pulled together [a strong promotion packet](https://staffeng.com/guides/promo-packets)--but are still struggling to have that work recognized.
+As I’ve spoken with more folks trying to reach their first Staff-plus role, most folks run into similar challenges. Many have miscalibrated their own impact and simply haven’t done the work yet to operate at that level: a Staff engineer isn’t just a faster Senior engineer. However, there’s a large cohort who have done the work--they’re [visible across their organization](https://staffeng.com/guides/being-visible) and have pulled together [a strong promotion packet](https://staffeng.com/guides/promo-packets)--but are still struggling to have that work recognized.
 
 These folks are often frustrated by the distance between their impact and their recognized impact and ask their managers and peers for feedback on closing that gap. They’re told [to complete a staff project](https://staffeng.com/guides/staff-projects) or [to create space for others](https://staffeng.com/guides/create-space-for-others). For folks who haven’t done the work yet, this is great advice, but for folks who have these checkboxes are a distraction: what they’re really missing is a sponsor willing to push for the recognition of their existing work.
 
@@ -26,7 +26,7 @@ While you’ll always need your direct manager engaged as your sponsor, you may 
 
 ## Activating your sponsor
 
-The first step of activating your sponsors is explicitly sharing your goals. “I’m looking to be recognized as a Staff Engineer” is a great start. [Ritu Vincent](https://staffeng.com/stories/ritu-vincent) mentioned this as her top advice for folks seeking Staff-plus roles,
+The first step of activating your sponsors is explicitly sharing your goals. “I’m looking to be recognized as a Staff engineer” is a great start. [Ritu Vincent](https://staffeng.com/stories/ritu-vincent) mentioned this as her top advice for folks seeking Staff-plus roles,
 
 > People frequently come to me and ask, “What should I do next to reach Staff?” One of the things that I tell them is to be super open and honest with your manager about what you want from your career. A mistake I made early on in my one-on-ones was telling my manager what I thought they wanted to hear, instead of what I actually felt.
 

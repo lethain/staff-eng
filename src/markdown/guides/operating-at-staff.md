@@ -5,11 +5,11 @@ date: "2020-09-28"
 kind: "guide"
 ---
 
-> One of the best pieces of advice that someone gave me, and that I make sure to pass on to other staff engineers, is that there's a misconception that you become a Staff Engineer and then you'll be in control of the work you do, and everyone will listen to you and do what you want them to do. That's absolutely the opposite of what happens!
+> One of the best pieces of advice that someone gave me, and that I make sure to pass on to other staff engineers, is that there's a misconception that you become a Staff engineer and then you'll be in control of the work you do, and everyone will listen to you and do what you want them to do. That's absolutely the opposite of what happens!
 > \- [Katie Sylor-Miller](/stories/katie-sylor-miller)
 
 
-Many engineers become focused on the Staff-plus career path because the engineering manager path has too many meetings or requires too much collaboration with other coworkers, and yikes, are you going to be surprised if you begin a Staff-plus with that mindset. Although Staff Engineer roles are generally positioned as the sequential step beyond Senior Engineer, it's genuinely a different role, and you'll increasingly spend your time doing sorts of work that you previously did infrequently or not-at-all.
+Many engineers become focused on the Staff-plus career path because the engineering manager path has too many meetings or requires too much collaboration with other coworkers, and yikes, are you going to be surprised if you begin a Staff-plus with that mindset. Although Staff engineer roles are generally positioned as the sequential step beyond Senior engineer, it's genuinely a different role, and you'll increasingly spend your time doing sorts of work that you previously did infrequently or not-at-all.
 
 
 There is a significant learning curve in Staff-plus roles that initially trip most folks up.
@@ -17,7 +17,7 @@ Part of the challenge is that much of the work you're doing has a much slower fe
 The delayed feedback can initially feel quite demoralizing as you replace the visceral coding [REPL](https://en.wikipedia.org/wiki/Read–eval–print_loop) with the uneven progress of mentorship, relationship building, and strategy.
 
 This chapter is about overcoming that learning curve,
-learning to operate as a Staff Engineer, and
+learning to operate as a Staff engineer, and
 finding the parts of the role which are personally fulfilling and organizationally transformative.
 
 
@@ -51,6 +51,6 @@ For mentorship and sponsorship, spend some time with Lara Hogan's
 and for being glue, spend time with Tanya Reilly's piece that bore the phrase,
 [Being Glue](https://noidea.dog/glue).
 
-As you deliberately practice in each of these areas, you'll slowly progress from a newly minted Staff Engineer to a trusted organizational leader. That said, these won't cover everything you do. At times you'll find your role surprisingly similar to that of an Engineering Director, and at other times strangely familiar to previous work in your career.
+As you deliberately practice in each of these areas, you'll slowly progress from a newly minted Staff engineer to a trusted organizational leader. That said, these won't cover everything you do. At times you'll find your role surprisingly similar to that of an engineering director, and at other times strangely familiar to previous work in your career.
 
 That vast remit is part of what makes describing these roles challenging. If there's a particular topic you're focused on that's missing, check out the [Additional resources for learning](https://staffeng.com/guides/learning-materials) appendix.

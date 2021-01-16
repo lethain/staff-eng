@@ -16,8 +16,8 @@ That said, it's more than just the raw compensation. It's also about other aspec
 
 For example:
 
-* Their standard contract might give them three months to exercise vested equity after leaving, but they might be willing to extend a Distinguished Engineer's exercise window to five years.
-* They might not operationally be prepared to support early exercise for everyone but might be willing to make an exception to close a Sr Staff Engineer offer.
+* Their standard contract might give them three months to exercise vested equity after leaving, but they might be willing to extend a Distinguished engineer's exercise window to five years.
+* They might not operationally be prepared to support early exercise for everyone but might be willing to make an exception to close a Sr Staff engineer offer.
 * They might be willing to offer a deferred compensation plan to support a tax-advantaged payout schedule (this is mostly a thing at public companies).
 * They may be open to additional vacation days if they're using metered, as opposed to unlimited, vacation.
 * They may support flexibility around work-from-home, working hours, or incorporating in a state or country they don't currently support employing folks in.

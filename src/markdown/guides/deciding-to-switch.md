@@ -5,7 +5,7 @@ date: "2020-09-19"
 kind: "guide"
 ---
 
-> I was hired at Fastly as a Principal Engineer. So, to be honest, for me, the biggest factor was changing companies. The type of work I was doing didn’t dramatically change, but changing companies was the thing that ultimately enabled me to get the title.
+> I was hired at Fastly as a Principal engineer. So, to be honest, for me, the biggest factor was changing companies. The type of work I was doing didn’t dramatically change, but changing companies was the thing that ultimately enabled me to get the title.
 > \- [Keavy McMinn](/stories/keavy-mcminn)
 
 
@@ -15,7 +15,7 @@ There are very few software companies with a forty-year track record, and even f
 
 Instead, generally, those folks stay and are rewarded for staying at a given company as long as the circumstances support their success. If those circumstances change, they tend to either leave shortly thereafter or spend a while burning out and then leave after exhausting their emotional reservoir.
 
-It takes years to build the visibility and social credibility to get promoted from a Senior Engineer role to a Staff-plus role, which makes it very difficult to walk away if you feel like you’re _just_ one hump away from the promotion. Leaving, it can feel like, means starting over from scratch.
+It takes years to build the visibility and social credibility to get promoted from a Senior engineer role to a Staff-plus role, which makes it very difficult to walk away if you feel like you’re _just_ one hump away from the promotion. Leaving, it can feel like, means starting over from scratch.
 
 Then again, as described by [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn), it’s common for folks to attain their first Staff-plus title by joining a new company. Even with all your internal credibility, sometimes leaving is the most effective path forward.
 

@@ -38,7 +38,7 @@ This is also a moment to debug if you’re in the right process. If your intervi
 
 If it’s the wrong loop, but you’re exceptionally good at whatever the loop does measure, then you’ll potentially get a Staff-plus offer anyway. However, if you’re less confident in those incidental measures, then raise your concerns politely and constructively, perhaps pointing the recruiter to [resources around designing Staff-plus interview loops](https://staffeng.com/guides/staff-plus-interview-process). Don’t allow momentum to pull you into a process that doesn’t support your goals.
 
-It’s particularly valuable to understand when leveling happens within the company’s progress. Some companies advertise roles with level-specific titles, which lets you apply directly to the level you think is appropriate. If you’re hoping for a Senior Engineer role, then apply for the Staff Engineer job posting. However, many companies use those as provisional titles and finalize them later; other companies are quite rigid. The only way to know is to ask.
+It’s particularly valuable to understand when leveling happens within the company’s progress. Some companies advertise roles with level-specific titles, which lets you apply directly to the level you think is appropriate. If you’re hoping for a Senior engineer role, then apply for the Staff engineer job posting. However, many companies use those as provisional titles and finalize them later; other companies are quite rigid. The only way to know is to ask.
 
 It may feel very unnatural to take more control over your interview process, and in theory, you might miss out on some opportunities this way, but that’s a good outcome: your goal is to find the best available leadership opportunity, not the first available opportunity.
 

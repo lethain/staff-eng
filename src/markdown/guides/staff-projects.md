@@ -30,7 +30,7 @@ When I asked folks whether they had a Staff project, some of the answers were qu
 
 Some folks were even skeptical of the Staff project concept overall. [Nelson Elhage](https://staffeng.com/stories/nelson-elhage ) said,
 
-> I'm instinctively a little bit wary of this sort of idea of a staff project, in part because one of the archetypes of Staff Engineers that I've seen are people who don't necessarily run grand projects themselves or do big things. But just are sort of incredibly effective gurus and routers who make the whole engineering organization run better.
+> I'm instinctively a little bit wary of this sort of idea of a staff project, in part because one of the archetypes of Staff engineers that I've seen are people who don't necessarily run grand projects themselves or do big things. But just are sort of incredibly effective gurus and routers who make the whole engineering organization run better.
 
 There are also folks like [Dan Na](https://staffeng.com/stories/dan-na) or [Damian Schenkelman](https://staffeng.com/stories/damian-schenkelman) who took a detour through engineering management to reach the role. Damian describes bypassing the Staff project,
 
@@ -51,9 +51,8 @@ However, it's also true that many companies require, or informally enforce, Staf
 
 [Ras Kasa Williams](https://staffeng.com/stories/ras-kasa-williams) joined an inflight project that he later became the lead on, which served as his Staff project:
 
-> I joined Mailchimp as a Senior Engineer. I was immediately added to a project team (which included an Engineering Director and two Principal Engineers) meant to build out Mailchimp's first internal, self–service analytics platform.
-
-> A key aspect of this project was being effective and executing at a high level. For better, or for worse, having two other Principal Engineers meant expectations for me likely weren't that high. But I was able to jump in immediately and start contributing to core aspects of the project with very little hand-holding from them; by the end, I was one of the key contributors on the team. I would ultimately be formally installed as a tech lead to help continue shepherding that project work as it was absorbed into my current engineering group, Data Services.
+> I joined Mailchimp as a Senior engineer. I was immediately added to a project team (which included an Engineering Director and two Principal engineers) meant to build out Mailchimp's first internal, self–service analytics platform.
+> A key aspect of this project was being effective and executing at a high level. For better, or for worse, having two other Principal engineers meant expectations for me likely weren't that high. But I was able to jump in immediately and start contributing to core aspects of the project with very little hand-holding from them; by the end, I was one of the key contributors on the team. I would ultimately be formally installed as a tech lead to help continue shepherding that project work as it was absorbed into my current engineering group, Data Services.
 
 Few companies write down their Staff project requirements. They're more frequently the sort of "soft gate" that's brought up during a promotion meeting, sometimes to the surprise of both the manager and the would-be Staff engineer. The most reliable technique for uncovering these requirements is your "sure thing" promotion not getting approved, but that isn't much fun. Almost as reliable and much less frustrating is relying on the strategy of [maintaining and getting feedback on your promotion packet](https://staffeng.com/guides/promo-packets) well in advance of your promotion attempt.
 
