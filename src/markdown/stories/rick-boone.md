@@ -12,9 +12,9 @@ role: "Strategic Advisor to Uber's VP of Infrastructure"
 [linkedin](https://www.linkedin.com/in/kineticrick/)
 
 
-**_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
+___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 
-I’m the Strategic Advisor to Uber’s Vice President of Infrastructure, which means I’m part of the Infrastructure leadership team along with the engineering directors and org-wideProgram Managers. Infrastructure Engineering at Uber is about 700 people across six sub-organizations like Metal which handles our data centers and servers, Storage, Developer Platform and so on. I work with the VP on things like technical strategy, cultural strategy and special projects.
+I’m the Strategic Advisor to Uber’s Vice President of Infrastructure, which means I’m part of the Infrastructure leadership team along with the engineering directors and org-wide Program Managers. Infrastructure Engineering at Uber is about 700 people across six sub-organizations like Metal which handles our data centers and servers, Storage, Developer Platform and so on. I work with the VP on things like technical strategy, cultural strategy and special projects.
 
 
 Strategic Advisor is a wide ranging role, for example I might work on:
@@ -45,7 +45,7 @@ It’s a particularly valuable role in Uber’s Infrastructure organization beca
 
 **_How does this role compare to a TPM role?_**
 
-This is an interesting question, because I was just thinking about the distinction between Chief of Staff and my own role the other day. Within the Infrastructure Leadership Team, we have the strategic advisor and program managers, and in the past, we’ve also had someone who filled a Chief-of-Staff role.
+This is an interesting question, because I was just thinking about the distinction between Chief of Staff and my own role the other day. Within the Infrastructure Leadership Team, we have the strategic advisor and program managers, and in the past, we’ve also had someone who filled a Chief of Staff role.
 
 The way I see it, the program managers are an organization-scoped operational role. They're working at a high-level, ensuring that the major programs and areas within Infra are progressing along and evaluated at a regular cadence, operationalizing efforts + initiatives, etc. The Chief of Staff role was one which ensured that the entire leadership machine was working well together - that all the people, groups, messaging, etc, involved in running and leading Infra were operating effectively.
 
@@ -61,7 +61,7 @@ In my role we’ll often go weeks without being in the same room together, but I
 
 It also means that I have to truly understand his goals, intent, values and principles, to make sure that I’m ready to stake my reputation and credibility on pushing them forward. Often, part of my role involves advocating for or translating his vision and/or implementation to engineers, sometimes when supplemental context isn’t always known. When I do this, I have to make sure that I not only understand the logic and value of what he’s doing, but that I also believe in it myself - otherwise, advocacy becomes hard, not to mention disingenuous.
 
-This is something I really struggled with a lot when I started in the role. Matthew would constantly tell me, “You’re my representative; you should feel free to push on and perform things using my name and role .” That was difficult for me because I’ve never been in a role like that before. Previously I’ve always operated using my own name and reputation, and now I was operating  under the aegis of the Vice President and everything which that carried . Over time I’ve learned how to be deliberate with using that hammer, since you don’t want to overuse it.
+This is something I really struggled with a lot when I started in the role. Matthew would constantly tell me, “You’re my representative; you should feel free to push on and perform things using my name and role.” That was difficult for me because I’ve never been in a role like that before. Previously I’ve always operated using my own name and reputation, and now I was operating  under the aegis of the Vice President and everything which that carried . Over time I’ve learned how to be deliberate with using that hammer, since you don’t want to overuse it.
 
 I’ve also learned that I have to let folks know which hat I’m wearing sometimes. I love to mentor people, but sometimes folks aren’t sure if they’re getting the strategic advisor working for the benefit of the organization and company or the mentor, working for the benefit of that person and their career; I try to let them know which role I’m currently in within a particular conversation. If I meet with someone I’m mentoring, they might want to get advice about changing teams, or even leaving the organization or the company, and they want to know which perspective I’m giving advice from.
 
@@ -128,7 +128,7 @@ This goes back to how I got where I am based on having a broad set of interests 
 
 For me it’s been important to follow my passions. Recently that’s been around mentorship, but it’s also been around other things like machine learning, which has always been a hobby of mine. I love how machines can generate insights that mimic how people think - it’s the perfect marriage of my interests in technology + psychology.
 
-So I have these passions that I stoke, and then when opportunities to align those passions with something the company needs arise, I take them. For example, my previous team at Uber was generating insights into fleet utilization for capacity planning purposes, and that a great chance to [pull together my interest in machine learning and site reliability](https://www.youtube.com/watch?v=9ool1BQybaE).
+So I have these passions that I stoke, and then when opportunities to align those passions with something the company needs arise, I take them. For example, my previous team at Uber was generating insights into fleet utilization for capacity planning purposes, and that was a great chance to [pull together my interest in machine learning and site reliability](https://www.youtube.com/watch?v=9ool1BQybaE).
 
 Small companies give you the chance to do many different things, but at a certain size companies also give you the unique opportunity to specialize in your passions, and that for me has allowed me to maintain both impact and passion despite never being the person to sit beyond the keyboard and knock out code all day.
 

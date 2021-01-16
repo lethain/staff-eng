@@ -12,7 +12,7 @@ role: "Staff Data Engineer at Slack"
 [twitter](https://twitter.com/podiana),
 [linkedin](https://www.linkedin.com/in/dianapojar/)
 
-___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
+___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 
  I’m a Staff Data Engineer and the Technical Lead for the Data Platform team at Slack. I joined Slack in February 2016 and I was one of the first engineers in the Data Engineering team. I was heavily involved in building many of the tools and infrastructure to make data available for long-term analytics. When I joined, the team had just made the decision to use Thrift as the logging format. If anyone wanted to get insights, they had to schedule cronjobs on top of the read replicas of the production MySQL database.
 
@@ -54,7 +54,7 @@ ___Do you spend time advocating for technology, practice, process or architectur
 
 ___How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?___
 
- Sponsoring is actually an important area for me, as I focus on building amazing relationships with many people that I work with and I strongly believe that we need to lift each other up. Through my journey to get to Staff Engineer and fighting with my own impostrome syndrome, I had the opportunity to work with amazing people that sponsored me and had a huge impact on my growth. A couple of people that I worked with and have been my mentors and role models over time are [Josh Wills](https://www.linkedin.com/in/josh-wills-13882b/), [Stan Babourine](https://www.linkedin.com/in/stanb/), [Bogdan Gaza](https://www.linkedin.com/in/bogdangaza/) and [Travis Crawford](https://www.linkedin.com/in/traviscrawford/).
+ Sponsoring is actually an important area for me, as I focus on building amazing relationships with many people that I work with and I strongly believe that we need to lift each other up. Through my journey to get to Staff Engineer and fighting with my own impostor syndrome, I had the opportunity to work with amazing people that sponsored me and had a huge impact on my growth. A couple of people that I worked with and have been my mentors and role models over time are [Josh Wills](https://www.linkedin.com/in/josh-wills-13882b/), [Stan Babourine](https://www.linkedin.com/in/stanb/), [Bogdan Gaza](https://www.linkedin.com/in/bogdangaza/) and [Travis Crawford](https://www.linkedin.com/in/traviscrawford/).
 
  Mentoring and growing people around me has always been important to me and being in a Staff+ role, you have a type of privilege and power that others don’t have and I try my best to use this to help and uplevel people around me.
 
@@ -102,7 +102,7 @@ ___Did you ever consider engineering management, and if so how did you decide to
 
 ___What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?___
 
- I use Twitter extensively, but I’m mostly a consumer and follow many people in tech. I usually follow people that I saw talking at conferences or I worked with and I find their content relevant to me. Here’s a couple, in no specific order: [Camille Fournier](https://twitter.com/skamille), [Lara Hogan](https://twitter.com/lara_hogan), [Josh Wills](https://twitter.com/josh_wills), [Vicki Boykis](https://twitter.com/vboykis), [David Gasca](https://twitter.com/gasca), [Julia Grace](https://twitter.com/jewelia), [Holden Karau](https://twitter.com/holdenkarau), [John Allspaw](https://twitter.com/allspaw), [Charity Majors](https://twitter.com/mipsytipsy), [Theo Schlossnagle](https://twitter.com/postwait), [Jessica Joy Kerr](https://twitter.com/jessitron), [Sarah Catanzaro](https://twitter.com/sarahcat21), [Orange Book](https://twitter.com/orangebook_)
+ I use Twitter extensively, but I’m mostly a consumer and follow many people in tech. I usually follow people that I saw talking at conferences or I worked with and I find their content relevant to me. Here’s a couple, in no specific order: [Camille Fournier](https://twitter.com/skamille), [Lara Hogan](https://twitter.com/lara_hogan), [Josh Wills](https://twitter.com/josh_wills), [Vicki Boykis](https://twitter.com/vboykis), [David Gasca](https://twitter.com/gasca), [Julia Grace](https://twitter.com/jewelia), [Holden Karau](https://twitter.com/holdenkarau), [John Allspaw](https://twitter.com/allspaw), [Charity Majors](https://twitter.com/mipsytipsy), [Theo Schlossnagle](https://twitter.com/postwait), [Jessica Joy Kerr](https://twitter.com/jessitron), [Sarah Catanzaro](https://twitter.com/sarahcat21), [Orange Book](https://twitter.com/orangebook_).
 
  I also enjoy reading (I read about 50 books each year) and since last year, I always try to leave a mini review on [my Goodreads account](https://www.goodreads.com/user/show/11950463-diana-pojar) for every book I read, but here are a couple of books that I found useful:
 

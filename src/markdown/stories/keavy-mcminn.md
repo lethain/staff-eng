@@ -13,7 +13,7 @@ date: "2020-03-24"
 [twitter](https://twitter.com/keavy),
 [linkedin](https://www.linkedin.com/in/keavy/)
 
-___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
+___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 
 I'm a senior principal engineer at [Fastly](https://www.fastly.com/). Fastly is an edge cloud platform that provides services like a CDN. I work in OCTO, the Office of the CTO, which is composed of about ten principal or distinguished engineers who report directly to the CTO. Each member of OCTO tends to have their own focus, and mine is being the API Lead.
 

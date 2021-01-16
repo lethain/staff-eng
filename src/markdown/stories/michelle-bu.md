@@ -12,7 +12,7 @@ role: "Payments Products Tech Lead at Stripe"
 [twitter](https://twitter.com/hazelcough),
 [linkedin](https://www.linkedin.com/in/michellebu/)
 
-**_Tell us a little about your current role at Stripe: what’s your title and generally the sort of work do you and your team do?_**
+**_Tell us a little about your current role at Stripe: what’s your title and generally what sort of work do you and your team do?_**
 
 I’m the Payments Products Tech Lead at Stripe, working directly with our Chief Product Officer. I support critical initiatives and work on mitigating urgent problems across the organization. I typically spend 80% of my time on one or two large cross-organizational design projects. I spend the remaining 20% reviewing and supporting technical and product design (in particular, API design) across the organization.
 

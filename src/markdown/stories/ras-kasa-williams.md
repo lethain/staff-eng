@@ -10,7 +10,7 @@ date: "2020-07-18"
 <span class="date">July, 2020</span>
 [linkedin](https://www.linkedin.com/in/raskasawilliams/)
 
-**_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
+**_Tell us a little about your current role: where do you work, your title and generally the sort of work that you and your team do._**
 
 I’m a Staff Engineer at Mailchimp, working in the Data Services engineering group.  Data Services can be seen as the home of data engineering within the company.  Our group builds systems that primarily support our data science and analyst teams (i.e. product analysts, finance analysts, marketing analysts, etc.).
 

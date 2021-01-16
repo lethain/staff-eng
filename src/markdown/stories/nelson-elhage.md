@@ -12,7 +12,7 @@ role: "Formerly Staff Engineer at Stripe"
 [twitter](https://twitter.com/nelhage),
 [blog](https://blog.nelhage.com/)
 
-___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
+___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 
  I was most recently at Stripe. They do online payment processing, and it’s a pretty fast growing startup of about two thousand people. Engineering was around six hundred. When I left, I technically didn't have a title. If I had stayed another two months, I would have been a Staff Engineer, because they finally rolled out titles after some years of internal debate.
 
@@ -76,7 +76,7 @@ ___How have you sponsored other engineers? Is sponsoring other engineers an impo
 
  That wasn’t an angle that I spent a lot of time thinking explicitly about in those terms, and I can't think of clear examples where I would describe that as what I was doing. An adjacent thing that I did a couple of times was helping to bootstrap teams that I wasn't part of. For example, some team would spin up to take over a system that used to be part my capacity, and I would work with them in a close advisory role to give them context and advice.
 
-___You first got the Architect title at Oracle after the Ksplice acquisition. What was your process for getting both the Architect title?___
+___You first got the Architect title at Oracle after the Ksplice acquisition. What was your process for getting the Architect title?___
 
  I don't remember if [Ksplice](https://en.wikipedia.org/wiki/Ksplice) had titles in place pre-acquisition. After the acquisition I spent one year at Oracle and had the title Architect, which I think at the time was their highest individual contributor level. There was definitely some acquisition title inflation going on there. I don't know if I would have reached that title if I had not come in via acquisition.
 

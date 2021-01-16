@@ -12,7 +12,7 @@ role: "Staff Engineer and Team Lead at Squarespace"
 [twitter](https://twitter.com/dxna),
 [linkedin](https://www.linkedin.com/in/danielna/)
 
-___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
+___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 
  I'm a Staff Engineer at Squarespace. Squarespace is the leading all-in-one platform to build a beautiful online presence: websites, domains, online stores, marketing tools, scheduling appointments, etc. I also operate as the Team Lead of the Internationalization Platform team, which is responsible for building and maintaining the foundational primitives of internationalization across Squarespace products. Engineers use the tools and libraries we own to create localized products.
 
@@ -112,7 +112,7 @@ ___What are some resources (books, blogs, people, etc) you’ve learned from? Wh
 
  On the human side of leadership, I really loved [Lara Hogan](http://larahogan.me)'s book: [Resilient Management](https://resilient-management.com/). I had the absurdly good fortune of starting my NYC tech career at Etsy in 2013 where Lara was my first engineering manager. Lara is a master of unpacking and addressing the hardest parts about navigating emotions and personalities, fostering psychological safety, and sponsoring coworkers. And having worked directly under her for close to four years, she is totally the real deal and practices what she preaches.
 
- In terms of non-books, I subscribe to and enjoy reading "[Irrational Exuberance](https://lethain.com/)", where Will Larson regularly blogs about engineering management with a highly pragmatic and strategic perspective. I've also recently discovered and enjoyed reading Marty Cagan's "[Insights Blog](https://svpg.com/articles/)", mostly because product leadership is a domain I'm less familiar with and am interested in learning more about.
+ In terms of non-books, I subscribe to and enjoy reading "[Irrational Exuberance](https://lethain.com/)," where Will Larson regularly blogs about engineering management with a highly pragmatic and strategic perspective. I've also recently discovered and enjoyed reading Marty Cagan's "[Insights Blog](https://svpg.com/articles/)," mostly because product leadership is a domain I'm less familiar with and am interested in learning more about.
 
  My role models are some of the amazing coworkers I've worked closely with over the years. I sat next to [Daniel Espeset](http://www.danielespeset.com) for four years at Etsy and learned an immeasurable amount about coupling technical execution with cultural impact. I learned a lot watching Lara do things like advocate for and achieve pay equity across our engineering group. I learn a lot watching current coworkers like [Tanya Reilly](http://noidea.dog) institute and evolve our engineering processes to match our ever-growing scale. I’m inspired most by people whom I've personally witnessed have the courage to change companies for the better, despite whatever friction they encountered along the way. 
 

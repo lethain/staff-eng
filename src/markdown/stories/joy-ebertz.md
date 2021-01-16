@@ -12,7 +12,7 @@ role: "Senior Staff Software Engineer at Split"
 [twitter](https://twitter.com/jkebertz),
 [linkedin](https://www.linkedin.com/in/joyebertz/)
 
-___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
+___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 
  I’m a Senior Staff Software Engineer at Split.io, working on the backend of what we call the COE team. Split is a feature flagging and experimentation framework. We focus on enabling our customers to separate deployment and release in CI/CD and also enabling A/B testing. My team is responsible for most of the main business logic of our web application, including everything from data storage to the APIs. There is a separate team that focuses on the experimentation side, including all of the detailed statistics that goes into that, so we’re able to focus more on the main platform.
 

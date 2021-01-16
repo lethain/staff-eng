@@ -10,7 +10,7 @@ role: "Staff Engineer at Dropbox"
 <span class="date">March, 2020</span>
 [linkedin](https://www.linkedin.com/in/rituvincent/)
 
-___Tell us a little about your current role: your title, the company you work at, and generally the sort of work your team does?___
+___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 
  I’m a Staff Engineer at Dropbox. I actually was a Staff Engineer at Dropbox, left to join a different startup, and then recently came back to Dropbox just a few months ago. I came back because a really interesting opportunity opened up within Dropbox to launch an internal incubator. We’re working to foster innovation within the company. Dropbox has become a strong brand in the file sync space, but there’s beginning to be a lot of competition there now, so we need to do more and branch out into new products. The incubator works directly with the CEO, and is a very small team.
 
@@ -40,7 +40,7 @@ ___How do you spend your time day-to-day?___
 
  I was coding, but I wasn’t coding very much, maybe 20% of my time. I was the tech lead for the desktop client area, and spent a lot of time coordinating and providing guidance on projects. I also spent a lot of time partnering with recruiting, which was something that I did because I was interested in it, not because it was required.
 
- For example, I worked on designing speciality interview loops, moderating debriefs and candidate screening. I also did a lot of work on diversity initiatives. That’s one of the reasons that I’ve tried engineering management multiple times during my career, because I enjoy participating in organizational growth.
+ For example, I worked on designing specialty interview loops, moderating debriefs and candidate screening. I also did a lot of work on diversity initiatives. That’s one of the reasons that I’ve tried engineering management multiple times during my career, because I enjoy participating in organizational growth.
 
 ___Where do you feel most impactful as a Staff-plus Engineer?___
 
@@ -110,7 +110,7 @@ ___What about a piece of advice for someone who has just started as a Staff Engi
 
  People frequently come to me and ask, “What should I do next to reach Staff?” One of the things that I tell them is to be super open and honest with your manager about what you want from your career. A mistake I made early on in my one-on-ones was telling my manager what I thought they wanted to hear, instead of what I actually felt.
 
- They’d ask me if I was interested in a piece of work, and I’d wonder why they were asking, did they _want _me to take the work? So I’d say I was interested even if I wasn’t. Or they’d ask me how a project was going, and it might be going horribly, but I’d tell them it was going fine to avoid disappointing them, instead of saying I needed help.
+ They’d ask me if I was interested in a piece of work, and I’d wonder why they were asking, did they _want_ me to take the work? So I’d say I was interested even if I wasn’t. Or they’d ask me how a project was going, and it might be going horribly, but I’d tell them it was going fine to avoid disappointing them, instead of saying I needed help.
 
  Somewhere along the way I realized that your manager is really on your team. They’re looking for a way to make you grow, be productive, be happy and become the best engineer you can be. The way to have an effective relationship with your manager, including having them sponsor you, is to be super honest and open with them.
 

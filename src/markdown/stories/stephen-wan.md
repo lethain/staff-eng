@@ -13,11 +13,11 @@ kind: "story"
 [linkedin](https://www.linkedin.com/in/stephenwan/)
 
 
-**_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
+___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 
 I'm a Staff Engineer at [Samsara](https://www.samsara.com/).
 
-I started at the company four years ago when the company had been around for a year and we had fifty or so employees. Nowadays, we have over a thousand folks at the company, with engineering teams in the Bay Area, Atlanta, and London.
+I started at the company four years ago when the company had been around for a year and we had 50 or so employees. Nowadays, we have over a thousand folks at the company, with engineering teams in the Bay Area, Atlanta, and London.
 
 When I first started, we had yet to form real teams and our ten or so engineers worked on whatever came up. Nine months in, we had doubled up and formed product teams around a few core offerings at the time. I did a brief stint leading a product team before switching over to our budding infrastructure group to start our frontend infrastructure team. Over the years, I've gradually shifted down the stack, also taking stretches on our backend and observability systems.
 
@@ -144,18 +144,19 @@ I remember reading about novelist [Haruki Murakami](https://en.wikipedia.org/wik
 Writing software is a totally different domain, but it feels like the sentiment fits into some tenet that I really value about communicating: having an understanding in your head is half the battle - being able to express that understanding is just as hard and valuable.
 
 I love reading blogs and papers that really go in depth in a technical area. A few that I've come back to over the years include:
-- [Bob Nystrom's blog posts](http://journal.stuffwithstuff.com/category/language/) on programming languages
-- [Vyacheslav Egorov's blog](https://mrale.ph/) about compilers and V8 internals (Chrome's JS engine)
-- [Brandur's blog](https://brandur.org/articles) on various systems topics
-- Nelson Elhage's [Accidentally Quadratic](https://accidentallyquadratic.tumblr.com/)
-- [Vicki Pfau's Blog](https://mgba.io/tag/debugging/) on developing a GameBoy Advance emulator
-- [fail0overflow's blog](https://fail0verflow.com/blog/) and talks about console architecture and exploits
-- [Bungie's engineering publications](http://halo.bungie.net/inside/publications.aspx) on building and producing the original Halo games
+
+* [Bob Nystrom's blog posts](http://journal.stuffwithstuff.com/category/language/) on programming languages
+* [Vyacheslav Egorov's blog](https://mrale.ph/) about compilers and V8 internals (Chrome's JS engine)
+* [Brandur's blog](https://brandur.org/articles) on various systems topics
+* Nelson Elhage's [Accidentally Quadratic](https://accidentallyquadratic.tumblr.com/)
+* [Vicki Pfau's Blog](https://mgba.io/tag/debugging/) on developing a GameBoy Advance emulator
+* [fail0overflow's blog](https://fail0verflow.com/blog/) and talks about console architecture and exploits
+* [Bungie's engineering publications](http://halo.bungie.net/inside/publications.aspx) on building and producing the original Halo games
 
 As an anecdote, early in my career I had a budding interest in programming language internals and picked up a compilers textbook ("the Dragon book") to learn from. It's a pretty hard book to get through. Maybe it's reasonable to get through it with a professor and a few classmates, but it was truly difficult for me to get a working mental model from a reading. Later, I found Bob Nystrom's [Crafting Interpreters](https://craftinginterpreters.com/) which takes a much more practical approach and it felt like a huge breath of fresh air.
 
 I'm also a big fan of reading codebases. Early on in my career, I recall debugging a tricky React problem where some callback wasn’t happening in the order I expected. Reading the docs didn’t help. Putting in print statements wasn’t enough. My mentor at the time got me to read some of the source code to better understand what was going on and that really blew my mind a little bit. I got a bug fix in but also a much stronger understanding of how React worked.
 
-That was really a turning point. Being able to quickly dive in and jump through unfamiliar has really felt like a superpower and gives me a larger pattern matching library for different approaches to software design. A recent favorite has been reading through the design and code of [esbuild](https://github.com/evanw/esbuild/blob/master/docs/architecture.md), a super fast javascript bundler.
+That was really a turning point. Being able to quickly dive in and jump through unfamiliar code has really felt like a superpower and gives me a larger pattern matching library for different approaches to software design. A recent favorite has been reading through the design and code of [esbuild](https://github.com/evanw/esbuild/blob/master/docs/architecture.md), a super fast javascript bundler.
 
 Finally, some of my favorite recent non-fiction reads in the last couple years have been on the [history of BART](https://www.amazon.com/BART-Dramatic-History-Transit-System/dp/1597143707), the [history of Xerox PARC](https://press.stripe.com/#the-dream-machine), and [an overview of modern Japanese culture](https://www.amazon.com/Making-Common-Policy-Institutional-Studies/dp/0822955105). In each niche, I've found the history and context fascinating as seemingly small, independent events and decisions have culminated into ways the world works today.
