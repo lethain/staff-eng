@@ -103,15 +103,15 @@ ___What are some resources (books, blogs, people, etc) you’ve learned from? Wh
 
  I also enjoy reading (I read about 50 books each year) and since last year, I always try to leave a mini review on [my Goodreads account](https://www.goodreads.com/user/show/11950463-diana-pojar) for every book I read, but here are a couple of books that I found useful:
 
-*   [Thanks for the Feedback](https://www.goodreads.com/book/show/20487821-thanks-for-the-feedback)
-*   [Radical Candor](https://www.goodreads.com/book/show/32809138-radical-candor)
-*   [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/34616805-the-manager-s-path)
-*   [Leadership and Self-Deception: Getting Out of the Box](https://www.goodreads.com/book/show/18966789-leadership-and-self-deception)
-*   [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
-*   [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://www.goodreads.com/book/show/30109687-first-break-all-the-rules)
-*   [The Courage To Be Disliked: How to free yourself, change your life and achieve real happiness](https://www.goodreads.com/book/show/36752952-the-courage-to-be-disliked)
-*   [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/book/show/16158498-give-and-take)
-*   [Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts](https://www.goodreads.com/book/show/9530608-mistakes-were-made-but-not-by-me)
+* [Thanks for the Feedback](https://www.goodreads.com/book/show/20487821-thanks-for-the-feedback)
+* [Radical Candor](https://www.goodreads.com/book/show/32809138-radical-candor)
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/34616805-the-manager-s-path)
+* [Leadership and Self-Deception: Getting Out of the Box](https://www.goodreads.com/book/show/18966789-leadership-and-self-deception)
+* [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
+* [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://www.goodreads.com/book/show/30109687-first-break-all-the-rules)
+* [The Courage To Be Disliked: How to free yourself, change your life and achieve real happiness](https://www.goodreads.com/book/show/36752952-the-courage-to-be-disliked)
+* [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/book/show/16158498-give-and-take)
+* [Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts](https://www.goodreads.com/book/show/9530608-mistakes-were-made-but-not-by-me)
 
 That's not an exhaustive list!
 

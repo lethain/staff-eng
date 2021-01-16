@@ -175,8 +175,8 @@ The most useful general learning for me was becoming comfortable with uncertaint
 
 Some caveats:
 
-*   I think I’ve been particularly lucky with the managers I’ve had.
-*   My interests have always been aligned with what was most important for the company. (At this point it's a bit unclear to me if my personal interests (i.e., developer products, mentorship) were aligned, or if over time I'd aligned myself to what was important for the company. I _feel_ like it's the former, but in either case, I feel like I've always been really interested in my work.)
+* I think I’ve been particularly lucky with the managers I’ve had.
+* My interests have always been aligned with what was most important for the company. (At this point it's a bit unclear to me if my personal interests (i.e., developer products, mentorship) were aligned, or if over time I'd aligned myself to what was important for the company. I _feel_ like it's the former, but in either case, I feel like I've always been really interested in my work.)
 
 I’m probably one of the most visible product engineers at the company, so engineers will sometimes see what I’m doing and try to pattern match on that to become a Staff-plus Engineer. That feels great, and I'm lucky to be able to be a role model for others like me.
 
@@ -208,6 +208,6 @@ Some non-fiction that I’ve read recently and enjoyed:
 
 
 
-*   [Draft No. 4, John McPhee](https://www.amazon.com/dp/B06X18NHC1/): I spend most of my time writing at work, and experience writer’s block quite a bit. But it’s super important to power through that, because a good piece of written communication is the most effective means of broadcasting ideas and scaling yourself.
-*   [Creativity Inc., Ed Catmull](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/): The tone of this book definitely made me raise my eyebrows, but there’s a LOT to learn here about how to foster a creative working environment at scale. This is something I think about a lot as we grow our product organization and our product engineering function.
-*   [Impro, Keith Johnstone](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178): I see my superpower (especially as the company grows) as being able to learn and adapt quickly, so I love reading books about different forms of learning and teaching. This book is about learning how to act / improvise, and pushes on conventional metaphors and narratives about education.
+* [Draft No. 4, John McPhee](https://www.amazon.com/dp/B06X18NHC1/): I spend most of my time writing at work, and experience writer’s block quite a bit. But it’s super important to power through that, because a good piece of written communication is the most effective means of broadcasting ideas and scaling yourself.
+* [Creativity Inc., Ed Catmull](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/): The tone of this book definitely made me raise my eyebrows, but there’s a LOT to learn here about how to foster a creative working environment at scale. This is something I think about a lot as we grow our product organization and our product engineering function.
+* [Impro, Keith Johnstone](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178): I see my superpower (especially as the company grows) as being able to learn and adapt quickly, so I love reading books about different forms of learning and teaching. This book is about learning how to act / improvise, and pushes on conventional metaphors and narratives about education.

@@ -45,7 +45,7 @@ ___Do you spend time advocating for technology, practice, process or architectur
 
  Some examples:
 
-*   When I first joined the company we were in the midst of enormous employee growth, and I noticed it felt hard to get to know anyone on other teams unless you happened to work on a project together. As a result I created a slack room — \#connect-engineering — that uses a bot to randomly pair two people in engineering for coffee every two weeks. That room has been pairing people for coffee for over two years now.
+* When I first joined the company we were in the midst of enormous employee growth, and I noticed it felt hard to get to know anyone on other teams unless you happened to work on a project together. As a result I created a slack room — \#connect-engineering — that uses a bot to randomly pair two people in engineering for coffee every two weeks. That room has been pairing people for coffee for over two years now.
 * I knew based on personal experience that engineering leadership roles can feel isolating and talking to coworkers I could hear some of those feelings of loneliness. As a result some peers and I <a href="https://blog.danielna.com/starting-an-engineering-management-book-club/">created an unofficial Engineering Management Book Club</a>, open to Team Leads and Engineering Managers. There are now two self-organized book clubs with ~10 participants each, providing a safe space for both new and experienced leaders to support each other. The feedback about book club has been enormously positive.
 
  To be fair, neither of these examples required a Staff-plus title. But I do think part of being an effective Staff-plus engineer is caring about and addressing cultural gaps as much as technical gaps.

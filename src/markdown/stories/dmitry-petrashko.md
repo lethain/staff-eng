@@ -24,10 +24,10 @@ A Staff Engineer at Stripe isn’t a role, rather it’s a level that correspond
 
 As a stepping stone to that role, I was also a Pillar Tech Lead. As we have more PTLs, the expectations are better defined:
 
-*   PTLs help their teams make technical decisions that will play well with each other and with technical decisions made by other groups at Stripe. Teams at Stripe make most technical decisions themselves, but an experienced PTL can help fine tune those decisions to achieve better outcomes. PTLs also work as arbiters in cases where teams cannot reach an agreement amongst themselves on technical topics.
-*   PTLs guide the technical direction of Stripe, providing input on what are the most important problems to solve and setting the high level technical approaches to solving them.
-*   PTLs help their organization by representing it to other Pillar Tech Leads and also bring technical decisions made elsewhere back to the teams they work with to create alignment.
-*   PTLs create opportunities for other engineers to take on impactful projects and help them succeed.
+* PTLs help their teams make technical decisions that will play well with each other and with technical decisions made by other groups at Stripe. Teams at Stripe make most technical decisions themselves, but an experienced PTL can help fine tune those decisions to achieve better outcomes. PTLs also work as arbiters in cases where teams cannot reach an agreement amongst themselves on technical topics.
+* PTLs guide the technical direction of Stripe, providing input on what are the most important problems to solve and setting the high level technical approaches to solving them.
+* PTLs help their organization by representing it to other Pillar Tech Leads and also bring technical decisions made elsewhere back to the teams they work with to create alignment.
+* PTLs create opportunities for other engineers to take on impactful projects and help them succeed.
 
 In the PTL role, I used to partner closely with the Head of Developer Productivity and managers of the teams inside the group. We exchanged context and worked towards an agreed goal. 
 
@@ -76,9 +76,9 @@ In my role, it's highly important to understand needs of customers. One helpful 
 
 Additionally, before the Covid-19-induced lockdown, I used to join random tables for dinners at Stripe. I’d ask 3 questions:
 
-*   What are you working on?
-*   What makes it hard?
-*   How can infrastructure teams help?
+* What are you working on?
+* What makes it hard?
+* How can infrastructure teams help?
 
 This became a great tool in two ways: 1) connecting me to my users, helping discover their needs; 2) helping mitigate unhappiness of teams that aren’t yet supported by having a discussion similar to: “yes, I agree we could help you by doing X, now, lets together look on what we should stop doing to create space for this,” where a person would frequently discover that, while they would like us to address their pain point, they don't want it addressed at cost of us deprioritizing our current projects. 
 

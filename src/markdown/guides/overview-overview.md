@@ -45,12 +45,12 @@ journey as a leader outside the management track. If you aim for such a role, I 
 they will provide a pragmatic aid in its pursuit.
 This book can be read cover to cover, but depending on which of those best describe you, feel jump to the sections that sound most interesting.
 
-*   **[Overview](/guides/overview-overview)** - a survey of the Staff Engineer role, how it varies by company, and why the title matters
-*   **[Operating at Staff](/guides/operating-at-staff)** - how to do  the work on the other side of the title
-*   **[Getting the title where you are](/guides/getting-the-title-where-you-are)** - how to attain a Staff-plus role at your current company
-*   **[Switching companies to get the title](/guides/deciding-to-switch)** - when and how changing companies can support the pursuit of a Staff-plus title
-*   **[Stories](/guides/stories)** - collected stories from Staff-plus engineers about what they do and how they reached their role
-*   **[Resources](/guides/learning-materials)** - a collection of templates and further readings if you're looking for more
+* **[Overview](/guides/overview-overview)** - a survey of the Staff Engineer role, how it varies by company, and why the title matters
+* **[Operating at Staff](/guides/operating-at-staff)** - how to do  the work on the other side of the title
+* **[Getting the title where you are](/guides/getting-the-title-where-you-are)** - how to attain a Staff-plus role at your current company
+* **[Switching companies to get the title](/guides/deciding-to-switch)** - when and how changing companies can support the pursuit of a Staff-plus title
+* **[Stories](/guides/stories)** - collected stories from Staff-plus engineers about what they do and how they reached their role
+* **[Resources](/guides/learning-materials)** - a collection of templates and further readings if you're looking for more
 
 Every company puts its own spin on Staff-plus roles, so it's likely that some parts won't map to your experience.
 If that's the case, please take what resonates and discard what doesn't!

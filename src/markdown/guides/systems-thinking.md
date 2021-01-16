@@ -24,7 +24,7 @@ Changes to stocks are called _flows_. These can be either _inflows_ or _outflows
 
 The other relationship, represented in this article by a dashed line, is an _information link_. These indicate that the value of a stock is a factor in the size of a flow. Indicated in this diagram by a dashed line. The link here shows that the time available for developing features depends on the number of trained managers.
 
-Often stocks outside of a diagrams scope will be represented as a cloud, indicating that there is something complex that  happened there that we're not currently exploring. It's best practice to label every flow, and to keep in mind that every flow is a rate, whereas every stock is a quantity.
+Often stocks outside of a diagrams scope will be represented as a cloud, indicating that there is something complex that happened there that we're not currently exploring. It's best practice to label every flow, and to keep in mind that every flow is a rate, whereas every stock is a quantity.
 
 
 ## Developer velocity
@@ -34,10 +34,10 @@ Since reading Forsgren's [Accelerate](https://lethain.com/accelerate-developer-p
 
 They focus on four measures of developer velocity:
 
-1.  **Delivery lead time** is time from code being written to it being used in production.
-1.  **Deployment frequency** is how often you deploy code.
-1.  **Change fail rate** is how frequently changes fail.
-1.  **Time to restore service** is time spent recovering from defects.
+1. **Delivery lead time** is time from code being written to it being used in production.
+1. **Deployment frequency** is how often you deploy code.
+1. **Change fail rate** is how frequently changes fail.
+1. **Time to restore service** is time spent recovering from defects.
 
 The book uses surveys from tens of thousands of organizations to assess their
 overall productivity and show how it correlates to their performance on those
@@ -47,11 +47,11 @@ four dimensions.
 
 These kind of intuitively make sense as measures of productivity, but let's see if we can model these measures into a system we can use to reason about developer productivity:
 
-*   **_pull requests_** are converted into **ready commits** based on our _code review rate,_
-*   **ready commits** convert into **deployed commits** at _deploy rate,_
-*   **deployed commits** convert into **incidents** at _defect rate,_
-*   **incidents** are remediated into **reverted commits** at _recovery rate_,
-*   **reverted commits** are debugged into new **pull requests** at _debug rate_.
+* **_pull requests_** are converted into **ready commits** based on our _code review rate,_
+* **ready commits** convert into **deployed commits** at _deploy rate,_
+* **deployed commits** convert into **incidents** at _defect rate,_
+* **incidents** are remediated into **reverted commits** at _recovery rate_,
+* **reverted commits** are debugged into new **pull requests** at _debug rate_.
 
 Linking these pieces together, we see a _feedback loop_, where the system's downstream behavior impacts its upstream behavior. With a sufficiently high _defect rate_ or slow _recovery rate_, you could easily see a world where each deploy leaves you even further behind.
 

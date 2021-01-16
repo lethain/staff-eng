@@ -25,8 +25,8 @@ Into the messy details, we go.
 
 When I asked folks whether they had a Staff project, some of the answers were quite concise:
 
-*   [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), "I actually didn't really have a Staff Project."
-*   [Diana Pojar](https://staffeng.com/stories/diana-pojar), "No, I did not have an assigned 'Staff Project,' and that is not something that is part of the promotion process at Slack."
+* [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), "I actually didn't really have a Staff Project."
+* [Diana Pojar](https://staffeng.com/stories/diana-pojar), "No, I did not have an assigned 'Staff Project,' and that is not something that is part of the promotion process at Slack."
 
 Some folks were even skeptical of the Staff project concept overall. [Nelson Elhage](https://staffeng.com/stories/nelson-elhage ) said,
 
@@ -72,9 +72,9 @@ Although each of these projects is different, there are a few typical characteri
 
 
 
-*   **Complex and ambiguous** - early in your career, you're given well-defined problems, but as you get deeper into it, you'll increasingly encounter poorly defined or undefined problems, and Staff projects will generally start with a poorly scoped but complex and _important_ problem. Your project might start with only the assertion that your company's aging monolith is crippling product development. From that broad, unclear (and potentially wrong) statement, you'll have to identify a concrete approach that works.
-*   **Numerous and divided stakeholders** - the easiest projects start with organizational alignment around both the problem and the solution, but your Staff project might likely start with neither. It might be an area which management views as an existential risk, but many engineers feel it is good enough. It might be an area that everyone agrees is a problem, but with strong factional disagreement about approach, for example, disagreement between pursuing a service strategy or reinvesting in your existing monolith.
-*   **Named bet where failure matters** - it's going to be a project important enough that senior leadership talks about it at all-organization or all-company meetings. This means folks will be watching your work closely, and any failures will be very visible. Success will be highly visible, as well!
+* **Complex and ambiguous** - early in your career, you're given well-defined problems, but as you get deeper into it, you'll increasingly encounter poorly defined or undefined problems, and Staff projects will generally start with a poorly scoped but complex and _important_ problem. Your project might start with only the assertion that your company's aging monolith is crippling product development. From that broad, unclear (and potentially wrong) statement, you'll have to identify a concrete approach that works.
+* **Numerous and divided stakeholders** - the easiest projects start with organizational alignment around both the problem and the solution, but your Staff project might likely start with neither. It might be an area which management views as an existential risk, but many engineers feel it is good enough. It might be an area that everyone agrees is a problem, but with strong factional disagreement about approach, for example, disagreement between pursuing a service strategy or reinvesting in your existing monolith.
+* **Named bet where failure matters** - it's going to be a project important enough that senior leadership talks about it at all-organization or all-company meetings. This means folks will be watching your work closely, and any failures will be very visible. Success will be highly visible, as well!
 
 If you meet these, it's probably a staff project. These can be pretty nerve-wracking, which is also why they're so effective at developing you.
 

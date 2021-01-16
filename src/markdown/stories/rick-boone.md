@@ -17,17 +17,17 @@ I’m the Strategic Advisor to Uber’s Vice President of Infrastructure, which 
 
 Strategic Advisor is a wide ranging role, for example I might work on:
 
-*   assessing our technology needs over the next two years
-*   helping prioritize innovation in the roadmap for the next six months
-*   digging into important areas without a clear owner and helping streamline the ongoing related projects
-*   learning how the engineers are feeling before or after a big organizational change
-*   talking to two teams who need to agree on something but are very far apart and seem like they’re having communication issues, figuring out how to help them find an effective path forward
+* assessing our technology needs over the next two years
+* helping prioritize innovation in the roadmap for the next six months
+* digging into important areas without a clear owner and helping streamline the ongoing related projects
+* learning how the engineers are feeling before or after a big organizational change
+* talking to two teams who need to agree on something but are very far apart and seem like they’re having communication issues, figuring out how to help them find an effective path forward
 
 It’s just a really, really broad role that’s a mix of engineering, culture, psychology, organizational design and strategy. There are two ways that I describe it, both from pop culture. The first is like being the [Hand of the King](https://awoiaf.westeros.org/index.php/Hand_of_the_King) in _Game of Thrones_, and that’s the best analogue I have for it. The second is [Leo McGarry](https://westwing.fandom.com/wiki/Leo_McGarry) from _The West Wing_, who always said, “I serve at the pleasure of the President.” In my role, I say that I serve at the pleasure of the Vice President of Infrastructure.
 
 Although right now it’s just me, previously there were two of us in the Strategic Advisor to VP Infrastructure role, and we would split the work based on our natural affinity to the projects. She often focused more on projects related to managers and leadership while I focused more on IC’s and engineering projects - though we still managed to do things in both areas
 
-The Strategic Advisor role is a bit unorthodox; it was created by [Matthew Mengerink](https://eng.uber.com/core-infra-2018/) a little while after he started in the VP of Infrastructure role.  To my knowledge, our org, and the office of our CTO, are the only orgs which have a role of this type. Matthew created the role because of the value of having full context from within the engineering teams themselves , and he wanted to create that feedback loop to inform his decision making.
+The Strategic Advisor role is a bit unorthodox; it was created by [Matthew Mengerink](https://eng.uber.com/core-infra-2018/) a little while after he started in the VP of Infrastructure role. To my knowledge, our org, and the office of our CTO, are the only orgs which have a role of this type. Matthew created the role because of the value of having full context from within the engineering teams themselves , and he wanted to create that feedback loop to inform his decision making.
 
 It’s a particularly valuable role in Uber’s Infrastructure organization because it’s a really, really broad organization, and I help serve as a synthesized view across all of it.
 
@@ -59,7 +59,7 @@ In my role we’ll often go weeks without being in the same room together, but I
 
 It also means that I have to truly understand his goals, intent, values and principles, to make sure that I’m ready to stake my reputation and credibility on pushing them forward. Often, part of my role involves advocating for or translating his vision and/or implementation to engineers, sometimes when supplemental context isn’t always known. When I do this, I have to make sure that I not only understand the logic and value of what he’s doing, but that I also believe in it myself - otherwise, advocacy becomes hard, not to mention disingenuous.
 
-This is something I really struggled with a lot when I started in the role. Matthew would constantly tell me, “You’re my representative; you should feel free to push on and perform things using my name and role.” That was difficult for me because I’ve never been in a role like that before. Previously I’ve always operated using my own name and reputation, and now I was operating  under the aegis of the Vice President and everything which that carried . Over time I’ve learned how to be deliberate with using that hammer, since you don’t want to overuse it.
+This is something I really struggled with a lot when I started in the role. Matthew would constantly tell me, “You’re my representative; you should feel free to push on and perform things using my name and role.” That was difficult for me because I’ve never been in a role like that before. Previously I’ve always operated using my own name and reputation, and now I was operating under the aegis of the Vice President and everything which that carried . Over time I’ve learned how to be deliberate with using that hammer, since you don’t want to overuse it.
 
 I’ve also learned that I have to let folks know which hat I’m wearing sometimes. I love to mentor people, but sometimes folks aren’t sure if they’re getting the strategic advisor working for the benefit of the organization and company or the mentor, working for the benefit of that person and their career; I try to let them know which role I’m currently in within a particular conversation. If I meet with someone I’m mentoring, they might want to get advice about changing teams, or even leaving the organization or the company, and they want to know which perspective I’m giving advice from.
 
@@ -71,7 +71,7 @@ Whereas with me, there might be weeks where I’m focused on a project around gr
 
 **_How do you stay aware of reality on the ground now that you’re developing less?_**
 
-When I was an engineer I could do this passively, because you’re in the code, trying to push commits, dealing with the friction of provisioning and operating services, etc. That approach doesn’t work anymore, since I’m not touching code very much;  so now, gaining that data and awareness  requires an active process.
+When I was an engineer I could do this passively, because you’re in the code, trying to push commits, dealing with the friction of provisioning and operating services, etc. That approach doesn’t work anymore, since I’m not touching code very much; so now, gaining that data and awareness requires an active process.
 
 One thing I’ve done is continue to sit next to my old team so I can hear them work. Maybe they’ll complain about a service’s stability, or a gap in our tooling, and it’s helpful to keep hearing that.
 
@@ -89,7 +89,7 @@ Another reason mentorship is important to me because throughout my life and care
 
 I’ll always tell people, “Seriously, if you need me, just come ask for help.” This is one of the most exciting parts of what I do, and there are a few different ways I try to make myself available.
 
-One is that I give an Engucation (what happens when you blend engineering and education into a single word) class every month to most new hires in engineering. That class is called “Lessons + Questions” and it’s literally just a place where they can ask me anything they want about Uber - technical, cultural, whatever - and I’m as candid as possible.  At the end of that, I let people know my email and that they’re welcome to reach out. A good number reach out to me after that and I give them advice on their careers, working at Uber, or whatever. Other times I’ll have people who just run into me while I’m around the office and ask for advice.
+One is that I give an Engucation (what happens when you blend engineering and education into a single word) class every month to most new hires in engineering. That class is called “Lessons + Questions” and it’s literally just a place where they can ask me anything they want about Uber - technical, cultural, whatever - and I’m as candid as possible. At the end of that, I let people know my email and that they’re welcome to reach out. A good number reach out to me after that and I give them advice on their careers, working at Uber, or whatever. Other times I’ll have people who just run into me while I’m around the office and ask for advice.
 
 I want to be visible as a Black engineer, showing others that we _are_ here and this _is_ doable. Once I realized this was an important motivation for me, I knew that I had to get better at public speaking, because that’s such an important way to scale myself as a role model. Public speaking used to terrify me. I used to _hate_ public speaking. But because it’s such a key way to reach large numbers of people, I told myself I had to learn to like it, and since then I’ve learned to be an effective public speaker and have actually fallen in love with it. It’s now one of the most exciting things I do - it’s like a roller coaster; everytime I do it, I get nervous, but it’s a thrilling, fun type of nervousness and I get a huge rush while I’m doing it.
 
@@ -110,7 +110,7 @@ When he first suggested that I take the role, I had a ton of imposter syndrome a
 
 **_What two or three factors were most important in you becoming a strategic advisor? How have the companies you joined, your location, or your education impacted your path?_**
 
-In addition to Rob’s recommendation, the most important factor was doing visible work that aligned with Matthew’s values. One project I worked on was joining the working group to  understand and improve SRE’s culture back in 2017. The working group was already planned before [Susan Fowler’s blog post](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber) went out, and our first meeting was coincidentally three days after she posted it. I really think the culture working group did some great work, work which myself and the other group members are extremely proud of and over eighteen months we really moved the culture of a hundred person organization in a meaningful way.
+In addition to Rob’s recommendation, the most important factor was doing visible work that aligned with Matthew’s values. One project I worked on was joining the working group to understand and improve SRE’s culture back in 2017. The working group was already planned before [Susan Fowler’s blog post](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber) went out, and our first meeting was coincidentally three days after she posted it. I really think the culture working group did some great work, work which myself and the other group members are extremely proud of and over eighteen months we really moved the culture of a hundred person organization in a meaningful way.
 
 Additionally, I’ve always just been personally fascinated with things in the realm of both culture and human psychology + behavior. In my career, at the companies I’ve worked at, culture + group psychology has often been the hidden x-factor that turns organizations from good to great. I’d already been satisfying my own personal curiosity in the area with books and papers on things like behavioral economics, behavioral science, etc, so that natural interest has helped nudge me towards where I’m at now.
 
@@ -138,7 +138,7 @@ What I want to focus on right now is becoming effective as a high-level, big-pic
 
 **_What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?_**
 
-You know, for the first two-thirds of my career I used to love reading as much technical content as I could. I would be on YCombinator or my RSS feed all day reading about distributed systems, reliability, etc. These days I’m much more into reading about behavioral economics, behavioral science, human psychology, organizational strategy and so on. Some people I really enjoy in those realms are [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), [Tim Harford](https://en.wikipedia.org/wiki/Tim_Harford), [Dan Ariely.](https://en.wikipedia.org/wiki/Dan_Ariely)  There are also some amazing podcasts out there - [Freakonomics](https://freakonomics.com/archive/), [Choice-ology](https://www.schwab.com/resource-center/insights/podcast), [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain).
+You know, for the first two-thirds of my career I used to love reading as much technical content as I could. I would be on YCombinator or my RSS feed all day reading about distributed systems, reliability, etc. These days I’m much more into reading about behavioral economics, behavioral science, human psychology, organizational strategy and so on. Some people I really enjoy in those realms are [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman), [Tim Harford](https://en.wikipedia.org/wiki/Tim_Harford), [Dan Ariely](https://en.wikipedia.org/wiki/Dan_Ariely). There are also some amazing podcasts out there - [Freakonomics](https://freakonomics.com/archive/), [Choice-ology](https://www.schwab.com/resource-center/insights/podcast), [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain).
 
 Also, last year I started compiling a [reading list of books about the human brain and behavior](https://docs.google.com/document/d/1WIqIYuSGfyoU_ZO-xZMDXfaaUmnG2tmnkHiGZQ7pvqg/edit?usp=sharing) which I share with anyone who’s also interested in the topic(s).
 

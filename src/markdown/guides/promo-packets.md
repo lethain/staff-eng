@@ -12,13 +12,13 @@ It’s likely your company will have its own format for promotion packets, and _
 
 For traversing towards your Staff-plus promotion, a general template format that’s useful is:
 
-*   What are your Staff projects? What did you do? What was the project’s impact (including a [well-defined goal](https://lethain.com/goals-and-baselines/))? What made this project complex? Keep it very short and then link out to supporting design documents
-*   What are the high-leverage ways you’ve improved the organization?
-*   What is the quantifiable impact of your projects? (Did you increase revenue by $10 million? Did you reduce year-on-year customer support tickets by 20%?)
-*   Who have you mentored and through what accomplishments?
-*   What [glue work](https://www.slideshare.net/TanyaReilly/being-glue) do you do for the organization? What’s the impact of that glue work?
-*   Which teams and leaders are familiar with and advocates for your work? What do they value about your work? One sentence, include data (e.g. survey data) when possible
-*   Do you have a real or perceived skill or behavior gaps that might hold you back? For each, how would you address the concern? One sentence each
+* What are your Staff projects? What did you do? What was the project’s impact (including a [well-defined goal](https://lethain.com/goals-and-baselines/))? What made this project complex? Keep it very short and then link out to supporting design documents
+* What are the high-leverage ways you’ve improved the organization?
+* What is the quantifiable impact of your projects? (Did you increase revenue by $10 million? Did you reduce year-on-year customer support tickets by 20%?)
+* Who have you mentored and through what accomplishments?
+* What [glue work](https://www.slideshare.net/TanyaReilly/being-glue) do you do for the organization? What’s the impact of that glue work?
+* Which teams and leaders are familiar with and advocates for your work? What do they value about your work? One sentence, include data (e.g. survey data) when possible
+* Do you have a real or perceived skill or behavior gaps that might hold you back? For each, how would you address the concern? One sentence each
 
 It’s useful to spend some time to write out those answers yourself, but getting promoted into a leadership role isn’t a solo activity -- it’s something you can only accomplish with a team of folks supporting you along the way.
 
