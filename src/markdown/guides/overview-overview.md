@@ -5,53 +5,64 @@ date: "2020-06-21"
 kind: "guide"
 ---
 
-At most technology companies, you'll reach Senior Software Engineer, the [career level](https://lethain.com/mailbag-beyond-career-level/)
+At most technology companies, you'll reach Senior software engineer, the [career level](https://lethain.com/mailbag-beyond-career-level/)
 for software engineers, in five to eight years.
-At that level, your company's career ladder won't require you to work towards the next promotion,
-and being promoted beyond it is exceptional rather than expected.
-At that point, your career path will branch, and you have to decide between
-remaining at your current level,
-continuing down the path of technical excellence to become a Staff Engineer,
-or switching into engineering management.
-Of course, the specific titles vary by company, and you can replace
-"Senior Engineer" and "Staff Engineer"
-with whatever your company prefers.
+At the career level, your company's career ladder won't require that you work towards the next promotion;
+being promoted further is an exception rather than expected.
+This is also when many engineers are first given an opportunity to move into engineering management.
 
 Over the past few years, we've seen a flurry of books unlocking the engineering management career path, like
 Camille Fournier's [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897),
 Julie Zhuo's [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/),
-Lara Hogan's [Resilient Management](https://resilient-management.com)
-and my own [An Elegant Puzzle](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186).
-The management career isn't an easy one, but increasingly there are maps available for navigating it.
+Lara Hogan's [Resilient Management](https://resilient-management.com),
+and even my own [An Elegant Puzzle](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186).
+The engineering management career isn't an easy one, but there are maps available to help navigate it.
 
-On the other hand, the transition into Staff Engineer, and its further evolutions like
-Principal and Distinguished Engineer
-remains challenging and undocumented. What are the skills you need to develop to reach Staff Engineer?
-Are technical abilities alone sufficient to achieve and succeed in that role?
-How do most folks move into this role?
+What if you want to advance your career without becoming an engineering manager?
+Many companies will answer that question by excitedly telling you that they have a two-track software engineering career path.
+Engineering management is the first track, and the second is technical leadership.
+The technical leadership track is populated by titles like Staff engineer and Principal engineer.
+That this second track exists at all is a sign of progress, but there's much work left to make it both accessible and impactful.
+
+---
+
+This book standardizes on the most common sequence of titles: going from Senior to Staff, followed by Principal, and then Distinguished.
+It uses the term Staff-plus as an overarching label for Staff, Principal, and Distinguished titles.
+Many companies only have a subset of these titles, slowly adding more as their team grows,
+but companies that only have one technical leadership title almost always use Staff.
+A few companies use an alternative sequence, but they're in the minority and perhaps
+will choose to standardize after reading this book.
+
+---
+
+There is pervasive ambiguity around the technical leadership career path, making it difficult to answer seemingly simple questions about Staff-plus roles.
+If you're a Senior engineer and want to reach Staff engineer, what skills should you develop?
+Are technical abilities alone sufficient?
+How do most folks move into one of these roles?
 What is your manager's role in helping you along the way?
-Will you enjoy being a Staff Engineer, or will you toil for years to achieve a role that doesn't suit you?
+Will you enjoy being a Staff engineer, or will you toil for years to reach a role that doesn't suit you?
+This book will help you answer all those questions.
 
-In my engineering management career, I've developed an increasingly clear point of view on
-answering those questions around the Staff Engineer role,
-but my perspectives are shaped by my own experiences, and I believe it's important
-to go beyond boldly presenting my beliefs as universal truths.
-In writing *Staff Engineer*, I interviewed more than a dozen Staff-plus engineers across the industry
-about their lived experiences, and have folded their experiences into my own to create
-something richer in nuance, breadth, and perspective than I could have ever written on my own.
+Given the broad confusion around these roles, I knew I couldn't write this book relying
+too heavily on my own experience. More than a dozen Staff-plus engineers across the industry
+were kind enough to share their experiences of reaching and operating in a Staff-plus role.
+Their wisdom has created something richer in nuance, breadth, and perspective than I could have ever written on my own.
 
 If you're already in a Staff-plus role, I hope these writings will energize you in your
 journey as a leader outside the management track. If you aim for such a role, I hope
-they will provide a pragmatic aid in its pursuit.
-This book can be read cover to cover, but depending on which of those best describe you, feel jump to the sections that sound most interesting.
+this book will provide pragmatic aid in its pursuit.
 
-* **[Overview](/guides/overview-overview)** - a survey of the Staff Engineer role, how it varies by company, and why the title matters
+You can read this book cover to cover, but please jump around if you want. There's no right or wrong way to read it.
+
+Its sections are:
+
+* **[Overview](/guides/overview-overview)** - a survey of the Staff engineer role, how it varies by company, and why the title matters
 * **[Operating at Staff](/guides/operating-at-staff)** - how to do  the work on the other side of the title
 * **[Getting the title where you are](/guides/getting-the-title-where-you-are)** - how to attain a Staff-plus role at your current company
 * **[Switching companies to get the title](/guides/deciding-to-switch)** - when and how changing companies can support the pursuit of a Staff-plus title
 * **[Stories](/guides/stories)** - collected stories from Staff-plus engineers about what they do and how they reached their role
 * **[Resources](/guides/learning-materials)** - a collection of templates and further readings if you're looking for more
 
-Every company puts its own spin on Staff-plus roles, so it's likely that some parts won't map to your experience.
-If that's the case, please take what resonates and discard what doesn't!
+Every company puts its spin on Staff-plus roles, so it's likely that some parts won't map to your experience.
+If that's the case, please take what resonates and discard the rest!
 
