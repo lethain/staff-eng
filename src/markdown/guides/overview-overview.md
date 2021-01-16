@@ -24,14 +24,13 @@ Engineering management is the first track, and the second is technical leadershi
 The technical leadership track is populated by titles like Staff engineer and Principal engineer.
 That this second track exists at all is a sign of progress, but there's much work left to make it both accessible and impactful.
 
----
+![Typical dual-track engineering career ladder](/levels.png)
 
 This book standardizes on the most common sequence of titles: going from Senior to Staff, followed by Principal, and then Distinguished.
 It uses the term Staff-plus as an overarching label for Staff, Principal, and Distinguished titles.
 Many companies only have a subset of these titles, slowly adding more as their team grows,
 but companies that only have one technical leadership title almost always use Staff.
-A few companies use an alternative sequence, but they're in the minority and perhaps
-will choose to standardize after reading this book.
+A few companies use an alternative sequence, but they're in the minority.
 
 ---
 
