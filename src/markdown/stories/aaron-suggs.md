@@ -1,7 +1,7 @@
 ---
 title: "Aaron Suggs - Principal Engineer at Glossier"
 slug: "/stories/aaron-suggs"
-date: "2021-01-10"
+date: "2021-01-21"
 name: "Aaron Suggs"
 kind: "story"
 role: "Principal Engineer at Glossier"
@@ -12,9 +12,9 @@ role: "Principal Engineer at Glossier"
 [twitter](https://twitter.com/ktheory),
 [linkedin](https://www.linkedin.com/in/aaronsuggs/)
 
-**_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
+**_Tell us a little about your current role: where do you work, your title and generally the sort of work that you and your team do._**
 
-I work at [Glossier](https://www.glossier.com), a direct-to-consumer growth-stage skincare and beauty company with incredibly passionate customers. Our engineering team of is ~35 people. I'm a Principal Engineer, mostly focusing on our Site Reliability and Tools team. My recent focus has been leading Glossier's Operational Excellence initiative (nicknamed ✨GLOE✨) and ensuring we're building scalable services and team practices. I define operational excellence as our ability to deliver low defect rates, high availability, and low latency for product features. In practice for the SRE/Tools team, that means improving observability, increasing our infra-as-code adoption, and shepherding our migration from a monolith to microservices.
+I work at [Glossier](https://www.glossier.com), a direct-to-consumer growth-stage skincare and beauty company with incredibly passionate customers. Our engineering team is ~35 people. I'm a Principal Engineer, mostly focusing on our Site Reliability and Tools team. My recent focus has been leading Glossier's Operational Excellence initiative (nicknamed ✨GLOE✨) and ensuring we're building scalable services and team practices. I define operational excellence as our ability to deliver low defect rates, high availability, and low latency for product features. In practice for the SRE/Tools team, that means improving observability, increasing our infra-as-code adoption, and shepherding our migration from a monolith to microservices.
 
 In the [Staff Eng Archetypes](https://staffeng.com/guides/staff-archetypes), I gravitate most towards being a right-hand, and secondly a solver.
 
@@ -30,7 +30,7 @@ When I first became a manager in 2015, it was the only career path for a senior 
 
 I was deeply influenced by a section of Camille Fournier's _Manager's Path_ that called out "empire building" as a toxic management practice. It reminded me of the argument in Plato's _Republic_ that the political leaders shouldn't be those that selfishly seek power, rather those whose wisdom makes them duty-bound to lead.
 
-So I don't orient my career around ever-greater management responsibilities: it's one tool in the toolbox. I appreciate management as a rich discipline that I'll spend my career honing; along side programming and systems engineering.
+So I don't orient my career around ever-greater management responsibilities: it's one tool in the toolbox. I appreciate management as a rich discipline that I'll spend my career honing; alongside programming and systems engineering.
 
 Here are some important factors for me when switching between manager and IC roles:
 * What skills does the team need most acutely: management to coordinate the actions of a group; or an IC to accelerate the execution?
@@ -41,7 +41,7 @@ Here are some important factors for me when switching between manager and IC rol
 
 "Replace indignation with curiosity."
 
-Several years ago, I was telling my manager about another team behaving in a way that caused problems for my team. When I finished, he gave me that advice.  I hadn't been curious about why the other team was acting that way. It turned out they had constraints that made their behavior quite reasonable. By approaching them with curiosity and a helpful mindset (instead of frustration), we quickly found a process that improved both our workflows.
+Several years ago, I told my manager about another team behaving in a way that caused problems for my team. When I finished, he gave me that advice.  I hadn't been curious about why the other team was acting that way. It turned out they had constraints that made their behavior quite reasonable. By approaching them with curiosity and a helpful mindset (instead of frustration), we quickly found a process that improved both our workflows.
 
 More recently, while struggling with burnout, a career coach asked me, "What would let you approach each day with energy and optimism?"
 
@@ -59,7 +59,7 @@ I also interview quite a bit. In 2020, I did (*checks calendar*) 126 interviews.
 
 The deep-focus blocks are marked off on my calendar. My company observes "No Meeting Thursday" which helps a lot. I use these blocks for work that's 'important but not urgent' from [Eisenhower's productivity matrix](https://www.eisenhower.me/eisenhower-matrix/). That's usually writing specs and documentation, or researching and prototyping new tools and patterns.
 
-My schedule is unusual in that I stop work around 4pm most days, then work later in the evenings, ~8-10pm. This gives me several high-quality hours with my family each day. I have difficulty concentrating in the afternoon, and can more easily concentrate at night. And I enjoy getting something done right before bedtime. So this schedule has improved both my work/life balance and productivity. I changed my schedule because of childcare needs during the coronavirus pandemic; but I think I'll keep it long-term. I encourage everyone to reflect on what habits and schedules are helpful for your work. An open discussion with your manager and some flexibility can go a long way.
+My schedule is unusual in that I stop work around 4pm most days, then work later in the evenings, ~8-10pm. This gives me several high-quality hours with my family each day. I have difficulty concentrating in the afternoon, and can more easily concentrate at night. And I enjoy getting something done right before bedtime. So this schedule has improved both my work/life balance and productivity. I changed my schedule because of childcare needs during the coronavirus pandemic; but I think I'll keep it long-term. I encourage everyone to reflect on what habits and schedules are helpful for their work. An open discussion with your manager and some flexibility can go a long way.
 
 The unplanned work is mostly answering Slack messages, advising on urgent issues, or sometimes responding to a production incident. I try to approach this work with a helpful attitude, and also with an eye towards cross-training and writing discoverable documentation to minimize future unplanned work.
 
@@ -71,7 +71,7 @@ I think of my impact in two ways:
 
 'Working the plan' is about making daily, incremental progress on a big project with a team. Some examples have been improving our site availability from under 99% to over 99.95%. It took a lot of Learning Reviews (blameless postmortems), training, testing, and refactoring. Another was a 9-month migration from dynamically-generated Rails-based HTML pages to statically-generated React-based ones to improved time-to-first-byte and availability. It took a lot of coaching, buy-in, and coordination. To successfully work the plan, you need clear goals and incremental milestones to keep the team motivated, and continuous alignment with leadership on the desired outcomes and timeline.
 
-'Serendipity' in my work is about sharing an insight with the right people at the right time to make a positive impact. For example our team was recently choosing a new vendor and the team was split between two mediocre choices. I asked an acquaintance with expertise about the vendors how he would choose; and he recommended a lesser-known new vendor that quickly became a universal team favorite.
+'Serendipity' in my work is about sharing an insight with the right people at the right time to make a positive impact. For example, our team was recently choosing a new vendor and the team was split between two mediocre choices. I asked an acquaintance with expertise about the vendors how he would choose; and he recommended a lesser-known new vendor that quickly became a universal team favorite.
 
 Another serendipitous example was an engineer mentioning during standup that a caching optimization wasn't having impact they expected. I happened to be familiar with the config options of the particular Ruby web server; and was able to interpret some complicated metrics on a dashboard they showed to determine we had misconfigured a memory threshold. Later that day, we made a one-line config change to optimize our memory usage that reduced latency by 30%.
 
