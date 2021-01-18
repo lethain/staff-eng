@@ -8,7 +8,7 @@ role: "Principal Engineer at Glossier"
 ---
 
 <span class="date">January, 2021</span>
-[personal site](https://aaronsuggs.org)
+[personal site](https://aaronsuggs.org),
 [twitter](https://twitter.com/ktheory),
 [linkedin](https://www.linkedin.com/in/aaronsuggs/)
 
