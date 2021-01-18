@@ -11,11 +11,6 @@ role: "Principal Engineer at Stitch Fix"
 [LinkedIn](https://www.linkedin.com/in/alexkessinger/),
 [Twitter](https://twitter.com/voidfiles)
 
-Articles to feature in a link box:
-
-
-
-
 
 **_Tell us a little about your current role: where do you work, what’s your title, and generally what sort of work do you and your team do._**
 
