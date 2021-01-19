@@ -77,6 +77,16 @@ Another serendipitous example was an engineer mentioning during standup that a c
 
 Serendipitous impact isn't planned; and isn't necessarily hard work. It's about paying attention (being present), keeping a curious mindset, and sharing the insight in a way that colleagues are open to receiving.
 
+<div class="pull">
+<p><strong>Some of Aaron&#39;s work</strong></p>
+
+* [The Value of Reliable Developer Tooling](https://kickstarter.engineering/the-value-of-reliable-developer-tooling-e94791d1482e)
+* [What a deploy bot taught us about documentation](https://increment.com/documentation/what-a-deploy-bot-taught-glossier-about-documentation/)
+* [Surviving Black Friday: Tales from an e-Commerce Engineer](https://www.youtube.com/watch?v=Jy_-l3v9zsY)
+* [The Engineering Manager Workshop](https://medium.com/glossier/the-engineering-manager-workshop-82383f810549)
+
+</div>
+
 **_How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?_**
 
 Certainly! As a Principal Engineer, I try to be an enthusiastic and conspicuous [first follower](https://sive.rs/ff) when other engineers are doing important new practices. Some examples are when colleagues demo'ed React snapshot testing and local development with Docker. After each demo, I'd ask how I can try it out and see the benefits for myself. Then I'd look for other teams and in-flight projects where we can apply these practices to get wider adoption.
