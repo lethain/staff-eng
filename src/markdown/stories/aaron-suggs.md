@@ -26,7 +26,7 @@ After a few months, I switched back to management to lead a new Platform team an
 
 Absolutely! I've switched from manager to IC twice in my career; and I'll likely do so again.
 
-When I first became a manager in 2015, it was the only career path for a senior engineer at my company. Fortunately, soon ever-smaller engineering teams to created and shared career ladders with parallel IC and management tracks. When I helped create Kickstarter's engineering ladder, I emphasized IC growth paths that didn't require people management.
+When I first became a manager in 2015, it was the only career path for a senior engineer at my company. Fortunately, ever-smaller engineering teams soon created and shared career ladders with parallel IC and management tracks. When I helped create Kickstarter's engineering ladder, I emphasized IC growth paths that didn't require people management.
 
 I was deeply influenced by a section of Camille Fournier's _Manager's Path_ that called out "empire building" as a toxic management practice. It reminded me of the argument in Plato's _Republic_ that the political leaders shouldn't be those that selfishly seek power, rather those whose wisdom makes them duty-bound to lead.
 
@@ -35,7 +35,7 @@ So I don't orient my career around ever-greater management responsibilities: it'
 Here are some important factors for me when switching between manager and IC roles:
 * What skills does the team need most acutely: management to coordinate the actions of a group; or an IC to accelerate the execution?
 * Will I have sufficient support and feedback to learn and succeed?
-* Am I the only one on the team who could do this; or could other's do it well?
+* Am I the only one on the team who could do this; or could others do it well?
 
 **_Can you remember any piece of advice on reaching Staff that was particularly helpful for you?_**
 
@@ -89,7 +89,7 @@ Serendipitous impact isn't planned; and isn't necessarily hard work. It's about 
 
 **_How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?_**
 
-Certainly! As a Principal Engineer, I try to be an enthusiastic and conspicuous [first follower](https://sive.rs/ff) when other engineers are doing important new practices. Some examples are when colleagues demo'ed React snapshot testing and local development with Docker. After each demo, I'd ask how I can try it out and see the benefits for myself. Then I'd look for other teams and in-flight projects where we can apply these practices to get wider adoption.
+Certainly! As a Principal Engineer, I try to be an enthusiastic and conspicuous [first follower](https://sive.rs/ff) when other engineers are doing important new practices. Some examples are when colleagues demoed React snapshot testing and local development with Docker. After each demo, I'd ask how I can try it out and see the benefits for myself. Then I'd look for other teams and in-flight projects where we can apply these practices to get wider adoption.
 
 I also 'cheerlead': recognizing a colleague's valuable effort in public or a small group, even if the outcomes aren't tangible yet. It could be complimenting a team that's was thorough and reflective during a difficult Learning Review; praising an engineer who reproduced a tricky race condition; or thanking someone who documented a poorly understood process.
 
