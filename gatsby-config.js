@@ -8,7 +8,7 @@ module.exports = {
       `https://lethain.us20.list-manage.com/subscribe/post?u=f7003ed301623a88fab7cf783&amp;id=9c7b745cce`
     ),
     siteUrl: `https://staffeng.com`,
-    image: `https://staffeng.com/static/staffeng-overview.png`,
+    image: `https://staffeng.com/StaffEngSocialShare.jpg`,
   },
     plugins: [
         `gatsby-plugin-sitemap`,
