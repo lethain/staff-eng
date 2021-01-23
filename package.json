@@ -14,6 +14,7 @@
     "gatsby-plugin-offline": "^3.2.9",
     "gatsby-plugin-preload-fonts": "^1.6.0",
     "gatsby-plugin-react-helmet": "^3.3.4",
+    "gatsby-plugin-redirect-to": "^1.0.2",
     "gatsby-plugin-robots-txt": "^1.5.1",
     "gatsby-plugin-sharp": "^2.6.35",
     "gatsby-plugin-sitemap": "^2.4.5",
@@ -34,7 +35,7 @@
     "gatsby"
   ],
   "license": "MIT",
-    "scripts": {
+  "scripts": {
     "preload-fonts": "gatsby-preload-fonts",
     "deploy": "gatsby build && gh-pages -d public",
     "build": "gatsby build",
