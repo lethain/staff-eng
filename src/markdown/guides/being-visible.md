@@ -52,7 +52,7 @@ Find the right mix of activities that leverage your strengths, aren't already ov
 ## Executive visibility
 
 To be promoted to a leadership role, the most important kind of internal visibility is executive visibility.
-Using the [promotion packet](/guides/promo-packets/), you will create visibility with your manager,
+Using the [promotion packet](/guides/promo-packets), you will create visibility with your manager,
 but it's helpful to go further.
 It's particularly valuable to find opportunities to build a relationship with your manager's manager,
 but all positive, visibility at that layer will be helpful to you.
