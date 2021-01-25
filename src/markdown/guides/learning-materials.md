@@ -23,7 +23,7 @@ is a fairly lively room.
 * [Being a principal engineer at Skyscanner](https://medium.com/@SkyscannerEng/being-a-principal-engineer-at-skyscanner-1830dfa17d30) by Nicky Wrightson
 * [Defining a Distinguished Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/) by Jessie Frazelle
 * [How I operated as a Staff engineer at Heroku](https://amyunger.com/blog/2020/09/10/staff-engineer-at-heroku.html) by Amy Unger
-* [Not all engineering leaders are engineering managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers?utm_campaign=con-base&utm_content=tanya-reilly&utm_medium=social&utm_source=twitter) by Tanya Reilly
+* [Not all engineering leaders are engineering managers](https://leaddev.com/not-all-engineering-leaders-are-engineering-managers) by Tanya Reilly
 * [The Nuts and Bolts with Tanya Reilly](https://engineering.squarespace.com/blog/2020/the-nuts-and-bolts-with-tanya-reilly)
 * [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) by Silvia Botros
 * [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) by John Allspaw
@@ -98,20 +98,20 @@ Although I've found that many folks don't read too many books, when I asked Staf
 Some books which were recommended:
 
 * [A Philosophy of Software Design](https://lethain.com/notes-philosophy-software-design/) by John Ousterhout
-* [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/ref=sr_1_1?s=books&ie=UTF8&qid=1532354658&sr=1-1&keywords=accelerate+devops) by Forsgren, Humble, and Kim
-* [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.amazon.com/Becoming-Technical-Leader-Gerald-Weinberg-ebook/dp/B004J4VV3I/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1532438948&sr=1-2&keywords=becoming+a+technical+leader) by Gerald Weinberg
+* [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/dp/B07B9F83WM/) by Forsgren, Humble, and Kim
+* [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.amazon.com/dp/B004J4VV3I/) by Gerald Weinberg
 * [Building Evolutionary Architectures](https://lethain.com/building-evolutionary-architectures/) by Ford, Parsons, and Kua
-* [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/dp/B07K3QBWG1/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Melissa Perri
-* [Good Strategy Bad Strategy: The Difference and Why it Matters](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters-ebook/dp/B004J4WKEC) by Richard Rumelt
+* [Escaping the Build Trap: How Effective Product Management Creates Real Value](https://www.amazon.com/dp/B07K3QBWG1/) by Melissa Perri
+* [Good Strategy Bad Strategy: The Difference and Why it Matters](https://www.amazon.com/dp/B004J4WKEC) by Richard Rumelt
 * [High Output Management](https://www.amazon.com/dp/B015VACHOK/) by Andy Grove
-* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F/ref=sr_1_3?s=books&ie=UTF8&qid=1532438516&sr=1-3&keywords=high+output+management) by Camille Fournier
-* [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?s=books&ie=UTF8&qid=1532354207&sr=1-1&keywords=mythical+man+month) by Fred Brooks
-* [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8/ref=sr_1_1?s=books&ie=UTF8&qid=1532354475&sr=1-1&keywords=the+phoenix+project) by Kim, Behr, and Spafford.
-* [The Passionate Programmer](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U/ref=sr_1_1?keywords=chad+fowler&qid=1582836888&sr=8-1) by Chad Fowler
-* [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Hunt and Thomas
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/dp/B06XP3GJ7F/) by Camille Fournier
+* [The Mythical Man-Month](https://www.amazon.com/dp/0201835959/) by Fred Brooks
+* [The Phoenix Project](https://www.amazon.com/dp/B078Y98RG8/) by Kim, Behr, and Spafford.
+* [The Passionate Programmer](https://www.amazon.com/dp/B00AYQNR5U/) by Chad Fowler
+* [The Pragmatic Programmer](https://www.amazon.com/dp/020161622X) by Hunt and Thomas
 * [Resilient Management](https://resilient-management.com/) by Lara Hogan
-* [Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis](https://www.amazon.com/Software-Design-X-Rays-Technical-Behavioral-ebook/dp/B07BVRLZ87) by Adam Tornhill
-* [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella Meadows
+* [Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis](https://www.amazon.com/dp/B07BVRLZ87) by Adam Tornhill
+* [Thinking in Systems: A Primer](https://www.amazon.com/dp/1603580557) by Donella Meadows
 
 If you're looking for, even more, recommended book lists abound, including my own at [Irrational Exuberance's Best Books](https://lethain.com/best-books).
 
