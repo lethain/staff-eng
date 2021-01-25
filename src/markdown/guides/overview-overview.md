@@ -12,10 +12,10 @@ being promoted further is an exception rather than expected.
 This is also when many engineers are first given an opportunity to move into engineering management.
 
 Over the past few years, we've seen a flurry of books unlocking the engineering management career path, like
-Camille Fournier's [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897),
-Julie Zhuo's [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/),
+Camille Fournier's [The Manager's Path](https://www.amazon.com/dp/1491973897),
+Julie Zhuo's [The Making of a Manager](https://www.amazon.com/dp/0735219567/),
 Lara Hogan's [Resilient Management](https://resilient-management.com),
-and even my own [An Elegant Puzzle](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186).
+and even my own [An Elegant Puzzle](https://www.amazon.com/dp/1732265186).
 The engineering management career isn't an easy one, but there are maps available to help navigate it.
 
 What if you want to advance your career without becoming an engineering manager?
