@@ -13,4 +13,4 @@ Your manager and management chain will learn from your example as well. Many man
 
 Does it feel odd to talk about fearing Staff-plus roles? It does, but it’s unavoidable. At most companies, the primary factor preventing the adoption of an impactful Staff-plus role is the fear of creating a tyrannical architect. That fear is driven by their previous experiences with inept and poorly managed technical leaders. This fear will only subside as we collectively replenish the groundwater of good Staff-plus role models.
 
-My hope is that reading Staff Engineer has given you a map to follow towards a rewarding Staff-plus career or inspired you to keep walking the path of your own that you’ve already found. The software technology industry is still in its infancy, and what it becomes is wholly in our hands.
+My hope is that reading _Staff Engineer_ has given you a map to follow towards a rewarding Staff-plus career or inspired you to keep walking the path of your own that you’ve already found. The software technology industry is still in its infancy, and what it becomes is wholly in our hands.
