@@ -54,7 +54,7 @@ It's convenient to present these phases as a linear staircase to be ascended, bu
 
 When confronted by a quality problem, the first instinct is often to identify a process failure that necessarily requires a process solution. If a deployment causes an outage, it's because the author didn't correctly follow the code test process, so now we're going to require tests with every commit -- that'll teach those lazy developers!
 
-There's the old joke about [Sarbannes-Oxley](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act): it doesn't reduce risk; it just makes it clear who to blame when things go wrong. Unfortunately, that joke applies without humor to how many organizations roll out processes. Accountability has its role, but it's much more important to understand the problem at hand and try to fix it directly than to create process-driven accountability.
+There's the old joke about Sarbannes-Oxley: it doesn't reduce risk; it just makes it clear who to blame when things go wrong. Unfortunately, that joke applies without humor to how many organizations roll out processes. Accountability has its role, but it's much more important to understand the problem at hand and try to fix it directly than to create process-driven accountability.
 
 Process rollout requires humans to change how they work, which you shouldn't undertake lightly. Rather than reaching for process improvement, start by donning the performance engineer's mindset. Measure the problem at hand, identify where the bulk of the issue occurs, and focus on precisely that area.
 
