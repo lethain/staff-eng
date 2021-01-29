@@ -13,14 +13,14 @@ const IndexPage = ({
   },
 }) => {
   const Stories = edges.map(edge => <StoryLink post={edge.node} />)
-  const featStoryData = [
+    const featStoryData = [
     {
       frontmatter: {
-        slug: "/stories/duretti-hirpa",
-        name: "Duretti Hirpa",
-        role: "Formerly Staff Engineer at Mailchimp",
+        slug: "/stories/michelle-bu",
+        name: "Michelle Bu",
+        role: "Payments Product Tech lead at Stripe",
       },
-    },
+    },	
     {
       frontmatter: {
         slug: "/stories/bert-fan",
@@ -30,11 +30,11 @@ const IndexPage = ({
     },
     {
       frontmatter: {
-        slug: "/stories/michelle-bu",
-        name: "Michelle Bu",
-        role: "Payments Product Tech lead at Stripe",
+        slug: "/stories/duretti-hirpa",
+        name: "Duretti Hirpa",
+        role: "Formerly Staff Engineer at Mailchimp",
       },
-    },
+    },      
   ]
   const FeatStories = featStoryData.map(node => <StoryLink post={node} />)
   const featGuideData = [

@@ -37,7 +37,7 @@ const Layout = ({ children }) => {
 	  <div class="pull">
 	      <p>
 		  If you've enjoyed reading the stories and guides on <code>staffeng.com</code>, you might also enjoy{" "}
-		  <a href="/book">Staff Engineer: Leadership beyond the management track</a>,
+		  <a href="/book"><em>Staff Engineer: Leadership beyond the management track</em></a>,
 		  which features many of these guides and stories.
 	      </p>
 	      <a href="/book"><img src="/StaffEngBookWide.jpg" alt="Staff Engineer book cover" /></a>
