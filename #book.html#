@@ -133,20 +133,18 @@
       </div>
       <div class="col-lg-4 col-xl-6 px-lg-5 mb-5 mbl-lg-0">
 
-	<!--
         <div class="row">
 	  <div>
-	    <h3 class="card-1__title mb-2">Foreward by WIP</h3>
+	    <h3 class="card-1__title mb-2">Foreward by Tanya Reilly</h3>
 	    <p class="block__paragrph mb-5">
-	      Work in progress!
+	      Foreword written by <a href="https://noidea.dog">Tanya Reilly</a>, Principal engineer at Squarespace.
 	    </p>
 	  </div>
 	</div>
-	-->
 
         <div class="row">
 	  <div>
-	    <h3 class="card-1__title mb-2">28 guides and resources</h3>
+	    <h3 class="card-1__title mb-2">28 guides and 14 interviews</h3>
 	    <p class="block__paragrph mb-5">
 	      These guides cover the <a href="/guides/staff-archetypes">Staff engineer archetypes</a>,
 	      how to identify what to work on as a Staff Engineer in <a href="/guides/work-on-what-matters">Work on what matters</a>,
@@ -315,7 +313,7 @@
           <h4 class="content-block__title">Is this content available for free?</h4>
           <p class="content-block__paragraph">
 	    The vast majority of the writing included in this book is available for free on <a href="/">staffeng.com</a>,
-	    and will continue to available for free indefinitely. The fo
+	    and will continue to available for free indefinitely. The book's foreword and ending section are not available on the website.
 	  </p>
           <p class="content-block__paragraph">
 	    There are also stories on <a href="https://staffeng.com">staffeng.com</a>
