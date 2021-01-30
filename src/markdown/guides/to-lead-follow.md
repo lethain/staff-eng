@@ -15,7 +15,8 @@ Defining leadership and management is such heavily trodden terrain that it's har
 
 The way I think about leadership has evolved a bit over the last few years, though, coming to focus on two specific attributes. First, leaders have a sufficiently refined view of how things _ought to work_ such that they can rely on their distinction between how things _are_ and how they _ought_ _to be_ to identify proactive, congruent actions to narrow that gap. Second, they care enough about the gap to actually attempt those narrowing actions.
 
-If you only see the gap without acting on it, you might be a visionary, but you're inert. If you take action without a clear view of the goal, many will consider you a leader, but your impact will be random, arbitrary, and inefficient. Combining both with some luck is likely to take you a long way in your career, and these are characteristics common in folks I've worked with who successfully navigate the transition into [staff engineering](http://staffeng.com/) or senior management roles.
+If you only see the gap without acting on it, you might be a visionary, but you're inert. If you take action without a clear view of the goal, many will consider you a leader, but your impact will be random, arbitrary, and inefficient. Combining both with some luck is likely to take you a long way in your career, and these are characteristics common in folks I've worked with who successfully navigate
+the transition into Staff-plus engineering or senior management roles.
 
 But this sort of leadership can only take you so far, and personally, it took me _years_ of blundering to understand why my approach to leadership created so much early success for me when first joining a company but slowly eroded how my contribution was received over time. The lesson that I slowly learned was that you couldn't be an effective long-term leader until you learn how to follow.
 

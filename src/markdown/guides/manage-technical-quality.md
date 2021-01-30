@@ -37,7 +37,7 @@ Just as your company's technical quality bar will shift over time, your approach
 As we dig into this toolkit of approaches, remember to pick the cheapest, most straightforward tool likely to work. Technical quality is a long-term game. There's no such thing as winning, only learning and earning the chance to keep playing.
 
 
-### Ascending the staircase
+## Ascending the staircase
 
 There's a particular joy in drilling into the challenge at hand until you find a generalized problem worth solving. However, an equally important instinct is solving the current situation quickly and moving on to the next pressing issue.
 
@@ -123,7 +123,7 @@ Your fundamental tools for aligning technical vectors are:
 * **Refine your engineering strategy** from [tech spec, to strategy, to vision](/guides/engineering-strategy).
 * **Encapsulate your approach in your workflows and tooling.** Documentation of a clear vision is helpful, but some folks simply won't study your document. Deliberate tools create workflows that nurture habits far better than training and documentation. For example, provisioning a new service might require going to a website that requires you to add a link to a technical spec for that service. Another approach might be blocking deploys to production if the service doesn't have an on-call setup established, with someone currently on-call, and that individual must also have their push notifications enabled.
 * **Train new team members during their onboarding.** Changing folks' habits after they've formed is quite challenging, which is frustrating if you're attempting to get folks to adopt new practices. However, if you get folks pointed in the right direction when they join, then that habit-momentum will work in favor of remaining aligned.
-* **Use [Conway’s Law](https://en.wikipedia.org/wiki/Conway%27s_law).** Conway's Law argues that organizations build software that reflects their structure. If your organization is poorly structured, this will lead to tightly coupled or tangled software. However, it's also a force for quality if your organization's design is an effective one.
+* **Use _Conway’s Law_.** Conway's Law argues that organizations build software that reflects their structure. If your organization is poorly structured, this will lead to tightly coupled or tangled software. However, it's also a force for quality if your organization's design is an effective one.
 * **Curate technology change** using [architecture reviews](https://lethain.com/scaling-consistency/), [investment strategies](https://lethain.com/magnitudes-of-exploration/), and [a structured process for adopting new tools](https://slack.engineering/how-big-technical-changes-happen-at-slack/). Most misalignment comes from missing context, and these are the organizational leverage points to inject context into decision-making. Many organizations start here, but it's the last box of tools that I recommend opening. How can you provide consistent architecture reviews without an articulated vision? Why tell folks your strategy after they've designed something rather than in their onboarding process?
 
 Regardless of the approaches you use to align your technical vectors, this is work that tends to happen over months and years. There's no world where you write the vision document, and the org immediately aligns behind its brilliance. Much more likely is that it gathers dust until you invest in building support.
