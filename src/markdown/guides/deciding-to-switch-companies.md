@@ -17,7 +17,7 @@ Instead, generally, those folks stay and are rewarded for staying at a given com
 
 It takes years to build the visibility and social credibility to get promoted from a Senior engineer role to a Staff-plus role, which makes it very difficult to walk away if you feel like you’re _just_ one hump away from the promotion. Leaving, it can feel like, means starting over from scratch.
 
-Then again, as described by [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn), it’s common for folks to attain their first Staff-plus title by joining a new company. Even with all your internal credibility, sometimes leaving is the most effective path forward.
+Then again, as described by [Keavy McMinn](/stories/keavy-mcminn), it’s common for folks to attain their first Staff-plus title by joining a new company. Even with all your internal credibility, sometimes leaving is the most effective path forward.
 
 What’s the right decision for you?
 

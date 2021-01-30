@@ -68,7 +68,7 @@ It's helpful to complement your internal visibility work with external visibilit
 Compared to an exclusively internal focus, one advantage of building an external presence is that there's a lot more room to create a niche and name for yourself. Internal efforts often end up competing for attention with your peers in a way that external efforts simply don't.
 
 In terms of how to create this sort of visibility for yourself and your work, it could be 
-giving a conference talk like [Keavy McMinn](/stories/keavy-mcminn) or [Dan Na](https://staffeng.com/stories/dan-na), going on a podcast like [Michelle Bu](https://staffeng.com/stories/michelle-bu), turning a problem into a website and book like [Katie Sylor-Miller](https://staffeng.com/stories/katie-sylor-miller)'s _[ohshitgit](https://ohshitgit.com)_, or creating a mailing list like Stephen Whitworth's _[High Growth Engineering](https://highgrowthengineering.substack.com)_.
+giving a conference talk like [Keavy McMinn](/stories/keavy-mcminn) or [Dan Na](https://staffeng.com/stories/dan-na), going on a podcast like [Michelle Bu](https://staffeng.com/stories/michelle-bu), turning a problem into a website and book like [Katie Sylor-Miller](/stories/katie-sylor-miller)'s _[ohshitgit](https://ohshitgit.com)_, or creating a mailing list like Stephen Whitworth's _[High Growth Engineering](https://highgrowthengineering.substack.com)_.
 
 ## Should _you_ focus on visibility?
 
