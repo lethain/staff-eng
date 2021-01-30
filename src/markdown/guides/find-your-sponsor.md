@@ -26,7 +26,7 @@ While you’ll always need your direct manager engaged as your sponsor, you may 
 
 ## Activating your sponsor
 
-The first step of activating your sponsors is explicitly sharing your goals. “I’m looking to be recognized as a Staff engineer” is a great start. [Ritu Vincent](https://staffeng.com/stories/ritu-vincent) mentioned this as her top advice for folks seeking Staff-plus roles,
+The first step of activating your sponsors is explicitly sharing your goals. “I’m looking to be recognized as a Staff engineer” is a great start. [Ritu Vincent](/stories/ritu-vincent) mentioned this as her top advice for folks seeking Staff-plus roles,
 
 > People frequently come to me and ask, “What should I do next to reach Staff?” One of the things that I tell them is to be super open and honest with your manager about what you want from your career. A mistake I made early on in my one-on-ones was telling my manager what I thought they wanted to hear, instead of what I actually felt.
 
