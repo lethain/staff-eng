@@ -51,7 +51,7 @@ ___How do you spend your time day-to-day?___
 
  In that effort, I spent time in various meetings figuring out the technical strategy, and also a fair amount of my week writing design documents on the problems we saw along with promoting the shape of architecture that we thought would solve them. Finally, I worked to explain and sell those ideas to leadership and other teams, as a way of setting the agenda and advocating for their investment and prioritization.
 
-___Where do you feel most impactful as a Staff-plus Engineer?___
+___Where do you feel most impactful as a Staff-plus engineer?___
 
  Certainly the one that's easiest to trace the impact of was [Sorbet](https://sorbet.org/), where in two years a three person team took Stripe from a dynamically typed code base to a substantially statically typed code base. That impacted all of the company’s six hundred engineers’ daily experience in their editors and development environment.
 
@@ -99,7 +99,7 @@ ___When I spoke with [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn), 
 
  Sometimes the information isn’t useful. On the other hand, if someone tried to do this thing and died on the rocks, there may be some really hard technical problem that's still around. There might be some value in pointing out the rocks, but also there's a lot of value in having the audacity to try again because it’s years later and we've become a different organization.
 
-___There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?___
+___There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?___
 
  I'm instinctively a little bit wary of this sort of idea of a staff project, in part because one of the archetypes of Staff Engineers that I've seen are people who don't necessarily run grand projects themselves or do big things. But just are sort of incredibly effective gurus and routers who make the whole engineering organization run better.
 
@@ -109,7 +109,7 @@ ___There is a popular idea that becoming a Staff Engineer requires completing a 
 
  While that project wasn’t necessarily better work than I did in other halves, it was a very visible, high profile role. It created visibility and increased my standing in the company in important ways.
 
-___Can you share a piece of advice on being a Staff Engineer that was helpful for you?___
+___Can you share a piece of advice on being a Staff engineer that was helpful for you?___
 
  One lesson that I learned was the importance of focus and prioritization. That’s especially true when you have the broad organizational context that I talked about earlier. It's very easy at any moment to identify thirty different things that you would like to be working on.
 
@@ -119,7 +119,7 @@ ___Can you share a piece of advice on being a Staff Engineer that was helpful fo
 
  In the end you have to say, “There are all of these things that I wish I could work on, and I'm not going to do all of them. This year I’ll pick one or two to work on, and I'm going to deliberately ignore the other for a while, even though I think they’re major problems.”
 
-___What about a piece of advice for someone who has just started as a Staff Engineer?___
+___What about a piece of advice for someone who has just started as a Staff engineer?___
 
  One thing is that I'm a huge believer in the primacy of Conway's Law to guide organizations’ technical architecture.
 

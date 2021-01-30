@@ -33,7 +33,7 @@ ___What does a Staff-plus engineer do at Squarespace? How do you spend your time
 </ul>
 </div>
 
-___Where do you feel most impactful as a Staff-plus Engineer? What’s something you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done in earlier roles?___
+___Where do you feel most impactful as a Staff-plus engineer? What’s something you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done in earlier roles?___
 
  I have a seat at the table at higher level engineering discussions that occur at a level above individual projects and teams. We have recurring staff engineering meetings where we discuss problems that span teams which are both technical and non-technical in nature. As a hypothetical example, I'd feel comfortable surfacing what I perceive as shortcomings in the engineering onboarding process in this type of meeting. It can be hard to attribute a topic like engineering onboarding to a specific team but a lack of formal ownership doesn't make it less important. I think a key responsibility of Staff-plus is a willingness to own all of the things that contribute to (or block) engineering output, which includes both technical strategy and culture.
 
@@ -50,13 +50,13 @@ ___Do you spend time advocating for technology, practice, process or architectur
 
  To be fair, neither of these examples required a Staff-plus title. But I do think part of being an effective Staff-plus engineer is caring about and addressing cultural gaps as much as technical gaps.
 
-___You first got the title Staff Engineer at Squarespace. What was the process of getting promoted to Staff?___
+___You first got the title Staff engineer at Squarespace. What was the process of getting promoted to Staff?___
 
  I was hired as a Senior Software Engineer II (one level below Staff). I was fortunate to land on a team working on a high impact project that I was able to contribute to immediately. The hardest parts about the project concerned a problem space I was already familiar with — wide, sweeping changes across codebases — and I proposed, prototyped and eventually shipped an alternative architecture that I felt would better position the company for success. That became our frontend translation system, which I wrote about on our engineering blog: [Building a System for Frontend Translations](https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations).
 
  I also owned the communication and education effort around the new translation system, presenting the architecture at internal meetings and sending relevant emails about the status of the project. Grouping this technical contribution to some meaningful cultural initiatives — other internal presentations, \#connect-engineering, etc. — my manager had a good case for promotion that was agreed upon by the Engineering Directors.
 
-___What about a piece of advice for someone who has just started as a Staff Engineer?___
+___What about a piece of advice for someone who has just started as a Staff engineer?___
 
  I feel like progressing up a career ladder is an additive exercise in forcing you to care about more things than you previously cared about. Caring about more things is hard.
 

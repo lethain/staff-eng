@@ -89,7 +89,7 @@ After a year or so of working with the iOS team, it was clear we were experienci
 
 As we began to migrate the iOS app to a GraphQL backend, we realized that it might be valuable for all of our customer facing applications. We worked with the larger team to grow our scope to an organizational level and we put more resources behind it. It has continued to grow in scope over time as well due to the investments that are being made by our senior ICs and leadership.
 
-**_Where do you feel most impactful as a Staff-plus Engineer?_**
+**_Where do you feel most impactful as a Staff-plus engineer?_**
 
 Foremost by viscerally understanding the experience of a developer. In order to advocate for them and reason about large tech investments. Especially taking the time to understand how engineers will utilize that investment.
 
@@ -223,7 +223,7 @@ As a manager, I would mandate the solution. Oof, that was horrible, a big mistak
 
 Also, I don't see the work of a manager as fundamentally different from an IC. We're all trying to deliver more value to our customers. In an organization, there are many functions that need to get done for that to happen. Some of those functions are assigned to a manager, and some to ICs. For me, I don't feel like there is anything that prevents me from impacting or influencing any of those functions in order to improve delivery. Someday, if it feels valuable, I can see taking on a new set of functions directly. But, especially at Stitch Fix, I've seen the impact our senior IC's have, and I don't see any limits.
 
-**_Probably the number one email I get about StaffEng is that folks want to amend [the Staff archetypes](https://staffeng.com/guides/staff-archetypes) to include a Staff Engineer whose sole contribution is writing amazing software. Is that an archetype that you’ve worked with or seen?_**
+**_Probably the number one email I get about StaffEng is that folks want to amend [the Staff archetypes](https://staffeng.com/guides/staff-archetypes) to include a Staff engineer whose sole contribution is writing amazing software. Is that an archetype that you’ve worked with or seen?_**
 
 If you mean a person who disappears for months at a time and when they come back drops technical improvements on the rest of us that work and solve the real problem. Then, no. I've seen people try. It's possible that I've tried that, and it doesn't work.
 

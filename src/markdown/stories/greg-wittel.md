@@ -40,7 +40,7 @@ I try to optimize time in meetings in a few ways. First by pushing what I can to
 
 I strive for a continuous learning mindset. At work this means doing what I can to learn about new technologies, research, and the security landscape. Sometimes this covers immediately relevant information, other times its just interesting to me as an engineer. This helps keep me current, as well as broadens the set of options I can bring to bear in a new project.
 
-**_Where do you feel most impactful as a Staff-plus Engineer? A specific story would be grand._**
+**_Where do you feel most impactful as a Staff-plus engineer? A specific story would be grand._**
 
 As a Staff-plus engineer I want to help improve everyones' chance of success. In the end, as an engineer if I am not making things better for our customer (internal or external), then I have work to do. In some cases this comes in the form of improving productivity, in others it is by helping projects succeed.
 
@@ -80,7 +80,7 @@ While I have sponsored other engineers, it is not a key aspect of my role. Usual
 
 For sponsoring at a mentorship level, my bandwidth just doesn't allow for me to do an effective job. In the past, I've mentored a few people with mixed results. My biggest failing is not being able to put in the required effort to make it a productive endeavor. Mentorship requires work on both sides; both in finding a fit (what type of help are they seeking, can you provide it?), as well as a way to ensure progress. Expecting to be able to do this in an ad-hoc manner limited the usefulness of the mentoring. Doing a better job requires careful forethought to ask mentees the right questions and have actionable measurable feedback. In time, I hope to be able to do more of this.
 
-**_You first got the title Staff Engineer at your current company. What was the process of getting promoted to Staff?_**
+**_You first got the title Staff engineer at your current company. What was the process of getting promoted to Staff?_**
 
 I first was promoted to the title of Staff Engineer at my current company. While there was no formal process, it started by asking questions to management around what it meant to grow: What should I be doing that I am not to be Staff (or Principal)? How or where can I improve?
 
@@ -103,7 +103,7 @@ I had a fairly traditional Computer Science education, studying in many areas bu
 Learning to dig is another core skill -- being able to dive into unfamiliar areas, pick apart, and reason through problems. Following curiosity,
 and being able to tackle problems in this manner is incredibly useful.
 
-**_There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
+**_There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
 
 I did not have a Staff project. It helped that I started when Proofpoint was much smaller, smaller teams were able to have out sized impact. When I made Staff, we were launching several key efforts requiring careful coordination across multiple teams. My experience let me make high impact contributions in many places, as well as dive into new areas and get up to speed quickly.
 
@@ -111,7 +111,7 @@ I did not have a Staff project. It helped that I started when Proofpoint was muc
 
 I don't remember any particular advice I received on reaching Staff. Over time there have been portions of advice now and again that stand out. One in particular has to do with messaging -- while a blunt technical assessment may be fine for some audiences, it is not for others. While I try to be as straightforward as possible, sometimes that can lead to unintended consequences. For example, describing a quick patch as "throwaway" work may be accurate, someone might interpret that as saying their work has no value. In providing opinions, I try to be more thoughtful about how and what I communicate to avoid such situations.
 
-**_What about a piece of advice for someone who has just started as a Staff Engineer?_**
+**_What about a piece of advice for someone who has just started as a Staff engineer?_**
 
 At an individual level, the requirements for Staff-plus may vary. To that end, work to understand expectations from your manager and the broader organization. In reaching Staff, you've likely shown that you are already able to perform at the expected level. In making it official, expectations of others may change as you cement your position and reach toward the next level.
 

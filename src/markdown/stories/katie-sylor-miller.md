@@ -43,7 +43,7 @@ I didn't realize, until I moved into the architect role, how much I relied on sp
 
 One thing that has definitely been helpful is making sure that I’m keeping track of all of the different tasks I complete every day - logging meetings, emails, Slack discussions, etc. Then, when I have my official quarterly goals check-in with my manager, I review all of my notes and realize, wow, I helped engineers fix performance issues on six different experiments, or I influenced this team to take a better direction with their new feature, or I gave that engineer feedback that helped them. These are all little things that in the moment don’t feel like much, but taken together show real impact.
 
-**_Where do you feel most impactful as a Staff-plus Engineer?_**
+**_Where do you feel most impactful as a Staff-plus engineer?_**
 
 What I absolutely love to do the most is to identify a new or unique problem that hasn’t been tackled before, come up with a wild idea to solve the problem, and then my brilliant coworkers take that idea and really run with it to build something awesome. It starts with taking in a ton of input from the work folks are doing - seeing that this team has a problem doing x, and another team has a problem doing y. Then you mix all that input up with your experience and what’s happening in the industry as a whole and let it sit in your brain for a while, until finally it all clicks and you realize that the deeper cause underlying both problems is z, so you come up with a plan to fix that problem which is really hard to fix.
 
@@ -83,7 +83,7 @@ Something that I don’t think we fully anticipated is that it's also been a rea
 
 Since then, we've had a couple of folks who've come and spoken at the meeting, and then went on to speak at company all-hands meetings or local meetups. At least one person ended up giving an expanded version of their talk at a big conference. We’ve also heard from folks that giving a talk at the confab was something they used as evidence of leadership in their promotion packet, which is an amazing feeling!
 
-**_You first got the title Staff Engineer at your current company. What was the process of getting promoted to Staff?_**
+**_You first got the title Staff engineer at your current company. What was the process of getting promoted to Staff?_**
 
 I was hired as a Senior Engineer because at the time we didn’t hire into the Staff title, although we’ve since changed that policy. I was working in the industry for almost ten years before I joined Etsy, but largely at smaller and lesser known companies. I’d been serving as a frontend tech lead for more than five years before I came to Etsy. Because of that, I was already extremely comfortable in the role of being a mentor and a leader. I’d already spent a lot of time working closely with management, product and design, as well as figuring out roadmaps and execution. Altogether, I felt like I had the tech lead role down pat.
 

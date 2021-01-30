@@ -120,7 +120,7 @@ Throughout my career people have always told me that I’m much more impactful a
 
 Another thing that’s helped is having mentors. Specifically I like mentors who are constructively antagonistic. What I mean by that is that they throw me into things that utterly terrify me but they’re certain I’m ready for. They’ve helped push me way beyond what I thought was possible for me. These have generally been managers who I’ve worked with, but where we’ve been able to mutually learn from each other.
 
-**_What about a piece of advice for someone who has just started as a Staff Engineer?_**
+**_What about a piece of advice for someone who has just started as a Staff engineer?_**
 
 This goes back to how I got where I am based on having a broad set of interests in organizational psychology, culture, mentorship and so on, in addition to the technology. I’ve never been a pure engineer that’s just deep in the code 24/7. I’ve never been that person, and I had to make my peace with that.
 

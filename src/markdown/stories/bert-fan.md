@@ -55,7 +55,7 @@ Hopefully you can see where luck and timing can affect this simple plan - what i
 
 These are all possible and there’s no generic piece of advice that I can give to overcome any of them except that sometimes you’re never going to get promoted and you should probably be honest with yourself and identify when you’re in that situation. In that case, sometimes the only way to get promoted would be to leave the company and do something else. You may boomerang back into the company at a higher level than you left at later in your career, but much like a failed relationship that you revisit, do you still want to be there or is there too much baggage to ever make it work?
 
-**_What about a piece of advice for someone who has just started as a Staff Engineer?_**
+**_What about a piece of advice for someone who has just started as a Staff engineer?_**
 
 It’s kind of a running joke in engineering but a lot of people get into this profession because they don’t like talking to people but to be effective at your job as a Staff Engineer, you’re likely going to spend a lot of your time talking to people. I think you can progress early in your career by focusing on just writing better and better code but at some point you should probably shift to focusing on working better with other people. Trusting other people and giving them the freedom to make technical decisions (even ones that you disagree with!), understanding other people’s motivations, learning to give difficult feedback, knowing when to pick your battles - these are all useful skills to have.
 

@@ -63,7 +63,7 @@ My schedule is unusual in that I stop work around 4pm most days, then work later
 
 The unplanned work is mostly answering Slack messages, advising on urgent issues, or sometimes responding to a production incident. I try to approach this work with a helpful attitude, and also with an eye towards cross-training and writing discoverable documentation to minimize future unplanned work.
 
-**_Where do you feel most impactful as a Staff-plus Engineer? A specific story would be grand._**
+**_Where do you feel most impactful as a Staff-plus engineer? A specific story would be grand._**
 
 I think of my impact in two ways:
 1. Working the plan
@@ -95,7 +95,7 @@ I also 'cheerlead': recognizing a colleague's valuable effort in public or a sma
 
 I aim to serve two purposes with cheerleading: recognize those doing the valuable behavior, and give positive reinforcement in the hopes that the team does more of that behavior. It's really [operant conditioning](https://en.wikipedia.org/wiki/Operant_conditioning), but cheerleading sounds much nicer.
 
-**_What about a piece of advice for someone who has just started as a Staff Engineer?_**
+**_What about a piece of advice for someone who has just started as a Staff engineer?_**
 
 Other engineers look up to you as a role model, some in ways you may not expect. They'll emulate your coding style, your tone in code reviews, your behavior in meetings, your rationale for making decisions, and the way you treat colleagues.
 

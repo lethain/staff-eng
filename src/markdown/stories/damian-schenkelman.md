@@ -56,7 +56,7 @@ On Thursdays (and as much of I can on Tuesdays) I spend my time thinking about:
 * writing docs, guidelines, blog posts
 * (not often) doing POCs and/or writing small tools
 
-**_Where do you feel most impactful as a Staff-plus Engineer? A specific story would be grand._**
+**_Where do you feel most impactful as a Staff-plus engineer? A specific story would be grand._**
 
 The biggest impact comes from being able to help achieve "people scale," positively influencing the work of as many people as possible internally. The book [Scaling Up Excellence](https://www.amazon.com/dp/B00EGMQIDG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) provides an easy to understand analogy: scaling is a ground war, not a one-off airstrike. It requires a lot of time, and patience but to get to your goals you need to align the whole company in terms of goals and how to get to them.
 
@@ -100,7 +100,7 @@ Yes, a lot! I am a member of our Engineering Leadership team. We meet twice a we
 
 Whenever that happens I typically propose the names of people that I believe would benefit from that opportunity, explain why I think they would be good at it, and, if helpful, offer to mentor them in case there are any perceived skill gaps.
 
-**_You first got the title Principal Engineer at Auth0. Were you hired as a Principal Engineer? If not, what was the process of getting promoted to Principal?_**
+**_You first got the title Principal engineer at Auth0. Were you hired as a Principal engineer? If not, what was the process of getting promoted to Principal?_**
 
 My story here is a particular one. I started at Auth0 in May 2014 as the fifth engineer, ~tenth employee. There were no titles, no ladder, nothing like that. Around 2015, I started mentoring and doing 1:1s with a couple of new hires. Towards the end of 2015, I was working on my initiatives, and also leading others, helping with hiring, etc. Late 2015 [Matias Woloski](https://twitter.com/woloski), Auth0's CTO and co-founder, was looking for someone to lead Engineering teams and he asked me if I would be a Director of Engineering.
 
@@ -132,13 +132,13 @@ The reason I could work in software right out of high school was that when I was
 * it led me to learn and do things that would be required to "cover gaps," which helped me build leadership and interpersonal skills that are very useful as I grew in my career
 
 
-**_There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
+**_There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
 
 I did not. Because of how I grew at Auth0 I kind of "skipped that part". As a Director at a startup, I got the opportunity to technically lead a lot of big, critical initiatives, but there was no specific/explicit "staff/principal project."
 
 I think implicitly the closest thing to a "Staff Project" was the work I led in 2017 & 2018 to increase the reliability and scalability of Auth0, leading some projects to offer higher SLAs for a subset of our key customers.
 
-**_What piece of advice do you have for someone who has just started as a Staff Engineer?_**
+**_What piece of advice do you have for someone who has just started as a Staff engineer?_**
 
 Staff means different things at different places, so the first piece of advice I would give is to talk to as many people as possible to define expectations where they are.
 

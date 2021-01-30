@@ -39,7 +39,7 @@ Despite leaving the embedded team’s backlog as the last item, my target is to 
 While not day-to-day, I also currently have a strong hand in hiring new developers. As such, when we are in hiring mode, I’ll be reviewing take-home challenges and conducting technical interviews as needed. But to maintain scalability of our hiring as we grow, I’m actively transitioning this work to our Staff engineers.
 
 
-**_Where do you feel most impactful as a Staff-plus Engineer? A specific story would be grand._**
+**_Where do you feel most impactful as a Staff-plus engineer? A specific story would be grand._**
 
 As a Principal engineer, I have many opportunities for huge impact. Technically, I led an initiative to help our database scale that involved coordinating the work of almost all the development teams. The resulting changes had a significant impact on our scalability. But that isn’t my proudest moment.
 
@@ -84,7 +84,7 @@ While not exactly “sponsoring”, I did take a specific new hire “under my w
 I will also provide input on an engineer's growth when the engineering manager is evaluating an engineer on their last year of growth.
 
 
-**_Were you hired as a Staff Engineer? If not, what was the process of getting promoted to Staff?_**
+**_Were you hired as a Staff engineer? If not, what was the process of getting promoted to Staff?_**
 
 I was hired as a Staff engineer at Jobber and was previously a Staff engineer at Intuit. I've been a Staff engineer for 5 years and a Principal engineer for 3.
 
@@ -106,7 +106,7 @@ My move from staff to principal was helped by me becoming the DBA of the enginee
 I’ve worked with developers with formal university education, technical college education, no formal education and post-grad degrees. I’ve found strong developers and weak developers from all those backgrounds. While education will likely give you a strong grounding, I believe passion will take you where you want to go.
 
 
-**_There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
+**_There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
 
 I think that is generally true. At Jobber, we expect Staff engineers (and principal) to have impact beyond their team. This is usually via some project.
 
@@ -122,7 +122,7 @@ This is the start of you being measured not by what you do, but by what your tea
 It is both the biggest reward and hardest challenge as you move up the ladder. While still being regarded for your coding abilities, your ability to make the team better starts to rise in importance.
 
 
-**_What about a piece of advice for someone who has just started as a Staff Engineer?_**
+**_What about a piece of advice for someone who has just started as a Staff engineer?_**
 
 Find a place where you can make a difference.
 

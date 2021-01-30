@@ -41,7 +41,7 @@ As a tech lead, I was a member of the Eng Tech Lead Cohort. It’s a formal grou
 
 As I’m transitioning out of the tech lead role, there will definitely be a change in how I spend my time day–to–day. But I’m honestly not sure what that will look like.
 
-**_Where do you feel most impactful as a Staff-plus Engineer?_**
+**_Where do you feel most impactful as a Staff-plus engineer?_**
 
 It’s always a rewarding feeling if I can end the work day and feel like I’ve helped my peers get unblocked and maintain momentum.
 
@@ -63,7 +63,7 @@ I’ve also had a lot more organic opportunities to coach, mentor, and generally
 
 Often industry peers tend to make the case that titles don’t matter. But I disagree 100% with this statement; my personal experiences and observations across the companies that I’ve worked at have shown me otherwise.
 
-**_There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
+**_There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
 
 In some sense, I guess.
 
@@ -92,7 +92,7 @@ Third was from [Coda Hale](https://codahale.com/), the other senior engineer on 
 
 This advice is core to how I think about my role as tech lead; like, really being intentional about creating opportunities for the team to extend, flex their skills, and learn a lot.
 
-**_What about a piece of advice for someone who has just started as a Staff Engineer?_**
+**_What about a piece of advice for someone who has just started as a Staff engineer?_**
 
 Don’t think you’re going to solve ALL of the Engineering department’s problems; from what I’ve seen, it’ll get exhausting and you’ll get jaded pretty quickly. Slowly build up to those things. Hopefully, you were promoted because you were already operating at the Staff level; so you shouldn’t have to do anything dramatically different. Continue to do the great work that got you to this title. Once you feel like you’re settling into things, extend from there.
 

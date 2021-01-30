@@ -52,7 +52,7 @@ We did an engineering survey before the acquisition and also recently the Platfo
 
 Similarly, I also find that I need to spend time explaining the glue work required to integrate vendors and tools effectively into our infrastructure. Sometimes it can seem like you just install a new enterprise tool and it all works, and folks will propose dropping in a new tool because an existing one has some issues, but there’s a lot of hidden work to do that. The current tool might not be great, but it’s probably one of the better ones and we’ve probably already spent a lot of time making it work as well as it does.
 
-**_Where do you feel most impactful as a Staff-plus Engineer?_**
+**_Where do you feel most impactful as a Staff-plus engineer?_**
 
 Often the most impactful things I do is convince someone not to write a new thing. I often find myself asking people, “Why are you doing that?”, genuinely asking to understand how they got here and try to steer them towards an existing solution.
 
@@ -80,7 +80,7 @@ I don’t think that sponsoring others is specifically called out in my role bec
 
 Since then, my contributions have been things like bringing my voice to calibration meetings, particularly around raising visibility around how bias can impact underrepresented people. This is the sort of work you can’t do until you’re in the room, which is why becoming Principal has been important.
 
-**_You first got the title Principal Engineer at Sendgrid. What was the process of getting promoted to Principal?_**
+**_You first got the title Principal engineer at Sendgrid. What was the process of getting promoted to Principal?_**
 
 I got the Principal title at SendGrid and then 18 months later I got the Senior Principal title. The move to Senior Principal technically happened after the Twilio acquisition, but the performance cycle was still using the SendGrid system since we hadn’t fully integrated HR processes yet at that point. So take this as a disclaimer that i did not get through a promotion process at Twilio :)
 
@@ -106,7 +106,7 @@ I have found that I prefer blog posts more than speaking. I’ve done some writi
 
 My blog post that’s gotten the most traction was [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html), which I’m still having people reach out about frequently.
 
-**_There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
+**_There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
 
 I don't know if other engineers who are trying to get to Principal have had explicit “Staff Projects” where they had to complete this specific project to get promoted, but I did not have one. Most of my promotions have come from work that I’ve been doing for many months and we can see the results.
 
@@ -118,7 +118,7 @@ Eventually our former VP of Engineering gave me feedback on this. He was kind of
 
 He helped me turn that around, helped me understand what the product teams were having to deal with, why their concerns mattered, and how to use my knowledge to help them get to the right tradeoff instead of being antagonistic.  He was incredibly helpful, and this advice changed my career.
 
-**_What about a piece of advice for someone who is trying to reach Staff Engineer?_**
+**_What about a piece of advice for someone who is trying to reach Staff engineer?_**
 
 The advice I’d give is so different for every company, it would even vary a lot between SendGrid and Twilio. You have to understand “what does Staff mean?” for your company, and to realize that you might not like it when you find it. That doesn’t necessarily mean you have to change your company, like when I had to bring in Rent the Runway’s career ladder to establish the idea of having a career ladder.
 

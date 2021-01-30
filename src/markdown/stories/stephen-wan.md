@@ -88,7 +88,7 @@ That small push might be all someone needs to get going, but other times I think
 
 It also feels like there's some tension to get to the right spot. We want to grow folks into positions where they can own more and make systems decisions, but we also want there to be alignment in how those decisions get made and where we're trying to go. It's hard work - it ends up taking a lot of attention to not gatekeep but get to a satisfying result.
 
-**_You first got the title Staff Engineer at your current company. Were you hired as a Staff Engineer? If not, what was the process of getting promoted to Staff?_**
+**_You first got the title Staff engineer at your current company. Were you hired as a Staff engineer? If not, what was the process of getting promoted to Staff?_**
 
 When I joined the company, we didn't have IC titles. I was leveled into the Staff role when we introduced leveling in early 2019.
 
@@ -110,7 +110,7 @@ By the time I joined Samsara, those experiences gave me a clear sense for how I 
 
 The final piece of the puzzle was my first three years at Samsara. I was fortunate enough to get to work with so many thoughtful collaborators in that time. I can easily trace back many of the working habits, mental models, and mannerisms that I have today to those individuals. I can't imagine that I'd be in this spot in my career without their influence.
 
-**_There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
+**_There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
 
 No, I didn't have a designated Staff Project. Looking back, there were projects over the years that perhaps accumulated into the equivalent of a big Staff project, but it's not something we explicitly talked about in leveling.
 
@@ -118,7 +118,7 @@ As a concept, I'm skeptical of that kind of singularly focused project and worry
 
 I'm happy Samsara seems to agree with that assessment. Our career path document ends up talking much more about that consistent execution over a single large-haul project.
 
-**_What about a piece of advice for someone who has just started as a Staff Engineer?_**
+**_What about a piece of advice for someone who has just started as a Staff engineer?_**
 
 A couple things come to mind.
 

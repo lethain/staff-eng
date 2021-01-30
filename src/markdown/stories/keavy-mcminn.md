@@ -31,7 +31,7 @@ I’ve never thought about my time in terms of percentages. Some of my work goes
 </ul>
 </div>
 
-___Where do you feel most impactful as a Staff-plus Engineer? What’s something you’ve done as a Staff-plus engineer that you wouldn’t have done earlier in your career?___
+___Where do you feel most impactful as a Staff-plus engineer? What’s something you’ve done as a Staff-plus engineer that you wouldn’t have done earlier in your career?___
 
 As a regular engineer, it can be hard to carve out time. You have to work more within the constraints and cadence of regularly scheduled projects. As a principal, you have the trust, the time and the space to try something out.
 
@@ -63,7 +63,7 @@ At Fastly, I was given trust from the beginning. When I joined, I was hired to c
 
 There are pros and cons of when you build that trust instead of being hired with it. As you build up trust, you simultaneously build up a lot of context, which is how it worked for me at GitHub. Although, I find in my current job that it was actually really useful to come in without context and be a set of fresh eyes. That makes it easy to question when folks think, “Oh, well, maybe we’ve just always done it this way.” It can be liberating not to be tied to the past.
 
-___There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a "Staff Project," and if so what was it?___
+___There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a "Staff Project," and if so what was it?___
 
 I’ve never heard it given a name, but I understand the idea. I did lead and architect that type of project - solving gnarly engineering problems, with large impact for the company - a few times, but unfortunately they didn’t lead to me being promoted. They did lead to my career progression though. Those projects gave me the experience, knowledge and confidence to position myself differently. Even to give public conference talks or know that “I’ve done X and could do X again.”
 
@@ -95,7 +95,7 @@ Not really, I got some bad advice. It’s such a cliche, but the “This is grea
 </ul>
 </div>
 
-___What about a piece of advice for someone who has just started as a Staff Engineer?___
+___What about a piece of advice for someone who has just started as a Staff engineer?___
 
 The thing that springs to mind is to find your peers or support network. Just like management, it gets lonely the higher up you go and it’s important to find peers that will still challenge you and you can brainstorm ideas with. It doesn’t even matter if they’re in your similar area of work or even are in different companies.
 

@@ -45,7 +45,7 @@ Sponsorship is the name of the game. I believe that it’s the job of senior eng
 
 More transparently, I’m a Black woman in technology, and I finally got a seat at a table. I made it, and I’m actually senior, and it’s not a success to me unless that room looks more like me. Otherwise, I’m just evidence of structural exclusion - the exception that proves the rule.
 
-___How did you first get your Staff Engineer title?___
+___How did you first get your Staff engineer title?___
 
 I first got the Staff Engineer position at Mailchimp, and I was hired in.
 
@@ -53,11 +53,11 @@ ___What two or three factors were most important in you reaching Staff? How have
 
 I’ll be honest, reaching staff was the combination of my reputation, sponsorship, location, and working at a popular, successful company. I was an early-ish hire at Slack, and while there, I was encouraged to give conference talks. Giving talks raised my profile, as did some spicy tweeting on Beyoncé’s internet, about the other half of the work we do as software engineers. So, I have some public profile, and when I was job searching last year, I reached out to Marc Hedlund about joining Mailchimp. He framed my interview internally at Mailchimp as a Staff Engineer interview, and I aced it. Without that intervention? I would still be underestimated. Tiny interventions can have big ripples.
 
-___There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?___
+___There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?___
 
 I was hired in at Staff, so no.
 
-___Can you remember any piece of advice on reaching Staff that was particularly helpful for you? What about a piece of advice for someone who has just started as a Staff Engineer? Looking back, is there an easier path to Staff that you could have taken?___
+___Can you remember any piece of advice on reaching Staff that was particularly helpful for you? What about a piece of advice for someone who has just started as a Staff engineer? Looking back, is there an easier path to Staff that you could have taken?___
 
 How do I say this delicately? The easier path would have been if I wasn’t me. I definitely think a combination of my personality and identity made it such that it took longer for me to get here. According to the Harvard Business Review’s report on women in tech, [The Athena Factor,](https://store.hbr.org/product/the-athena-factor-reversing-the-brain-drain-in-science-engineering-and-technology/10094) 41% of women leave the technology sector after 10 years of professional experience, and I really understand that statistic. This statistic haunts me. I feel that statistic in my bones. I’d be lying if I said my fantasies of leaving technology weren’t slowly approaching a plan.
 

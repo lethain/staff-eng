@@ -41,7 +41,7 @@ ___How do you spend your time day-to-day?___
 
  For example, I worked on designing specialty interview loops, moderating debriefs and candidate screening. I also did a lot of work on diversity initiatives. That’s one of the reasons that I’ve tried engineering management multiple times during my career, because I enjoy participating in organizational growth.
 
-___Where do you feel most impactful as a Staff-plus Engineer?___
+___Where do you feel most impactful as a Staff-plus engineer?___
 
  One of the things that I'm really proud of having worked on was a big revamp of our engineering levels. Back in 2017, I was one of the few individual contributors selected to work on an engineer levels refresh, most everyone else was a director or manager. I’m proud because the new ladder impacted every person at Dropbox working in Engineering, Product and Design.
 
@@ -71,7 +71,7 @@ ___What’s something you’ve done as a Staff-plus engineer that you weren’t 
 
  It was really that conversation in combination with the title that pushed me to believe in myself as a Staff Engineer. Together they gave me the confidence to ask for the harder projects, or to ask my manager to give me more projects to work on.
 
-___What was your proces of getting promoted to Staff Engineer at Dropbox?___
+___What was your proces of getting promoted to Staff engineer at Dropbox?___
 
  They rolled out external titles a while after I joined Dropbox. In the first review season with titles, they gave the Staff title to a very small number of engineers. They were really still calibrating the titles at that point. It was in the second review season that I got my Staff title.
 
@@ -89,7 +89,7 @@ ___Was that work, which some companies would call “glue work,” directly valu
 
  This work was highly valued by leadership at Dropbox. Leadership and many of the very senior engineers were heavily involved in these efforts, especially recruiting, and it was not considered glue work. That being said, it would not have gotten me to Staff on its own. It was a question of finding a good balance between having cultural impact and having something technically strong to showcase.
 
-___There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?___
+___There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?___
 
  There isn’t an explicit expectation, nor is it listed anywhere as a formal requirement, but it is understood that you’ll complete a Staff Project to get promoted. I can’t think of any Staff promotion that didn’t include a really strong project, typically a multi-person project where the engineer was the Tech Lead.
 
@@ -105,7 +105,7 @@ ___Would you share a piece of advice on reaching Staff that was particularly hel
 
  This is tied into imposter syndrome, where you might not want to try anything until you’re absolutely sure you’ll excel at it. But you have to get comfortable with the fact that you might crash and burn. That’s okay, you’ve got to try it.
 
-___What about a piece of advice for someone who has just started as a Staff Engineer?___
+___What about a piece of advice for someone who has just started as a Staff engineer?___
 
  People frequently come to me and ask, “What should I do next to reach Staff?” One of the things that I tell them is to be super open and honest with your manager about what you want from your career. A mistake I made early on in my one-on-ones was telling my manager what I thought they wanted to hear, instead of what I actually felt.
 

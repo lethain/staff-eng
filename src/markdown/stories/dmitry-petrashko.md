@@ -50,7 +50,7 @@ On a perfect week I’d spend Monday, Wednesday and Friday in meetings or workin
 
 While, from time to time it might seem hard to find time to write code, I believe it’s important as it allows me to maintain a strong connection to engineering and be the bridge between business needs/prioritization and engineering constraints that PTLs need to be.
 
-**_Where do you feel most impactful as a Staff-plus Engineer?_**
+**_Where do you feel most impactful as a Staff-plus engineer?_**
 
 Staff Engineers, and Pillar Tech Leads in particular, frequently help set direction for a new project. I feel particularly impactful when I can help improve a proposal that's well intentioned and solves a real need, but the team that drafted it lacks either experience or context to write a good plan to capture the opportunity. In such cases, having a well structured plan can help substantially reduce the scope while getting to most of the value, and thus demonstrate impact sooner. Or, alternatively, see that the proposal in hand addresses more use cases than the team has originally anticipated and refocusing the project towards a usecase that was not known by the team would lead to bigger business impact: in both of these cases, I feel impactful by empowering other engineers.
 
@@ -92,7 +92,7 @@ And yes, there have been multiple projects that I have helped scope, kick-off an
 
 There’s also a distinction between mentorship and sponsorship and I do both. Mentorship is about helping people grow and deliver impact. Sponsorship is about helping a person get in a position where they could demonstrate their ability to deliver greater impact. In working with my teams, I try to help people work on projects somewhat out of their comfort zone, and in that I sponsor them, and then, I could mentor them to help the project succeed.
 
-**_You first got the title Staff Engineer at your current company. Were you hired as a Staff Engineer? If not, what was the process of getting promoted to Staff?_**
+**_You first got the title Staff engineer at your current company. Were you hired as a Staff engineer? If not, what was the process of getting promoted to Staff?_**
 
 I wasn’t hired as a Staff Engineer. I had to get upleveled twice to get to Staff level at Stripe. Both of these uplevels were similar: Stripe uplevels after an employee has already been operating on the next level for quite a while and this adjusts expectations that they are expected to continue operating on that level going forward.
 
@@ -118,7 +118,7 @@ A technique that helped me in that was asking for feedback in a private chat imm
 **Location:** I came to the US from Switzerland to join Stripe. I came to Switzerland from Russia to join one of the best PhD programs in Computer Science. I came to Russia to join one of the best ex-USSR universities from Ukraine. In each of these relocations, I feel, I played geographical arbitrage: I was looking to escape the place where I was among the best to the place where I’d be average. In some of them, I think I wasn’t the prime candidate. By joining the people there and learning from them, I grew a lot. It’s hard for me to tell if US vs EU is a better location career-wise, but I can definitely tell from my experience that changing locations helped me grow a lot.
 
 
-**_There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
+**_There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
 
 It's a very hard question for me to answer in retrospect. This is because: as far as I know, Sorbet was big enough to be my Staff engineer project, BUT with Nelson and Paul being there and us working closely and very fast with each other, it was very hard to attribute success of the project to specific individuals rather than the whole team.
 
@@ -134,7 +134,7 @@ After Sorbet I had a couple other impactful projects delivered in short timefram
 2. Brian Goetz helped me understand how much work is behind a simple, yet, robust system to withstand widespread adoption and design.
 3. Paul Tarjan showed me the importance of adjusting my communication style to lead to constructive outcomes for all involved parties.
 
-**_What about a piece of advice for someone who has just started as a Staff Engineer?_**
+**_What about a piece of advice for someone who has just started as a Staff engineer?_**
 
 At least, at Stripe, Staff Engineers work on very different areas. Make sure you agree with your reporting chain on what is the impact you should be achieving and what are the things you’re allowed to compromise on on the way to that impact. Communicate clearly what compromises you're doing and why.
 

@@ -31,7 +31,7 @@ I manage two engineers who embed into high priority areas. This both helps me sc
 </div>
 
 
-**_What does a “normal” Staff-plus Engineer do at your company? Does your role look that way or does it differ?_**
+**_What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?_**
 
 Most engineers in Staff-plus roles at Stripe work on specific teams. There are some Staff-plus Engineers who also have a Tech Lead title, and take on broader projects across a particular product area or technical domain.
 
@@ -41,7 +41,7 @@ Broad-scoped engineers create impact by working on vague, cross-organizational p
 
 Deep-scoped engineers tend to be subject-matter experts in a specific domain. They lead ambitious multi-year projects. This shape of Staff-plus Engineer can generally be found on our product infrastructure and systems teams.
 
-**_Where do you feel most impactful as a Staff-plus Engineer?_**
+**_Where do you feel most impactful as a Staff-plus engineer?_**
 
 This has changed over time for me as I’ve moved into my current Payment Products Tech Lead role. (For some context, Payments Products is made up of over 20 teams. We’re responsible for most of our user-facing APIs and UI libraries.)
 
@@ -55,7 +55,7 @@ One concrete example from recent memory is when another staff-plus engineer and 
 
 I spend time on several of our review forums like API Review, but often these sorts of forums work more like code review. They happen so late in the design process that they tend to do a better job of preventing bad outcomes than of partnering with teams to steer great outcomes. I feel more impactful when I’m able to give engineers on product teams the tools to design great APIs.
 
-**_Can you think of anything you’ve done as a Staff-plus Engineer that you weren’t able to do or wouldn’t have done before reaching that title?_**
+**_Can you think of anything you’ve done as a Staff-plus engineer that you weren’t able to do or wouldn’t have done before reaching that title?_**
 
 I’ve been at Stripe for a long time (since 2013!). While I’ve always had some amount of clout because of my tenure, my role of Payment Products Tech Lead (and the fact that I report directly to the CPO) has definitely changed how people interact with me. I’m definitely feeling lonelier at work now (and am actively working on adapting to this new normal).
 
@@ -171,7 +171,7 @@ I haven’t gotten much _generically_ useful advice. There was good situation-sp
 
 The most useful general learning for me was becoming comfortable with uncertainty. Sustained success in senior roles depends on your ability to adapt and grow as the needs of the organization change.
 
-**_Advice for someone who wants to become a Staff-plus Engineer?_**
+**_Advice for someone who wants to become a Staff-plus engineer?_**
 
 Some caveats:
 
@@ -184,7 +184,7 @@ That said, my first piece of advice to engineers is that they should avoid patte
 
 Instead, pursue work that you find energizing, even if on paper it doesn't seem like it'd get you to a Staff-plus. A big component of being successful as a Staff-plus Engineer is being able to identify and scope net-new impactful work and to convince others of its value and impact. If the work you're doing energizes you, it's actually much easier to achieve this because you'll enjoy thinking deeply about your work a lot more!
 
-**_What about advice for someone who has just started as a Staff-plus Engineer?_**
+**_What about advice for someone who has just started as a Staff-plus engineer?_**
 
 Your job as a Staff-plus Engineer is specific to your team and organization, and it’s important to avoid taking advice that doesn’t apply to your situation. For example, when I moved into my current role, many of the other Staff-plus Engineers were focused on writing personal charters describing what they want to accomplish over the next 1-2 years. That approach likely works well for deep-scoped engineers, but it hasn’t been as helpful for me as a broad-scoped engineer who needs to respond quickly to organizational changes and shifts to product strategy.
 

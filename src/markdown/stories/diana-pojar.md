@@ -35,7 +35,7 @@ ___What does a Staff-plus engineer do at Slack? How do you spend your time day-t
 
  Personally, for now, I enjoy and focus more on breadth and how I spend my time depends a lot on what my team and organization needs. I would say that so far this year, about 50% of my time is spent on [technical leadership](https://slack.engineering/technical-leadership-getting-started-e5161b1bf85c) and talking with people about larger technical investments that we should focus on, and 50% of my time is focused on mentoring, reviewing code, writing code, jumping on incidents and fixing critical issues, etc. The ratio does change quarter by quarter.
 
-___Where do you feel most impactful as a Staff-plus Engineer? What’s something you’ve done as a Staff-plus engineer that you wouldn’t have done earlier in earlier roles?___
+___Where do you feel most impactful as a Staff-plus engineer? What’s something you’ve done as a Staff-plus engineer that you wouldn’t have done earlier in earlier roles?___
 
  Personally, I feel that it’s quite noticeable the increase in trust and respect from people that did not work with me before my promotion / title change. Having the title strongly correlates with one's ability to influence the organization/company roadmap and priorities - basically you get to be in the “room where it happens”.
 
@@ -55,7 +55,7 @@ ___How have you sponsored other engineers? Is sponsoring other engineers an impo
 
  Mentoring and growing people around me has always been important to me and being in a Staff+ role, you have a type of privilege and power that others don’t have and I try my best to use this to help and uplevel people around me.
 
-___You first got the title Staff Engineer at Slack. Were you hired as a Staff Engineer? If not, what was the process of getting promoted to Staff?___
+___You first got the title Staff engineer at Slack. Were you hired as a Staff engineer? If not, what was the process of getting promoted to Staff?___
 
  I joined Slack as a mid level engineer and after one year I got my Senior promotion. As a Senior Engineer I had the opportunity to work on multiple projects with org/company wide impact, many of them that were directly tied into how our company business metrics are being computed, which were critical for getting the company ready to go public.
 
@@ -71,7 +71,7 @@ ___What two or three factors were most important in you reaching Staff? How have
 
  Another critical factor that influenced my path to become a Staff Engineer were the people around me, as I was lucky to have amazing role models and mentors in my team. When I joined Slack, I was the 4th person in a very senior team (everyone else was Senior Staff), which contributed to my desire to prove myself and show that I belong. Building a track record of mentoring, visibility and technical quality in every project also contributed to my path towards Staff, I did not see my job as just a job, but I’ve put a lot of passion into every project or problem we tried to solve.
 
-___There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?___
+___There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?___
 
  No, I did not have an assigned “Staff Project” and that is not something that it’s part of the promotion process at Slack. There is a career ladder that describes the general expectations and scope of impact for every level and with Staff+ levels this level of scope starts to expand from org wide impact towards company wide impact.
 
@@ -83,7 +83,7 @@ ___Can you remember any piece of advice on reaching Staff that was particularly 
 
  Work with your manager or more senior peers to find projects that will challenge you and increase the scope of your work. Something that was extremely helpful to me is that I started investing in developing my leadership and communication skills more. I also started framing and thinking about certain things in a different way, when I was starting feeling stressed or unsure of my own abilities, that’s often a sign that I’m growing and stumbled into an area that offers a lot of growth opportunities.
 
-___What about a piece of advice for someone who has just started as a Staff Engineer?___
+___What about a piece of advice for someone who has just started as a Staff engineer?___
 
  Reaching Staff Engineer brings a lot of responsibility and you should always be a strong advocate for your peers. As an IC, I think execution and being hands on are always the “easy” thing to do and the hard things are actually driving change and impact in your organization.
 
