@@ -21,7 +21,7 @@ One of the most effective ways to get luckier is to be more visible within your 
 
 ## Why visibility matters
 
-[Katie Sylor-Miller](https://staffeng.com/stories/katie-sylor-miller) describes visibility as a critical piece of getting promoted to Staff,
+[Katie Sylor-Miller](/stories/katie-sylor-miller) describes visibility as a critical piece of getting promoted to Staff,
 
 > Something I haven't talked about enough is communication and transparency. A big part of being promoted to Staff is making sure that your work is visible, that people know your name and you have a good reputation.
 
@@ -68,10 +68,10 @@ It's helpful to complement your internal visibility work with external visibilit
 Compared to an exclusively internal focus, one advantage of building an external presence is that there's a lot more room to create a niche and name for yourself. Internal efforts often end up competing for attention with your peers in a way that external efforts simply don't.
 
 In terms of how to create this sort of visibility for yourself and your work, it could be 
-giving a conference talk like [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) or [Dan Na](https://staffeng.com/stories/dan-na), going on a podcast like [Michelle Bu](https://staffeng.com/stories/michelle-bu), turning a problem into a website and book like [Katie Sylor-Miller](https://staffeng.com/stories/katie-sylor-miller)'s [_ohshitgit_](https://ohshitgit.com), or creating a mailing list like Stephen Whitworth's [_High Growth Engineering_](https://highgrowthengineering.substack.com).
+giving a conference talk like [Keavy McMinn](/stories/keavy-mcminn) or [Dan Na](https://staffeng.com/stories/dan-na), going on a podcast like [Michelle Bu](https://staffeng.com/stories/michelle-bu), turning a problem into a website and book like [Katie Sylor-Miller](https://staffeng.com/stories/katie-sylor-miller)'s _[ohshitgit](https://ohshitgit.com)_, or creating a mailing list like Stephen Whitworth's _[High Growth Engineering](https://highgrowthengineering.substack.com)_.
 
 ## Should _you_ focus on visibility?
 
 You can always have more visibility within your organization, but at some point, increasing your visibility is likely reducing the opportunities for others to create visibility for themselves. Internal visibility is not strictly zero-sum, but it's constrained by the attention of the folks you want to see your work.
 
-My advice would be to use the [promotion packet exercise](https://staffeng.com/guides/promo-packets) to identify if the lack of visibility is likely to hold you back in the promotion process. If so, work to clear that threshold, but not much further. Visibility is a transient currency. Learning and developing yourself is a permanent one; focus on the latter once you've done the minimum to clear the former's cliff.
+My advice would be to use the [promotion packet exercise](/guides/promo-packets) to identify if the lack of visibility is likely to hold you back in the promotion process. If so, work to clear that threshold, but not much further. Visibility is a transient currency. Learning and developing yourself is a permanent one; focus on the latter once you've done the minimum to clear the former's cliff.
