@@ -25,8 +25,8 @@ Into the messy details, we go.
 
 When I asked folks whether they had a Staff project, some of the answers were quite concise:
 
-* [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), "I actually didn't really have a Staff Project."
-* [Diana Pojar](https://staffeng.com/stories/diana-pojar), "No, I did not have an assigned 'Staff Project,' and that is not something that is part of the promotion process at Slack."
+* [Joy Ebertz](https://staffeng.com/stories/joy-ebertz), _"I actually didn't really have a Staff Project."_
+* [Diana Pojar](https://staffeng.com/stories/diana-pojar), _"No, I did not have an assigned 'Staff Project,' and that is not something that is part of the promotion process at Slack."_
 
 Some folks were even skeptical of the Staff project concept overall. [Nelson Elhage](https://staffeng.com/stories/nelson-elhage ) said,
 
@@ -43,7 +43,7 @@ From these stories, it's clear that anyone who tells you that you _must_ complet
 
 However, it's also true that many companies require, or informally enforce, Staff projects for internal promotions, and consequently, many folks do take on a Staff project as part of their role transition.
 
-[Ritu Vincent](https://staffeng.com/stories/ritu-vincent) describes her experience at Dropbox,
+[Ritu Vincent](/stories/ritu-vincent) describes her experience at Dropbox,
 
 > I definitely had a Staff Project. Back in the day, Dropbox was initially a consumer product that people downloaded and installed on their machines. When we launched Dropbox for Business, there was a request for both your personal and work Dropbox accounts to work simultaneously, including being able to switch across them without needing to log out and log back in.
 > The initial implementation was written under immense time pressure, and it ran multiple Dropbox processes. One for your personal account and another for business. My Staff project was to make it so a single Dropbox process could run with multiple users logged in. The hard part was that the project stretched from the kernel all the way to the user interface. I had to understand every single layer of the Dropbox system.
