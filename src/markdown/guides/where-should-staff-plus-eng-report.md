@@ -9,7 +9,7 @@ When I work on the organization design of an engineering organization, I think a
 
 As I've applied that approach to designing multiple organizations, one of the recurring edge cases that have come up is deciding where the senior-most engineers should report. Should they, as the org math dictates, report to managers in the organizational leaf nodes? Or should they, as key leaders in your organization, report to more senior leaders to have better access to the information and authorization they need to excel in their role?
 
-Before answering, it's worth describing the most common configurations you'll find in companies today, in particular how configurations vary across the [Staff-plus archetypes](/guides/staff-archetypes/):
+Before answering, it's worth describing the most common configurations you'll find in companies today, in particular how configurations vary across the [Staff-plus archetypes](/guides/staff-archetypes):
 
 * **Tech Leads** typically report to a manager responsible for one team. Less frequently, they'll report to a manager responsible for two to four teams. In both cases, they'll operate at the same scope as that manager. _Examples_: [Dan Na](https://staffeng.com/stories/dan-na) reported to the manager for the Internationalization Platform.
 * **Architects** typically report to a more senior manager, often a manager of managers. Often they'll be responsible for a horizontal-slice across that manager's area of responsibility, for example, data modeling. _Examples_: [Keavy McMinn](https://staffeng.com/stories/keavy-mcminn) reported to the CTO.
