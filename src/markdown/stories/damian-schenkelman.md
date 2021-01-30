@@ -58,7 +58,7 @@ On Thursdays (and as much of I can on Tuesdays) I spend my time thinking about:
 
 **_Where do you feel most impactful as a Staff-plus engineer? A specific story would be grand._**
 
-The biggest impact comes from being able to help achieve "people scale," positively influencing the work of as many people as possible internally. The book [Scaling Up Excellence](https://www.amazon.com/dp/B00EGMQIDG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) provides an easy to understand analogy: scaling is a ground war, not a one-off airstrike. It requires a lot of time, and patience but to get to your goals you need to align the whole company in terms of goals and how to get to them.
+The biggest impact comes from being able to help achieve "people scale," positively influencing the work of as many people as possible internally. The book [Scaling Up Excellence](https://www.amazon.com/dp/B00EGMQIDG/) provides an easy to understand analogy: scaling is a ground war, not a one-off airstrike. It requires a lot of time, and patience but to get to your goals you need to align the whole company in terms of goals and how to get to them.
 
 As a Principal Engineer, I try to find opportunities/gaps that I believe will set a direction for as many people as possible in the long term. There's a lot more value to align the ~200 people we have in our Product Delivery organization around a certain topic than to code a solution for a problem myself. The former has more impact, it scales better.
 

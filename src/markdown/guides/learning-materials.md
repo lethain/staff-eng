@@ -9,7 +9,7 @@ None of the Staff Engineer I spoke with got there alone. Most got there either t
 or building a powerful network of colleagues. This section is a collection of recommended resources.
 
 
-### Your Network
+## Your Network
 
 Almost unanimously, Staff-plus engineers' most valuable learning resources wasn't a book, blog, talk, or paper, but instead their network of peers and mentors. If you only have one hour to develop yourself as an engineer, your best bet would be [building a network of people in similar roles](/guides/network-of-peers).
 
@@ -18,7 +18,7 @@ If you're looking for a Slack community, `#staff-principal-engineering` in the
 is a fairly lively room.
 
 
-### What do Staff-plus Engineers do?
+## What do Staff-plus Engineers do?
 
 * [Being a principal engineer at Skyscanner](https://medium.com/@SkyscannerEng/being-a-principal-engineer-at-skyscanner-1830dfa17d30) by Nicky Wrightson
 * [Defining a Distinguished Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/) by Jessie Frazelle
@@ -34,7 +34,7 @@ is a fairly lively room.
 * [What does Staff level mean at GitLab?](https://about.gitlab.com/blog/2020/02/18/staff-level-engineering-at-gitlab/) by Charlie Ablett
 
 
-### Becoming a Staff-plus Engineer
+## Becoming a Staff-plus Engineer
 
 * [Becoming a Staff Engineer – Interview with Kristina Fox, Staff iOS Engineer at Intuit](https://elpha.com/posts/4j56np6p/becoming-a-staff-engineer-interview-with-kristina-fox-staff-ios-engineer-at-intuit) by Kaya Thomas
 * [On becoming a senior technical leader](https://blog.coinbase.com/on-becoming-a-senior-technical-leader-14106f1383b8) by Jesse Pollak
@@ -43,7 +43,7 @@ is a fairly lively room.
 * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by Charity Majors
 * [Things to Know About Engineering Levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/) by Charity Majors
 
-### Operating as a Staff-plus engineer
+## Operating as a Staff-plus engineer
 
 * [Being Glue](https://noidea.dog/glue) by Tanya Reilly
 * [Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/) by Nelson Elhage
@@ -62,7 +62,7 @@ is a fairly lively room.
 * [Where to Start](https://keavy.com/work/where-to-start/) by Keavy McMinn
 * [Design Docs, Markdown and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/) by Caitie McCaffrey
 
-### Technical Specifications
+## Technical Specifications
 
 * [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
 * [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
@@ -73,7 +73,7 @@ is a fairly lively room.
 * [Writing Technical Design Docs](https://medium.com/machine-words/writing-technical-design-docs-71f446e42f2e)
 
 
-### Engineering Strategy
+## Engineering Strategy
 
 * [A Framework For Responsible Innovation](https://multithreaded.stitchfix.com/blog/2019/08/19/framework-for-responsible-innovation/)
 * [How Big Technical Changes Happen at Slack - Several People Are Coding](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b)
@@ -91,7 +91,7 @@ Examples of engineering strategies:
 
 There are also many great resources on other facets of strategy as well, for example, Marty Cagan's series on [Product Strategy](https://svpg.com/product-strategy-overview/).
 
-### Books
+## Books
 
 Although I've found that many folks don't read too many books, when I asked Staff engineers for their most valuable resources, they inevitably mentioned a personal mentor or a book. They had blog posts and tech talks they might mention related to a more specific problem, but they were most changed by this larger, more papery format.
 
@@ -115,11 +115,11 @@ Some books which were recommended:
 
 If you're looking for, even more, recommended book lists abound, including my own at [Irrational Exuberance's Best Books](https://lethain.com/best-books).
 
-### Talks
+## Talks
 
 The Staff-plus engineers I've chatted with have generally mentioned giving talks as more valuable to them than listening to talks, but there certainly are some excellent talks out there. [Cindy Sridharan](https://medium.com/@copyconstruct) ([Twitter](https://twitter.com/copyconstruct)) is the best source of amazing talks, in particular, her write-ups of [Best of 2019 in Tech Talks](https://medium.com/@copyconstruct/best-of-2019-in-tech-talks-bac697c3ee13), [Best of 2018 in Tech Talks](https://medium.com/@copyconstruct/best-of-2018-in-tech-talks-2970eb3097af), and [Best of 2017 in Tech Talks](https://medium.com/@copyconstruct/best-of-2017-in-tech-talks-8f78b34ff0b).
 
-### Papers
+## Papers
 
 Relatively few Staff-plus Engineers are avid readers of Computer Science papers. However, most are familiar with a handful of foundational papers, and the small subset who do spend time reading papers tend to get quite a bit out of it.
 
@@ -147,7 +147,7 @@ If you aspire to join the category of frequent paper readers, there's no better 
 
 Probably the best place to find high-quality papers to read is [Papers We Love](https://paperswelove.org/), which also run meetups to discuss papers. A few other resources are the [ACM SIGOPS Hall of Fame Award list](https://www.sigops.org/awards/hof/) and [Irrational Exuberance's paper collection](https://lethain.com/some-of-my-favorite-technical-papers/).
 
-### Other nice things
+## Other nice things
 
 As I did the research for these resources, I found some other pieces that didn't quite fit anywhere above, but which I think are good and worth looking at nonetheless:
 
