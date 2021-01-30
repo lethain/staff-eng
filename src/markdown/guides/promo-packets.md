@@ -25,12 +25,16 @@ It’s useful to spend some time to write out those answers yourself, but gettin
 The approach that I recommend for iterating on your packet is:
 
 1. **Answer why you’re doing this**. Many folks choose not to pursue the Staff level; you should have a reason why this is important to you. If you don’t, you’re liable to find yourself in a role you don’t enjoy.
-
-    [Michelle Bu warns](https://staffeng.com/stories/michelle-bu), “My first piece of advice to engineers is that they should avoid pattern matching in ways that lead them towards work they don’t enjoy. I’m deeply energized by the work I do, partnering with teams to solve abstract modeling and design problems. It takes a certain amount of fortitude to try again and again after many rounds of feedback. To be honest, it’s not for everyone. If you’re more focused on hitting Staff than on setting yourself up to do work that energizes you, it’s easy to end up stuck in a role you don’t want.”
+    
+    [Michelle Bu warns](https://staffeng.com/stories/michelle-bu),
+    _“My first piece of advice to engineers is that they should avoid pattern matching in ways that lead them towards work they don’t enjoy. I’m deeply energized by the work I do, partnering with teams to solve abstract modeling and design problems. It takes a certain amount of fortitude to try again and again after many rounds of feedback. To be honest, it’s not for everyone. If you’re more focused on hitting Staff than on setting yourself up to do work that energizes you, it’s easy to end up stuck in a role you don’t want.”_
+    
 2. **Temper your expectations.** Promotions, especially at this level, are built over quarters, halves, and years. Avoid the expectation of instant results
 3. **Bring your manager into the fold.** Bring the _promotion packet_ to your next 1:1 with your manager, and tell them that attaining a Staff promotion is a goal of yours. Review the empty packet with them, and ask them what’s missing, what to emphasize, and if they’d recommend adding steps to the workflow. Your goal is to ensure they know this is something you’re interested in and to solicit their guidance on your approach.
-
-    [Ritu Vincent suggests](https://staffeng.com/stories/ritu-vincent), “People frequently come to me and ask, ‘What should I do next to reach Staff?’ One of the things that I tell them is to be super open and honest with their manager about what you want from your career. A mistake I made early on in my one-on-ones was telling my manager what I thought they wanted to hear, instead of what I actually felt.”
+    
+    [Ritu Vincent suggests](https://staffeng.com/stories/ritu-vincent),
+    _“People frequently come to me and ask, ‘What should I do next to reach Staff?’ One of the things that I tell them is to be super open and honest with their manager about what you want from your career. A mistake I made early on in my one-on-ones was telling my manager what I thought they wanted to hear, instead of what I actually felt.”_
+    
 4. **Write the _promotion packet_.** Sit down for an hour and throw all your ideas together in a first version
 5. **Edit the _promotion packet_.** Wait two days, reread your _promotion packet_ and edit for content, clarity, and context
 6. **Edit the _promotion packet_ with peers.** Share your _promotion packet_ with several trusted peers to get feedback, preferably peers already in a Staff-plus role. Peers are often better at identifying your strengths and contributions than you are, and they are closer to your work than your manager might be
