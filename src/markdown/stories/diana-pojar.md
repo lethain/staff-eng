@@ -63,7 +63,8 @@ ___You first got the title Staff engineer at Slack. Were you hired as a Staff en
 
 ___What two or three factors were most important in you reaching Staff? How have the companies you joined, your location, or your education impacted your path?___
 
- As I look back and contemplate on how I felt and thought about this when I was a junior engineer, the main factor to get to Staff Engineer is to actually believe that __YOU CAN DO IT__ and don’t let the impostrome syndrome win.
+As I look back and contemplate on how I felt and thought about this when I was a junior engineer, the main factor to get to Staff Engineer is to actually believe that __YOU CAN DO IT__ and don’t let the
+impostor syndrome win.
 
  In general, I’ve always tried to be very intentional with my career choices and usually I spend some time every year to think about what I’m doing and the areas of growth that I want to focus on. I’ve found this extremely valuable, because it makes me take a step back and assess what I am currently doing, to ask if I’m still growing in my current environment and think about new opportunities.
 
