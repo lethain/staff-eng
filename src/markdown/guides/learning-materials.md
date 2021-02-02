@@ -28,6 +28,7 @@ is a fairly lively room.
 * [On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html) by Silvia Botros
 * [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) by John Allspaw
 * [Staff Engineering](https://tychoish.com/post/staff-engineering/) by Sam Kleinman
+* [Staff Software Engineer Responsibilities](https://davidxiang.com/2021/01/19/staff-software-engineer-responsibilities/) by David Xiang
 * [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/) by Keavy McMinn
 * [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/) by Julia Evans
 * [What a Senior Staff Software Engineer Actually Does, Part 1: The Role and My Tasks](https://medium.com/box-tech-blog/what-a-senior-staff-software-engineer-actually-does-f3fc140d5f33) and [Part 2: The Mindset and Focus of the Role](https://medium.com/box-tech-blog/what-a-senior-staff-software-engineer-actually-does-d55308fcdd41) by Joy Ebertz
