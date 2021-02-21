@@ -7,7 +7,7 @@ date: "2021-02-20"
 kind: "draft"
 ---
 
-<span class="date">February, 2020</span>
+<span class="date">February, 2021</span>
 [blog](https://medium.com/@sak_to)
 [twitter](https://twitter.com/sak_to),
 [linkedin](https://ca.linkedin.com/in/stephenkawaguchi)
