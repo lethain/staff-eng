@@ -16,21 +16,19 @@ Disclaimer: I’m an employee of IBM. The views expressed in this article are mi
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work that you and your team do._**
 
-I work at IBM on the Cognos Analytics for Mobile team. Cognos is a massive suite of business intelligence tools that can help organizations prep and report their data. It uses AI to help prep data, and provides powerful reporting, dashboards, and data explorations to create useful visualizations and reports. Cognos also takes data analytics further and uses AI to generate insights and predictions. Since it's true enterprise software, it runs in on-prem environments as well as the hybrid cloud.
+I work at IBM on the Cognos Analytics (CA) for Mobile team. CA is a suite of business intelligence tools that provides powerful cognitive capabilities. It uses AI and machine learning to help prep data and suggest ways to manage and visualize data. For example, it can suggest visualization types based on the type of data provided. It features best-in-class analytics capabilities, such as reporting, dashboards, data modelling, and data exploration. CA also takes analytics further and uses AI to generate insights and predictions. Since it's true enterprise software, it runs in on-prem environments as well as the hybrid cloud on IBM Cloud Pak™ for Data.
 
-Our development organizations includes somewhere around 300 developers. My main team fluctuates between 8 and 14 and includes interns, devs, QA engineers, and a dev manager. Our technical backgrounds have varied wildly, and so I've made learning a central part of our team. The topics we've had to cover a lot of areas of learning. From the technical side: mobile, multiple CI servers, containers, Kubernetes, and experimentation with multiple automation tools. We've also had a learn a lot about the business domain - a lot of special interest and downstream groups come out the closer you get to launch. Finally, we've had to teach a lot of JavaScript / TypeScript language fundamentals and software engineering principles. Myself and the senior developers have tried to bring our knowledge level to where the team is at in order to create a shallow on-ramp. So far, it's worked out quite well!
+Our development organization includes somewhere around 300 developers. My main team fluctuates between 8 and 14 and includes interns, devs, QA engineers, and a dev manager. Our technical backgrounds have varied wildly, and so I've made learning a central part of our team's culture. The topics we've had to cover a lot of areas of learning. From the technical side: mobile development, React, React Native, Node.js, multiple CI servers, containers, Kubernetes, and multiple test automation tools. We've also had a learn a lot about the business domain - a lot of special interest and downstream groups have requirements to fulfill before your product can be deemed ready for general availability. Finally, we've had to teach a lot of JavaScript / TypeScript language fundamentals and software engineering principles. Myself and the senior developers have tried to bring our knowledge level to where the team is at in order to create a shallow on-ramp. So far, it's worked out quite well!
 
-We also have an extended family that includes a product manager,a UX designer, and for awhile we had a UX Researcher. We also interface with nearly 20 groups somewhat regularly.
+We also have an extended family that includes a product manager,a UX designer, and a UX Researcher. One of the biggest communication challenges is that we've had to interface with nearly 20 groups somewhat regularly.
 
 As far as the [Staff Eng Archetypes](https://staffeng.com/guides/staff-archetypes), I was originally deployed to this product as a *Solver*. I was challenged to get delivery on track while ensuring that the move from an on-prem monolithic world view to a cloud-native one was central to our delivery approach. I've played the *Tech Lead* role several times in my career, and while I do enjoy the ability to focus on execution in a limited scope, I generally get restless. I inevitably get curious about broader organizational technical concerns, and especially the overarching strategy and OKRs. In my last job I was a *Right Hand* and worked across multiple projects that were challenged. That has been my least favorite role because you never get to stay long enough to see how things really play out. I gravitate most towards the *Architect* archetype because it’s generally a good mix of strategy, technical, architecture, and mentorship. I also enjoy the variation.
 
-My main responsibility is enablement of Lean, Agile, and DevOps practices in order to accelerate delivery while maintaining a high standard of quality. I do this through mentorship focused on Agile code quality practices like TDD, FIRST principles of testing SOLID and other OOP principles, design patterns, and architectural patterns.
+My main responsibility is enablement of Lean, Agile, and DevOps practices in order to accelerate delivery while maintaining a high standard of quality. I do this through mentorship focused on Agile code quality practices like TDD, FIRST principles of testing SOLID and other OOP principles, design patterns, and architectural patterns. I also have to frequently get into the code myself since our responsibilities are very broad.
 
-Our mobile apps are cloud-native additions to the CA family, and features multiple continuous delivery pipelines. Most importantly, they were greenfield, and presented the organization with the opportunity to find a path to cloud. This might sound like a typical scenario, but it was anything but because of the gravitational pull of our monolith. We've had to fight hard to avoid being pulled in. To make matters even more complicated, because we release similar to an SDK, there is actually a need to be a monolith. All we really did is insert a cloud-native workflow in front and de-couple as much as possibleat a growing.
+Our mobile apps are amongst the first cloud-native additions to the CA family, and features multiple continuous delivery pipelines. Most importantly, they were greenfield, and presented the organization with the opportunity to find a path to cloud. This might sound like a typical scenario, but it was anything but because of the gravitational pull of our monolith. We've had to fight hard to avoid being pulled in. To make matters even more complicated, because we release similar to an SDK, there is actually a need to be a monolith. All we really did is insert a cloud-native workflow in front and de-couple as much as possibleat a growing.
 
-On top of being responsible for our iOS and Android apps, our team is DevOps-capable and owns the majority of our automated testing, handles most of our deployment responsibilities, and is tirelessly working to pursue greater levels of quality and speed.
-
-Prior to IBM I consulted for John Deere in a similar, albeit UI-focused, Lean / Agile transformation role across a group of 100 developers. Before that I worked at several companies across multiple industries. I was most influenced by my stints climbing the management ladder at the BMO Financial Group Institute for Learning, and as tech director at a small dev and events shop that ran Toyota Canada web properties (toyota.ca, scion.ca, lexus.ca) as well as the big trade shows - before they were acquired by Saatchi & Saatchi. Over my 20-year career, I've worn many hats outside of IC, including tech team lead, project manager, program manager, tech director, interaction designer, and information architect.
+On top of being responsible for our iOS and Android apps, our team is DevOps-capable and owns the majority of our automated testing, handles most of our deployment responsibilities, and is tirelessly working to pursue greater levels of quality and speed. Transforming the team to this state has been my overarching goal since I joined.
 
 **_Did you ever consider engineering management, and if so how did you decide to pursue the staff engineer path?_**
 
@@ -40,35 +38,35 @@ IBM is massive, with somehwere around 350,000 employees, 100,000 of whom are dev
 
 That said, senior-level talent is clear and present. I've never been part of a company that is so dedicated to creating mentorship situations, nor one that's been able to present me with multiple mentors. I've had very few technical mentors over the years, but here I get to schedule regular 1:1s with multiple Distinguished Engineers and STSMs. This is a stated part of the responsibilities of the Staff Plus cohort, which is pretty cool. I've learned a lot about dealing with technical strategy at scale - something I doubt I'd be exposed to at a growing company.
 
-My DE mentors were matched with me rather organically. One was part of my interviewing process. The other two were connections made by my two bosses who felt that my sensibilities and their's would align. All have been wonderful at showing me the ropes, and being direct about challenging me to really elevate my thinking.
+My DE mentors were matched with me rather organically. One was part of my interviewing process and so has been there from the beginning. The other two were connections made by my two bosses who felt that my sensibilities and their's would align. All have been wonderful at showing me the ropes, and being direct about challenging me to elevate my thinking.
 
-As an engineer, your paths to seniority are varied. Techincal excellence, hard work, organizational skills, and the ability to move others are all recognized and rewarded. A lot of it is whether there is opportunity for promotion. Unfortunately, there has to be a spot open. Sometimes you have to convince the powers-that-be to open up one, and that can be a challenge.
+As a software engineer at IBM, your paths to seniority are varied. Techincal excellence, hard work, organizational skills, and the ability to move others are all recognized and rewarded. A lot of it is whether there is opportunity for promotion. Unfortunately, there has to be a spot open. Sometimes you have to convince the powers-that-be to open up one, and that can be a challenge.
 
 **_Can you remember any piece of advice on reaching Staff that was particularly helpful for you?_**
 
-Once you’ve clocked the organizational strategic goals - the things between the flashy bullet-points in executive slide decks - stop asking for permission and aggressively pursue those goals. Don’t wait for others to hand you the path, only you know yourself well enough to forge the right path for you. Try to stay in-bounds for the way the organization works, of course, but I believe that being a change agent is all about knowing when to do what needs to be done, and beg for forgiveness later.
+The best advice I've been consistently given is that it's critical for technical leaders to know when to stop asking for permission and aggressively pursue your goals. You can't wait for others to hand you the path if you want to get the big things done. Try to stay in-bounds for the way the organization works, but being a change agent is all about knowing when to do what needs to be done... and when to sometimes beg for forgiveness later. It isn't about being a maverick, it's about pursuiing your agenda with confidence and conviction. Other technologists respect that, and if you've got a good network, they will help you, sometimes jump onboard, and will give you the constant feedback necessary to check that you're headed in the right direction.
 
 **_How do you spend your time day-to-day?_**
 
 Daily:
 
 - For the equivalent of 1 day per week I participate in my main team’s Agile rituals.
-- I try hard to code for at least 1 hour per day. That’s been elusive lately, but sometimes I’ve been able to code for 4 or even 6 hours in a day. It depends on need - for example, this was critical early on to provide the team examples of code written using TDD looks like.
+- I try hard to code for at least 1 hour per day. That’s been elusive lately, but sometimes I’ve been able to code for 4 or even 6 hours in a day. It depends on need - for example, tto provide the team examples of code written using TDD looks like, or to polish our authentication and globalization schemes.
 - I spend ~2 hours per day reviewing code, talking strategic adjustments, pair programming, inspecting SonarQube for technical debt, having system design, pipeline planning, or architectural discussions, or doing other things related to the core product I work on.
 
 After that it’s easier to talk about weekly:
 
 - I run 3 - 4 tech coaching 1:1s each week.
-- Every couple of weeks I either participate or lead a Agile or Learning guild session.
+- Every couple of weeks I either participate or lead an Agile or Learning guild session.
 
 I also have a few key broad impact groups I participate in:
 
-- I sit in on software craftsmanship and multiple regular dev transformation discussions participate that include multiple levels of technical leaders and management.
-- I have a regular working group of people trying to build out software engineering resources like a career guides and a playbook.
-- I also talk with my network of mentor distinguished engineer and staff engineers on a bi-weekly or monthly basis.
-- I'm part of my product area architecture guild where we discuss all manner of architectural issues, and where we conduct reviews.
+- I sit in on software craftsmanship and multiple regular dev transformation discussions participate that include multiple levels of technical leaders and management. These are fun because they are purely technical strategy. I enjoy seeing those strategies form and come to life.
+- I have a regular working group of people trying to build out software engineering resources like a career guides and a software engineering playbook.
+- I also talk with my network of mentor distinguished engineer and staff engineers on a bi-weekly or monthly basis. This is sometimes therapy for me because I get great perspective from people with more experience and deeper knowledge. These are my favorite sessions because I'm exposed to role models.
+- I'm part of my product area architecture guild where we discuss all manner of architectural issues, and where we conduct reviews. This is also technical strategy, but in much more technical detail.
 
-The rest is a true mishmash:
+The rest of my time is eaten up by a mishmash of responsibilities:
 
 - Dealing with constant audits from quality, security, and performance testers
 - Ensuring cross-collaboration is smooth across the 20+(!) groups that we need to occasionally interface with
