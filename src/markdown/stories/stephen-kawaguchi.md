@@ -44,7 +44,7 @@ As a software engineer at IBM, your paths to seniority are varied. Techincal exc
 
 **_Can you remember any piece of advice on reaching Staff that was particularly helpful for you?_**
 
-The best advice I've been consistently given is that it's critical for technical leaders to know when to stop asking for permission and aggressively pursue your goals. You can't wait for others to hand you the path if you want to get the big things done. Try to stay in-bounds for the way the organization works, but being a change agent is all about knowing when to do what needs to be done... and when to sometimes beg for forgiveness later. It isn't about being a maverick, it's about pursuiing your agenda with confidence and conviction. Other technologists respect that, and if you've got a good network, they will help you, sometimes jump onboard, and will give you the constant feedback necessary to check that you're headed in the right direction.
+The best advice I've been consistently given is that it's critical for technical leaders to know when to stop asking for permission and aggressively pursue your goals. You can't wait for others to hand you the path if you want to get the big things done. Try to stay in-bounds for the way the organization works, but being a change agent is all about knowing when to do what needs to be done... and when to sometimes beg for forgiveness later. It isn't about being a maverick, it's about pursuing your agenda with confidence and conviction. Other technologists respect that, and if you've got a good network, they will help you, sometimes jump onboard, and will give you the constant feedback necessary to check that you're headed in the right direction.
 
 **_How do you spend your time day-to-day?_**
 
