@@ -24,15 +24,15 @@ We also have an extended family that includes a product manager,a UX designer, a
 
 As far as the [Staff Eng Archetypes](https://staffeng.com/guides/staff-archetypes), I was originally deployed to this product as a *Solver*. I was challenged to get delivery on track while ensuring that the move from an on-prem monolithic world-view to a cloud-native one was central to our delivery approach. I've played the *Tech Lead* role several times in my career, and while I do enjoy the ability to focus on execution in a limited scope, I generally get restless. I inevitably get curious about broader organizational technical concerns, and especially the overarching strategy and OKRs. In my last job I was a *Right Hand* and worked across multiple projects that were challenged. That has been my least favorite role because you never get to stay long enough to see how things really play out. I gravitate most towards the *Architect* archetype because it’s generally a good mix of strategy, technical, architecture, and mentorship. I also enjoy the variation.
 
-My main responsibility is to ensure the adoption of Lean, Agile, and DevOps practices in order to accelerate delivery while maintaining a high standard of quality. I do this through mentorship focused on code quality practices, business process improvement, and ensure our technical strategy is manifested properly in our architectural decisions. I also have to frequently get into the code myself.
+I see my main responsibility to be ensuring the adoption of Lean, Agile, and DevOps practices in order to accelerate delivery while maintaining a high standard of quality. I typically do this through mentorship focused on code quality practices, providing coaching around Agile ceremonies to make sure that goal-setting and continuous improvement are part of daily work. I sprinkile in Lean business process improvement practices to ensure optimization of the whole workflow. I also spend a lot of time ensuring that our technical strategy is manifested properly in our architectural decisions. Finally, I also have to frequently get into the code myself to help along some of our longer-term strategic goals, as well as to continue my own learning.
 
-On top of being responsible for our iOS and Android apps, our team is DevOps-capable and builds, maintains, and handles many of our own deployment responsibilities - and we've forged a close partnership with our SRE colleagues for the environments we don't deploy to. My overarching goal has been to position the team to take advantages of the wealth of knowledge in the DevOps space for better delivery outcomes, and I'm proud to say that they've responded admirably. Our performance is exemplary in our product group.
+On top of being responsible for our iOS and Android apps, our team is DevOps-capable and builds, maintains, and handles many of our own deployment responsibilities, and we've forged a close partnership with our SRE colleagues for the environments we don't deploy to. My overarching goal has been to position the team to take advantages of the wealth of knowledge in the DevOps space for better delivery outcomes, and I'm proud to say that they've responded admirably. Our performance is exemplary within our product group.
 
 **_Did you ever consider engineering management, and if so how did you decide to pursue the staff engineer path?_**
 
 One of the reasons I joined IBM is because they have a robust process to become a Senior Technical Staff Member (STSM). We also have Distinguished Engineer and Fellow levels. Those are essentially executive positions for technical folks. I took this as a sign that there is a sophisticated view of how IBM fosters non-managerial growth.
 
-IBM is massive, with somehwere around 350,000 employees, 100,000 of whom are developers. The level of variance in the path to Staff Engineer is high. It's mostly going to depend on the context of the group. We have levels of seniority but they are very fuzzy and I don't think I'm the right person to attempt to explain them.
+IBM is massive, with somewhere around 350,000 employees, 100,000 of whom are technically-focused, and with tens-of-thousands of developers. The level of variance in the path to Staff Engineer is high. It's mostly going to depend on the context of the group. We have levels of seniority but they are very fuzzy and I don't think I'm the right person to attempt to explain them.
 
 That said, senior-level talent is clear and present. I've never been part of a company that is so dedicated to creating mentorship situations, nor one that's been able to present me with multiple mentors. I've had very few technical mentors over the years, but here I get to schedule regular 1:1s with multiple Distinguished Engineers and STSMs. This is a stated part of the responsibilities of the Staff Plus cohort, which is pretty cool. I've learned a lot about dealing with technical strategy at scale - something I doubt I'd be exposed to at a growing company.
 
@@ -42,7 +42,7 @@ As a software engineer at IBM, your paths to seniority are varied. Techincal exc
 
 **_Can you remember any piece of advice on reaching Staff that was particularly helpful for you?_**
 
-The best advice I've been consistently given by bosses, mentors, and trusted colleagues is that sometimes it's better to beg for forgiveness instead of waiting for permission. This is one interpretation of what so many luminaries in the software world refer to as *courage*. This has been a hard lesson for me to internalize, I've tried to reserve these for situations where our strategic goals will be completely compromised by indecision, bureaucratic inertia, or fear of change. I prefer to align on goals. Sometimes, you just can't bring people around, even when they agree. So, you just go do it and accept the consequences. 
+The best advice I've been consistently given by bosses, mentors, and trusted colleagues is that sometimes it's better to beg for forgiveness instead of waiting for permission. This is my interpretation of what so many luminaries in the software world refer to as *courage*. This has been a hard lesson for me to internalize because I lean towards consensus as a way to make sure the approach is sound. But what do you do if consensus is clearly counter to strategic goals? Or when there is no consensus? That's when you need to make the hard call. I've tried to reserve these for situations where our strategic goals will be completely compromised by indecision, bureaucratic inertia, or fear of change. I prefer to align on goals. Sometimes, you just can't bring people around, even when they agree. So, you just go do it and accept the consequences.
 
 **_How do you spend your time day-to-day?_**
 
@@ -78,9 +78,11 @@ My greatest contribution in my current role is transforming a struggling team of
 
 Even more excitingly: now that we've hit some major milestones and we have our CI / CD pipeline connected, we're poised to scale our successes and help other teams take advantage of our lessons-learned and reusable functionality. This is what I'm most excited to see come to fruition!
 
+That said, it took a village to raise our application, and we've had help from many other groups. The next phase of our work is to help other take advantage of our successes and build upon them. We've already seen some success in sharing our foundational work - it's time for more tangible contributions from our side. This is where I hope my broad influence will come in handy.
+
 **_Can you think of anything you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done before reaching that title?_**
 
-I had a lot of these theories in my mind, but as we know, execution is much harder. Proving that I could lead a cloud-native team was a huge confidence-boost.
+I had a lot of these theories in my mind, but as we know, execution is much harder. Proving that I could lead a cloud-native team was a huge confidence-boost. It required rapid learning and pulling the team together to align them to clear goals.
 
 More importantly, I used to be more hesitant and sought out validation of my approaches before committing. This job affords me much more discretion of my time than previous ones. I believe I’ve been able to make a much broader impact by doing so by figuring out who the people that move the organization are, and finding ways to align to their initiatives within my work.
 
@@ -93,11 +95,10 @@ Yes, significant time. I’ve introduced these concepts to my team or organizati
 - Scrum
 - FIRST Principles of Testing and effective unit testing
 - TDD
-- Software engineering principles and design patterns
+- Software engineering principles (e.g. SOLID) and design patterns
 - Blameless Post-mortems
 - Value Stream Mapping
-- Cypress
-- Gateway Microservice Pattern
+- More CI-friendly testing tools and approaches (Cypress, Consumer-Driven Contract Testing)
 - Pair programming
 
 <div class="pull">
@@ -113,7 +114,7 @@ Yes, significant time. I’ve introduced these concepts to my team or organizati
 
 **_What two or three factors were most important in you reaching Staff? How have the companies you joined, your location, or your education impacted your path?_**
 
-A T-shaped skillset has helped differentiate me and have served me extremely well throughout my career. It may sound cliché, but the soft-skills have been just as important as the technical ones. You can move more people and you need both to ensure you're getting it right as a team.
+A T-shaped skillset has helped differentiate me and have served me extremely well throughout my career. It may sound cliché, but the soft-skills have been just as important as the technical ones. You need both to move people at different levels, and to ensure you're getting it right as a team.
 
 Another factor is that I've been fortunate to ride the wave of multiple trends:
 
@@ -124,18 +125,18 @@ Another factor is that I've been fortunate to ride the wave of multiple trends:
 1. I got to use React and Redux early on, just before they really took off.
 1. I focused on DevOps just as it became mainstream. In fact, I had hit a crisis-of-faith in Agile. The way that Gene Kim et al. reinvigorated my passion because the way they've made it all come together resonates deeply with my own values. I've been running with DevOps ever since.
 
-Finally, fluking into my first job at the BMO Financial Group Institute for Learning where I received several years of formal leadership and management training early in my career has been incredibly valuable. Not only has it opened up a lot of doors, it's helped me gain perspective much faster than I would have on a different path. I was pretty shocked to find out that new managers don't actually get training, and so I've tried to make a point to find and share similar materials with new leaders as I've worked with them. I believe it's helped me make more nuanced and multi-faceted decisions beyond the technical ones.
+Finally, fluking into my first job at the BMO Financial Group Institute for Learning where I received several years of formal leadership and management training early in my career has been incredibly valuable. Not only has it opened up a lot of doors because I tend to be perceived as a team-builder, it's helped me gain perspective much faster than I would have on a different path. I was pretty shocked to find out that the majority of new managers don't actually get training, and so I've tried to make a point to find and share similar materials with other technical leaders as I've worked with them. Leadership skills like conflict-resolution, planning, formulation of strategies, communication, and understanding how to effectively manage other humans comes in handy no matter your number of direct reports. Actually, I've found that I'm _more_ effective without having direct-reports because then I don't get bogged down in HR overhead. I believe it's helped me become a more nuanced and multi-faceted decision-maker far beyond the technical problems in front of me.
 
 **_How do you keep in touch with how things really work as you spend less time on hands-on development?_**
 
-I make a point of reviewing lots of PRs and taking on coding work in isolated areas myself. I also review code in trunk to avoid PR-myopia.
+I make a point of reviewing lots of PRs and taking on coding work in isolated areas myself. I also review code in the main line to avoid PR-myopia (the fractured view of the whole when you only review small slices of it).
 
-To stay abreast of what's going on in the industry, I take courses, read books and blogs, listen to podcasts, watch YouTube channels, and build silly little experiments on personal time. Right now I'm a big reader because I'm focused on trying to learn how to shift the trajectory of my product group as well as IBM. This is a new area to me, and so I've been fascinated to watch and participate in some of these efforts.
+To stay abreast of what's going on in the industry, I take courses, do tutorials, read books and blogs, listen to podcasts, watch YouTube channels, and build silly little experiments on personal time. Right now I'm more of a reader because I'm focused on trying to learn how to shift the trajectory of my product group as well as IBM. This is a new skillset to me, and so I've been fascinated to watch and participate in some of these efforts.
 
 **_How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?_**
 
-An emphatic _yes_! I measure my success in their success. I was "raised" by my amazing early-career mentors to believe that your greatest personal success is how well you can elevate the people you work with. Over the years, I've learned the wisdom of that particular lesson. The biggest points of pride in my career are consistently when I see others that I've had a hand is mentoring. It's nearly as good as being a dad :)
+An emphatic _yes_! I measure my success in their success. I was "raised" by my amazing early-career mentors to believe that your greatest personal success is how well you can elevate the people you work with. Over the years, I've learned the wisdom of that particular lesson. The biggest points of pride in my career are consistently when I see others that I've had a hand is mentoring. It's _nearly_ as good as being a dad :)
 
 **_What about a piece of advice for someone who has just started as a Staff Engineer?_**
 
-I think this all the time to try to keep my ego in check and to put empathy at the center of what I do: We’re all standing on the shoulders of the giants that came before us. Stay humble and remember you’re being entrusted to elevate others, just as you yourself were elevated. It's easy to forget about that with all of the distractions in our industry and the inevitable politics and pressure to succeed. Put ambition aside and treat others as you would like to be treated yourself (or maybe how you wish you had been treated). You'll sleep better at night, and enjoy the kind of success you can live with.
+I think this all the time to try to keep my ego in check and to put empathy at the center of what I do: We’re all standing on the shoulders of the giants that came before us. Stay humble and remember you’re being entrusted to elevate others, just as you yourself were elevated. It's easy to forget about that with all of the distractions in our industry and the inevitable politics and pressure to succeed. Put ambition aside and treat others as you would like to be treated yourself (or maybe how you wish you had been treated). You'll sleep better at night, and enjoy the kind of success that you can actually live with.
