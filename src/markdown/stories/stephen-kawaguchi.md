@@ -17,14 +17,14 @@ Disclaimer: I’m an employee of IBM. The views expressed in this article are mi
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work that you and your team do._**
 
 I work at IBM on the Cognos Analytics (CA) for Mobile team. CA is a suite of business intelligence tools that provides powerful cognitive capabilities. It uses AI and machine learning to help prep data and suggest ways to manage and visualize data. For example, it can suggest visualization types based on the type of data provided. It features best-in-class analytics capabilities, such as reporting, dashboards, data modelling, and data exploration. CA also takes analytics further and uses AI to generate insights and predictions. Since it's true enterprise software, it runs in on-prem environments as well as the hybrid cloud on IBM Cloud Pak™ for Data.
+ 
+Our development organization includes somewhere around 300 developers. My main team fluctuates between 8 and 14 and includes interns, devs, QA engineers, and a dev manager. Our technical backgrounds vary wildly which has presented a challenge to our goal to create a cross-functional team. To compensate, I've made learning a central part of our team's culture. We've had to learn and teach a wide variety of technical and business process topics. Myself and the senior developers have tried to bring our knowledge level to where the team is at in order to create a shallow on-ramp. So far, it's worked out quite well and we've built a fairly cross-functional skillset across the team.
 
-Our development organization includes somewhere around 300 developers. My main team fluctuates between 8 and 14 and includes interns, devs, QA engineers, and a dev manager. Our technical backgrounds vary wildly which has presented a challenge to our goal to create a cross-functional team. To compensate, I've made learning a central part of our team's culture. We've had to learn and teach a wide variety of technical and business process topics. Myself and the senior developers have tried to bring our knowledge level to where the team is at in order to create a shallow on-ramp. So far, it's worked out quite well and we've built a fairly cross-functional skillset cross the team.
-
-We also have an extended family that includes a product manager,a UX designer, and a UX Researcher. They help bring us closer to our customers. They're also invaluable in ensuring that we're looking beyond the code to the heart of the business challenges before us. 
+We also have an extended family that includes a product manager,a UX designer, and a UX Researcher. They help bring us closer to our customers, and are invaluable in ensuring that we're looking beyond the code to the heart of the business challenges before us. 
 
 As far as the [Staff Eng Archetypes](https://staffeng.com/guides/staff-archetypes), I was originally deployed to this product as a *Solver*. I was challenged to get delivery on track while ensuring that the move from an on-prem monolithic world-view to a cloud-native one was central to our delivery approach. I've played the *Tech Lead* role several times in my career, and while I do enjoy the ability to focus on execution in a limited scope, I generally get restless. I inevitably get curious about broader organizational technical concerns, and especially the overarching strategy and OKRs. In my last job I was a *Right Hand* and worked across multiple projects that were challenged. That has been my least favorite role because you never get to stay long enough to see how things really play out. I gravitate most towards the *Architect* archetype because it’s generally a good mix of strategy, technical, architecture, and mentorship. I also enjoy the variation.
 
-I see my main responsibility to be ensuring the adoption of Lean, Agile, and DevOps practices in order to accelerate delivery while maintaining a high standard of quality. I typically do this through mentorship focused on code quality practices, providing coaching around Agile ceremonies to make sure that goal-setting and continuous improvement are part of daily work. I sprinkile in Lean business process improvement practices to ensure optimization of the whole workflow. I also spend a lot of time ensuring that our technical strategy is manifested properly in our architectural decisions. Finally, I also have to frequently get into the code myself to help along some of our longer-term strategic goals, as well as to continue my own learning.
+I see my main responsibility to be ensuring the adoption of Lean, Agile, and DevOps practices in order to accelerate delivery while maintaining a high standard of quality. I typically do this through mentorship focused on code quality practices, providing coaching around Agile ceremonies to make sure that goal-setting and continuous improvement are part of daily work. I sprinkle in Lean business process improvement practices to ensure optimization of the whole workflow. I also spend a lot of time ensuring that our technical strategy is manifested properly in our architectural decisions. Finally, I also have to frequently get into the code myself to help along some of our longer-term strategic goals, as well as to continue my own learning.
 
 On top of being responsible for our iOS and Android apps, our team is DevOps-capable and builds, maintains, and handles many of our own deployment responsibilities, and we've forged a close partnership with our SRE colleagues for the environments we don't deploy to. My overarching goal has been to position the team to take advantages of the wealth of knowledge in the DevOps space for better delivery outcomes, and I'm proud to say that they've responded admirably. Our performance is exemplary within our product group.
 
@@ -49,7 +49,7 @@ The best advice I've been consistently given by bosses, mentors, and trusted col
 Daily:
 
 - For the equivalent of 1 day per week I participate in my main team’s Agile rituals.
-- I try hard to code for at least 1 hour per day. That’s been elusive lately, but sometimes I’ve been able to code for 4 or even 6 hours in a day. It depends on need - for example, tto provide the team examples of code written using TDD looks like, or to polish our authentication and globalization schemes.
+- I try hard to code for at least 1 hour per day. That’s been elusive lately, but sometimes I’ve been able to code for 4 or even 6 hours in a day. It depends on need - for example, to provide the team examples of TDD'd code looks like, or to polish our authentication and globalization schemes.
 - I spend ~2 hours per day reviewing code, talking strategic adjustments, pair programming, inspecting SonarQube for technical debt, having system design, pipeline planning, or architectural discussions, or doing other things related to the core product I work on.
 
 After that it’s easier to talk about weekly:
@@ -59,9 +59,9 @@ After that it’s easier to talk about weekly:
 
 I also have a few key broad impact groups I participate in:
 
-- I sit in on software craftsmanship and multiple regular dev transformation discussions participate that include multiple levels of technical leaders and management. These are fun because they are purely technical strategy. I enjoy seeing those strategies form and come to life.
-- I have a regular working group of people trying to build out software engineering resources like a career guides and a software engineering playbook.
-- I also talk with my network of mentor distinguished engineer and staff engineers on a bi-weekly or monthly basis. This is sometimes therapy for me because I get great perspective from people with more experience and deeper knowledge. These are my favorite sessions because I'm exposed to role models.
+- I sit in on software craftsmanship and multiple regular dev transformation discussions that include multiple levels of technical leaders and management. These are fun because they are purely technical strategy. I enjoy seeing those strategies form and come to life.
+- I have a regular working group of people trying to build out software engineering resources like a career guide and a software engineering playbook.
+- I also talk with my network of mentor distinguished and staff engineers on a bi-weekly or monthly basis. This is sometimes therapy for me because I get great perspective from people with more experience and deeper knowledge. These are my favorite sessions because I'm exposed to role models.
 - I'm part of my product area architecture guild where we discuss all manner of architectural issues, and where we conduct reviews. This is also technical strategy, but in much more technical detail.
 
 The rest of my time is eaten up by a mishmash of responsibilities:
@@ -78,7 +78,7 @@ My greatest contribution in my current role is transforming a struggling team of
 
 Even more excitingly: now that we've hit some major milestones and we have our CI / CD pipeline connected, we're poised to scale our successes and help other teams take advantage of our lessons-learned and reusable functionality. This is what I'm most excited to see come to fruition!
 
-That said, it took a village to raise our application, and we've had help from many other groups. The next phase of our work is to help other take advantage of our successes and build upon them. We've already seen some success in sharing our foundational work - it's time for more tangible contributions from our side. This is where I hope my broad influence will come in handy.
+That said, it took a village to raise our application, and we've had help from many other groups. The next phase of our work is to help others take advantage of our successes and build upon them. We've already seen some success in sharing our foundational work - it's time for more tangible contributions from our side. This is where I hope my broad influence will come in handy.
 
 **_Can you think of anything you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done before reaching that title?_**
 
@@ -131,7 +131,7 @@ Finally, fluking into my first job at the BMO Financial Group Institute for Lear
 
 I make a point of reviewing lots of PRs and taking on coding work in isolated areas myself. I also review code in the main line to avoid PR-myopia (the fractured view of the whole when you only review small slices of it).
 
-To stay abreast of what's going on in the industry, I take courses, do tutorials, read books and blogs, listen to podcasts, watch YouTube channels, and build silly little experiments on personal time. Right now I'm more of a reader because I'm focused on trying to learn how to shift the trajectory of my product group as well as IBM. This is a new skillset to me, and so I've been fascinated to watch and participate in some of these efforts.
+To stay abreast of what's going on in the industry, I take courses, do tutorials, read books and blogs, listen to podcasts, watch YouTube channels, and build silly little experiments in my personal time. Right now I'm more of a reader because I'm focused on trying to learn how to shift the trajectory of my product group as well as IBM. This is a new skillset to me, and so I've been fascinated to watch and participate in some of these efforts.
 
 **_How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?_**
 
