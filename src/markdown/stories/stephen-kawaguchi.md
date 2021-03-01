@@ -20,7 +20,7 @@ I work at IBM on the Cognos Analytics (CA) for Mobile team. CA is a suite of bus
  
 Our development organization includes somewhere around 300 developers. My main team fluctuates between 8 and 14 and includes interns, devs, QA engineers, and a dev manager. Our technical backgrounds vary wildly which has presented a challenge to our goal to create a cross-functional team. To compensate, I've made learning a central part of our team's culture. We've had to learn and teach a wide variety of technical and business process topics. Myself and the senior developers have tried to bring our knowledge level to where the team is at in order to create a shallow on-ramp. So far, it's worked out quite well and we've built a fairly cross-functional skillset across the team.
 
-We also have an extended family that includes a product manager,a UX designer, and a UX Researcher. They help bring us closer to our customers, and are invaluable in ensuring that we're looking beyond the code to the heart of the business challenges before us. 
+We also have an extended family that includes a product owner, a UX designer, and a UX Researcher. They help bring us closer to our customers, and are invaluable in ensuring that we're looking beyond the code to the heart of the business challenges before us. 
 
 As far as the [Staff Eng Archetypes](https://staffeng.com/guides/staff-archetypes), I was originally deployed to this product as a *Solver*. I was challenged to get delivery on track while ensuring that the move from an on-prem monolithic world-view to a cloud-native one was central to our delivery approach. I've played the *Tech Lead* role several times in my career, and while I do enjoy the ability to focus on execution in a limited scope, I generally get restless. I inevitably get curious about broader organizational technical concerns, and especially the overarching strategy and OKRs. In my last job I was a *Right Hand* and worked across multiple projects that were challenged. That has been my least favorite role because you never get to stay long enough to see how things really play out. I gravitate most towards the *Architect* archetype because it’s generally a good mix of strategy, technical, architecture, and mentorship. I also enjoy the variation.
 
@@ -135,7 +135,16 @@ To stay abreast of what's going on in the industry, I take courses, do tutorials
 
 **_How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?_**
 
-An emphatic _yes_! I measure my success in their success. I was "raised" by my amazing early-career mentors to believe that your greatest personal success is how well you can elevate the people you work with. Over the years, I've learned the wisdom of that particular lesson. The biggest points of pride in my career are consistently when I see others that I've had a hand is mentoring. It's _nearly_ as good as being a dad :)
+An emphatic _yes_! I measure my success in their success. I was "raised" by my amazing early-career mentors to believe that your greatest personal success is how well you can elevate the people you work with. Over the years, I've learned the wisdom of that particular lesson. The most memorable highlights in my career have been when I see mentees succeed - whether it's a promotion, a successful delivery that they've led, or simply just being comfortable in their own skin and confident in their abilities. It's _nearly_ as good as being a dad :)
+
+I see sponsorship as active mentorship. So I've sponsored others by:
+
+- Advocating for actual promotions with senior leadership
+- Helping mentees identify the areas that they need to develop to progress (most recently using the [Medium Engineering Growth Framework](https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524))
+- Using 1:1s to help them plan and track progress against their career-development goals
+- Providing my opinion as to how to present themselves to be more appealing for promotions
+- Giving them transparent feedback on what I believe is impeding their growth or progression
+- Helping them understand that their path forward will likely be unique to them, and that that's OK
 
 **_What about a piece of advice for someone who has just started as a Staff Engineer?_**
 
