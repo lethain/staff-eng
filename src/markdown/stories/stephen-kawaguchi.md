@@ -38,7 +38,7 @@ That said, senior-level talent is clear and present. I've never been part of a c
 
 My DE mentors were matched with me organically. One was part of my interviewing process and so has been there from the beginning. The other two were connections made by various bosses, who felt that my sensibilities and their's would align. All have been wonderful at showing me the ropes, and being direct about challenging me to elevate my thinking. It feels very familiar to my early days when I was first being trained as a manager.
 
-As a software engineer at IBM, your paths to seniority are varied. Techincal excellence, hard work, organizational skills, and the ability to move others are all recognized and rewarded. A lot of it is whether there is opportunity for promotion. Unfortunately, there has to be a spot open. Sometimes you have to convince the powers-that-be to open up one, and that can be a challenge.
+As a software engineer at IBM, your paths to seniority are varied. Techincal excellence, hard work, organizational skills, and the ability to move others are all recognized and rewarded. A lot of it also comes down to whether there is actually an opportunity for promotion because it's not tenable to simply have Staff Plus as something developers attain after _x_ years. The demands on leadership, vision, communication, strategic skills, and the ability to align technology to business all go up very quickly as you move to more senior levels. The biggest challenge is in identifying the scope that a given Staff Plus engineer will cover and making a compelling case that a given engineer is the person for that job. So a Staff Plus promotion is under far more scrutiny than lower band promotions for good reason.
 
 **_Can you remember any piece of advice on reaching Staff that was particularly helpful for you?_**
 
@@ -144,7 +144,7 @@ I see sponsorship as active mentorship. So I've sponsored others by:
 - Using 1:1s to help them plan and track progress against their career-development goals
 - Providing my opinion as to how to present themselves to be more appealing for promotions
 - Giving them transparent feedback on what I believe is impeding their growth or progression
-- Helping them understand that their path forward will likely be unique to them, and that that's OK
+- Helping them understand that their path forward will likely be unique to them, and that's OK
 
 **_What about a piece of advice for someone who has just started as a Staff Engineer?_**
 
