@@ -3,16 +3,16 @@ title: "Stephen Kawaguchi - Solution Architect at IBM"
 name: "Stephen Kawaguchi"
 role: "Solution Architect at IBM"
 slug: "/stories/stephen-kawaguchi"
-date: "2021-02-20"
-kind: "draft"
+date: "2021-03-01"
+kind: "story"
 ---
 
-<span class="date">February, 2021</span>
-[blog](https://medium.com/@sak_to)
+<span class="date">March, 2021</span>
+[blog](https://medium.com/@sak_to),
 [twitter](https://twitter.com/sak_to),
 [linkedin](https://ca.linkedin.com/in/stephenkawaguchi)
 
-Disclaimer: I’m an employee of IBM. The views expressed in this article are mine and don’t necessarily reflect the positions, strategies, or opinions of the company.
+_Disclaimer: I’m an employee of IBM. The views expressed in this article are mine and don’t necessarily reflect the positions, strategies, or opinions of the company._
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work that you and your team do._**
 
