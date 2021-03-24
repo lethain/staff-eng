@@ -33,8 +33,8 @@ In the interviews for this book, as well as my own experience leading and coachi
     Technical leadership roles rely on proxied authority from another (usually, managerial) leader, and continued access to that authority depends on staying aligned, trustworthy, and predictable.
 5. **[To lead, you have to follow](https://staffeng.com/guides/to-lead-follow)**. Having a vivid sense of how things ought to work
     is a powerful leadership tool, but it's also essential to learn to blend your vision with the visions from your peers and leadership.
-6. **[Learn to never be wrong](https://staffeng.com/guides/learn-to-never-be-wrong)**
-    shift away from being right and towards understanding and communication.
+6. **[Learn to never be wrong](https://staffeng.com/guides/learn-to-never-be-wrong)**.
+    Shift away from being right and towards understanding and communication.
     Stop spending your social capital repairing relationships frayed by conflict, and learn to collaborate with folks with different priorities and perspectives.
     This also comes with the added benefit of fewer folks complaining about you to your manager.
 7. **[Create space for others](https://staffeng.com/guides/create-space-for-others)** so that your team grows stronger than your contribution.
