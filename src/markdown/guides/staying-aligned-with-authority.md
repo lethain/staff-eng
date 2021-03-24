@@ -44,7 +44,7 @@ Sometimes you'll hear someone disparage a colleague, saying that they're excelle
 
 ## Influencing without too much friction
 
-Part of growing as a leader in developing your own perspective on how the world should work, and you can't reach the Staff-plus level without that perspective. Having a clear sense of how things ought to work sharpens your judgment and enables you to act proactively. As you reach this next step of leadership, you increasingly have to merge your vision with those held by more senior organizational leaders.
+Part of growing as a leader is developing your own perspective on how the world should work, and you can't reach the Staff-plus level without that perspective. Having a clear sense of how things ought to work sharpens your judgment and enables you to act proactively. As you reach this next step of leadership, you increasingly have to merge your vision with those held by more senior organizational leaders.
 
 Your first approach to solving this problem might be replacing your vision with another leader's vision, and that approach works for some, but for many, it means stepping away from the perspective that facilitated their success as a proactive leader with strong judgment. Instead, I recommend sharpening your awareness of the distinctions between the values that you hold and those that the organization operates under and find a way to advocate for them without getting [kicked out of the room](https://lethain.com/getting-in-the-room/).
 
