@@ -40,7 +40,10 @@ const Header = ({ siteTitle }) => {
           </li>
           <li>
             <Link to="/book">Book</Link>
-          </li>	    
+          </li>
+          <li>
+            <Link to="https://podcast.staffeng.com/">Podcast</Link>
+          </li>
         </ul>
       </nav>
     </div>
