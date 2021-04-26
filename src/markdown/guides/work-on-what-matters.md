@@ -76,7 +76,7 @@ Does this mean you shouldn't do inclusion work? No, that's not the conclusion I 
 
 ## Foster growth
 
-One area that's often underinvested in (e.g., lots of room to work in) while also being highly leveraged is growing the team around you. _Hiring_ has a lot of folks involved in it, usually in terms of optimizing the [hiring funnel](https://lethain.com/hiring-funnel/), but onboarding, mentoring, and coaching are wholly neglected at many companies despite being _at least_ [as impactful as hiring to your company's engineering velocity](https://lethain.com/productivity-in-the-age-of-hypergrowth/).
+One area that's often underinvested in (i.e., lots of room to work in) while also being highly leveraged is growing the team around you. _Hiring_ has a lot of folks involved in it, usually in terms of optimizing the [hiring funnel](https://lethain.com/hiring-funnel/), but onboarding, mentoring, and coaching are wholly neglected at many companies despite being _at least_ [as impactful as hiring to your company's engineering velocity](https://lethain.com/productivity-in-the-age-of-hypergrowth/).
 
 If you start dedicating even a couple of hours a week to developing the team around you, it's quite likely that will become your legacy long after your tech specs and pull requests are forgotten.
 
