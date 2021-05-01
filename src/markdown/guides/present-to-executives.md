@@ -73,7 +73,7 @@ After you've written your structured document, gather feedback on it from your p
 
 ## Mistakes to avoid
 
-Even if you do a great job preparing for your execution presentation, these things sometimes go wrong. There's nothing you can do that will avoid every bad path, but you can avoid most of the anti-patterns that routinely sink these meetings.
+Even if you do a great job preparing for your executive presentation, these things sometimes go wrong. There's nothing you can do that will avoid every bad path, but you can avoid most of the anti-patterns that routinely sink these meetings.
 
 **Never fight feedback**. It's very common for an executive to have a critical piece of feedback but to not quite have the right framing to communicate it within the moment. You want them to deliver the feedback anyway, not hold it back and probably forget to give it later. If you show up as resistant to feedback, then they'll start swallowing their comments, and you'll get relatively little out of the meeting. Focus on gathering feedback; don't worry about whether you agree with it until you have more time afterward. If there's a decision that needs to be made that you disagree with, then you should inject one or two pieces of relevant data that might change their mind, but afterward, let it go. You'll be more effective by reflecting on the feedback and changing their mind later than continuing to push back within the meeting.
 
