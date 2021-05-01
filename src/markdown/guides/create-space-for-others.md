@@ -59,7 +59,7 @@ This final step is [sponsoring](https://larahogan.me/blog/what-sponsorship-looks
 
 When you identify new critical work, perhaps identifying a gap in your tooling or process, think about who else could be generating that work and then sit down with them to have them put together the proposal you planned to write. Then build support for their proposal just as you would have for your own.
 
-Importantly, when the work becomes theirs, you have to let it be theirs. Councel, give advice, provide context, but ultimately sponsorship includes letting them take an approach that you wouldn’t. It might end up going poorly, and they’ll learn from that -- just like you’ve learned from your mistakes over your career. It might end up going very well, and then you’ll learn something instead.
+Importantly, when the work becomes theirs, you have to let it be theirs. Counsel, give advice, provide context, but ultimately sponsorship includes letting them take an approach that you wouldn’t. It might end up going poorly, and they’ll learn from that -- just like you’ve learned from your mistakes over your career. It might end up going very well, and then you’ll learn something instead.
 
 While sponsorship should become your default approach to problems, it shouldn’t be your only tool. Most Staff-plus engineers find it’s important to remain directly involved in some projects to retain their context of how their software, tooling, and organization work in practice. If you need a rule of thumb, keep a sponsorship journal and ensure you’re sponsoring others at least a few times a month -- if you find yourself sponsoring less frequently than that, dig into what’s stopping you.
 
