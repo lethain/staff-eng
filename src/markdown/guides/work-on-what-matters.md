@@ -53,7 +53,7 @@ I had a recent discussion with someone who argued that new senior leaders _delib
 
 ## Existential issues
 
-Now that you're done snacking, preening, and chasing ghosts, it's time to to start thinking from the other direction: what should you work on?
+Now that you're done snacking, preening, and chasing ghosts, it's time to start thinking from the other direction: what should you work on?
 The first place to look for work that matters is exploring whether your company is experiencing an existential risk. Companies operate in an eternal [iterative elimination tournament](https://lethain.com/iterative-elimination-tournaments/), balancing future success against surviving until that future becomes the present. If you're about to lose one of those rounds, then always focus there.
 
 Running out of money, [like my experience at Digg](https://lethain.com/digg-v4/), can be the most obvious issue, but not every existential issue is financial, like [Twitter's fail whale stability challenges](https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/) or adapting to the shifts caused by the Covid-19 pandemic.
