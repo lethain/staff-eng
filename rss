@@ -1,4 +1,142 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[StaffEng RSS]]></title><description><![CDATA[Stories of folks reaching Staff Engineer roles.]]></description><link>https://staffeng.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 20 Jun 2021 22:53:12 GMT</lastBuildDate><item><title><![CDATA[Stephen Kawaguchi - Solution Architect at IBM]]></title><description><![CDATA[<p><span class="date">March, 2021</span>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[StaffEng RSS]]></title><description><![CDATA[Stories of folks reaching Staff Engineer roles.]]></description><link>https://staffeng.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 02 Aug 2021 14:22:34 GMT</lastBuildDate><item><title><![CDATA[Mikhail Chernykh - Technical Lead at Indeed]]></title><description><![CDATA[<p><span class="date">July, 2021</span>
+<a href="https://netme.dev">blog</a>
+<a href="https://twitter.com/netme">twitter</a>,
+<a href="https://www.linkedin.com/in/chernykh/">linkedin</a></p>
+<p><strong><em>Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do.</em></strong></p>
+<p>I’m currently working as a Technical Lead (or a Staff Engineer) at <a href="https://indeed.com">Indeed</a>, the world’s number 1 job site<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>, whose mission is to help people get jobs. Over the past two years, I have been helping the Indeed Apply team build the next generation of the Application Submission platform, which has resulted in a better user experience for millions of job seekers worldwide. Nowadays, I’m driving a few major initiatives related to an advertising platform here in Europe.</p>
+<p>I have a broad scope of responsibilities, including setting the technical direction for the teams I’m working with, doing high-level planning, driving design reviews, and helping engineers to grow. I also collaborate with different internal and external teams, participate in company-wide technical initiatives and lead a Guild.</p>
+<p><strong><em>What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?</em></strong></p>
+<p>At Indeed, Staff-plus Engineers act as technical leaders in their domains. The more you grow, the bigger scope you get. Indeed is a pretty big and diverse company. Staff-plus Engineers can act slightly differently depending on the needs of the team and the current state of their project. Engineering and Product Managers treat Staff-plus Engineers as their counterparts. This helps us to be successful in the majority of our engineering initiatives and my role doesn’t feel any different.</p>
+<p><strong><em>How do you spend your time day-to-day?</em></strong></p>
+<p>Indeed has technical hubs all over the world and although I am based in Europe, I’m usually meeting colleagues from Tokyo, Singapore, Hyderabad, Austin, Sunnyvale and Vancouver throughout the day. My most productive time is in the middle of the day and I keep a few hours a day to concentrate on technical designs and to work on the most critical projects. To make my days even more productive, I try to cluster my meetings based on a specific theme. For example Tuesdays are my Guild days and most of my 1:1 meetings fall on Thursdays.</p>
+<p><strong><em>Where do you feel most impactful as a Staff-plus Engineer? A specific story would be grand.</em></strong></p>
+<p>During my first few quarters at Indeed, I was helping the Indeed Apply team building the next generation of the Application Submission platform. This included a lot of design, collaboration, and prototyping work in the beginning. I’ve used the implementation phase as a good opportunity to revise our technical stack, build even more automation, and bring new methodologies, which helped the team to release software faster and in a more reliable way.</p>
+<p>One of the core values of Indeed is being data driven: we need to make sure that our job seekers are shown to the jobs and employers in the most accurate way. Therefore my team and I spent a good amount of time planning and executing the migration of our traffic from the old platform to the new one. Building reliable metrics helped us to measure our progress and identify the implementation gaps.</p>
+<p>Communication is key. Active collaboration with other teams, Engineering and Product managers, clean backlog, and weekly reporting was also very important for our project success.</p>
+<p>As a result, this project brought a new user experience for job seekers all over the world and enabled the Indeed Apply product to support new ways of applying for a job, like using a chat-bot.</p>
+<p><strong><em>Can you think of anything you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done before reaching that title?</em></strong></p>
+<p>One of the things I can think about is the level of the impact. At the beginning of my tech career, my scope was pretty limited to specific features of a product. When growing to the senior level I was able to own team components end to end. Now my influence is getting spread bigger and bigger across the organisation.</p>
+<p>Indeed has a very supportive environment. With every successfully delivered project, your scope and potential impact is increased. After a few successful quarters with my team, I have a great overview of the biggest challenges for our organization and am able to influence a few important projects in our area.</p>
+<p><strong><em>Do you spend time advocating for technology, practice, process or architectural change? What’s something you’ve advocated for? Can you share a story of influencing your organization?</em></strong></p>
+<p>At Indeed, we have many different ways of influencing different technical communities. That includes tech-wide design reviews, working groups, guilds, and technical lead meetings.</p>
+<p>One of the recent success stories on influencing is the GraphQL Linter tool, which we’ve built together with my peers from the GraphQL Guild. As GraphQL is a hot topic in our organization, this tool helps the engineering teams to comply with Indeed API standards by providing real-time feedback. As a result, we started spending less time during the API design review process.</p>
+<p>The next topic I’m planning to address is code quality. By making code quality measurable and gamifying the process, we are planning to raise a code quality bar and make our engineering organization more efficient.</p>
+<p><strong><em>How do you keep in touch with how things really work as you spend less time on hands-on development?</em></strong></p>
+<p>I'm still trying to dedicate a good amount of time to prototype different systems we are building. This helps me to get more fundamental knowledge.</p>
+<p>For example, recently one of my teams was building a new system using Kafka. Knowing that will come, I've spent some time playing with Kafka Streams library to build a very small prototype. This has helped me to better understand some core concepts of this library and influence the team's technical direction during one of the first iterations on the new service.</p>
+<p><strong><em>How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?</em></strong></p>
+<p>I find sponsorship very important. One of my main goals is to bring engineers I'm working with closer to the rest of our organization. During our 1:1s, I'm usually trying to understand what drives people. And then, once I see a nice opportunity in the organization, I'm trying to connect talented engineers with the initiative owners.</p>
+<p><strong><em>You first got the title Staff Engineer at your current company. Were you hired as a Staff Engineer? If not, what was the process of getting promoted to Staff?</em></strong></p>
+<p>I was hired directly to the Staff level at Indeed. Before I had a very similar Lead Engineer role in another company. The promotion process at Indeed is very transparent. There is a set of skills required to be successful on the next level. Once you show these skills consistently during the past quarters, you stand a good chance of being promoted. For getting promoted into the Staff Engineer role, we are looking for technical leadership skills which help a small team of 1-3 developers drive major initiatives inside the organization.</p>
+<p><strong><em>What two or three factors were most important in you reaching Staff? How have the companies you joined, your location, or your education impacted your path?</em></strong></p>
+<p>My journey was pretty complicated. Before joining Indeed I worked for many different companies in both senior and leadership roles. That helped to build different skills in planning and executing complex projects.</p>
+<p>My European location is now helping me a lot to be successful. I can collaborate with teams across multiple technical hubs. This gives me a lot of breadth in running the projects and makes the Staff-plus Engineering path especially attractive.</p>
+<p><strong><em>There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?</em></strong></p>
+<p>Even though the idea of a "Staff Project" looks very attractive, at Indeed we value the impact, behaviors, and skills which are required to be successful in the Staff role. Depending on the team, that can be achieved by contributions to a large existing project or building a series of smaller impactful projects. Once you've been recognized as a Staff contributor, your level will change.</p>
+<p><strong><em>Can you remember any piece of advice on reaching Staff that was particularly helpful for you?</em></strong></p>
+<p>One of the best pieces of advice I've got was to build your network of Staff-plus engineers. The more you are connected in the organization, the more influence you'll get.</p>
+<p><strong><em>What about a piece of advice for someone who has just started as a Staff Engineer?</em></strong></p>
+<p>I can give the following advice: <em>be a multiplier!</em> I've seen many talented senior engineers who were very productive on their own but failed to help others to grow. On the Staff-plus levels, you are expected to build bigger and bigger systems. Instead of focusing on trying to solve the problems by yourself, you need to focus on helping others build crucial parts of this system.</p>
+<p>You can be a good multiplier by mentoring others, spreading the technical knowledge, running the big initiatives, and removing the roadblocks.</p>
+<div class="pull">
+<p><strong>Some of Mikhail's writing</strong></p>
+<ul>
+<li><a href="https://inside.indeed.jobs/how-indeed-hacked-remote-working/">How Indeed hacked remote working</a></li>
+<li><a href="https://talkingkotlin.com/Zally-An-API-Linter/">Talking Kotlin Podcast: Zally - An API Linter</a></li>
+<li><a href="https://engineering.indeedblog.com/blog/">Indeed Engineering Blog</a></li>
+</ul>
+</div>
+<p><strong><em>Did you ever consider engineering management, and if so how did you decide to pursue the staff engineer path?</em></strong></p>
+<p>In the past, I've tried both Engineering Manager and Technical Lead tracks. Depending on the company, the line between these two tracks can be very blurred. To be efficient in any of these roles, you need to act as a multiplier, have great project management and technical skills, and be a good communicator.</p>
+<p>My general attitude is to keep my people and technical leadership skills up to date and apply them depending on the project and the situation.</p>
+<p><strong><em>What are some resources (books, blogs, people, etc) you’ve learned from?</em></strong></p>
+<p>Assuming that people interested in growing into Staff+ roles are already great techies, I can recommend the following resources which helped me to grow recently:</p>
+<ul>
+<li><a href="https://www.goodreads.com/book/show/3828902-thinking-in-systems">Thinking in Systems</a> and <a href="https://www.goodreads.com/book/show/15014.Crucial_Conversations">Crucial Conversations</a> books</li>
+<li><a href="https://levelup.patkua.com">Pat Kua's Level Up</a> weekly mailing list</li>
+<li><a href="https://techleadjournal.dev">TechLead Journal</a> podcast</li>
+</ul>
+<p><strong><em>Who are your role models in the field?</em></strong></p>
+<p><a href="https://randsinrepose.com">Michael Lopp's books</a> are amazing and help you to become a better leader and navigate through the organizations.
+And <a href="https://martinfowler.com">Martin Fowler's blog</a> brings a lot of deep technical insights.</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-1">
+<p>comScore Total Visits, March 2021</p>
+<a href="#fnref-1" class="footnote-backref">↩</a>
+</li>
+</ol>
+</div>]]></description><link>https://staffeng.com/stories/mikhail-chernykh</link><guid isPermaLink="false">https://staffeng.com/stories/mikhail-chernykh</guid><pubDate>Sun, 25 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span class=&quot;date&quot;&gt;July, 2021&lt;/span&gt;
+&lt;a href=&quot;https://netme.dev&quot;&gt;blog&lt;/a&gt;
+&lt;a href=&quot;https://twitter.com/netme&quot;&gt;twitter&lt;/a&gt;,
+&lt;a href=&quot;https://www.linkedin.com/in/chernykh/&quot;&gt;linkedin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I’m currently working as a Technical Lead (or a Staff Engineer) at &lt;a href=&quot;https://indeed.com&quot;&gt;Indeed&lt;/a&gt;, the world’s number 1 job site&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, whose mission is to help people get jobs. Over the past two years, I have been helping the Indeed Apply team build the next generation of the Application Submission platform, which has resulted in a better user experience for millions of job seekers worldwide. Nowadays, I’m driving a few major initiatives related to an advertising platform here in Europe.&lt;/p&gt;
+&lt;p&gt;I have a broad scope of responsibilities, including setting the technical direction for the teams I’m working with, doing high-level planning, driving design reviews, and helping engineers to grow. I also collaborate with different internal and external teams, participate in company-wide technical initiatives and lead a Guild.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At Indeed, Staff-plus Engineers act as technical leaders in their domains. The more you grow, the bigger scope you get. Indeed is a pretty big and diverse company. Staff-plus Engineers can act slightly differently depending on the needs of the team and the current state of their project. Engineering and Product Managers treat Staff-plus Engineers as their counterparts. This helps us to be successful in the majority of our engineering initiatives and my role doesn’t feel any different.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How do you spend your time day-to-day?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Indeed has technical hubs all over the world and although I am based in Europe, I’m usually meeting colleagues from Tokyo, Singapore, Hyderabad, Austin, Sunnyvale and Vancouver throughout the day. My most productive time is in the middle of the day and I keep a few hours a day to concentrate on technical designs and to work on the most critical projects. To make my days even more productive, I try to cluster my meetings based on a specific theme. For example Tuesdays are my Guild days and most of my 1:1 meetings fall on Thursdays.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Where do you feel most impactful as a Staff-plus Engineer? A specific story would be grand.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During my first few quarters at Indeed, I was helping the Indeed Apply team building the next generation of the Application Submission platform. This included a lot of design, collaboration, and prototyping work in the beginning. I’ve used the implementation phase as a good opportunity to revise our technical stack, build even more automation, and bring new methodologies, which helped the team to release software faster and in a more reliable way.&lt;/p&gt;
+&lt;p&gt;One of the core values of Indeed is being data driven: we need to make sure that our job seekers are shown to the jobs and employers in the most accurate way. Therefore my team and I spent a good amount of time planning and executing the migration of our traffic from the old platform to the new one. Building reliable metrics helped us to measure our progress and identify the implementation gaps.&lt;/p&gt;
+&lt;p&gt;Communication is key. Active collaboration with other teams, Engineering and Product managers, clean backlog, and weekly reporting was also very important for our project success.&lt;/p&gt;
+&lt;p&gt;As a result, this project brought a new user experience for job seekers all over the world and enabled the Indeed Apply product to support new ways of applying for a job, like using a chat-bot.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Can you think of anything you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done before reaching that title?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One of the things I can think about is the level of the impact. At the beginning of my tech career, my scope was pretty limited to specific features of a product. When growing to the senior level I was able to own team components end to end. Now my influence is getting spread bigger and bigger across the organisation.&lt;/p&gt;
+&lt;p&gt;Indeed has a very supportive environment. With every successfully delivered project, your scope and potential impact is increased. After a few successful quarters with my team, I have a great overview of the biggest challenges for our organization and am able to influence a few important projects in our area.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Do you spend time advocating for technology, practice, process or architectural change? What’s something you’ve advocated for? Can you share a story of influencing your organization?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At Indeed, we have many different ways of influencing different technical communities. That includes tech-wide design reviews, working groups, guilds, and technical lead meetings.&lt;/p&gt;
+&lt;p&gt;One of the recent success stories on influencing is the GraphQL Linter tool, which we’ve built together with my peers from the GraphQL Guild. As GraphQL is a hot topic in our organization, this tool helps the engineering teams to comply with Indeed API standards by providing real-time feedback. As a result, we started spending less time during the API design review process.&lt;/p&gt;
+&lt;p&gt;The next topic I’m planning to address is code quality. By making code quality measurable and gamifying the process, we are planning to raise a code quality bar and make our engineering organization more efficient.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How do you keep in touch with how things really work as you spend less time on hands-on development?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&apos;m still trying to dedicate a good amount of time to prototype different systems we are building. This helps me to get more fundamental knowledge.&lt;/p&gt;
+&lt;p&gt;For example, recently one of my teams was building a new system using Kafka. Knowing that will come, I&apos;ve spent some time playing with Kafka Streams library to build a very small prototype. This has helped me to better understand some core concepts of this library and influence the team&apos;s technical direction during one of the first iterations on the new service.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I find sponsorship very important. One of my main goals is to bring engineers I&apos;m working with closer to the rest of our organization. During our 1:1s, I&apos;m usually trying to understand what drives people. And then, once I see a nice opportunity in the organization, I&apos;m trying to connect talented engineers with the initiative owners.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;You first got the title Staff Engineer at your current company. Were you hired as a Staff Engineer? If not, what was the process of getting promoted to Staff?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I was hired directly to the Staff level at Indeed. Before I had a very similar Lead Engineer role in another company. The promotion process at Indeed is very transparent. There is a set of skills required to be successful on the next level. Once you show these skills consistently during the past quarters, you stand a good chance of being promoted. For getting promoted into the Staff Engineer role, we are looking for technical leadership skills which help a small team of 1-3 developers drive major initiatives inside the organization.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What two or three factors were most important in you reaching Staff? How have the companies you joined, your location, or your education impacted your path?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My journey was pretty complicated. Before joining Indeed I worked for many different companies in both senior and leadership roles. That helped to build different skills in planning and executing complex projects.&lt;/p&gt;
+&lt;p&gt;My European location is now helping me a lot to be successful. I can collaborate with teams across multiple technical hubs. This gives me a lot of breadth in running the projects and makes the Staff-plus Engineering path especially attractive.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;There is a popular idea that becoming a Staff Engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Even though the idea of a &quot;Staff Project&quot; looks very attractive, at Indeed we value the impact, behaviors, and skills which are required to be successful in the Staff role. Depending on the team, that can be achieved by contributions to a large existing project or building a series of smaller impactful projects. Once you&apos;ve been recognized as a Staff contributor, your level will change.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Can you remember any piece of advice on reaching Staff that was particularly helpful for you?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One of the best pieces of advice I&apos;ve got was to build your network of Staff-plus engineers. The more you are connected in the organization, the more influence you&apos;ll get.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What about a piece of advice for someone who has just started as a Staff Engineer?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I can give the following advice: &lt;em&gt;be a multiplier!&lt;/em&gt; I&apos;ve seen many talented senior engineers who were very productive on their own but failed to help others to grow. On the Staff-plus levels, you are expected to build bigger and bigger systems. Instead of focusing on trying to solve the problems by yourself, you need to focus on helping others build crucial parts of this system.&lt;/p&gt;
+&lt;p&gt;You can be a good multiplier by mentoring others, spreading the technical knowledge, running the big initiatives, and removing the roadblocks.&lt;/p&gt;
+&lt;div class=&quot;pull&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Some of Mikhail&apos;s writing&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://inside.indeed.jobs/how-indeed-hacked-remote-working/&quot;&gt;How Indeed hacked remote working&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://talkingkotlin.com/Zally-An-API-Linter/&quot;&gt;Talking Kotlin Podcast: Zally - An API Linter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://engineering.indeedblog.com/blog/&quot;&gt;Indeed Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Did you ever consider engineering management, and if so how did you decide to pursue the staff engineer path?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the past, I&apos;ve tried both Engineering Manager and Technical Lead tracks. Depending on the company, the line between these two tracks can be very blurred. To be efficient in any of these roles, you need to act as a multiplier, have great project management and technical skills, and be a good communicator.&lt;/p&gt;
+&lt;p&gt;My general attitude is to keep my people and technical leadership skills up to date and apply them depending on the project and the situation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What are some resources (books, blogs, people, etc) you’ve learned from?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Assuming that people interested in growing into Staff+ roles are already great techies, I can recommend the following resources which helped me to grow recently:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/3828902-thinking-in-systems&quot;&gt;Thinking in Systems&lt;/a&gt; and &lt;a href=&quot;https://www.goodreads.com/book/show/15014.Crucial_Conversations&quot;&gt;Crucial Conversations&lt;/a&gt; books&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://levelup.patkua.com&quot;&gt;Pat Kua&apos;s Level Up&lt;/a&gt; weekly mailing list&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://techleadjournal.dev&quot;&gt;TechLead Journal&lt;/a&gt; podcast&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Who are your role models in the field?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://randsinrepose.com&quot;&gt;Michael Lopp&apos;s books&lt;/a&gt; are amazing and help you to become a better leader and navigate through the organizations.
+And &lt;a href=&quot;https://martinfowler.com&quot;&gt;Martin Fowler&apos;s blog&lt;/a&gt; brings a lot of deep technical insights.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;comScore Total Visits, March 2021&lt;/p&gt;
+&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Stephen Kawaguchi - Solution Architect at IBM]]></title><description><![CDATA[<p><span class="date">March, 2021</span>
 <a href="https://medium.com/@sak_to">blog</a>,
 <a href="https://twitter.com/sak_to">twitter</a>,
 <a href="https://ca.linkedin.com/in/stephenkawaguchi">linkedin</a></p>
