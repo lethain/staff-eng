@@ -14,33 +14,33 @@ kind: "story"
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
 
-I’m a Staff engineer at Medium and team lead of Payments. Payments is responsible for two core areas:
+I am a Staff engineer at Medium and Team Lead of Payments. Payments is responsible for two core areas:
 
-- Inflow of payments: enabling users to purchase membership and other products as frictionlessly as possible, supporting multiple payment providers globally
+- Inflow of payments: enabling users to purchase membership and other products as smoothly as possible, supporting multiple payment providers globally
 - Outflow of payments: paying Partner Program writers each month, calculating earnings, taxes and the systems to facilitate these payouts
 
 This puts my team at a unique intersection of product and infrastructure. Along with delivering great user experiences, maintaining a high bar for security, preventing fraud and building trust with writers and readers is crucial.
 
 Apart from these core areas, there are many initiatives like launching [referred memberships](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c), free trials, [gifting](https://medium.com/gift) that fall under the Payments domain. What excites me most about this domain is how much it is evolving both within Medium and in the world, especially in the context of creator economy.
 
-As tech lead, I play the role of technical partner to product and engineering manager. I'm responsible for ensuring our architecture choices in the Payments domain serve the organization’s future needs and for defining the technical vision for Payments team. I advise other engineering teams and cross-functional partnerships for both immediate projects and long-term alignment, mentor team members and improve team processes. I also delve into early research to test viability of project ideas and high level scoping.
+As Tech Lead, I play the role of technical partner to product and engineering manager. I am responsible for ensuring our architecture choices in the Payments domain serve the organization’s future needs and for defining the technical vision for Payments team. I advise other engineering teams and cross-functional partnerships for both immediate projects and long-term alignment, mentor team members and improve team processes. I also delve into early research to test viability of project ideas and high level scoping.
 
 
 **_How do you spend your time day-to-day?_**
 
-I like dedicating specific days to certain types of tasks. When this isn’t feasible, I still do calendar blocking. I find it very helpful to segregate chunks of time especially when switching gears between long term vision projects, nitty gritty of ongoing projects and coding.
+I like dedicating specific days to certain types of tasks. When this isn’t feasible, I still do calendar blocking. I find it very helpful to segregate chunks of time especially when switching gears between long term vision projects, nitty-gritty of ongoing projects and coding.
 
 During the initial phase of a project, a lot of my time is dedicated to writing or reviewing technical architecture specs along with cross-functional syncs with other engineering teams, product, design, and marketing to gain alignment. This transitions into planning for launch once things are in flux, like metrics to measure, rollout plan and organizing or delegating bug bashes. One of my favorite processes is a pre-mortem meeting with all stakeholders involved to anticipate what might go wrong and how we might address these issues.
 
-Apart from this, the constants each week are coding regularly, reviewing technical specs and PRs, team meetings (sprint planning, retrospective, standup) and a teams leads sync meeting.
+Apart from this, the constants each week are coding regularly, reviewing technical specs and pull requests, team meetings (sprint planning, retrospective, standup) and a leads sync meeting.
 
 **_What two or three factors were most important in you reaching Staff? How have the companies you joined, your location, or your education impacted your path?_**
 
 As a founding engineer, I quickly learnt that high impact projects are more valuable than perfect execution on smaller scale projects. Even as I moved to a larger company, this view helped me stay focussed on thinking about how I can add more value to the engineering organization and company instead of following the growth rubric to a T or optimizing for short term wins. I like to use the [10/10/10 approach](https://rebecca.medium.com/make-better-decisions-ask-the-right-questions-8db76697b670) when thinking about long term decisions - how will I feel about this decision in 10 minutes? 10 months? 10 years?
 
-Since early on in my career, I was consistently taking on things I had no idea how to do and with limited resources. Accomplishing these over the years helped me build confidence to take on projects with larger ambiguity, which is a big part of a Staff engineer’s role.
+Since early on in my career, I was consistently taking on things I had no idea how to do and with limited resources. Accomplishing these challenges over the years helped me build confidence to take on projects with larger ambiguity, which is a big part of a Staff Engineer’s role.
 
-Visibility is an important aspect of getting to Staff. When describing projects and achievements, I found it immensely helpful to frame projects and achievements in terms of impact to the company instead of only technical complexity and direction. This is especially true when your audience is non-technical.
+Visibility is an important aspect of getting to Staff. When describing projects and achievements, I found it immensely helpful to frame projects and achievements in terms of impact to the company instead of only technical complexity and direction. This is especially true when the audience is non-technical.
 
 **_What’s your advice to people pursuing a Staff role?_**
 
@@ -59,6 +59,7 @@ Mindset shifts:
 <p><strong>Some of Rebecca's writing</strong></p>
 <ul>
 <li><a href="https://rebecca.medium.com/lessons-from-a-decade-of-work-c04abfe25d65">Lessons from a decade of work</a></li>
+<li><a href="https://rebecca.medium.com/a-practical-guide-to-your-next-frontend-feature-launch-1a44a443efef">A practical guide to your next frontend feature launch</a></li>
 <li><a href="https://rebecca.medium.com/make-better-decisions-ask-the-right-questions-8db76697b670">Three Questions to Better Decisions</a></li>
 </ul>
 </div>
