@@ -19,7 +19,7 @@ I am a senior staff engineer at John Deere Intelligent Solutions Group (ISG) out
 I mainly work on the cloud processing side where we take streaming data from planters, sprayers and harvesters and create artifacts and reports so farmers can work with agronomists and others on their operations.
 
 I've been with ISG for 10 years. It's a really big domain and it's easy to move around and try out different things. Some of the bigger things I've worked extensively on include:
-   * **Remote Display Access** which lets users remote into their equipment from anywhere with a computer or mobile device.
+   * *Remote Display Access* which lets users remote into their equipment from anywhere with a computer or mobile device.
    * The initial agronomic data processing and reporting systems.
    * I was the lead product engineer for our data sharing and userland permission systems.
    * Public API access and authorization (oAuth systems)  
@@ -30,11 +30,11 @@ We also have a test farm just outside of town, and on a nice fall day, I can man
 
 I basically have two modes:
 
-***R&amp;D Mode***
+*R&amp;D Mode*
 
 I tend to be given experimental projects to flesh out and see if they can work or not. These are often with partners and suppliers and require a lot of external communication. The stacks at ISG can get really big, from embedded C++ on the tractors, to the communication systems, to the cloud processing. Getting your head around all of that at once is impossible, so I coordinate with different teams. You really have to be a bit of a social butterfly. It's a little like what you would expect out of an architect but I do a LOT more coding than most architects I know. If any of the code I write makes it to production it's usually some core logic I wrote into a library. I may or may not work with a specific team on these projects, or I may just hijack some developer to help me, or I'll bounce around. It also gets me out of the office and fun trips to places like San Francisco, Seattle, or Waiverly Iowa when there isn't a global pandemic going on.
 
-***Chaos Mode***
+*Chaos Mode*
 
 Chaos mode is where I spend the entire day on MS Teams (or wandering the office pre-COVID) just helping people. I get hit up for a lot of different reasons and I have a deep history with a variety of different systems. Some days I just hop from one problem to another unblocking. Hopefully someone kidnaps me to do some pair or mob programming. This is an great use of my time. Even if I get nothing of my own done, unblocking 5 different teams to get their work done is always worth it. I've learned that some days are just going to turn into this like it or not, so you might as well dive in head first. 
 
@@ -49,7 +49,7 @@ Education-wise, I took an alternative path to this position. As a kid with undia
 
 From a tech perspective, constantly reach outside of your comfort zone and your existing wheelhouses. I've been programming professionally for 20 years and at different times I've had Perl, ColdFusion, PHP, JavaScript, C#, Java, and Scala all be the primary world I lived in. Nothing is a hammer and nothing won't eventually be replaced (except C).
 
-Being a senior staff engineer means understanding both low level code and **systems of systems**. I recommend reading up on "systems thinking" to understand the later. Everything exists as a whole. Microservices don't exist in isolation, they are all part of giant distributed monoliths. Once you're at the staff engineering level you need to understand the deep relationships that every part of your org's tech stack has on each other and on the outside world!
+Being a senior staff engineer means understanding both low level code and *systems of systems*. I recommend reading up on "systems thinking" to understand the later. Everything exists as a whole. Microservices don't exist in isolation, they are all part of giant distributed monoliths. Once you're at the staff engineering level you need to understand the deep relationships that every part of your org's tech stack has on each other and on the outside world!
 
 From a person perspective and especially if you're in a large org where there are lots of teams it becomes important to know about the org landscape. Who are the people you're going to need to communicate with, to persuade, to influence. I'm not a naturally extroverted person, and I don't do a lot of socializing or schmoozing, but I keep some notes and important emails so I can go back and figure out "oh yeah, who is working on that now"? The wider the net of people, the more influence you have and the better chance you're going to get promoted. I don't know anyone who got to staff on purely tech reasons. Lots of them are quiet and introverted, but they're also friendly and helpful and approachable.
 
@@ -82,8 +82,6 @@ At various points in my career I've been a manager. Usually of a pretty small nu
 
 **_What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?_**
 
-1. Ron Jeffries
-   1. He has an <a href="https://www.ronjeffries.com/">excellent blog</a> and over the pandemic has been recreating <a href="https://www.ronjeffries.com/categories/invaders/">classic video games</a>. It's quite fun to watch and play along. 
-   1. He also has a fantastic book on the <a href="https://ronjeffries.com/articles/nature/">Nature of Software Development</a> 
+1. Ron Jeffries: He has an <a href="https://www.ronjeffries.com/">excellent blog</a> and over the pandemic has been recreating <a href="https://www.ronjeffries.com/categories/invaders/">classic video games</a>. It's quite fun to watch and play along. He also has a fantastic book on the <a href="https://ronjeffries.com/articles/nature/">Nature of Software Development</a> 
 2. As much I enjoy TDD, I have found BDD to be equally, maybe even more important in the way I develop systems. <a href="https://lizkeogh.com/">Liz Keogh</a> has been a big influence on me.
 3. The concept of using "real options" in software development has been a big influence on the way I think about things. <a href="https://commitment-thebook.com/">Commitment</a> by Chris Matts, Olav Maassen, and Chris Geary is a short and fun introduction to the concepts (it's a graphic novel)
