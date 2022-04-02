@@ -101,7 +101,7 @@ We [only get value from finishing projects](https://www.amazon.com/dp/B078Y98RG8
 
 The final category of work that matters is the sort that you're uniquely capable of accomplishing. Sure there's work that you're faster at or better at than some other folks, but much more important is the sort of work that simply won't happen if you don't do it.
 
-This work is an intersection of what you're exceptionally good at and what you genuinely care about. It might be [writing your company's technology strategy](https://lethain.com/magnitudes-of-exploration/) that folks _will actually follow_, it might be convincing a great candidate to join, it might be changing your CEO's mind on how you pay down tech debt, it might [be crafting a discerning API](https://increment.com/apis/api-design-for-eager-discering-developers/).
+This work is an intersection of what you're exceptionally good at and what you genuinely care about. It might be [writing your company's technology strategy](https://lethain.com/magnitudes-of-exploration/) that folks _will actually follow_, it might be convincing a great candidate to join, it might be changing your CEO's mind on how you pay down tech debt, it might [be crafting a discerning API](https://increment.com/apis/api-design-for-eager-discerning-developers/).
 
 Whatever it is, things that simply won't happen if you don't do them are your biggest opportunity to work on something that matters, and it's a category that will get both narrower and deeper the further you get into your career.
 
