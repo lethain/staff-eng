@@ -112,12 +112,6 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/favicon-32x32.png`
       }
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-96609067-2"
-      }
     }
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
