@@ -42,7 +42,7 @@ I strive for a continuous learning mindset. At work this means doing what I can 
 
 **_Where do you feel most impactful as a Staff-plus engineer? A specific story would be grand._**
 
-As a Staff-plus engineer I want to help improve everyones' chance of success. In the end, as an engineer if I am not making things better for our customer (internal or external), then I have work to do. In some cases this comes in the form of improving productivity, in others it is by helping projects succeed.
+As a Staff-plus engineer I want to help improve everyone's chance of success. In the end, as an engineer if I am not making things better for our customer (internal or external), then I have work to do. In some cases this comes in the form of improving productivity, in others it is by helping projects succeed.
 
 One of the most rewarding things for me is to be able to take a large project from idea to production. Asking the right questions early on in a project can save substantial amounts of time later on, as well as ensure it is on the right track. As a Staff-plus engineer, I have a seat at the table earlier in a projects' lifetime. This gives me the opportunity to influence or course correct a project. Examples of factors requiring a course correction might include: ill defined (but critical) requirements, missing particular architectural failure modes, and correctly planning for scale.
 

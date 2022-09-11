@@ -56,7 +56,7 @@ Staff Engineers, and Pillar Tech Leads in particular, frequently help set direct
 
 **_Can you think of anything you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done before reaching that title?_**
 
-No, Stripe intends the Staff-badge to not be a gate into new opportunities and I believe we’re good at it. This is also true about the PTL role. We choose enginers for PTL position that are good at representing opinions of others. Even before I became a PTL I felt that prior PTL, [Paul Tarjan](https://paultarjan.com/), always made sure my perspective was presented.
+No, Stripe intends the Staff-badge to not be a gate into new opportunities and I believe we’re good at it. This is also true about the PTL role. We choose engineers for PTL position that are good at representing opinions of others. Even before I became a PTL I felt that prior PTL, [Paul Tarjan](https://paultarjan.com/), always made sure my perspective was presented.
 
 **_Do you spend time advocating for technology, practice, process or architectural change? What’s something you’ve advocated for? Can you share a story of influencing your organization?_**
 

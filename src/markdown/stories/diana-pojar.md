@@ -76,7 +76,7 @@ ___There is a popular idea that becoming a Staff engineer requires completing a 
 
  No, I did not have an assigned “Staff Project” and that is not something that it’s part of the promotion process at Slack. There is a career ladder that describes the general expectations and scope of impact for every level and with Staff+ levels this level of scope starts to expand from org wide impact towards company wide impact.
 
- I usually always try to challenge myself and I was always looking to drive change and impact in my organization. I think the most impactful project that I worked on and contributed to my path towards Staff Engineer was being involved in thinking through and implementing the technical design on how our company business metrics (ex: ARR) are computed to make sure the process is reliable, scalable and most importantly, reproductible. This was a critical initiative as Slack was completing a public company readiness process.
+ I usually always try to challenge myself and I was always looking to drive change and impact in my organization. I think the most impactful project that I worked on and contributed to my path towards Staff Engineer was being involved in thinking through and implementing the technical design on how our company business metrics (ex: ARR) are computed to make sure the process is reliable, scalable and most importantly, reproducible. This was a critical initiative as Slack was completing a public company readiness process.
 
 ___Can you remember any piece of advice on reaching Staff that was particularly helpful for you? Looking back, is there an easier path to Staff that you could have taken?___
 
