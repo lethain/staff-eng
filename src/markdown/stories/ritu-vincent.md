@@ -71,7 +71,7 @@ ___What’s something you’ve done as a Staff-plus engineer that you weren’t 
 
  It was really that conversation in combination with the title that pushed me to believe in myself as a Staff Engineer. Together they gave me the confidence to ask for the harder projects, or to ask my manager to give me more projects to work on.
 
-___What was your proces of getting promoted to Staff engineer at Dropbox?___
+___What was your process of getting promoted to Staff engineer at Dropbox?___
 
  They rolled out external titles a while after I joined Dropbox. In the first review season with titles, they gave the Staff title to a very small number of engineers. They were really still calibrating the titles at that point. It was in the second review season that I got my Staff title.
 

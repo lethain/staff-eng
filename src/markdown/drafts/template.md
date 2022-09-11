@@ -16,7 +16,7 @@ kind: "draft"
 3. Within your copy, please delete `omit: true` from the top of the 
 4. Please add your story as a standalone pull request. Please do
     not make template or other changes within the that pull request.
-5. Dont' worry about the date. We'll select a date based on
+5. Don't worry about the date. We'll select a date based on
     when we complete editing.
 6. The slug should be `/stories/firstname-lastname`
 7. You're welcome to change any of the questions, including

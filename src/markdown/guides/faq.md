@@ -52,7 +52,7 @@ and then helping them get that title if that's what they're focused on.
 The best bet is to work with your manager to [preemptively create a promotion packet](/guides/promo-packets).
 Depending on your organization, you may also need to complete a [Staff project](/guides/staff-projects).
 
-Related: [stories of folks reaching Staff Enginere roles](/stories)
+Related: [stories of folks reaching Staff Engineer roles](/stories)
 
 ### What is the salary for a Staff engineer?
 
