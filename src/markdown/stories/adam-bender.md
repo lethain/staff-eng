@@ -154,8 +154,5 @@ Blogs/Podcasts:
 Googlers who've inspired me:
 * Robert Konigsberg - Who helped me truly find my voice.
 * Titus Winters - Who has given me so much support and opportunity over the years.
-* George Fairbanks - Who’s deep thoughts on the craft of software development have caused me to think much more deeply about the work I do.
+* George Fairbanks - Whose deep thoughts on the craft of software development have caused me to think much more deeply about the work I do.
 * Michelle Levesque - Who probably doesn’t remember me, but she showed me what authentic and inspired technical leadership can look like.
-
-
-
