@@ -19,7 +19,7 @@
     "gatsby-plugin-sharp": "^2.6.35",
     "gatsby-plugin-sitemap": "^2.4.5",
     "gatsby-source-filesystem": "^2.3.12",
-    "gatsby-transformer-remark": "^2.8.17",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.5",
     "gatsby-transformer-yaml": "^2.4.5",
     "prop-types": "^15.7.2",
