@@ -16,7 +16,7 @@
     "gatsby-plugin-react-helmet": "^3.3.4",
     "gatsby-plugin-redirect-to": "^1.0.2",
     "gatsby-plugin-robots-txt": "^1.5.1",
-    "gatsby-plugin-sharp": "^2.6.35",
+    "gatsby-plugin-sharp": "^5.5.0",
     "gatsby-plugin-sitemap": "^2.4.5",
     "gatsby-source-filesystem": "^2.3.12",
     "gatsby-transformer-remark": "^2.8.17",
