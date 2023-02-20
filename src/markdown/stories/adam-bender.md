@@ -46,11 +46,8 @@ Without the experience and visibility I had as a Staff engineer, I think it woul
 It's probably less about the specific title, but there are definitely a set of skills I have honed over the last 4-5 years that I would not be able to do my current job without.
 
 * Comfort with conflict - once you get to leading teams of a good size, or you are working on high pressure projects, conflict will come up. I was not as good at dealing with that as I am now. I used to beat myself up anytime someone was unhappy with me and it was really painful. I still don't like making people unhappy, but I also have more courage and confidence in my abilities so I'm better at not letting it get to me.
-
 * Seeing things from a systems perspective - Some might call it being strategic, but I like the idea of systems thinking. My job is now as much about how to solve today's problem as it is understanding what might be a problem tomorrow. I need to understand what trends are happening inside and outside the company and figure out how that may start impacting my goals over the next N years. The corollary to that is I need to be able to take a very long view of success. For example, when migrating a fleet of 100s or 1000s of applications from one UI framework to another, success takes 5+ years to land. I have to pace myself and find a way to appreciate the progress we make during the journey.
-
 * Understanding the role of values and culture - One of the challenges I had to wrestle with as I started growing at Google was that I couldn't make all the decisions. I really really wanted to, but I just became a bottleneck. I've had to learn how to develop team-level values that create a specific culture that ultimately produces the kind of outcomes I want. I had to look way up stream from the problems I was seeing to recognize that the incentives and values I created for a team were the key to scaling my technical philosophy.
-
 * Project management - I have found that being a project management geek has helped me understand how to navigate long running projects with high degrees of coordination.
 
 These skills have allowed me to take on much bigger projects with much longer time horizons than I ever would have been able to tackle before. When I started at Google 10 years ago, I would have been happy planning a project that lasted 6 months and landing it the way I wanted. Now I'm comfortable trying to figure out what a 5-7 year effort will have to look like.
@@ -60,9 +57,7 @@ These skills have allowed me to take on much bigger projects with much longer ti
 I consider myself a full time advocate for a number of things:
 
 * Frontend development - I am trying to improve both how we execute but also how Google values it. Frontend development is not always seen as a 'hard engineering problem' at Google. I mean we work on a lot of hard things at Google so I get it, but I have spent a lot of time talking to managers and writing supporting guides for performance reviews to help Frontend engineers talk about their work in a way that highlights the difficulty.
-
 * Engineering leadership - I run classes and internal conferences to help grow a new generation of technical leaders, hopefully helping them avoid some painful traps. This is probably the advocacy I'm most proud of. I learn so much about my own leadership skills when I teach and facilitate leadership classes. It's made me appreciate how little our industry seems to be invested in growing people effectively.
-
 * Engineering Excellence - I am Google's Code Health Practices lead so I write, edit, and curate a set of documentation on how to improve the health of large, legacy code bases.
 
 Most recently I advocated for changes to a couple engineering job ladders to make sure Code Health was explicitly called out as a key skill for Staff+ roles. I think the omission was an oversight, but it's not trivial to advocate for changes to a job ladder that affects 10s of thousands of people.
