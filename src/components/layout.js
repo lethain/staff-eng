@@ -11,6 +11,7 @@ import { useStaticQuery, graphql, Link } from "gatsby"
 
 import Header from "./header"
 import MailingList from "./mailinglist"
+import PlausibleTag from "./plausible"
 import "../styles/normalize.css"
 import "../styles/milligram.css"
 import "../styles/base2.css"
@@ -31,6 +32,7 @@ const Layout = ({ children }) => {
 
   return (
     <div className="core">
+      <PlausibleTag />
       <Header siteTitle={data.site.siteMetadata.title} />
       <div className="content">
           <section>{children}</section>
