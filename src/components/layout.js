@@ -52,7 +52,7 @@ const Layout = ({ children }) => {
         {new Date().getFullYear()}.{` `}
         <Link to="/about">About</Link>.{` `}
         <Link to="/faq">FAQ</Link>.{` `}
-        <Link to="/rss">RSS</Link>.{` `}
+        <a href="/rss">RSS</a>.{` `}
         <a href="https://github.com/lethain/staff-eng">Edit on GitHub</a>.
       </footer>
     </div>
