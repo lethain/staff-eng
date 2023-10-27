@@ -26,7 +26,7 @@ While it's helpful to know you _should_ build a network, some folks struggle to 
 
 There is so much pent-up demand for community among Staff-plus engineers that the easiest way to build your network is being easy to find as a Staff-plus engineer.
 One effective approach is contributing to the discussion around Staff-plus engineering itself,
-like Joy Ebert'z [What a Senior Staff Software Engineer Actually Does](https://staffeng.com/stories/joy-ebertz)
+like Joy Ebertz's [What a Senior Staff Software Engineer Actually Does](https://staffeng.com/stories/joy-ebertz)
 or Keavy McMinn's [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/).
 Although there are a good number of folks [who've written up their view on the Staff-plus role](https://staffeng.com/guides/learning-materials), each one brings a new, valuable perspective. There's room for your words on the topic.
 
