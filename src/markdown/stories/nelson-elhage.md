@@ -89,7 +89,7 @@ ___What two or three factors were most important in you reaching Staff?___
 
  As the organization got really big, seeing those one level removed dependencies got increasingly hard, and trying to keep a broad view and systems level view helped with that. It also helped me connect teams together, making me a router of information and ideas, as well as an originator of proposals.
 
- Many teams get stuck looking at their section of the world, and have a less developed conception of how their internal customers are integrating with them. This happens because they've never worked on the internal customer teams they support. I helped bring teams the context of how other teams truly used their systems, and connected them to other people across the organization whose perspectives they should gather,
+ Many teams get stuck looking at their section of the world, and have a less developed conception of how their internal customers are integrating with them. This happens because they've never worked on the internal customer teams they support. I helped bring teams the context of how other teams truly used their systems, and connected them to other people across the organization whose perspectives they should gather.
 
  It’s hard to keep all this context as the organization grows, but it’s even harder for someone who didn't start building that global context when the company was smaller. By starting early, you have a huge competitive advantage relative to someone starting later who tries to reverse engineer the architecture and organizational dependencies.
 
