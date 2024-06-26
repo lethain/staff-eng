@@ -36,7 +36,7 @@ The details will vary depending on the specific company under discussion, but th
 The most common pattern is: Junior engineer, engineer, Senior engineer, Staff engineer, Sr Staff engineer,
 Principal engineer, Distinguished engineer.
 
-Related: [Staff-plus career ladders](guides/staff-career-ladders)
+Related: [Staff-plus career ladders](/guides/staff-career-ladders)
 
 ### Do all companies have both Staff engineer and Principal engineer roles?
 
