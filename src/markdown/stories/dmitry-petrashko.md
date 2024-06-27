@@ -16,7 +16,7 @@ I am a Staff engineer and the Technical Advisor to head of Infrastructure at Str
 
 My current team is all of Stripe Infrastructure, which is responsible for foundational infrastructure services at Stripe - Compute, Networking, Storage, Database, Data Engineering, Performance & Efficiency, Observability Services, and Developer Tools. Our work empowers Stripe engineers to focus on product.
 
-The team that I "grew" from was Developer productivity, which builds processes, tools and core libraries used during product development at Stripe, including testing frameworks, linters, typecheckers, build tools, libraries used for gradual rollout, and many others. I started as engineer on that team(while it was still a singular team), eventually becoming a Pillar Tech Lead of that group.
+The team that I "grew" from was Developer productivity, which builds processes, tools and core libraries used during product development at Stripe, including testing frameworks, linters, typecheckers, build tools, libraries used for gradual rollout, and many others. I started as an engineer on that team (while it was still a singular team), eventually becoming a Pillar Tech Lead of that group.
 
 **_What does a “normal” Staff-plus engineer do at your company? Does your role look that way or does it differ?_**
 
@@ -31,7 +31,7 @@ As a stepping stone to that role, I was also a Pillar Tech Lead. As we have more
 
 In the PTL role, I used to partner closely with the Head of Developer Productivity and managers of the teams inside the group. We exchanged context and worked towards an agreed goal. 
 
-Both of these roles (PTL and TA) are similar in that they partner with engineering manager and share insight into the needs of our users & tools at our disposal to address them, while the EM has a better understanding of Stripe-wide non-technical constraints (e.g. resourcing constraints).
+Both of these roles (PTL and TA) are similar in that they partner with engineering managers and share insight into the needs of our users & tools at our disposal to address them, while the EM has a better understanding of Stripe-wide non-technical constraints (e.g. resourcing constraints).
 
 <div class="pull">
 <p><strong>Talks from Dmitry</strong></p>
@@ -52,7 +52,7 @@ While, from time to time it might seem hard to find time to write code, I believ
 
 **_Where do you feel most impactful as a Staff-plus engineer?_**
 
-Staff Engineers, and Pillar Tech Leads in particular, frequently help set direction for a new project. I feel particularly impactful when I can help improve a proposal that's well intentioned and solves a real need, but the team that drafted it lacks either experience or context to write a good plan to capture the opportunity. In such cases, having a well structured plan can help substantially reduce the scope while getting to most of the value, and thus demonstrate impact sooner. Or, alternatively, see that the proposal in hand addresses more use cases than the team has originally anticipated and refocusing the project towards a usecase that was not known by the team would lead to bigger business impact: in both of these cases, I feel impactful by empowering other engineers.
+Staff Engineers, and Pillar Tech Leads in particular, frequently help set direction for a new project. I feel particularly impactful when I can help improve a proposal that's well intentioned and solves a real need, but the team that drafted it lacks either experience or context to write a good plan to capture the opportunity. In such cases, having a well structured plan can help substantially reduce the scope while getting to most of the value, and thus demonstrate impact sooner. Or, alternatively, see that the proposal in hand addresses more use cases than the team had originally anticipated and refocusing the project towards a use case that was not known by the team that would lead to bigger business impact: in both of these cases, I feel impactful by empowering other engineers.
 
 **_Can you think of anything you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done before reaching that title?_**
 
@@ -64,11 +64,11 @@ I was hired specifically to introduce typechecking into Ruby at Stripe. This inc
 
 In the early days of Sorbet, we’ve carefully chosen what features to add based on usecases that Stripe needs the most. I believe we’ve succeeded in covering most of usecases that Stripe had with a typesystem and, at the same time, keeping the simplicity: it’s very easy to get to a typesystem and culture that promotes complexity and elitism for sake of it and I’m happy that our efforts avoided swinging from untypedness to the other end of spectrum.
 
-Today, in my role as Technical Advisor, I advocate for changes that will have outsized impact, most commonly in terms of Reliability, Scalability, Security and Productivity at Stripe. That can be changing the way data is sharded/stored, or changing the way we address change management. The big difference though is that unlike in Sorbet where I stayed on project for years, I'd be looking to find/grow a person who'll take over the project pretty soon - after organization is bought in, and there's a plan with well articulated milestones and controlled risks. I'll keep having frequent checkings with people driving these important projects with goal to help mitigate these risks and discover opportunities to deliver the project faster, and thus my involvement is visible only in the early stages of a project.
+Today, in my role as Technical Advisor, I advocate for changes that will have outsized impact, most commonly in terms of Reliability, Scalability, Security and Productivity at Stripe. That can be changing the way data is sharded/stored, or changing the way we address change management. The big difference though is that unlike in Sorbet where I stayed on the project for years, I'd be looking to find/grow a person who'll take over the project pretty soon - after organization is bought in, and there's a plan with well articulated milestones and controlled risks. I'll keep having frequent check-ins with people driving these important projects with the goal to help mitigate these risks and discover opportunities to deliver the project faster, and thus my involvement is visible only in the early stages of a project.
 
 **_How do you keep in touch with how things really work as you spend less time on hands-on development?_**
 
-While I was a PTL, I had a least a couple of days a week where I got code. I worked closely with other engineers on my teams and we continuously learn from each other.
+While I was a PTL, I had at least a couple of days a week where I got to code. I worked closely with other engineers on my teams and we continuously learned from each other.
 
 As a Technical Advisor, I wasn't able to write code as much as I was as a PTL. I mostly wrote code when it was [code-yellow situation](https://www.usenix.org/conference/lisa18/presentation/kehoe). But the success in this role is dependent on having good insights and deep engineering understanding. To do this, I speak to our internal customers and stay on top of designs and, notably, failure thresholds and failure modes of systems of teams that I support.
 
@@ -106,7 +106,7 @@ In order of decreasing importance:
 
 For me personally, the area that I needed to get good at before getting Staff Engineer was the second item. I was already delivering impact and was considered a person to go to for technical advice. I needed to improve my communication skills and collaboration skills so that I could constructively help people who are outside of my team, who might see me for first time ever and who, despite having good intentions behind their project, may not have the best plan to get it delivered.
 
-A technique that helped me in that was asking for feedback in a private chat immediately after the meeting, in particular after meetings that didn't not go perfectly. This has allowed me to learn what I did that might have contributed to other parties not feeling comfortable in these meetings and, in a few cases, genuinely asking how it could have gone better helped fix the outcome of a meeting that has already gone poorly.
+A technique that helped me in that was asking for feedback in a private chat immediately after the meeting, in particular after meetings that didn't go perfectly. This has allowed me to learn what I did that might have contributed to other parties not feeling comfortable in these meetings and, in a few cases, genuinely asking how it could have gone better and help fix the outcome of a meeting that has already gone poorly.
 
 **_How have where you worked and your education impacted your path?_**
 
@@ -126,7 +126,7 @@ Around the first performance evaluation into the projects, all three of us got f
 
 I became the “internal architecture/subtyping” person, as well as “talk to users” person, while Paul became the “change the code to make typechecker like it” person. Nelson clearly knew better how other systems at Stripe work and thus helped integrate the tool with them. All of these played to our strong points: I had prior experience with type checkers (this is what my PhD was about), Paul has a huge skill for programmatic codemods and Nelson is both very knowledgeable in systems in general and has been at Stripe long enough and early enough to know pretty much every system at Stripe. At this point in the project (stabilization, rollout) all of these became huge areas and thus it became much easier to have a person be a directly responsible individual (DRI) for an area, with others helping occasionally.
 
-After Sorbet I had a couple other impactful projects delivered in short timeframe (6 months), that, I believe, sealed the deal of me getting the Staff Engineer level, but, If I was to choose one, I’d still choose Sorbet due to vast scope of project: both technical and cultural.
+After Sorbet I had a couple of other impactful projects delivered in short timeframe (6 months) that, I believe, sealed the deal of me getting the Staff Engineer level, but, if I was to choose one, I’d still choose Sorbet due to vast scope of project: both technical and cultural.
 
 **_Can you remember any piece of advice on reaching Staff that was particularly helpful for you?_**
 
@@ -136,7 +136,7 @@ After Sorbet I had a couple other impactful projects delivered in short timefram
 
 **_What about a piece of advice for someone who has just started as a Staff engineer?_**
 
-At least, at Stripe, Staff Engineers work on very different areas. Make sure you agree with your reporting chain on what is the impact you should be achieving and what are the things you’re allowed to compromise on on the way to that impact. Communicate clearly what compromises you're doing and why.
+At least, at Stripe, Staff Engineers work on very different areas. Make sure you agree with your reporting chain on what is the impact you should be achieving and what are the things you’re allowed to compromise on the way to that impact. Communicate clearly what compromises you're doing and why.
 
 **_Did you ever consider engineering management, and if so how did you decide to pursue the staff engineer path?_**
 
