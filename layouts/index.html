@@ -1,35 +1,20 @@
 {{ define "main" }}
-<div class="w-50 w-90-m center">
-  <article class="lh-copy">
-    {{ .Content }}
-  </article>
-</div>
-
 <div class="pa3 pa4-ns w-100-m w-60 center">
   <section class="flex-ns flex-wrap justify-around mt1">
     <div class="relative mb4 pa4 bg-white">
-      <h1>Drafting Strategy</h1>
-      <h2>How to craft useful engineering strategies</h2>
-      <h3 class="black-30">by <a class="black-30" href="https://lethain.com/">Will Larson</a></h3>
-      <p>
-        Good decisions are the core of creating software, and strategy is the art of reproducibly making good decisions.
-        <em>Drafting Strategy</em> explains how you can improve your organization’s decision making both as an engineer or as an executive,
-        grounding the approach in concrete examples from real companies.
-      </p>
+    {{ .Content }}
+      
+    {{ range .Site.Sections }}
+    {{ $section := . }}
+    {{ if $section.Title }}
+    <h3>{{ $section.Title }}</h3>
+    {{ end }}
 
-      <h2>Contents</h2>
-      
-      {{ range .Site.Sections }}
-      
-      {{ $section := . }}
-      {{ if $section.Title }}
-      <h3>{{ $section.Title }}</h3>
-      {{ end }}
-      
-      {{ range (where $.Site.RegularPages "Section" "==" .Slug ) }}
-      {{ partial "summary.html" . }}
-      {{ end }}
-      {{ end }}
+    {{ range $section.Pages }}
+
+    {{ partial "summary.html" . }}
+    {{ end }}
+    {{ end }}
     </div>
   </section>
 </div>

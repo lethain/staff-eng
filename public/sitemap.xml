@@ -2,169 +2,191 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:50916/preface/</loc>
-    <lastmod>2025-03-15T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/preface/</loc>
-    <lastmod>2025-03-15T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/adam-bender/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/introduction/</loc>
-    <lastmod>2025-03-06T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/intro/</loc>
-    <lastmod>2024-05-04T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/ryan-bergman/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/steps/</loc>
-    <lastmod>2025-03-27T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/rebecca-panja/</loc>
+    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/is-useful/</loc>
-    <lastmod>2025-01-30T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/mikhail-chernykh/</loc>
+    <lastmod>2021-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/who-does-strategy/</loc>
-    <lastmod>2025-03-06T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/stephen-kawaguchi/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/refinement/</loc>
-    <lastmod>2025-01-02T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/aaron-suggs/</loc>
+    <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/strategies/</loc>
-    <lastmod>2025-04-10T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/alex-kessinger/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/going-forward/</loc>
-    <lastmod>2025-04-10T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/when-write-stratefy/</loc>
-    <lastmod>2024-08-25T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/present-to-executives/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/strategy-steps/</loc>
-    <lastmod>2025-03-27T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/john-zittlau/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/explore/</loc>
-    <lastmod>2025-02-13T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/greg-wittel/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/appendix/</loc>
-    <lastmod>2023-11-21T05:00:00-06:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/what-do-staff-engineers-actually-do/</loc>
+    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/diagnosis/</loc>
-    <lastmod>2025-02-22T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/managing-staff-plus-engineers/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/refine/</loc>
-    <lastmod>2024-12-28T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/interviewing-staff-plus-roles/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/policy/</loc>
-    <lastmod>2025-03-13T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/find-your-sponsor/</loc>
+    <lastmod>2020-11-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/operations/</loc>
-    <lastmod>2025-03-20T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/engineering-strategy/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/readable-strategy/</loc>
-    <lastmod>2024-05-18T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/manage-technical-quality/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/theory-and-practice/</loc>
-    <lastmod>2025-01-16T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/operating-at-staff/</loc>
+    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/refinement-intro/</loc>
-    <lastmod>2024-05-04T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/getting-the-title-where-you-are/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/strategy-testing/</loc>
-    <lastmod>2024-09-25T17:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/negotiating-the-offer/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/systems-modeling/</loc>
-    <lastmod>2024-11-04T07:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/finding-the-right-company/</loc>
+    <lastmod>2020-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/wardley-mapping/</loc>
-    <lastmod>2025-01-02T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/stephen-wan/</loc>
+    <lastmod>2020-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/strategies-intro/</loc>
-    <lastmod>2024-05-04T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/deciding-to-switch/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/uber-strategy/</loc>
-    <lastmod>2025-01-09T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/being-visible/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/uber-strategy-model/</loc>
-    <lastmod>2025-01-09T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/faq/</loc>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/uber-strategy-wardley/</loc>
-    <lastmod>2025-04-10T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/staff-projects/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/llm-adoption-strategy/</loc>
-    <lastmod>2024-05-14T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/work-on-what-matters/</loc>
+    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/llm-adoption-model/</loc>
-    <lastmod>2024-10-06T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/network-of-peers/</loc>
+    <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/wardley-llm-ecosystem/</loc>
-    <lastmod>2024-12-24T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/damian-schenkelman/</loc>
+    <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/llm-onboarding-model/</loc>
-    <lastmod>2024-10-19T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/katie-sylor-miller/</loc>
+    <lastmod>2020-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/private-equity-strategy/</loc>
-    <lastmod>2024-11-11T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/promo-packets/</loc>
+    <lastmod>2020-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/private-equity-model/</loc>
-    <lastmod>2024-10-27T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/create-space-for-others/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/user-data-strategy/</loc>
-    <lastmod>2025-02-07T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/ras-kasa-williams/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/monolith-decomposition-strategy/</loc>
-    <lastmod>2024-09-15T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/staff-career-ladders/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/product-eng-strategy/</loc>
-    <lastmod>2025-01-23T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/staff-plus-interview-process/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/project-resourcing-strategy/</loc>
-    <lastmod>2025-04-03T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/does-the-title-even-matter/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/api-deprecation-strategy/</loc>
-    <lastmod>2025-01-23T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/where-should-staff-plus-eng-report/</loc>
+    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/api-deprecation-model/</loc>
-    <lastmod>2025-04-01T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/learning-materials/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/stripe-sorbet-strategy/</loc>
-    <lastmod>2025-01-23T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/ending-words/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/index-acquisition-strategy/</loc>
-    <lastmod>2025-02-27T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/getting-in-the-room/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/evaluating-strategy/</loc>
-    <lastmod>2025-03-27T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/overview-overview/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/getting-better/</loc>
-    <lastmod>2025-04-10T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/learn-to-never-be-wrong/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/additional-resources/</loc>
-    <lastmod>2023-11-21T05:00:00-06:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/staff-archetypes/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/</loc>
-    <lastmod>2025-04-10T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/staying-aligned-with-authority/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/tags/eng-strategy-book/</loc>
-    <lastmod>2025-04-10T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/guides/guides/to-lead-follow/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/tags/strategy/</loc>
-    <lastmod>2025-04-10T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/dmitry-petrashko/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/tags/</loc>
-    <lastmod>2025-04-10T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/bert-fan/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/tags/wardley/</loc>
-    <lastmod>2025-04-10T04:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/silvia-botros/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/tags/model/</loc>
-    <lastmod>2025-04-01T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/michelle-bu/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/tags/systems-thinking/</loc>
-    <lastmod>2025-04-01T05:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/rick-boone/</loc>
+    <lastmod>2020-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/tags/llm/</loc>
-    <lastmod>2024-05-14T06:00:00-07:00</lastmod>
+    <loc>http://localhost:62954/stories/stories/diana-pojar/</loc>
+    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/categories/</loc>
+    <loc>http://localhost:62954/stories/stories/duretti-hirpa/</loc>
+    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/about/</loc>
+    <loc>http://localhost:62954/stories/stories/nelson-elhage/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:50916/faq/</loc>
+    <loc>http://localhost:62954/stories/stories/ritu-vincent/</loc>
+    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62954/stories/stories/joy-ebertz/</loc>
+    <lastmod>2020-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62954/stories/stories/dan-na/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62954/stories/stories/keavy-mcminn/</loc>
+    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62954/guides/guides/systems-thinking/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62954/guides/guides/stories/</loc>
+    <lastmod>2000-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:62954/categories/</loc>
+  </url><url>
+    <loc>http://localhost:62954/tags/</loc>
   </url>
 </urlset>
