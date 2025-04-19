@@ -1,6 +1,6 @@
-baseURL = "https://draftingstrategy.com"
+baseURL = "https://staffeng.com"
 languageCode = 'en-us'
-title = "Drafting Strategy"
+title = "Staff Engineer: Leadership beyond the management track"
 copyright = "Will Larson"
 theme = 'ananke'
 
@@ -28,14 +28,22 @@ theme = 'ananke'
     name = "Will Larson"
 [menu]
   [[menu.main]]
-#    weight = 100
-#    name = "Buy on Amazon"
-#    url = "/featured/"
-#  [[menu.main]]
-#    weight = 100
-#    name = "LLM Kit & Site License on Gumroad"
-#    url = "/featured/"
+    weight = 500
+    name = "Book"
+    url = "/book/"
+  [[menu.main]]
+    weight = 600
+    name = "Stories"
+    url = "/stories/"
+  [[menu.main]]
+    weight = 700
+    name = "Guides"
+    url = "/guides/"
+  [[menu.main]]
+    weight = 900
+    name = "Podcast"
+    url = "https://podcast.staffeng.com/"
   [[menu.main]]
     weight = 1000
     name = "About"
-    url = "/about"
+    url = "/about/"
