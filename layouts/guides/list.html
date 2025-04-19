@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="pa3 pa4-ns w-100-m w-60 center">
+  <section class="flex-ns flex-wrap justify-around mt1">
+    <div class="relative mb4 pa4 bg-white">
+    {{ .Content }}
+      
+    {{ range .Pages }}
+    {{ partial "summary.html" . }}
+    {{ end }}
+    </div>
+  </section>
+</div>
+
+{{ end }}
