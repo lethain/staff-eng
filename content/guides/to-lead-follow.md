@@ -2,7 +2,6 @@
 title: "To lead, you have to follow"
 slug: "/guides/to-lead-follow"
 date: "2020-06-21"
-kind: "guide"
 ---
 
 > It's about taking that global thinking and applying it locally. That means aligning your team's (technical) initiatives/roadmaps to the Engineering–wide technical strategy; and being intentional about when you veer off of that path to serve the needs of your team's immediate stakeholders. That means collaborating with your team's managers in adopting successful practices in hiring, onboarding, and production operations from other teams; and sharing practices from your team that would be beneficial for others. That means taking context from company-wide business/product strategy and translating that to how it impacts your team's immediate projects

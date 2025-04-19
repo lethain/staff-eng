@@ -4,7 +4,6 @@ name: "Greg Wittel"
 role: "Principal Software Engineer at Proofpoint"
 slug: "/stories/greg-wittel"
 date: "2020-12-05"
-kind: "story"
 ---
 
 <span class="date">December, 2020</span>

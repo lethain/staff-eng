@@ -2,7 +2,6 @@
 title: "Negotiating your offer"
 slug: "/guides/negotiating-the-offer"
 date: "2020-09-27"
-kind: "guide"
 ---
 
 Back in 2012, Patrick McKenzie wrote [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/), which has since become the defacto guide to negotiating salaries for software engineers. It's a great piece and a good primer on how you'd negotiate any offer, including a Staff-plus offer: if you haven't thought about this topic much before, start there.

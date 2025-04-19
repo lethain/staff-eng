@@ -3,7 +3,6 @@ title: "Dmitry Petrashko - Tech Advisor to the Head of Infra at Stripe"
 slug: "/stories/dmitry-petrashko"
 date: "2020-05-07"
 name: "Dmitry Petrashko"
-kind: "story"
 role: "Technical Advisor to the Head of Infrastructure at Stripe"
 ---
 

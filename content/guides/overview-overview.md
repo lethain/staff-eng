@@ -2,7 +2,6 @@
 title: "Introduction"
 slug: "/guides/overview-overview"
 date: "2020-06-21"
-kind: "guide"
 ---
 
 At most technology companies, you'll reach Senior software engineer, the [career level](https://lethain.com/mailbag-beyond-career-level/)

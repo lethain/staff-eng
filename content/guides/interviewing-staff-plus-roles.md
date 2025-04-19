@@ -2,7 +2,6 @@
 title: "Interviewing for Staff-plus roles"
 slug: "/guides/interviewing-staff-plus-roles"
 date: "2020-11-13"
-kind: "guide"
 ---
 
 

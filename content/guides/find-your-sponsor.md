@@ -2,7 +2,6 @@
 title: "Find your sponsor"
 slug: "/guides/find-your-sponsor"
 date: "2020-11-08"
-kind: "guide"
 ---
 
 

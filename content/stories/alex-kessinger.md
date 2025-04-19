@@ -3,7 +3,6 @@ title: "Alex Kessinger - Principal Engineer at Stitch Fix"
 slug: "/stories/alex-kessinger"
 date: "2021-01-18"
 name: "Alex Kessinger"
-kind: "story"
 role: "Principal Engineer at Stitch Fix"
 ---
 

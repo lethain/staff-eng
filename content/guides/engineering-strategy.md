@@ -2,7 +2,6 @@
 title: "Writing engineering strategy"
 slug: "/guides/engineering-strategy"
 date: "2020-11-02"
-kind: "guide"
 ---
 
 

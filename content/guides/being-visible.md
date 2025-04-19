@@ -2,7 +2,6 @@
 title: "Being visible"
 slug: "/guides/being-visible"
 date: "2020-09-13"
-kind: "guide"
 ---
 
 

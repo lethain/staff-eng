@@ -4,7 +4,6 @@ name: "Damian Schenkelman"
 role: "Principal Engineer at Auth0"
 slug: "/stories/damian-schenkelman"
 date: "2020-08-10"
-kind: "story"
 ---
 
 _Story recorded in August, 2020. Learn more about Damian on his [blog](https://yenkel.dev), [Twitter](https://twitter.com/dschenkelman), and [Linkedin](https://www.linkedin.com/in/damianschenkelman/)._

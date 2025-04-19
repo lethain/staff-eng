@@ -4,7 +4,6 @@ slug: "/stories/john-zittlau"
 date: "2020-12-20"
 name: "John Zittlau"
 role: "Principal Engineer at Jobber"
-kind: "story"
 ---
 
 <span class="date">December, 2020</span>

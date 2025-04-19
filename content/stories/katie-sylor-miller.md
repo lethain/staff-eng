@@ -4,7 +4,6 @@ name: "Katie Sylor-Miller"
 role: "Frontend Architect at Etsy"
 slug: "/stories/katie-sylor-miller"
 date: "2020-08-09"
-kind: "story"
 ---
 
 _This story was recorded in August, 2020. Learn more about Katie on her [website](https://sylormiller.com/), [Linkedin](https://www.linkedin.com/in/ksylor/), and [Twitter](https://twitter.com/ksylor)._

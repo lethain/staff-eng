@@ -2,7 +2,6 @@
 title: "Present to executives"
 slug: "/guides/present-to-executives"
 date: "2021-01-02"
-kind: "guide"
 ---
 
 Have you presented to company executives about a key engineering initiative, walking into the room excited and leaving defeated? Maybe you only made it to your second slide before unrelated questions derailed the discussion. Maybe you worked through your entire presentation only to have folks say, "Great job," and leave without any useful debate. Afterward, you're not quite sure what happened, but you know it didn't go well.

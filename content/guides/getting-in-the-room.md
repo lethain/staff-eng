@@ -2,7 +2,6 @@
 title: "Getting in the room, and stay there"
 slug: "/guides/getting-in-the-room"
 date: "2020-06-21"
-kind: "guide"
 ---
 
 One of the most common frustrations I've heard from engineers is that they're not in the room where important decisions are being made. They don't understand the company's decisions and have important context that seems to be missing or ignored. Staff-plus engineers frequently cite access to "the room" as a major benefit of their level, and titles do increase the likelihood that you'll be involved in decisions that impact you.

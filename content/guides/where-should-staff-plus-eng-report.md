@@ -2,7 +2,6 @@
 title: "Where do Staff-plus engineers fit into the org?"
 slug: "/guides/where-should-staff-plus-eng-report"
 date: "2020-06-28"
-kind: "guide"
 ---
 
 When I work on the organization design of an engineering organization, I think a lot about "[organizational mathematics](https://lethain.com/sizing-engineering-teams/)," the guideline that each team should have one manager and six to eight engineers, and each manager of managers should support four to six managers. From those numbers, you can rapidly determine an appropriate structure for your organization that'll work fairly well. It might not be _perfect_, but it'll _work_.

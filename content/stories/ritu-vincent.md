@@ -3,7 +3,6 @@ title: "Ritu Vincent - Staff Engineer at Dropbox"
 slug: "/stories/ritu-vincent"
 date: "2020-04-02"
 name: "Ritu Vincent"
-kind: "story"
 role: "Staff Engineer at Dropbox"
 ---
 

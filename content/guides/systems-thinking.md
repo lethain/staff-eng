@@ -2,7 +2,6 @@
 title: "Introduction to systems thinking"
 slug: "/guides/systems-thinking"
 date: "2018-07-25"
-kind: "guide"
 ---
 
 Many effective leaders I've worked with have the uncanny knack for working on [leveraged](https://lethain.com/building-technical-leverage/) problems. In some problem domains, the [product management skillset](https://lethain.com/intro-product-management/) is extraordinarily effective for identifying useful problems, but systems thinking is the most universally useful toolkit I've found.

@@ -4,7 +4,6 @@ name: "Adam Bender"
 role: "Principal Software Engineer at Google"
 slug: "/stories/adam-bender"
 date: "2022-10-24"
-kind: "story"
 ---
 
 <span class="date">October, 2022</span>

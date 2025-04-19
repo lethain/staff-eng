@@ -4,7 +4,6 @@ name: "Stephen Kawaguchi"
 role: "Solution Architect at IBM"
 slug: "/stories/stephen-kawaguchi"
 date: "2021-03-01"
-kind: "story"
 ---
 
 <span class="date">March, 2021</span>

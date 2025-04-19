@@ -3,7 +3,6 @@ title: "Diana Pojar - Staff Data Engineer at Slack"
 slug: "/stories/diana-pojar"
 date: "2020-04-14"
 name: "Diana Pojar"
-kind: "story"
 role: "Staff Data Engineer at Slack"
 ---
 

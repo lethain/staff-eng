@@ -4,7 +4,6 @@ name: "Ryan Bergman"
 role: "Senior Staff Engineer at John Deere"
 slug: "/stories/ryan-bergman"
 date: "2022-01-21"
-kind: "story"
 ---
 
 <span class="date">January, 2022</span>

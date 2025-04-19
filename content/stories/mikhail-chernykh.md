@@ -4,7 +4,6 @@ name: "Mikhail Chernykh"
 role: "Technical Lead at Indeed"
 slug: "/stories/mikhail-chernykh"
 date: "2021-07-25"
-kind: "story"
 
 ---
 

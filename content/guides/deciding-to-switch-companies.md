@@ -2,7 +2,6 @@
 title: "Deciding to switch companies"
 slug: "/guides/deciding-to-switch"
 date: "2020-09-19"
-kind: "guide"
 ---
 
 > I was hired at Fastly as a Principal engineer. So, to be honest, for me, the biggest factor was changing companies. The type of work I was doing didn’t dramatically change, but changing companies was the thing that ultimately enabled me to get the title.

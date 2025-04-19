@@ -2,7 +2,6 @@
 title: "Build a network of peers"
 slug: "/guides/network-of-peers"
 date: "2020-09-03"
-kind: "guide"
 ---
 
 As I talked to more and more Staff-plus engineers about career advice, the most consistent recommendation was to develop a personal network of peers doing similar work. Not _every_ person emphasized this approach, but more than half mentioned it, and for those who did, it tended to be their first and strongest recommendation.

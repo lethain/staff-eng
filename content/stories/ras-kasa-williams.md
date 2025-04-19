@@ -3,7 +3,6 @@ title: "Ras Kasa Williams - Staff Engineer at Mailchimp"
 name: "Ras Kasa Williams"
 role: "Staff Engineer at Mailchimp"
 slug: "/stories/ras-kasa-williams"
-kind: "story"
 date: "2020-07-18"
 ---
 

@@ -2,7 +2,6 @@
 title: "Staff-plus career ladders"
 slug: "/guides/staff-career-ladders"
 date: "2020-07-13"
-kind: "guide"
 ---
 
 There are *so* many different career ladders shared in public these days

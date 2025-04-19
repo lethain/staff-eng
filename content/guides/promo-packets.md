@@ -1,7 +1,6 @@
 ---
 title: "Promotion packets"
 date: "2020-08-08"
-kind: "guide"
 slug: "/guides/promo-packets"
 ---
 

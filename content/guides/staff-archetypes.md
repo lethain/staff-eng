@@ -2,7 +2,6 @@
 title: "Staff archetypes"
 slug: "/guides/staff-archetypes"
 date: "2020-06-21"
-kind: "guide"
 ---
 
 

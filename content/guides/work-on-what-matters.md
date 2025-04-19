@@ -2,7 +2,6 @@
 title: "Work on what matters"
 slug: "/guides/work-on-what-matters"
 date: "2020-09-04"
-kind: "guide"
 ---
 
 > I've taken to using the word "energized" over "impactful." "Impactful" feels company-centric, and while that's important, "energized" is more inwards-looking. Finding energizing work is what has kept me at Stripe for so long, pursuing impactful

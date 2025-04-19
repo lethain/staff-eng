@@ -3,7 +3,6 @@ title: "Keavy McMinn - Senior Principal Engineer at Fastly"
 name: "Keavy McMinn"
 role: "Senior Principal Engineer at Fastly"
 slug: "/stories/keavy-mcminn"
-kind: "story"
 date: "2020-03-24"
 ---
 

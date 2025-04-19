@@ -2,7 +2,6 @@
 title: "Staff projects"
 slug: "/guides/staff-projects"
 date: "2020-09-09"
-kind: "guide"
 ---
 
 > There isn't an explicit expectation, nor is it listed anywhere as a formal requirement, but it is understood that you'll complete a Staff Project to get promoted. I can't think of any Staff promotion that didn't include a really strong project, typically a multi-person project where the engineer was the Tech Lead.  

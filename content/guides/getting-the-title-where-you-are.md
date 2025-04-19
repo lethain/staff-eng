@@ -2,7 +2,6 @@
 title: "Getting the title where you are"
 slug: "/guides/getting-the-title-where-you-are"
 date: "2020-09-27"
-kind: "guide"
 ---
 
 > The best advice I've heard is that often reaching Staff is a combination of luck, timing, and work.
