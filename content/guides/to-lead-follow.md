@@ -1,6 +1,6 @@
 ---
 title: "To lead, you have to follow"
-slug: "/guides/to-lead-follow"
+url: "/guides/to-lead-follow"
 date: "2020-06-21"
 ---
 

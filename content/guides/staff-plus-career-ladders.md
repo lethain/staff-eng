@@ -1,6 +1,6 @@
 ---
 title: "Staff-plus career ladders"
-slug: "/guides/staff-career-ladders"
+url: "/guides/staff-career-ladders"
 date: "2020-07-13"
 ---
 

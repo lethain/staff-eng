@@ -2,7 +2,7 @@
 title: "Stephen Wan - Staff Engineer at Samsara"
 name: "Stephen Wan"
 role: "Staff Engineer at Samsara"
-slug: "/stories/stephen-wan"
+url: "/stories/stephen-wan"
 date: "2020-09-20"
 ---
 

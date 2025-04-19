@@ -2,7 +2,7 @@
 title: "Damian Schenkelman - Principal Engineer at Auth0"
 name: "Damian Schenkelman"
 role: "Principal Engineer at Auth0"
-slug: "/stories/damian-schenkelman"
+url: "/stories/damian-schenkelman"
 date: "2020-08-10"
 ---
 

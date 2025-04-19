@@ -1,6 +1,6 @@
 ---
 title: "Introduction to systems thinking"
-slug: "/guides/systems-thinking"
+url: "/guides/systems-thinking"
 date: "2018-07-25"
 ---
 

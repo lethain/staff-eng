@@ -1,6 +1,6 @@
 ---
 title: "Stories introduction"
-slug: "/guides/stories"
+url: "/guides/stories"
 date: "2000-01-01"
 ---
 

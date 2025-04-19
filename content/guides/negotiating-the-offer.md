@@ -1,6 +1,6 @@
 ---
 title: "Negotiating your offer"
-slug: "/guides/negotiating-the-offer"
+url: "/guides/negotiating-the-offer"
 date: "2020-09-27"
 ---
 

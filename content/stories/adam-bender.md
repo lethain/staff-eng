@@ -2,7 +2,7 @@
 title: "Adam Bender - Principal Software Engineer at Google"
 name: "Adam Bender"
 role: "Principal Software Engineer at Google"
-slug: "/stories/adam-bender"
+url: "/stories/adam-bender"
 date: "2022-10-24"
 ---
 

@@ -2,7 +2,7 @@
 title: "Stephen Kawaguchi - Solution Architect at IBM"
 name: "Stephen Kawaguchi"
 role: "Solution Architect at IBM"
-slug: "/stories/stephen-kawaguchi"
+url: "/stories/stephen-kawaguchi"
 date: "2021-03-01"
 ---
 

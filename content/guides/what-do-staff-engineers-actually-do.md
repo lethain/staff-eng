@@ -1,6 +1,6 @@
 ---
 title: "What do Staff engineers actually do?"
-slug: "/guides/what-do-staff-engineers-actually-do"
+url: "/guides/what-do-staff-engineers-actually-do"
 date: "2020-11-28"
 ---
 

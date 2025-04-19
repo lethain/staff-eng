@@ -1,6 +1,6 @@
 ---
 title: "Staff projects"
-slug: "/guides/staff-projects"
+url: "/guides/staff-projects"
 date: "2020-09-09"
 ---
 

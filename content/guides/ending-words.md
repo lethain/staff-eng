@@ -1,6 +1,6 @@
 ---
 title: "Ending words"
-slug: "/guides/ending-words"
+url: "/guides/ending-words"
 date: "2020-06-21"
 ---
 

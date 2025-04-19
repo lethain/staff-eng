@@ -1,6 +1,6 @@
 ---
 title: "Staff archetypes"
-slug: "/guides/staff-archetypes"
+url: "/guides/staff-archetypes"
 date: "2020-06-21"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Getting the title where you are"
-slug: "/guides/getting-the-title-where-you-are"
+url: "/guides/getting-the-title-where-you-are"
 date: "2020-09-27"
 ---
 

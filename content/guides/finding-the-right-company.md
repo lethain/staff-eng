@@ -1,6 +1,6 @@
 ---
 title: "Finding the right company"
-slug: "/guides/finding-the-right-company"
+url: "/guides/finding-the-right-company"
 date: "2020-09-22"
 ---
 

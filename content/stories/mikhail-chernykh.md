@@ -2,7 +2,7 @@
 title: "Mikhail Chernykh - Technical Lead at Indeed"
 name: "Mikhail Chernykh"
 role: "Technical Lead at Indeed"
-slug: "/stories/mikhail-chernykh"
+url: "/stories/mikhail-chernykh"
 date: "2021-07-25"
 
 ---

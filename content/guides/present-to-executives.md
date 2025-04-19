@@ -1,6 +1,6 @@
 ---
 title: "Present to executives"
-slug: "/guides/present-to-executives"
+url: "/guides/present-to-executives"
 date: "2021-01-02"
 ---
 

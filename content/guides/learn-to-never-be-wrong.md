@@ -1,6 +1,6 @@
 ---
 title: "Learn to never be wrong"
-slug: "/guides/learn-to-never-be-wrong"
+url: "/guides/learn-to-never-be-wrong"
 date: "2020-06-21"
 ---
 

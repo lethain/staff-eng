@@ -1,7 +1,7 @@
 ---
 title: "Promotion packets"
 date: "2020-08-08"
-slug: "/guides/promo-packets"
+url: "/guides/promo-packets"
 ---
 
 

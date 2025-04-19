@@ -1,6 +1,6 @@
 ---
 title: "Aaron Suggs - Principal Engineer at Glossier"
-slug: "/stories/aaron-suggs"
+url: "/stories/aaron-suggs"
 date: "2021-01-21"
 name: "Aaron Suggs"
 role: "Principal Engineer at Glossier"

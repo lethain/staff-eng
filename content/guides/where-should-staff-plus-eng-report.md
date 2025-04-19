@@ -1,6 +1,6 @@
 ---
 title: "Where do Staff-plus engineers fit into the org?"
-slug: "/guides/where-should-staff-plus-eng-report"
+url: "/guides/where-should-staff-plus-eng-report"
 date: "2020-06-28"
 ---
 

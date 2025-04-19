@@ -1,6 +1,6 @@
 ---
 title: "Managing Staff-plus engineers"
-slug: "/guides/managing-staff-plus-engineers"
+url: "/guides/managing-staff-plus-engineers"
 date: "2020-11-25"
 ---
 

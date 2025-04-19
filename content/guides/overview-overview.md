@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-slug: "/guides/overview-overview"
+url: "/guides/overview-overview"
 date: "2020-06-21"
 ---
 

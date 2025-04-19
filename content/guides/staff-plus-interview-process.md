@@ -1,6 +1,6 @@
 ---
 title: "Staff-plus interview processes"
-slug: "/guides/staff-plus-interview-process"
+url: "/guides/staff-plus-interview-process"
 date: "2020-07-12"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Additional resources on Staff-plus engineering"
-slug: "/guides/learning-materials"
+url: "/guides/learning-materials"
 date: "2020-06-21"
 ---
 

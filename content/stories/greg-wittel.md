@@ -2,7 +2,7 @@
 title: "Greg Wittel - Principal Software Engineer at Proofpoint"
 name: "Greg Wittel"
 role: "Principal Software Engineer at Proofpoint"
-slug: "/stories/greg-wittel"
+url: "/stories/greg-wittel"
 date: "2020-12-05"
 ---
 

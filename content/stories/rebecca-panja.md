@@ -2,7 +2,7 @@
 title: "Rebecca Panja - Staff Engineer at Medium"
 name: "Rebecca Panja"
 role: "Staff Engineer at Medium"
-slug: "/stories/rebecca-panja"
+url: "/stories/rebecca-panja"
 date: "2021-10-25"
 ---
 

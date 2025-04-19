@@ -1,6 +1,6 @@
 ---
 title: "Getting in the room, and stay there"
-slug: "/guides/getting-in-the-room"
+url: "/guides/getting-in-the-room"
 date: "2020-06-21"
 ---
 

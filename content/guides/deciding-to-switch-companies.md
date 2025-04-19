@@ -1,6 +1,6 @@
 ---
 title: "Deciding to switch companies"
-slug: "/guides/deciding-to-switch"
+url: "/guides/deciding-to-switch"
 date: "2020-09-19"
 ---
 

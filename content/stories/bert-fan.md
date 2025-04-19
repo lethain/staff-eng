@@ -1,6 +1,6 @@
 ---
 title: "Bert Fan - Senior Staff Engineer at Slack"
-slug: "/stories/bert-fan"
+url: "/stories/bert-fan"
 date: "2020-05-05"
 name: "Bert Fan"
 role: "Senior Staff Engineer at Slack"

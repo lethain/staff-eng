@@ -1,6 +1,6 @@
 ---
 title: "Does the title even matter?"
-slug: "/guides/does-the-title-even-matter"
+url: "/guides/does-the-title-even-matter"
 date: "2020-06-29"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Manage technical quality"
-slug: "/guides/manage-technical-quality"
+url: "/guides/manage-technical-quality"
 date: "2020-10-17"
 ---
 

@@ -2,7 +2,7 @@
 title: "Katie Sylor-Miller - Frontend Architect at Etsy"
 name: "Katie Sylor-Miller"
 role: "Frontend Architect at Etsy"
-slug: "/stories/katie-sylor-miller"
+url: "/stories/katie-sylor-miller"
 date: "2020-08-09"
 ---
 

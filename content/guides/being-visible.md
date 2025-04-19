@@ -1,6 +1,6 @@
 ---
 title: "Being visible"
-slug: "/guides/being-visible"
+url: "/guides/being-visible"
 date: "2020-09-13"
 ---
 

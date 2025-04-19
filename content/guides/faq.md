@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-slug: "/faq"
+url: "/faq"
 date: "2020-09-11"
 ---
 

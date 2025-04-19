@@ -2,7 +2,7 @@
 title: "Ryan Bergman - Senior Staff Engineer at John Deere"
 name: "Ryan Bergman"
 role: "Senior Staff Engineer at John Deere"
-slug: "/stories/ryan-bergman"
+url: "/stories/ryan-bergman"
 date: "2022-01-21"
 ---
 

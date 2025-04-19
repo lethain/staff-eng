@@ -1,6 +1,6 @@
 ---
 title: "Writing engineering strategy"
-slug: "/guides/engineering-strategy"
+url: "/guides/engineering-strategy"
 date: "2020-11-02"
 ---
 

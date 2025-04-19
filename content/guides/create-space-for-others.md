@@ -1,6 +1,6 @@
 ---
 title: "Create space for others"
-slug: "/guides/create-space-for-others"
+url: "/guides/create-space-for-others"
 date: "2020-07-25"
 ---
 

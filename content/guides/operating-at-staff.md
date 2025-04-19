@@ -1,6 +1,6 @@
 ---
 title: "Operating at Staff"
-slug: "/guides/operating-at-staff"
+url: "/guides/operating-at-staff"
 date: "2020-09-28"
 ---
 

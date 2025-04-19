@@ -1,6 +1,6 @@
 ---
 title: "Work on what matters"
-slug: "/guides/work-on-what-matters"
+url: "/guides/work-on-what-matters"
 date: "2020-09-04"
 ---
 

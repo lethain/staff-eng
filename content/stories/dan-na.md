@@ -1,6 +1,6 @@
 ---
 title: "Dan Na - Staff Engineer and Team Lead at Squarespace"
-slug: "/stories/dan-na"
+url: "/stories/dan-na"
 date: "2020-03-26"
 name: "Dan Na"
 role: "Staff Engineer and Team Lead at Squarespace"

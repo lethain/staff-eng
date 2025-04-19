@@ -1,6 +1,6 @@
 ---
 title: "John Zittlau - Principal Engineer at Jobber"
-slug: "/stories/john-zittlau"
+url: "/stories/john-zittlau"
 date: "2020-12-20"
 name: "John Zittlau"
 role: "Principal Engineer at Jobber"
