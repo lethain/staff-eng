@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:50916/preface/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Mar 2025 04:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:50916/preface/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preface</title>
+      <link>//localhost:50916/preface/</link>
+      <pubDate>Sat, 15 Mar 2025 04:00:00 -0700</pubDate>
+      <guid>//localhost:50916/preface/</guid>
+      <description>In 2015, the Mini Sky City skyscraper, with 57 floors, was built in Changsha, China, in 19 days. Driving to work over the past few years, I’ve watched a nine-story building in San Francisco get built over three years. There’s some argument that Mini Sky City’s record isn’t legitimate because it relied heavily on modular, pre-built architecture, but I can assure you that the three-years-and-counting building in San Francisco is similarly being built from modular components.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=58150&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Modeling driving onboarding. | Drafting Strategy</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="The How should you adopt LLMs? strategy explores how Theoretical Ride Sharing might adopt LLMs. It builds on several models, the first is about LLMs impact on Developer Experience. The second model, documented here, looks at whether LLMs might improve a core product and business problem: maximizing active drivers on their ridesharing platform.
+In this chapter, we&rsquo;ll cover:
+Where the model of ridesharing drivers identifies opportunities for LLMs How the model was sketched and developed using lethain/systems package on Github Exercising this model to learn from it Let&rsquo;s get started.">
+    <meta name="generator" content="Hugo 0.128.2">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    <meta name="author" content="map[name:Will Larson]">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+  
+    <link rel="stylesheet" href="/static/pygments.css">
+  
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:58150/driver-onboarding-model/">
+    
+
+    <meta property="og:url" content="http://localhost:58150/driver-onboarding-model/">
+  <meta property="og:site_name" content="Drafting Strategy">
+  <meta property="og:title" content="Modeling driving onboarding.">
+  <meta property="og:description" content="The How should you adopt LLMs? strategy explores how Theoretical Ride Sharing might adopt LLMs. It builds on several models, the first is about LLMs impact on Developer Experience. The second model, documented here, looks at whether LLMs might improve a core product and business problem: maximizing active drivers on their ridesharing platform.
+In this chapter, we’ll cover:
+Where the model of ridesharing drivers identifies opportunities for LLMs How the model was sketched and developed using lethain/systems package on Github Exercising this model to learn from it Let’s get started.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="strategies">
+    <meta property="article:published_time" content="2024-10-19T04:00:00-07:00">
+    <meta property="article:modified_time" content="2024-10-19T04:00:00-07:00">
+    <meta property="article:tag" content="Model">
+    <meta property="article:tag" content="Systems-Thinking">
+    <meta property="article:tag" content="Eng-Strategy-Book">
+    <meta property="og:image" content="http://localhost:58150/static/author.png">
+
+  <meta itemprop="name" content="Modeling driving onboarding.">
+  <meta itemprop="description" content="The How should you adopt LLMs? strategy explores how Theoretical Ride Sharing might adopt LLMs. It builds on several models, the first is about LLMs impact on Developer Experience. The second model, documented here, looks at whether LLMs might improve a core product and business problem: maximizing active drivers on their ridesharing platform.
+In this chapter, we’ll cover:
+Where the model of ridesharing drivers identifies opportunities for LLMs How the model was sketched and developed using lethain/systems package on Github Exercising this model to learn from it Let’s get started.">
+  <meta itemprop="datePublished" content="2024-10-19T04:00:00-07:00">
+  <meta itemprop="dateModified" content="2024-10-19T04:00:00-07:00">
+  <meta itemprop="wordCount" content="1855">
+  <meta itemprop="image" content="http://localhost:58150/static/author.png">
+  <meta itemprop="keywords" content="Model,Systems-Thinking,Eng-Strategy-Book">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:58150/static/author.png">
+  <meta name="twitter:title" content="Modeling driving onboarding.">
+  <meta name="twitter:description" content="The How should you adopt LLMs? strategy explores how Theoretical Ride Sharing might adopt LLMs. It builds on several models, the first is about LLMs impact on Developer Experience. The second model, documented here, looks at whether LLMs might improve a core product and business problem: maximizing active drivers on their ridesharing platform.
+In this chapter, we’ll cover:
+Where the model of ridesharing drivers identifies opportunities for LLMs How the model was sketched and developed using lethain/systems package on Github Exercising this model to learn from it Let’s get started.">
+
+	
+
+  </head><body class="ma0 avenir bg-white development">
+
+    
+   
+  <header>
+  <div class="bg-white">
+    <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 no-underline black-90 dib">
+      
+        Drafting Strategy
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="no-underline black-90" href="/about" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="no-underline black-90" href="" title=" page">
+              
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+  
+    
+</nav>
+
+  </div>
+</header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      
+      
+      <h1 class="f1 athelas mt3 mb3">Modeling driving onboarding.</h1>
+      
+      
+
+      
+      
+
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f5 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>The <a href="/llm-adoption-strategy/">How should you adopt LLMs?</a> strategy explores how Theoretical Ride Sharing
+might adopt LLMs. It builds on several models, the first is about <a href="/dx-llm-model/">LLMs impact on Developer Experience</a>.
+The second model, documented here, looks at whether LLMs might improve a core product and business problem: maximizing
+active drivers on their ridesharing platform.</p>
+<p>In this chapter, we&rsquo;ll cover:</p>
+<ol>
+<li>Where the model of ridesharing drivers identifies opportunities for LLMs</li>
+<li>How the model was sketched and developed using <a href="https://github.com/lethain/systems">lethain/systems</a> package on Github</li>
+<li>Exercising this model to learn from it</li>
+</ol>
+<p>Let&rsquo;s get started.</p>
+<h2 id="learnings">Learnings</h2>
+<p>An obvious assumption is making driver onboarding faster would increase the long-term number
+of drivers in a market. However, this model show that even doubling the rate that we qualify applicant drivers
+as eligible has little impact on active drivers over time.</p>
+<p><img src="/static/blog/strategy/llm-ride-results-2.png" alt="Line chart showing a faster and a slower onboarding strategy examples."></p>
+<p>Conversely, it&rsquo;s clear that efforts to reengage departed drivers has a significant impact
+on active drivers. We believe that there are potential LLM applications that could encourage
+departed drivers to return to active driving, for example mapping their rationale for departing
+against our recent product changes and driver retention promotions could generate high quality,
+personalized emails.</p>
+<p><img src="/static/blog/strategy/llm-ride-results-4.png" alt="Line chart showing a faster and a slower onboarding strategy examples."></p>
+<p>Finally, the model shows that increasing either reactivation of departed or suspended drivers is significantly
+less impactful than increasing both. If either rate is low, we lose an increasingly large number of drivers over time.</p>
+<p><img src="/static/blog/strategy/llm-ride-results-5.png" alt="Line chart showing a faster and a slower onboarding strategy examples."></p>
+<p>The only meaningful opportunities for us to increase active drivers with LLMs are improving those two reactivation rates.</p>
+<h2 id="sketch">Sketch</h2>
+<p>The first step in modeling a system is sketching it (using <a href="https://excalidraw.com/">Excalidraw</a> here).
+Here we&rsquo;re developing a model for onboarding and retaining drivers for a ridesharing application in one city.</p>
+<p><img src="/static/blog/strategy/llm-ride-model-1.png" alt="Systems model for onboarding drivers onto a ride-sharing application."></p>
+<p>The stocks are:</p>
+<ol>
+<li><code>City Population</code> is the total population of a city</li>
+<li><code>Applied Drivers</code> are the number of people who&rsquo;ve applied to be drivers</li>
+<li><code>Eligible Drivers</code> are the number of applied drivers who meet eligibility criteria (e.g. provided a current drivers license, etc)</li>
+<li><code>Onboarded Drivers</code> are eligible drivers who have successfully gone through an onboarding program</li>
+<li><code>Active Drivers</code> are onboarded drivers who are actually performing trips on a weekly basis</li>
+<li><code>Departed Drivers</code> were active drivers, but voluntarily stopped performing trips (e.g. took a different job)</li>
+<li><code>Suspended Drivers</code> were active drivers, but involuntarily stopped performing trips (e.g. are no longer allowed to drive on platform)</li>
+</ol>
+<p>Looking at the left-to-right flows, there is a flow from each of those stocks to the following stock in the pipeline.
+These are all simple one-to-one flows, with the exception of those coming from
+<code>Active Drivers</code> leads to two distinct stocks: <code>Departed Drivers</code> and <code>Suspended Drivers</code>.
+These represent voluntary and involuntary departures</p>
+<p>There are a handful of right-to-left, exception path flows to consider as well:</p>
+<ol>
+<li><code>Request missing information</code> represents a driver who can&rsquo;t be moved from <code>Applied Drivers</code> to <code>Eligible Drivers</code>
+because their provided information proved insufficient in a review process</li>
+<li><code>Re-engage</code> tracks <code>Departed Drivers</code> who have decided to start driving again, perhaps
+because of a bonus program for drivers who start driving again</li>
+<li><code>Remove suspension</code> refers to drivers who were involuntarily removed, but who are now
+allowed to return to driving</li>
+</ol>
+<p>This is a fairly basic model, but let&rsquo;s see what we can learn from it.</p>
+<h2 id="reason">Reason</h2>
+<p>Now that we&rsquo;ve sketched the system, we can start thinking about which flows are going to have the largest impact,
+and where an LLM might increase those flows. Some observations from reasoning about it:</p>
+<ol>
+<li>If a city&rsquo;s population is infinite, then what really matters in this model
+is how many new drivers we can encourage to join the system.
+On the other hand, if a city&rsquo;s population is finite,
+then onboarding new drivers will be essential in the early stages of coming
+online in any particular city, but long-term reengaging departed drivers
+is probably at least as important.</li>
+<li>LLMs tooling could speed up validating eligible drivers. If we speed that process up enough,
+we could greatly reduce the rate of the <code>Request missing information</code> flow by identifying
+missing information in real-time rather than requiring a human to review the information later.</li>
+<li>We could potentially develop LLM tooling to craft personalized messaging to <code>Departed Drivers</code>,
+that explains which of our changes since their departure might be most relevant to their reasons
+for stopping. This could increase the rate of the <code>Re-engage</code> flow</li>
+<li>While we likely wouldn&rsquo;t want an LLM approving the removal of suspensions, we could have it look
+at requests to be revalidated, and identify promising requests to focus human attention on
+the highest potential for approval.</li>
+<li>We could build LLM-powered tooling that helps a city resident decide whether they should apply
+to become a driver by answering questions they might have.</li>
+</ol>
+<p>As we exercise the model later, we know that our assumptions about whether this city has already exhausted
+potential drivers will quickly steer us towards a specific subset of these potential options.
+If all potential drivers are already tapped, only work to reactivate prior drivers that will matter.
+If there are more potential drivers, then likely activating them will be a better focus.</p>
+<h2 id="model">Model</h2>
+<p>For this model, we&rsquo;ll be modeling it using the <a href="https://github.com/lethain/systems">lethain/systems</a> library that I wrote.
+For a more detailed introduction, I recommend working through <a href="https://github.com/lethain/systems/blob/master/README.md">the tutorial in the repository</a>,
+but I&rsquo;ll introduce the basics here as well.
+While <code>systems</code> is far from a perfect tool, as you experiment with different modeling techniques
+like <a href="/dx-llm-model/">spreadsheet-based modeling</a> and <a href="https://sagemodeler.concord.org/">SageModeler</a>,
+I think this approach&rsquo;s emphasis on rapid development and reproducible, sharable models is somewhat unique.</p>
+<p>If you want to see the finished model,
+you can find the model and visualizations in <a href="https://github.com/lethain/eng-strategy-models/blob/main/DriverOnboarding.ipynb">the Jupyterhub notebook in lethain:eng-strategy-models.</a>.
+Here we&rsquo;ll work through the steps behind implementing that model.</p>
+<p>We&rsquo;ll start by creating a stock for the city&rsquo;s population,
+with an initial size of 10,000.</p>
+<pre tabindex="0"><code># City population is 10,000
+CityPop(10000)
+</code></pre><p>Next, we want to initialize the applied drivers stock,
+and specify a constant rate of 100 people in the city applying
+to become drivers each round. This will only happen until
+the 10,000 potential drivers in the city are exhausted,
+at which point there will be no one left to apply.</p>
+<pre tabindex="0"><code># 100 folks apply to become drivers per round
+# the @ 100 format is called a &#34;rate&#34; flow
+CityPop &gt; AppliedDrivers @ 100
+</code></pre><p>Now we want to initialize the eligible drivers stock,
+and specify that 25% of the folks in applied drivers
+will advance to become eligible each round.</p>
+<p>Before we used <code>@ 100</code> to specify a fixed rate.
+Here we&rsquo;re useing <code>@ Leak(0.25)</code> to specify the idea
+of 25% of the folks in applied drivers advancing into eligible driver.</p>
+<pre tabindex="0"><code># 25% of applied drivers become eligible each round
+AppliedDrivers &gt; EligibleDrivers @ Leak(0.25)
+</code></pre><p>You could write this as <code>@ 0.25</code>, but you&rsquo;d actually get different behavior,
+That&rsquo;s because <code>@ 0.25</code> is actually short-hand for <code>@ Conversion(0.25)</code>,
+which is similar to a leak but destroys the unconverted portion.</p>
+<p>Using an example to show the difference, let&rsquo;s imagine that
+we have 100 applied drivers and 100 eligible drivers, and then
+see the consequences of applying a leak versus a conversion:</p>
+<ul>
+<li><code>Leak(0.25)</code> would end with 75 applied drivers and 125 eligible drivers</li>
+<li><code>Conversion(0.25)</code> would end with 0 applied drivers and 125 eligible drivers</li>
+</ul>
+<p>Depending on what you are modeling, you might need leaks, conversions or both.</p>
+<p>Moving on, next we model out first right-to-left flow.
+Specifically, the request missing information flow where some eligible drivers end up
+not being eligible because they need to provide more information.</p>
+<pre tabindex="0"><code># This is &#34;Request missing information&#34;, with 10%
+# of folks moving backwards each round
+EligibleDrivers &gt; AppliedDrivers @ Leak(0.1)
+</code></pre><p>Note that the syntax for left-to-right and right-to-left flows
+is identical, without making a distinction.</p>
+<p>Now, 25% of eligible drivers become onboarded drivers each round.</p>
+<pre tabindex="0"><code># 25% of eligible drivers onboard each round
+EligibleDrivers &gt; OnboardedDrivers @ Leak(0.25)
+</code></pre><p>Then 50% of onboarded drivers become active drivers,
+actually providing rides.</p>
+<pre tabindex="0"><code># 50% of onboarded drivers become active
+OnboardedDrivers &gt; ActiveDrivers @ Leak(0.50)
+</code></pre><p>The active drivers stock is drained by two flows:
+drivers who voluntarily depart become departed drivers,
+and drivers who are suspended become suspended drivers.
+Both flows take 10% of active drivers each round.</p>
+<pre tabindex="0"><code># 10% of active drivers depart voluntarily and involuntarily
+ActiveDrivers &gt; DepartedDrivers @ Leak(0.10)
+ActiveDrivers &gt; SuspendedDrivers @ Leak(0.10)
+</code></pre><p>Finally, we also see 5% of departed drivers returning to driving
+each round. Similarly, we unsuspend 1% of suspended drivers.</p>
+<pre tabindex="0"><code># 5% of DepartedDrivers become active
+DepartedDrivers &gt; ActiveDrivers @ Leak(0.05)
+# 1% of SuspendedDrivers are reactivated
+SuspendedDrivers &gt; ActiveDrivers @ Leak(0.01)
+</code></pre><p>We already sketched this model out earlier, but it&rsquo;s worth noting
+that <code>systems</code> will allow you to export models via <a href="https://graphviz.org/">Graphviz</a>.
+These diagrams are generally harder to read than a custom drawn one,
+but it&rsquo;s certainly possible to use this toolchain to combine sketching
+and modeling into a single step.</p>
+<p><img src="/static/blog/strategy/llm-ride-model-2.png" alt="Systems model for onboarding drivers onto a ride-sharing application. Modeling via graphviz."></p>
+<p>Now that we have the model, we can get to exercise it to learn its secrets.</p>
+<h2 id="exercise">Exercise</h2>
+<p>Base model:</p>
+<p><img src="/static/blog/strategy/llm-ride-results-1.png" alt="Line chart showing a faster and a slower onboarding strategy examples."></p>
+<p>Now let&rsquo;s imagine that our LLM-powered tool can speed up eligible drivers, doubling the speed that we move
+applied drivers to eligible drivers. Instead of 25% of applied drivers becoming eligible each round,
+we&rsquo;ll instead see 50%.</p>
+<pre tabindex="0"><code># old
+AppliedDrivers &gt; EligibleDrivers @ Leak(0.25)
+
+# new
+AppliedDrivers &gt; EligibleDrivers @ Leak(0.50)
+</code></pre><p>Unfortunately, we can see that even doubling the speed at which we&rsquo;re onboarding drivers to eligible
+has a minimal impact.</p>
+<p><img src="/static/blog/strategy/llm-ride-results-2.png" alt="Line chart showing a faster and a slower onboarding strategy examples."></p>
+<p>To finish testing this hypothesis, we can eliminate the <code>Request missing information</code> flow entirely
+and see if this changes things meaningfully, commenting out that line.</p>
+<p><img src="/static/blog/strategy/llm-ride-results-3.png" alt="Line chart showing a faster and a slower onboarding strategy examples."></p>
+<p>Unfortunately, even eliminating the missing information rate has little impact on the number of active drivers.
+So it seems like the opportunity for our LLM solutions to increase active drivers are going to need to focus
+on reactivating existing drivers.</p>
+<p>Specifically, let&rsquo;s go from 5% of departed drivers reactivating to 20%.</p>
+<pre tabindex="0"><code># 20% of DepartedDrivers become active
+# DepartedDrivers &gt; ActiveDrivers @ Leak(0.05)
+# DepartedDrivers &gt; ActiveDrivers @ Leak(0.2)
+</code></pre><p>For the first time, we&rsquo;re seeing a significant shift in impact.
+We reach a much higher percentage of drivers at peak, and even after we
+exhaust all drivers in a city, the total number of active reaches a higher
+equilibrium.</p>
+<p><img src="/static/blog/strategy/llm-ride-results-4.png" alt="Line chart showing a faster and a slower onboarding strategy examples."></p>
+<p>Presumably increasing the rate that we reactivate suspended drivers from 1% to 2.5% would
+have a similar, meaningful but smaller impact on active drivers over time.
+So let&rsquo;s model that change.</p>
+<pre tabindex="0"><code># 2.5% of SuspendedDrivers are reactivated
+#SuspendedDrivers &gt; ActiveDrivers @ Leak(0.01)
+SuspendedDrivers &gt; ActiveDrivers @ Leak(0.025)
+</code></pre><p>However, surprisingly, the impact of increasing the reactivate of suspended drivers is
+actually much higher than reengaging departed drivers.</p>
+<p><img src="/static/blog/strategy/llm-ride-results-5.png" alt="Line chart showing a faster and a slower onboarding strategy examples."></p>
+<p>This is an interesting, and somewhat counter-intuitive result.
+Increasing the rate for both suspended and departed rates is more impactful
+than increasing either, because ultimately there&rsquo;s a growing population of drivers
+in the slower deflating stock.
+This means, surprisingly, that a tool that helps us quickly determine which drivers
+could be unsuspended might matter more than the small size of the flow indicates.</p>
+<p>At this point, we&rsquo;ve probably found the primary story that this model wants to tell us:
+we should focus efforts on reactivating departed and suspended drivers.
+Changes elsewhere might reduce operational costs of our business, but they won&rsquo;t
+solve the problem of increasing active drivers.</p>
+<div class="mt4">
+        <hr>
+        
+        <p class="f5"><span class="b mb3">Next chapter: </span> <a href="/private-equity-strategy/">Navigating Private Equity ownership.</a></p>
+        
+        
+        <p class="f5"><span class="b mb3">Previous chapter: </span> <a href="/wardley-llm-ecosystem/">Wardley mapping the LLM ecosystem.</a></p>
+                
+      </div>
+      
+      <div class="bg-light-gray br4 ph3 pv1">
+        <p class="tracked">First published at <a href="https://lethain.com/driver-onboarding-model/">lethain.com/driver-onboarding-model/</a></p>      
+      </div>
+      
+
+      <div class="mt6 instapaper_ignoref">
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt1-l"><div class="bg-light-gray pa3 cf">
+  <p class="f5 mb3">
+    Hi folks. I'm <a href="https://lethain.com/about">Will Larson</a>,
+    and this is my new book on engineering strategy, <em><a href="https://draftingstrategy.com/">Drafting Strategy</a></em>.
+  </p>
+
+  <p>
+    I also wrote
+
+    <em><a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">An Elegant Puzzle</a></em>,
+    <em><a href="https://staffeng.com/book">Staff Engineer</a></em>, and
+      <em><a href="https://www.oreilly.com/library/view/the-engineering-executives/9781098149475/">The Engineering Executive's Primer</a></em>.
+  </p>
+
+  <p class="cf">
+    <div class="fl w-third">
+      <a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">
+        <img src="/static/aep-small-lq.jpg">
+      </a>
+    </div>
+    <div class="fl w-third">    
+      <a href="https://staffeng.com/book">
+        <img src="/static/StaffEngBookMed.jpg">
+      </a>
+    </div>
+    <div class="fl w-third">
+      <a href="https://www.oreilly.com/library/view/the-engineering-executives/9781098149475/">
+        <img src="/static/primer-cover-small.jpg">
+      </a>
+    </div>    
+  </p>
+</div>
+
+<div class="bg-light-gray ph3 cf">
+  <p class="f5 mb3">
+    For updates on this project, join <em>Irrational Exuberance</em>'s
+    <a href="/newsletter/">weekly newsletter</a>.
+  </p>
+</div>
+
+
+<div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  
+    <p class="f5"><span class="b mb3">Next chapter</span></p>
+    <p class="f5"><a href="/private-equity-strategy/">Navigating Private Equity ownership.</a></p>
+    
+    
+  
+    <p class="f5"><span class="b mb3">Previous chapter</span></p>
+    <p class="f5"><a href="/wardley-llm-ecosystem/">Wardley mapping the LLM ecosystem.</a></p>
+  
+  <p class="f5 b mb3">Table of Contents</p>
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#learnings">Learnings</a></li>
+    <li><a href="#sketch">Sketch</a></li>
+    <li><a href="#reason">Reason</a></li>
+    <li><a href="#model">Model</a></li>
+    <li><a href="#exercise">Exercise</a></li>
+  </ul>
+</nav>
+</div>
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-white bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="center f4 fw4 hover-white no-underline black-50 dn dib-ns pv2 ph3" href="http://localhost:58150/" >
+    &copy;  Will Larson 2025 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

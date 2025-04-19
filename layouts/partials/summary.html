@@ -1,0 +1,8 @@
+<p class="pv1 cf flex">
+  <a href="{{ .Permalink }}" class="link black dim pr4 w-100">
+    {{ if .Params.model }}<span class="ph3"></span> {{ end }}    
+    {{ if .Params.old_draft }}<em>[DRAFT]</em> {{ end }}
+    {{ .Title }}
+  </a>
+</p>
+  

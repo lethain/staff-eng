@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=58150&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>How should we control access to user data? | Drafting Strategy</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="At some point in a startup&rsquo;s lifecycle, they decide that they need to be ready to go public in 18 months, and a flurry of IPO-readiness activity kicks off. This strategy focuses on a company working on IPO readiness, which has identified a gap in their internal controls for managing access to their users&rsquo; data. It&rsquo;s a company that wants to meaningfully improve their security posture around user data access, but which has had a number of failed security initiatives over the years.">
+    <meta name="generator" content="Hugo 0.128.2">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    <meta name="author" content="map[name:Will Larson]">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+  
+    <link rel="stylesheet" href="/static/pygments.css">
+  
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:58150/user-data-access-strategy/">
+    
+
+    <meta property="og:url" content="http://localhost:58150/user-data-access-strategy/">
+  <meta property="og:site_name" content="Drafting Strategy">
+  <meta property="og:title" content="How should we control access to user data?">
+  <meta property="og:description" content="At some point in a startup’s lifecycle, they decide that they need to be ready to go public in 18 months, and a flurry of IPO-readiness activity kicks off. This strategy focuses on a company working on IPO readiness, which has identified a gap in their internal controls for managing access to their users’ data. It’s a company that wants to meaningfully improve their security posture around user data access, but which has had a number of failed security initiatives over the years.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="strategies">
+    <meta property="article:published_time" content="2025-02-07T06:00:00-07:00">
+    <meta property="article:modified_time" content="2025-02-07T06:00:00-07:00">
+    <meta property="article:tag" content="Strategy">
+    <meta property="article:tag" content="Eng-Strategy-Book">
+    <meta property="og:image" content="http://localhost:58150/static/author.png">
+
+  <meta itemprop="name" content="How should we control access to user data?">
+  <meta itemprop="description" content="At some point in a startup’s lifecycle, they decide that they need to be ready to go public in 18 months, and a flurry of IPO-readiness activity kicks off. This strategy focuses on a company working on IPO readiness, which has identified a gap in their internal controls for managing access to their users’ data. It’s a company that wants to meaningfully improve their security posture around user data access, but which has had a number of failed security initiatives over the years.">
+  <meta itemprop="datePublished" content="2025-02-07T06:00:00-07:00">
+  <meta itemprop="dateModified" content="2025-02-07T06:00:00-07:00">
+  <meta itemprop="wordCount" content="1999">
+  <meta itemprop="image" content="http://localhost:58150/static/author.png">
+  <meta itemprop="keywords" content="Strategy,Eng-Strategy-Book">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:58150/static/author.png">
+  <meta name="twitter:title" content="How should we control access to user data?">
+  <meta name="twitter:description" content="At some point in a startup’s lifecycle, they decide that they need to be ready to go public in 18 months, and a flurry of IPO-readiness activity kicks off. This strategy focuses on a company working on IPO readiness, which has identified a gap in their internal controls for managing access to their users’ data. It’s a company that wants to meaningfully improve their security posture around user data access, but which has had a number of failed security initiatives over the years.">
+
+	
+
+  </head><body class="ma0 avenir bg-white development">
+
+    
+   
+  <header>
+  <div class="bg-white">
+    <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 no-underline black-90 dib">
+      
+        Drafting Strategy
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="no-underline black-90" href="/about" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="no-underline black-90" href="" title=" page">
+              
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+  
+    
+</nav>
+
+  </div>
+</header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      
+      
+      <h1 class="f1 athelas mt3 mb3">How should we control access to user data?</h1>
+      
+      
+
+      
+      
+
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f5 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>At some point in a startup&rsquo;s lifecycle, they decide that they
+need to be ready to go public in 18 months, and a flurry of IPO-readiness
+activity kicks off.
+This strategy focuses on a company working on IPO readiness,
+which has identified a gap in their internal controls for managing
+access to their users&rsquo; data. It&rsquo;s a company that <em>wants</em> to meaningfully
+improve their security posture around user data access, but which has
+had a number of failed security initiatives over the years.</p>
+<p>Most of those initiatives have failed because they significantly
+degraded internal workflows for teams like customer support,
+such that the initial progress was reverted and subverted over time,
+to little long-term effect.
+This strategy represents the Chief Information Security Officer&rsquo;s (CISO) attempt to acknowledge and overcome those historical
+challenges while meeting their IPO readiness obligations, and&ndash;most importantly&ndash;doing
+right by their users.</p>
+<h2 id="reading-this-document">Reading this document</h2>
+<p>To apply this strategy, start at the top with <em>Policy</em>. To understand the thinking behind this strategy, read sections in reverse order, starting with <em>Explore</em>, then <em>Diagnose</em> and so on.
+Relative to the default structure, this document has been refactored in two ways
+to improve readability:
+first, <em>Operation</em> has been folded into <em>Policy</em>;
+second, <em>Refine</em> has been embedded in <em>Diagnose</em>.</p>
+<p>More detail on this structure in <a href="/readable-engineering-strategy-documents">Making a readable Engineering Strategy document</a>.</p>
+<h2 id="policy--operations">Policy &amp; Operations</h2>
+<p>Our new policies, and the mechanisms to operate them are:</p>
+<ul>
+<li>
+<p><strong>Controls for accessing user data must be significantly stronger prior to our IPO.</strong>
+Senior leadership, legal, compliance and security have decided that we are not comfortable accepting the status quo
+of our user data access controls
+as a public company, and must meaningfully improve the quality of resource-level access controls
+as part of our pre-IPO readiness efforts.</p>
+<p>Our Security team is accountable for the exact mechanisms and approach to addressing this risk.</p>
+</li>
+<li>
+<p><strong>We will continue to prioritize a hybrid solution to resource-access controls.</strong>
+This has been our approach thus far, and the fastest available option.</p>
+</li>
+<li>
+<p><strong>Directly expose the log of our resource-level accesses to our users.</strong>
+We will build towards a user-accessible log of all company accesses of user data,
+and ensure we are comfortable explaining each and every access.
+In addition, it means that each rationale for access must be comprehensible and reasonable
+from a user perspective.</p>
+<p>This is important because it aligns our approach with our users&rsquo; perspectives.
+They will be able to evaluate how we access their data, and make decisions about
+continuing to use our product based on whether they agree with our use.</p>
+</li>
+<li>
+<p><strong>Good security discussions don&rsquo;t frame decisions as a compromise between security and usability.</strong>
+We will pursue <a href="/multi-dimensional-tradeoffs/">multi-dimensional tradeoffs</a> to simultaneously improve security and efficiency.
+Whenever we frame a discussion on trading off between security and utility,
+it&rsquo;s a sign that we are having the wrong discussion, and that we should rethink our approach.</p>
+<p>We will prioritize mechanisms that can both automatically authorize <em>and</em> automatically document the rationale
+for accesses to customer data. The most obvious example
+of this is automatically granting access to a customer support agent for users who have an open support ticket
+assigned to that agent. (And removing that access when that ticket is reassigned or resolved.)</p>
+</li>
+<li>
+<p><strong>Measure progress on percentage of customer data access requests justified by a user-comprehensible, automated rationale.</strong>
+This will anchor our approach on simultaneously improving the security of user data and the usability of our colleagues&rsquo; internal tools.
+If we only expand requirements for accessing customer data, we won&rsquo;t view this as progress because it&rsquo;s
+not automated (and consequently is likely to encourage workarounds as teams try to solve problems quickly).
+Similarly, if we only improve usability, charts won&rsquo;t represent this as progress, because we won&rsquo;t
+have increased the number of supported requests.</p>
+<p>As part of this effort, we will create a private channel where the security and compliance
+team has visibility into all manual rationales for user-data access, and will
+directly message the manager of any individual who relies on a manual justification
+for accessing user data.</p>
+</li>
+<li>
+<p><strong>Expire unused roles to move towards principle of least privilege.</strong>
+Today we have a number of roles granted in our role-based access control (RBAC) system
+to users who do not use the granted permissions.
+To address that issue, we will automatically remove roles from colleagues after 90 days of not using the role&rsquo;s permissions.</p>
+<p>Engineers in an active on-call rotation are the exception to this automated permission pruning.</p>
+</li>
+<li>
+<p><strong>Weekly reviews until we see progress; monthly access reviews in perpetuity.</strong>
+Starting now, there will be a weekly sync between the security engineering team,
+teams working on customer data access initiatives, and the CISO. This meeting will
+focus on rapid iteration and problem solving.</p>
+<p>This is explicitly a forum for ongoing <a href="/testing-strategy-iterative-refinement/">strategy testing</a>,
+with CISO serving as the meeting&rsquo;s sponsor, and their Principal Security Engineer serving as the
+meeting&rsquo;s guide.
+It will continue until we have clarity
+on the path to 100% coverage of user-comprehensible, automated rationales for access to customer data.</p>
+<p>Separately, we are also starting a monthly review of sampled accesses to customer data to ensure
+the proper usage and function of the rationale-creation mechanisms we build.
+This meeting&rsquo;s goal is to review access rationales for quality and appropriateness,
+both by reviewing sampled rationales in the short-term, and identifying more automated mechanisms
+for identifying high-risk accesses to review in the future.</p>
+</li>
+<li>
+<p><strong>Exceptions must be granted in writing by CISO.</strong>
+While our overarching Engineering Strategy states that we follow
+an advisory architecture process as described in <em><a href="https://www.amazon.com/Facilitating-Software-Architecture-Empowering-Architectural-ebook/dp/B0DMHGWCPN/">Facilitating Software Architecture</a></em>,
+the customer data access policy is an exception and must be explicitly approved, with documentation,
+by the CISO. Start that process in the <code>#ciso</code> channel.</p>
+</li>
+</ul>
+<h2 id="diagnose">Diagnose</h2>
+<ul>
+<li>
+<p>We have a strong baseline of role-based access controls (RBAC) and audit logging.
+However, we have limited mechanisms for ensuring assigned roles follow
+the <a href="https://en.wikipedia.org/wiki/Principle_of_least_privilege">principle of least privilege</a>.
+This is particularly true in cases where individuals change teams or roles over the course
+of their tenure at the company: some individuals have collected numerous unused roles
+over five-plus years at the company.</p>
+<p>Similarly, our audit logs are durable and pervasive, but we have limited proactive mechanisms
+for identifying anomalous usage. Instead they are typically used to understand what occurred after
+an incident is identified by other mechanisms.</p>
+</li>
+<li>
+<p>For resource-level access controls, we rely on a hybrid approach between a 3rd-party platform
+for incoming user requests, and approval mechanisms within our own product.
+Providing a rationale for access across these two systems requires manual work,
+and those rationales are later manually reviewed for appropriateness in a batch fashion.</p>
+<p>There are two major ongoing problems with our current approach to resource-level access controls.
+First, the teams making requests view them as a burdensome obligation without much benefit to
+them or on behalf of the user.
+Second, because the rationale review steps are manual, there is no verifiable evidence of the quality
+of the review.</p>
+</li>
+<li>
+<p>We&rsquo;ve found no evidence of misuse of user data.
+When colleagues do access user data, we have uniformly and consistently found that there
+is a clear, and reasonable rationale for that access. For example, a ticket in the user
+support system where the user has raised an issue.</p>
+<p>However, the quality of our documented rationales is consistently low because it depends on
+busy people manually copying over significant information many times a day.
+Because the rationales are of low quality, the verification of these rationales is somewhat arbitrary.
+From a literal compliance perspective, we do provide rationales and auditing of these rationales, but
+it&rsquo;s unclear if the majority of these audits increase the security of our users&rsquo; data.</p>
+</li>
+<li>
+<p>Historically, we&rsquo;ve made significant security investments that caused temporary spikes in our security posture.
+However, looking at those initiatives a year later, in many cases we see a pattern of increased scrutiny,
+followed by a gradual repeal or avoidance of the new mechanisms.</p>
+<p>We have found that most of them involved increased friction for
+essential work performed by other internal teams. In the natural order of performing work, those teams
+would subtly subvert the improvements because it interfered with their immediate goals
+(e.g. supporting customer requests).</p>
+</li>
+<li>
+<p>As such, we have high conviction from our track record that our historical approach can
+create optical wins internally. We have limited conviction that it can create long-term
+improvements outside of significant, unlikely internal changes (e.g. colleagues are markedly
+less busy a year from now than they are today).
+It seems likely we need a new approach to meaningfully shift our stance on these kinds of problems.</p>
+</li>
+</ul>
+<h2 id="explore">Explore</h2>
+<p>Our experience is that best practices around managing internal access to user data
+are <a href="/exploring-for-strategy/">widely available through our networks</a>,
+and otherwise hard to find. The exact rationale for this is hard to determine,
+but it seems possible that it&rsquo;s a topic that folks are generally uncomfortable
+discussing in public on account of potential future liability and compliance
+issues.</p>
+<p>In our exploration, we found two standardized dimensions (role-based access controls, audit logs),
+and one highly divergent dimension (resource-specific access controls):</p>
+<ul>
+<li>
+<p><strong>Role-based access controls</strong> (RBAC) are a highly standardized approach at this point.
+The core premise is that users are mapped to one or more roles, and each role
+is granted a certain set of permissions. For example, a role representing the customer support agent
+might be granted permission to deactivate an account, whereas a role representing the sales engineer might be able
+to configure a new account.</p>
+</li>
+<li>
+<p><strong>Audit logs</strong> are similarly standardized. All access and mutation of resources should be
+tied in a durable log to the human who performed the action. These logs should be
+accumulated in a centralized, queryable solution.</p>
+<p>One of the core challenges is determining how to utilize these logs proactively
+to detect issues rather than reactively when an issue has already been flagged.</p>
+</li>
+<li>
+<p><strong>Resource-level access controls</strong> are significantly less standardized than RBAC
+or audit logs. We found three distinct patterns adopted by companies, with
+little consistency across companies on which is adopted.</p>
+</li>
+</ul>
+<p>Those three patterns for resource-level access control were:</p>
+<ol>
+<li>
+<p><strong>3rd-party enrichment</strong> where access to resources is managed in a 3rd-party system
+such as Zendesk.
+This requires enriching objects within those systems with data and metadata from
+the product(s) where those objects live.
+It also requires implementing actions on the platform, such as archiving or configuration,
+allowing them to live entirely in that platform&rsquo;s permission structure.</p>
+<p>The downside of this approach is tight coupling with the platform vendor,
+any limitations inherent to that platform, and the overhead of maintaining
+engineering teams familiar with both your internal technology stack and the
+platform vendor&rsquo;s technology stack.</p>
+</li>
+<li>
+<p><strong>1st-party tool implementation</strong> where all activity, including creation and management of user issues,
+is managed within the core product itself. This pattern is most common in earlier stage companies
+or companies whose customer support leadership &ldquo;grew up&rdquo; within the organization without much
+exposure to the approach taken by peer companies.</p>
+<p>The advantage of this approach is that there is a single, tightly integrated
+and infinitely extensible platform for managing interactions.
+The downside is that you have to build and maintain all of that work internally
+rather than pushing it to a vendor that ought to be able to invest more heavily
+into their tooling.</p>
+</li>
+<li>
+<p><strong>Hybrid solutions</strong> where a 3rd-party platform is used for most actions,
+and is further used to permit resource-level access within the 1st-party system.
+For example, you might be able to access a user&rsquo;s data only while there is an open
+ticket created by that user, and assigned to you, in the 3rd-party platform.</p>
+<p>The advantage of this approach is that it allows supporting complex workflows
+that don&rsquo;t fit within the platform&rsquo;s limitations, and allows you to avoid complex coupling
+between your product and the vendor platform.</p>
+</li>
+</ol>
+<p>Generally, our experience is that all companies implement RBAC, audit logs, and one of the resource-level access control mechanisms.
+Most companies pursue either 3rd-party enrichment with a sizable, long-standing team owning the platform implementation,
+or rely on a hybrid solution where they are able to avoid a long-standing dedicated team by lumping that work into existing teams.</p>
+<div class="mt4">
+        <hr>
+        
+        <p class="f5"><span class="b mb3">Next chapter: </span> <a href="/calm-product-eng-company/">&#34;We&#39;re a product engineering company!&#34; -- Engineering strategy at Calm.</a></p>
+        
+        
+        <p class="f5"><span class="b mb3">Previous chapter: </span> <a href="/engineering-cost-model/">Eng org seniority-mix model.</a></p>
+                
+      </div>
+      
+      <div class="bg-light-gray br4 ph3 pv1">
+        <p class="tracked">First published at <a href="https://lethain.com/user-data-access-strategy/">lethain.com/user-data-access-strategy/</a></p>      
+      </div>
+      
+
+      <div class="mt6 instapaper_ignoref">
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt1-l"><div class="bg-light-gray pa3 cf">
+  <p class="f5 mb3">
+    Hi folks. I'm <a href="https://lethain.com/about">Will Larson</a>,
+    and this is my new book on engineering strategy, <em><a href="https://draftingstrategy.com/">Drafting Strategy</a></em>.
+  </p>
+
+  <p>
+    I also wrote
+
+    <em><a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">An Elegant Puzzle</a></em>,
+    <em><a href="https://staffeng.com/book">Staff Engineer</a></em>, and
+      <em><a href="https://www.oreilly.com/library/view/the-engineering-executives/9781098149475/">The Engineering Executive's Primer</a></em>.
+  </p>
+
+  <p class="cf">
+    <div class="fl w-third">
+      <a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">
+        <img src="/static/aep-small-lq.jpg">
+      </a>
+    </div>
+    <div class="fl w-third">    
+      <a href="https://staffeng.com/book">
+        <img src="/static/StaffEngBookMed.jpg">
+      </a>
+    </div>
+    <div class="fl w-third">
+      <a href="https://www.oreilly.com/library/view/the-engineering-executives/9781098149475/">
+        <img src="/static/primer-cover-small.jpg">
+      </a>
+    </div>    
+  </p>
+</div>
+
+<div class="bg-light-gray ph3 cf">
+  <p class="f5 mb3">
+    For updates on this project, join <em>Irrational Exuberance</em>'s
+    <a href="/newsletter/">weekly newsletter</a>.
+  </p>
+</div>
+
+
+<div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  
+    <p class="f5"><span class="b mb3">Next chapter</span></p>
+    <p class="f5"><a href="/calm-product-eng-company/">&#34;We&#39;re a product engineering company!&#34; -- Engineering strategy at Calm.</a></p>
+    
+    
+  
+    <p class="f5"><span class="b mb3">Previous chapter</span></p>
+    <p class="f5"><a href="/engineering-cost-model/">Eng org seniority-mix model.</a></p>
+  
+  <p class="f5 b mb3">Table of Contents</p>
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#reading-this-document">Reading this document</a></li>
+    <li><a href="#policy--operations">Policy &amp; Operations</a></li>
+    <li><a href="#diagnose">Diagnose</a></li>
+    <li><a href="#explore">Explore</a></li>
+  </ul>
+</nav>
+</div>
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-white bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="center f4 fw4 hover-white no-underline black-50 dn dib-ns pv2 ph3" href="http://localhost:58150/" >
+    &copy;  Will Larson 2025 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

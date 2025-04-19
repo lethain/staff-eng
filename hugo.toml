@@ -1,0 +1,41 @@
+baseURL = "https://draftingstrategy.com"
+languageCode = 'en-us'
+title = "Drafting Strategy"
+copyright = "Will Larson"
+theme = 'ananke'
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[pagination]
+  pagerSize = 10000
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[params]
+  recent_posts_number = 10000
+  images = ["/static/author.png"]
+  mainSections = ["posts"]
+  custom_css = ["/static/pygments.css"]
+  background_color_class = 'bg-white'
+  body_classes = "avenir bg-white"
+  [params.banner]
+    enabled = false
+    bg_color = 'bg-washed-yellow'
+  [params.Author]
+    name = "Will Larson"
+[menu]
+  [[menu.main]]
+#    weight = 100
+#    name = "Buy on Amazon"
+#    url = "/featured/"
+#  [[menu.main]]
+#    weight = 100
+#    name = "LLM Kit & Site License on Gumroad"
+#    url = "/featured/"
+  [[menu.main]]
+    weight = 1000
+    name = "About"
+    url = "/about"

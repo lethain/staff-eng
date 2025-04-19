@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>//localhost:50916/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Apr 2025 05:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:50916/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eng-Strategy-Book</title>
+      <link>//localhost:50916/tags/eng-strategy-book/</link>
+      <pubDate>Thu, 10 Apr 2025 05:00:00 -0700</pubDate>
+      <guid>//localhost:50916/tags/eng-strategy-book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strategy</title>
+      <link>//localhost:50916/tags/strategy/</link>
+      <pubDate>Thu, 10 Apr 2025 05:00:00 -0700</pubDate>
+      <guid>//localhost:50916/tags/strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wardley</title>
+      <link>//localhost:50916/tags/wardley/</link>
+      <pubDate>Thu, 10 Apr 2025 04:00:00 -0700</pubDate>
+      <guid>//localhost:50916/tags/wardley/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Model</title>
+      <link>//localhost:50916/tags/model/</link>
+      <pubDate>Tue, 01 Apr 2025 05:00:00 -0700</pubDate>
+      <guid>//localhost:50916/tags/model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems-Thinking</title>
+      <link>//localhost:50916/tags/systems-thinking/</link>
+      <pubDate>Tue, 01 Apr 2025 05:00:00 -0700</pubDate>
+      <guid>//localhost:50916/tags/systems-thinking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llm</title>
+      <link>//localhost:50916/tags/llm/</link>
+      <pubDate>Tue, 14 May 2024 06:00:00 -0700</pubDate>
+      <guid>//localhost:50916/tags/llm/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

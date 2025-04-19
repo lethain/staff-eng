@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=58150&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Making engineering strategies more readable | Drafting Strategy</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="As discussed in Components of engineering strategy, a complete engineering strategy has five components: explore, diagnose, refine (map &amp; model), policy, and operation. However, it&rsquo;s actually quite challenging to read a strategy document written that way. That&rsquo;s an effective sequence for creating a strategy, but it&rsquo;s a challenging sequence for those trying to quickly read and apply a strategy without necessarily wanting to understand the complete thinking behind each decision.">
+    <meta name="generator" content="Hugo 0.128.2">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    <meta name="author" content="map[name:Will Larson]">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+  
+    <link rel="stylesheet" href="/static/pygments.css">
+  
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:58150/readable-engineering-strategy-documents/">
+    
+
+    <meta property="og:url" content="http://localhost:58150/readable-engineering-strategy-documents/">
+  <meta property="og:site_name" content="Drafting Strategy">
+  <meta property="og:title" content="Making engineering strategies more readable">
+  <meta property="og:description" content="As discussed in Components of engineering strategy, a complete engineering strategy has five components: explore, diagnose, refine (map &amp; model), policy, and operation. However, it’s actually quite challenging to read a strategy document written that way. That’s an effective sequence for creating a strategy, but it’s a challenging sequence for those trying to quickly read and apply a strategy without necessarily wanting to understand the complete thinking behind each decision.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="steps">
+    <meta property="article:published_time" content="2024-05-18T04:00:00-07:00">
+    <meta property="article:modified_time" content="2024-05-18T04:00:00-07:00">
+    <meta property="article:tag" content="Strategy">
+    <meta property="article:tag" content="Eng-Strategy-Book">
+    <meta property="og:image" content="http://localhost:58150/static/author.png">
+
+  <meta itemprop="name" content="Making engineering strategies more readable">
+  <meta itemprop="description" content="As discussed in Components of engineering strategy, a complete engineering strategy has five components: explore, diagnose, refine (map &amp; model), policy, and operation. However, it’s actually quite challenging to read a strategy document written that way. That’s an effective sequence for creating a strategy, but it’s a challenging sequence for those trying to quickly read and apply a strategy without necessarily wanting to understand the complete thinking behind each decision.">
+  <meta itemprop="datePublished" content="2024-05-18T04:00:00-07:00">
+  <meta itemprop="dateModified" content="2024-05-18T04:00:00-07:00">
+  <meta itemprop="wordCount" content="1929">
+  <meta itemprop="image" content="http://localhost:58150/static/author.png">
+  <meta itemprop="keywords" content="Strategy,Eng-Strategy-Book">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:58150/static/author.png">
+  <meta name="twitter:title" content="Making engineering strategies more readable">
+  <meta name="twitter:description" content="As discussed in Components of engineering strategy, a complete engineering strategy has five components: explore, diagnose, refine (map &amp; model), policy, and operation. However, it’s actually quite challenging to read a strategy document written that way. That’s an effective sequence for creating a strategy, but it’s a challenging sequence for those trying to quickly read and apply a strategy without necessarily wanting to understand the complete thinking behind each decision.">
+
+	
+
+  </head><body class="ma0 avenir bg-white development">
+
+    
+   
+  <header>
+  <div class="bg-white">
+    <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 no-underline black-90 dib">
+      
+        Drafting Strategy
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="no-underline black-90" href="/about" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="no-underline black-90" href="" title=" page">
+              
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+  
+    
+</nav>
+
+  </div>
+</header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      
+      
+      <h1 class="f1 athelas mt3 mb3">Making engineering strategies more readable</h1>
+      
+      
+
+      
+      
+
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f5 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>As discussed in <a href="/components-of-eng-strategy/">Components of engineering strategy</a>,
+a complete engineering strategy has five components: explore, diagnose, refine (map &amp; model), policy, and operation.
+However, it&rsquo;s actually quite challenging to read a strategy document written that way.
+That&rsquo;s an effective sequence for <em>creating</em> a strategy, but it&rsquo;s a challenging sequence
+for those trying to quickly <em>read and apply</em> a strategy without necessarily wanting to understand
+the complete thinking behind each decision.</p>
+<p>This post covers:</p>
+<ul>
+<li>Why the order for writing strategy is hard to reading strategy</li>
+<li>How to organize a strategy document for reading</li>
+<li>How to refactor and merge components for improved readability</li>
+<li>Additional tips for effective strategy documents</li>
+</ul>
+<p>After reading it, you should be able to take a written strategy and
+rework it into a version that&rsquo;s much easier for others to read.</p>
+<hr>
+<p><em>This is an exploratory, draft chapter for a book on engineering strategy that I&rsquo;m brainstorming in <a href="/tags/eng-strategy-book/">#eng-strategy-book</a>.</em>
+<em>As such, some of the links go to other draft chapters, both published drafts and very early, unpublished drafts.</em></p>
+<h2 id="why-writing-structure-inhibits-reading">Why writing structure inhibits reading</h2>
+<p>Most software engineers learn to structure documents early in their lives as
+students writing academic essays. Academic essays are focused on presenting evidence
+to support a clear thesis, and generally build forward towards their conclusion.
+Some business consultancies explicitly train their new hires in business writing,
+such as McKinsey teaching
+Barbara Minto&rsquo;s <em><a href="https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516">The Pyramid Principle</a></em>,
+but that&rsquo;s the exception.</p>
+<p>While academic essays want to develop an argument, professional writing is a bit different.
+Professional writing typically has one of three distinct goals:</p>
+<ul>
+<li><strong>Refining thinking about a given approach</strong> (&ldquo;how do we select databases for our new products?&rdquo;) &ndash; this is an area where the academic structure can be useful,
+because it focuses on the thinking behind the proposal rather than the proposal itself</li>
+<li><strong>Seeking approval from stakeholders or executives</strong> (&ldquo;what database have we selected for our new analytics product?&rdquo;) &ndash; this is an area where the academic structure
+creates a great deal of confusion, because it focuses on the thinking rather than the specific proposal,
+but the stakeholders view the specific proposal are the primary topic to review</li>
+<li><strong>Communicating a policy to your organization</strong> (&ldquo;databases allowed for new products&rdquo;) &ndash; helping engineers at your company
+understand the permitted options for a given problem, and also explaining the rationale behind the decision for
+the subset who may want to undrstand or challenge the current policy</li>
+</ul>
+<p>The ideal format for the first case is generally at odds with the other two, which is a frequent cause of
+strategy documents which struggle to graduate from brainstorm to policy.
+I find that most strategy writers are resistent to the idea that it&rsquo;s worth their time to restructure their
+initial documents, so let me expand on challenges I&rsquo;ve encountered when I&rsquo;ve personally tried to make
+progress without restructuring:</p>
+<ul>
+<li>
+<p><strong>Too long, didn&rsquo;t read.</strong> Thinking-orienting structures leave policy recommendations at the very bottom,
+but the vast majority of strategy readers are simply trying to understand that policy so they can
+apply it to their specific problem at hand. Many of those readers, in my experience a majority of them,
+will simply give up before reading the sections that answer their questions and assume that the
+document doesn&rsquo;t provide clear direction because finding that direction took too long.</p>
+<p>This is very much akin to the core lesson of Steve Krug&rsquo;s <a href="https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515">Don&rsquo;t Make Me Think</a>:
+users (and readers) don&rsquo;t understand, they muddle through. Assuming that they will
+take the time to deeply understand is an act of hubris.</p>
+</li>
+<li>
+<p><strong>Approval meeting to nowhere.</strong> There are roughly three types of approval meetings. The first, you go in and no one has any feedback.
+Maybe someone gripes that it could have been done asynchrously instead of a meeting, but your docuemnt is approved.
+The second, the are two sets of stakeholders with incompatible goals, and you need a senior decision-maker to
+mediate between them. This is a very useful meeting, because you generally can&rsquo;t make progress without that
+senior decision-maker breaking the tie.</p>
+<p>The third sort of meeting is when you get derailed early with questions about the research, whether you&rsquo;d considered
+another option, and whether this is even relevant. You might think this is because your strategy is wrong, but
+in my experience it&rsquo;s usually because you failed to structure the document to present the policy upfront.
+Stakeholders might disagree with many elements of your thinking but still agree with your ultimate policy,
+but it&rsquo;s only useful to dig into your rationale if they actually disagree with the policy itself.
+Avoid getting stuck debating details when you agree on the overarching approach by presenting the
+policy <em>first</em>, and only digging into those details when there&rsquo;s disagreement.</p>
+</li>
+<li>
+<p><strong>Transient alignment.</strong> Sometimes you&rsquo;ll see two distinct strategy documents, with the first covering
+the full thinking, and the second only including the policy and operations sections.
+This tends to work quite well initially, but over time existing members of the team depart
+and new members are hired. At some point, a new member will challenge the thinking behind
+the strategy as obviously wrong, generally because it&rsquo;s a different set of policies than
+they used at the previous employer. If you omit the diagnosis and exploration sections entirely,
+then they can&rsquo;t trace through the decision making to understand the reasoning,
+which will often cause them to leap to simplistic conclusions like the
+ever popular, &ldquo;I guess the previous engineers here were just dumb.&rdquo;</p>
+</li>
+</ul>
+<p>As annoying as each of these challenges is, the solution is simple:
+use the writing structure for writing, and invert that structure for reading.</p>
+<h2 id="invert-structure-for-reading">Invert structure for reading</h2>
+<p>Reiterating a point from <a href="/components-of-eng-strategy/">Components of engineering strategy</a>:
+it&rsquo;s always appropriate to change the structure that you use to develop or present a strategy,
+as long as you are making a deliberate, informed decision.</p>
+<p>While I&rsquo;ve generally found explore, diagnose, refine, policy, and operation to work well for
+writing policy, I&rsquo;ve consistently found it a poor format for presenting strategy.
+Whether I&rsquo;m presenting a strategy for review or rolling the strategy out to be followed by
+the wider organizaton, I recommend an inverted structure:</p>
+<ul>
+<li><strong>Policy</strong>: what does the strategy require or allow?</li>
+<li><strong>Operation</strong>: how is the strategy enforced and carried out, how do I get exceptions for the policy?</li>
+<li><strong>Refine</strong>: what were the load-bearing details that informed the strategy?</li>
+<li><strong>Diagnose</strong>: what are the more generalized trends and observations that steered the thinking?</li>
+<li><strong>Explore</strong>: what is the high-level, wide-ranging context that we brought into creating this strategy?</li>
+</ul>
+<p>When seeking approval, you&rsquo;ll probably focus on the <strong>Policy</strong> section.
+When rolling it out to your organization, you&rsquo;ll probably focus on the <strong>Operation</strong> section more.
+In both cases, those are the critical components and you want them upfront.
+Very few strategy readers want to understand the full thinking behind your strategy, instead they just
+want to understand how it impacts the specific decision they are trying to answer.</p>
+<p>The vast majority of strategy readers want the answer, not to understand the thinking behind the answer,
+and these are your least motivated readers. Someone who wants to really understand the thinking will
+invest time reading through the document, even if it isn&rsquo;t perfectly structured for them.
+Someone who just wants an answer will frequently give up and make up an answer rather than reading all
+the way through to where the document does infact answer their question.</p>
+<p>Zooming out a bit, this is a classic &ldquo;lack of user empathy&rdquo; problem. Folks authoring the document
+are so deep in the details that they can&rsquo;t put themselves in the readers&rsquo; mindset to think about
+how overwhelming the document would be if you were simply trying to pop in, get an answer, and then pop out.
+This lack of empathy also means that most strategy writers refuse to structure their documents to
+support the large population of answer seekers over the tiny population of strategy authors,
+but just try it a few times and I think you&rsquo;ll see it helps a great deal.
+Even faster, go read someone else&rsquo;s strategy document that you aren&rsquo;t familiar with, and
+you&rsquo;ll quickly appreciate how challenging it can be to identify the actual proposal
+if they follow the academic structure.</p>
+<h2 id="strategy-refactoring">Strategy refactoring</h2>
+<p>Inverting the structure is the first step of optimizing a document
+for readability, but you don&rsquo;t have to stop there. Often you&rsquo;ll
+find that even the inverted strategy structure is somewhat confusing to read
+for a given document. I think of this process as &ldquo;strategy refactoring.&rdquo;</p>
+<p>For example, <a href="/llm-adoption-strategy/">How should you adopt LLMs?</a> makes two refactors
+to the inverted format. First, it merges <em>Refine</em> into <em>Diagnose</em>, which keeps
+the map and models closer to the specific topics thet explore.
+Second, it discards the <em>Operation</em> sectiom entirely, and includes the relevant
+details with the policies they apply to in the <em>Policy</em> section.</p>
+<p>Strategy refactoring is about discarding structure where it interferes with usability.
+The strategy structure is very effective at separating concerns while reasoning through
+decision making, but most readers benefit more from engaging with the full implications at once.
+Once you&rsquo;re done thinking, refactor away the thinking tools: don&rsquo;t let the best tools for
+one workflow mislead you into thinking they&rsquo;re the best for an entirely different one.</p>
+<h2 id="additional-tips-for-effective-strategy-docs">Additional tips for effective strategy docs</h2>
+<p>In addition to the above advice, there are a handful of smaller tips
+that I&rsquo;ve found helpful for creating readable strategy documents:</p>
+<ul>
+<li>Before releasing a document widely, find someone entirely uninvolved with the
+strategy thus far and have them point out areas that are difficult to understand.
+Anyone who&rsquo;s been thinking about the strategy is going to gloss over areas that might
+be inscrutinable to those who are approaching it with fresh eyes.</li>
+<li>Every strategy document should be rolled out with an explicit commenting period where you
+invite discussion, as well as office hours where you are available to explain how to apply
+the strategy correctly. These steps help with adoption, but even more importantly they
+help you identify disenters who disagree with the strategy such that you can follow up
+to better understand their concerns.</li>
+<li>Every company should maintain its own internal engineering strategy
+template, along the lines of this book&rsquo;s <a href="/engineering-strategy-template/">engineering strategy template</a>.</li>
+<li>Your template should include consistent metadata, particularly when it was created,
+the current approval status, and where to ask questions.
+Of these, a clear, durable place to ask questions is the most important,
+as it slows the rate that these documents rot.</li>
+<li>After you release your strategy, disable in-document commenting. This isn&rsquo;t intended to prevent further discussion,
+but rather to move the discussion outside of the document.
+Nothing creates the impression of an unapproved, unfinished strategy document
+faster then a long string of open comments. Open comments also make it difficult
+to read the strategy document, as often the reader will get distracted from reading
+the document to read the comments.</li>
+</ul>
+<h2 id="summary">Summary</h2>
+<p>After reading this chapter, you know how to escape the rigid structures imposed during the
+creation of a strategy to create a readable document that is easier for others to both approve and apply.
+Beyond initially inverting the structure for easier reading, you also understand how to refactor sections
+away entirely that may have been essential for creation but interfere for understanding how to apply the strategy,
+which is by far the most common task for strategy readers.</p>
+<p>Most importantly, I hope you finish this chapter agreeing that it&rsquo;s worth your time to
+rework your thinking-optimized draft rather than leaving it as is. The deliberate refusal
+to structure documents for readers is the root cause of a surprising number of good strategies
+that utterly fail to have their intended impact.</p>
+<div class="mt4">
+        <hr>
+        
+        <p class="f5"><span class="b mb3">Next chapter: </span> <a href="/bridging-eng-strategy-theory-and-practice/">Bridging theory and practice in engineering strategy.</a></p>
+        
+        
+        <p class="f5"><span class="b mb3">Previous chapter: </span> <a href="/operations-for-strategy/">Operations</a></p>
+                
+      </div>
+      
+      <div class="bg-light-gray br4 ph3 pv1">
+        <p class="tracked">First published at <a href="https://lethain.com/readable-engineering-strategy-documents/">lethain.com/readable-engineering-strategy-documents/</a></p>      
+      </div>
+      
+
+      <div class="mt6 instapaper_ignoref">
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt1-l"><div class="bg-light-gray pa3 cf">
+  <p class="f5 mb3">
+    Hi folks. I'm <a href="https://lethain.com/about">Will Larson</a>,
+    and this is my new book on engineering strategy, <em><a href="https://draftingstrategy.com/">Drafting Strategy</a></em>.
+  </p>
+
+  <p>
+    I also wrote
+
+    <em><a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">An Elegant Puzzle</a></em>,
+    <em><a href="https://staffeng.com/book">Staff Engineer</a></em>, and
+      <em><a href="https://www.oreilly.com/library/view/the-engineering-executives/9781098149475/">The Engineering Executive's Primer</a></em>.
+  </p>
+
+  <p class="cf">
+    <div class="fl w-third">
+      <a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">
+        <img src="/static/aep-small-lq.jpg">
+      </a>
+    </div>
+    <div class="fl w-third">    
+      <a href="https://staffeng.com/book">
+        <img src="/static/StaffEngBookMed.jpg">
+      </a>
+    </div>
+    <div class="fl w-third">
+      <a href="https://www.oreilly.com/library/view/the-engineering-executives/9781098149475/">
+        <img src="/static/primer-cover-small.jpg">
+      </a>
+    </div>    
+  </p>
+</div>
+
+<div class="bg-light-gray ph3 cf">
+  <p class="f5 mb3">
+    For updates on this project, join <em>Irrational Exuberance</em>'s
+    <a href="/newsletter/">weekly newsletter</a>.
+  </p>
+</div>
+
+
+<div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  
+    <p class="f5"><span class="b mb3">Next chapter</span></p>
+    <p class="f5"><a href="/bridging-eng-strategy-theory-and-practice/">Bridging theory and practice in engineering strategy.</a></p>
+    
+    
+  
+    <p class="f5"><span class="b mb3">Previous chapter</span></p>
+    <p class="f5"><a href="/operations-for-strategy/">Operations</a></p>
+  
+  <p class="f5 b mb3">Table of Contents</p>
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#why-writing-structure-inhibits-reading">Why writing structure inhibits reading</a></li>
+    <li><a href="#invert-structure-for-reading">Invert structure for reading</a></li>
+    <li><a href="#strategy-refactoring">Strategy refactoring</a></li>
+    <li><a href="#additional-tips-for-effective-strategy-docs">Additional tips for effective strategy docs</a></li>
+    <li><a href="#summary">Summary</a></li>
+  </ul>
+</nav>
+</div>
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-white bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="center f4 fw4 hover-white no-underline black-50 dn dib-ns pv2 ph3" href="http://localhost:58150/" >
+    &copy;  Will Larson 2025 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

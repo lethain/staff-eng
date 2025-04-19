@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Llm on </title>
+    <link>//localhost:50916/tags/llm/</link>
+    <description>Recent content in Llm on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 May 2024 06:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:50916/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How should you adopt LLMs?</title>
+      <link>//localhost:50916/llm-adoption-strategy/</link>
+      <pubDate>Tue, 14 May 2024 06:00:00 -0700</pubDate>
+      <guid>//localhost:50916/llm-adoption-strategy/</guid>
+      <description>Whether you’re a product engineer, a product manager, or an engineering executive, you’ve probably been pushed to consider using Large Language Models (LLMs) to extend your product or enhance your processes. 2023-2024 is an interesting era for LLM adoption, where these capabilities have transitioned into the mainstream, with many companies worrying that they’re falling behind despite the fact that most integrations appear superficial.&#xA;That context makes LLM adoption a great topic for a strategy case study.</description>
+    </item>
+  </channel>
+</rss>

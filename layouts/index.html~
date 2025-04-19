@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="w-50 w-90-m center">
+  <article class="lh-copy">
+    {{ .Content }}
+  </article>
+</div>
+
+<div class="pa3 pa4-ns w-100-m w-90 center">
+  <section class="flex-ns flex-wrap justify-around mt1">
+    <div class="relative mb4 pa4 bg-white">	
+      {{ range (where .Site.RegularPages ".Params.draft" false) }}
+      {{ partial "summary.html" . }}       
+      {{ end }}
+    </div>
+  </section>
+</div>
+
+{{ end }}

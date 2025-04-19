@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=58150&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Should we decompose our monolith? | Drafting Strategy</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="From their first introduction in 2005, the debate between adopting a microservices architecture, a monolithic service architecture, or a hybrid between the two, has become one of the least-reversible decisions that most engineering organizations make. Even migrating to a different database technology is generally a less expensive change than moving from monolith to microservices or from microservices to monolith.
+The industry has in many ways gone full circle on that debate, from most hyperscalers in the 2010s partaking in a multi-year monolith to microservices migration, to Kelsey Hightower&rsquo;s iconic tweet on the perils of distributed monoliths:">
+    <meta name="generator" content="Hugo 0.128.2">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    <meta name="author" content="map[name:Will Larson]">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+  
+    <link rel="stylesheet" href="/static/pygments.css">
+  
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:58150/decompose-monolith-strategy/">
+    
+
+    <meta property="og:url" content="http://localhost:58150/decompose-monolith-strategy/">
+  <meta property="og:site_name" content="Drafting Strategy">
+  <meta property="og:title" content="Should we decompose our monolith?">
+  <meta property="og:description" content="From their first introduction in 2005, the debate between adopting a microservices architecture, a monolithic service architecture, or a hybrid between the two, has become one of the least-reversible decisions that most engineering organizations make. Even migrating to a different database technology is generally a less expensive change than moving from monolith to microservices or from microservices to monolith.
+The industry has in many ways gone full circle on that debate, from most hyperscalers in the 2010s partaking in a multi-year monolith to microservices migration, to Kelsey Hightower’s iconic tweet on the perils of distributed monoliths:">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="strategies">
+    <meta property="article:published_time" content="2024-09-15T06:00:00-07:00">
+    <meta property="article:modified_time" content="2024-09-15T06:00:00-07:00">
+    <meta property="article:tag" content="Strategy">
+    <meta property="article:tag" content="Eng-Strategy-Book">
+    <meta property="og:image" content="http://localhost:58150/static/author.png">
+
+  <meta itemprop="name" content="Should we decompose our monolith?">
+  <meta itemprop="description" content="From their first introduction in 2005, the debate between adopting a microservices architecture, a monolithic service architecture, or a hybrid between the two, has become one of the least-reversible decisions that most engineering organizations make. Even migrating to a different database technology is generally a less expensive change than moving from monolith to microservices or from microservices to monolith.
+The industry has in many ways gone full circle on that debate, from most hyperscalers in the 2010s partaking in a multi-year monolith to microservices migration, to Kelsey Hightower’s iconic tweet on the perils of distributed monoliths:">
+  <meta itemprop="datePublished" content="2024-09-15T06:00:00-07:00">
+  <meta itemprop="dateModified" content="2024-09-15T06:00:00-07:00">
+  <meta itemprop="wordCount" content="1743">
+  <meta itemprop="image" content="http://localhost:58150/static/author.png">
+  <meta itemprop="keywords" content="Strategy,Eng-Strategy-Book">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:58150/static/author.png">
+  <meta name="twitter:title" content="Should we decompose our monolith?">
+  <meta name="twitter:description" content="From their first introduction in 2005, the debate between adopting a microservices architecture, a monolithic service architecture, or a hybrid between the two, has become one of the least-reversible decisions that most engineering organizations make. Even migrating to a different database technology is generally a less expensive change than moving from monolith to microservices or from microservices to monolith.
+The industry has in many ways gone full circle on that debate, from most hyperscalers in the 2010s partaking in a multi-year monolith to microservices migration, to Kelsey Hightower’s iconic tweet on the perils of distributed monoliths:">
+
+	
+
+  </head><body class="ma0 avenir bg-white development">
+
+    
+   
+  <header>
+  <div class="bg-white">
+    <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 no-underline black-90 dib">
+      
+        Drafting Strategy
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="no-underline black-90" href="/about" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="no-underline black-90" href="" title=" page">
+              
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+  </div>
+  
+    
+</nav>
+
+  </div>
+</header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      
+      
+      <h1 class="f1 athelas mt3 mb3">Should we decompose our monolith?</h1>
+      
+      
+
+      
+      
+
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f5 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>From their <a href="https://en.wikipedia.org/wiki/Microservices">first introduction in 2005</a>, the debate between adopting
+a microservices architecture, a monolithic service architecture, or a hybrid between the two, has become one of the
+least-reversible decisions that most engineering organizations make.
+Even migrating to a different database technology is <em>generally</em> a less expensive change than moving from monolith
+to microservices or from microservices to monolith.</p>
+<p>The industry has in many ways gone full circle on that debate, from most hyperscalers in the 2010s partaking in
+a multi-year monolith to microservices migration, to
+<a href="https://x.com/kelseyhightower/status/940259898331238402">Kelsey Hightower&rsquo;s iconic tweet on the perils of distributed monoliths</a>:</p>
+<blockquote>
+<p>2020 prediction: Monolithic applications will be back in style after people discover the drawbacks of distributed monolithic applications.
+- @KelseyHightower</p>
+</blockquote>
+<p>Even as popular sentiment has generally turned away from microservices, many engineering organizations have a bit of both,
+often the reminents of one or more earlier but incomplete migration efforts. This strategy looks at a theoretical
+organization stuck with a bit of both approaches, let&rsquo;s call it Theoretical Compliance Company,  which is looking to determine its path forward.</p>
+<p>Here is Theoretical Compliance Company&rsquo;s service architecture strategy.</p>
+<hr>
+<p><em>This is an exploratory, draft chapter for a book on engineering strategy that I&rsquo;m brainstorming in <a href="/tags/eng-strategy-book/">#eng-strategy-book</a>.</em>
+<em>As such, some of the links go to other draft chapters, both published drafts and very early, unpublished drafts.</em></p>
+<h2 id="reading-this-document">Reading this document</h2>
+<p>To apply this strategy, start at the top with <em>Policy</em>. To understand the thinking behind this strategy, read sections in reserve order, starting with <em>Explore</em>, then <em>Diagnose</em> and so on.
+Relative to the default structure, this document has been refactored in two ways
+to improve readability:
+first, <em>Operation</em> has been folded into <em>Policy</em>;
+second, <em>Refine</em> has been embedded in <em>Diagnose</em>.</p>
+<p>More detail on this structure in <a href="/readable-engineering-strategy-documents">Making a readable Engineering Strategy document</a>.</p>
+<h2 id="policy">Policy</h2>
+<p>Our policy for service architecture is documented here.
+All exceptions to this policy <strong>must</strong> escalate <em>to</em> a local Staff-plus engineer for their
+approval, and then escalate <em>with</em> that Staff-plus engineer to the CTO.
+If you have questions about the policies, ask in <code>#eng-strategy</code>.</p>
+<p>Our policy is:</p>
+<ol>
+<li>
+<p><strong>Business units should always operate in their own code repository and monolith.</strong>
+They should not provision many different services. They should rarely work in other business units monoliths.
+There are nuances in the details: make decisions that bring us closer to the preceeding sentence being true.</p>
+</li>
+<li>
+<p><strong>New integrations across business unit monoliths should be done using gRPC.</strong>
+The emphasis here is on <em>new</em> integrations;
+it&rsquo;s desirable but not urgent to migrate existing integrations that use other implementations (HTTP/JSON, etc).</p>
+<p>When the decision is subtle (e.g. changes to an existing endpoint), optimize for
+business velocity rather than technical purity. When the decision is far from subtle (e.g. brand new endpoint),
+comply with the policy.</p>
+</li>
+<li>
+<p><strong>Except for new business unit monoliths, we don&rsquo;t allow new services.</strong>
+You should work within the most appropriate business unit monolith or within the existing infrastructure repositories.
+Provisioning a new service, unless it corresponds with a new business unit, always
+requires approval from the CTO in <code>#eng-strategy</code>.</p>
+<p>That approval generally will <em>not</em> be granted, unless
+the new service requires significantly different non-functional requirements than an existing monolith.
+For example, if it requires significantly higher compliance review prior to changes such as our existing
+payments service, or if it requires radically higher requests per second, and so on.</p>
+</li>
+<li>
+<p><strong>Merge existing services into business-unit monoliths where you can.</strong>
+We believe that each choice to move existing services back into a monolith should
+be made &ldquo;in the details&rdquo; rather than from a top-down strategy perspective. Consequently,
+we generally encourage teams to wind down their existing services outside of their business unit&rsquo;s monolith,
+but defer to teams to make the right decision for their local context.</p>
+</li>
+</ol>
+<h2 id="diagnose">Diagnose</h2>
+<p>Theoretical Compliance Company has a complex history with decomposing our monolith.
+We are also increasing our number of business units, while limiting our investment into
+our core business unit. These are complex times, with a lot of constraints to juggle.
+To improve readability, we&rsquo;ve split the diagnosis into
+two sections: &ldquo;business constraints&rdquo; and &ldquo;engineering constraints.&rdquo;</p>
+<p>Our business constraints are:</p>
+<ol>
+<li>
+<p>We sell business-to-business compliance solutions to other companies on an annual subscription.
+There is one major, established business line, and two smaller partially validated business lines
+that are intended to attach to the established business line to increase average contract value.</p>
+</li>
+<li>
+<p>There are 2,000 people at the company. About 500 of those are in the engineering organization
+Within that 500, about 150 work on the broadest definition of &ldquo;infrastructure engineering,&rdquo;
+things like developer tools, compute and orchestration, networking, security engineering, and so on.</p>
+</li>
+<li>
+<p>The business is profitable, but revenue growth has been 10-20% YoY, creating persistent pressure on spend
+from our board, based on mild underperformance relative to public market comparables.
+<strong>Unless we can increase YoY growth by 5-10%, they expect us to improve free cash flow by 5-10% each year</strong>,
+which jeopardizes our ability to maintain long-term infrastructure investments.</p>
+</li>
+<li>
+<p><strong>Growth in the primary business line is shrinking.</strong>
+The company&rsquo;s strategy includes spinning up more adjacent business units to increase average contract value with new products.
+<strong>We need to fund these business units without increasing our overall budget</strong>,
+which means budget for the new business units must be pulled away from either our core business or our platform teams.</p>
+<p>In addition to needing to fund our new business units, <strong>there&rsquo;s ongoing pressure to make our core business more efficient</strong>,
+which means either accelerating growth or reducing investment. It&rsquo;s challenging to accelerate growth while reducing investment,
+which suggests that most improvement will come from reducing our investment</p>
+</li>
+<li>
+<p>Our methodology to allocate platform costs against business units does so proportionately to
+the revenue created by each business unit. <strong>Our core business generates the majority of our revenue, which means it is accountable for the majority of our platform costs</strong>,
+even if those costs are motivated by new business lines.</p>
+<p>This means that, even as the burden placed on platform teams increases due to spinning up multiple business units,
+there&rsquo;s significant financial pressure to reduce our platform spend because it&rsquo;s primarily represented as a cost to the core business
+whose efficiency we have to improve.
+This means we have little tolerance for anything that increases infrastructure overhead.</p>
+</li>
+</ol>
+<p>Our engineering constraints are:</p>
+<ol>
+<li>
+<p>Our infrastructure engineering team is 150 engineers supporting 350 product engineers,
+and it&rsquo;s certain that <strong>infrastructure will not grow significantly in the forseeable future</strong>.</p>
+</li>
+<li>
+<p>We spun up two new business units in the past six months, and <strong>plan to spin up an additional two new business units</strong>
+in the next year. Each business unit is lead by a general manager, with engineering and product within that business unit
+principally accountable to that general manager. Our CTO and CPO still set practice standards, but it&rsquo;s situationally-specific
+whether these practice standards or direction from general manager is the last word on any given debate.</p>
+<p>For example, one business unit has been unwilling to support an on-call rotation for their product, because their general
+manager insists it is a wasteful practice. Consequently, that team often doesn&rsquo;t respond to pages, even when their service
+is responsible for impacting the stability of shared functionality.</p>
+</li>
+<li>
+<p>We&rsquo;ve modeled <a href="/services-overhead-model/">how services and monoliths create overhead for both product and infrastructure organizations over time</a>,
+and have conviction that, in general, <strong>it&rsquo;s more overhead for infrastructure to support more services</strong>.
+We also found that in our organization, the rate of service ownership changing due to team reorganizations counteract much of the initial productivity
+gains from leaving the monolith.</p>
+</li>
+<li>
+<p>There is some tension between the two preceeding observations: it&rsquo;s generally more overhead to have more services,
+but it&rsquo;s <em>even more</em> overhead to have unresponsible business units breaking a shared monolithic service.
+For example, we can much more easily ratelimit usage from a misbehaving service than wrong a misbehaving codepath
+within a shared service.</p>
+</li>
+<li>
+<p>We also have a payments service that moves money from customers to us.
+<strong>Our compliance and security requirements for changes to this service are significantly higher</strong>
+than for the majority of our software, because the blast radius is essentially infinite.</p>
+</li>
+<li>
+<p>Our primary programming language is Ruby, which generally relies on blocking IO,
+and service-oriented architectures generally spend more time on blocking IO than monoliths.
+Similarly, Ruby is <em>relatively</em> inefficient at serializing and deserializing JSON payloads,
+which our service architecture requires as part of cross-service communication.</p>
+</li>
+<li>
+<p>We&rsquo;ve previously attempted to decompose, and have <strong>a number of lingering partial migrations that don&rsquo;t align cleanly with our current business unit ownership structure</strong>.
+The number of these new services continues to grow over time,
+creating more burden on both infrastructure today and product teams in the future as they try to
+maintain these services through various team reorganizations.</p>
+</li>
+</ol>
+<h2 id="explore">Explore</h2>
+<p>In the late 2010s, most large or scaling companies adopted services to some extent.
+Few adopted microservices, with the majority of adopters opting for a <a href="https://aws.amazon.com/compare/the-difference-between-soa-microservices/">service-oriented architecture</a> instead.
+<a href="https://x.com/kelseyhightower/status/940259898331238402">Kelsey Hightower&rsquo;s iconic tweet on the perils of distributed monoliths</a> in 2020
+captured the beginning of a reversal, with more companies recognizing the burden of operating service-oriented architectures.</p>
+<p>In addition to the wider recognition of those burdens, many of the cloud infrastructure challenges that originally motivated service architectures began
+to mellow. Most infrastructure engineers today <em>only</em> know how to operate with cloud-native patterns, rather than starting from machine oriented approaches.
+Standard database technologies like PostgreSQL have significantly improved capabilities. Cloud providers have fast local caches for quickly retrieving verified upstream packages.
+Supply and cost of cloud compute is affordable. Slow programming languages are faster than they were a decade ago. Untyped languages have reasonable incremental paths
+to typed codebases.</p>
+<p>As a result of this shift, if you look at a new, emerging company it&rsquo;s particularly likely to have a monolith in one backend and one frontend programming language.
+However, if you look at a five-plus year old company, you might find almost anything. One particularly common case is a monolith with most functionality,
+and an inconsistent constellation of team-scoped macroservices scattered across the organization.</p>
+<p>The shift away from <a href="https://en.wikipedia.org/wiki/Zero_interest-rate_policy">zero interest-rate policy</a> has also impacted trends,
+as service-oriented architectures tend to require more infrastructure to operate efficiently, such as service meshes, service provisioning and deprovisioning, etc.
+Properly tuned, service-oriented architectures ought to be cost competitive, and potentially superior in complex workloads, but it&rsquo;s
+hard to maintain the required investment in infrastructure teams when in a cost-cutting environment.
+This has encouraged new companies to restrict themselves to monolithic approaches, and pushed existing companies to
+<em>attempt</em> to reverse their efforts to decompose their prior monoliths, with mixed results.</p>
+<div class="mt4">
+        <hr>
+        
+        <p class="f5"><span class="b mb3">Next chapter: </span> <a href="/stripe-sorbet/">Why did Stripe build Sorbet? (~2017).</a></p>
+        
+        
+        <p class="f5"><span class="b mb3">Previous chapter: </span> <a href="/api-deprecation-strategy/">How should we deprecate Stripe APIs? (~2016)</a></p>
+                
+      </div>
+      
+      <div class="bg-light-gray br4 ph3 pv1">
+        <p class="tracked">First published at <a href="https://lethain.com/decompose-monolith-strategy/">lethain.com/decompose-monolith-strategy/</a></p>      
+      </div>
+      
+
+      <div class="mt6 instapaper_ignoref">
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt1-l"><div class="bg-light-gray pa3 cf">
+  <p class="f5 mb3">
+    Hi folks. I'm <a href="https://lethain.com/about">Will Larson</a>,
+    and this is my new book on engineering strategy, <em><a href="https://draftingstrategy.com/">Drafting Strategy</a></em>.
+  </p>
+
+  <p>
+    I also wrote
+
+    <em><a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">An Elegant Puzzle</a></em>,
+    <em><a href="https://staffeng.com/book">Staff Engineer</a></em>, and
+      <em><a href="https://www.oreilly.com/library/view/the-engineering-executives/9781098149475/">The Engineering Executive's Primer</a></em>.
+  </p>
+
+  <p class="cf">
+    <div class="fl w-third">
+      <a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">
+        <img src="/static/aep-small-lq.jpg">
+      </a>
+    </div>
+    <div class="fl w-third">    
+      <a href="https://staffeng.com/book">
+        <img src="/static/StaffEngBookMed.jpg">
+      </a>
+    </div>
+    <div class="fl w-third">
+      <a href="https://www.oreilly.com/library/view/the-engineering-executives/9781098149475/">
+        <img src="/static/primer-cover-small.jpg">
+      </a>
+    </div>    
+  </p>
+</div>
+
+<div class="bg-light-gray ph3 cf">
+  <p class="f5 mb3">
+    For updates on this project, join <em>Irrational Exuberance</em>'s
+    <a href="/newsletter/">weekly newsletter</a>.
+  </p>
+</div>
+
+
+<div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+  
+    <p class="f5"><span class="b mb3">Next chapter</span></p>
+    <p class="f5"><a href="/stripe-sorbet/">Why did Stripe build Sorbet? (~2017).</a></p>
+    
+    
+  
+    <p class="f5"><span class="b mb3">Previous chapter</span></p>
+    <p class="f5"><a href="/api-deprecation-strategy/">How should we deprecate Stripe APIs? (~2016)</a></p>
+  
+  <p class="f5 b mb3">Table of Contents</p>
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#reading-this-document">Reading this document</a></li>
+    <li><a href="#policy">Policy</a></li>
+    <li><a href="#diagnose">Diagnose</a></li>
+    <li><a href="#explore">Explore</a></li>
+  </ul>
+</nav>
+</div>
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-white bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="center f4 fw4 hover-white no-underline black-50 dn dib-ns pv2 ph3" href="http://localhost:58150/" >
+    &copy;  Will Larson 2025 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

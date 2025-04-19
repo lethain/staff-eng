@@ -1,0 +1,95 @@
+<div class="bg-light-gray pa3">
+  <p class="f5 mb3">
+    Hi folks. I'm <a href="/about">Will</a> aka <a href="https://twitter.com/lethain">@lethain</a>.
+    <br>
+    If you're looking to reach out to me, here are <a href="/ways-i-help/">ways I help</a>.
+    If you'd like to get a email from me, subscribe to <a href="/newsletter/">my weekly newsletter</a>.
+  </p>
+
+  <p>
+    I wrote
+    <a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">An Elegant Puzzle</a>.
+  </p>    
+  <p>
+    <a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">
+      <img class="w-100" src="/static/blog/2019/aep-small-lq.jpg">
+    </a>
+  </p>    
+  <p>
+    As well as,    
+    <a href="https://staffeng.com/book">Staff Engineer</a>.
+  </p>    
+  <p>
+
+    <a href="https://staffeng.com/book">
+      <img class="w-100" src="/static/blog/staffeng/StaffEngBookMed.jpg">
+    </a>
+  </p>    
+</div>
+
+{{/*
+  Use Hugo's native Table of contents feature. You must set `toc: true` in your parameters for this to show.
+  https://gohugo.io/content-management/toc/
+*/}}
+
+{{- if .Params.toc -}}
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">{{ i18n "whatsInThis" . }}</p>
+      {{ .TableOfContents }}
+  </div>
+  {{- end -}}
+
+{{ $popular := (first 5 (where (where .Site.RegularPages "Params.draft" false) "Params.featured" true)) }}
+{{ with $popular }}
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Popular</p>
+    <ul class="pa0 list">
+      {{ range . }}
+      <li  class="mb2">
+        <a href="{{ .RelPermalink }}">
+          {{- .Title -}}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+</div>
+{{ end }}  
+  
+{{ $recent := (first 5 (where .Site.RegularPages "Params.draft" false)) }}
+{{ with $recent }}
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Recent</p>
+    <ul class="pa0 list">
+      {{ range . }}
+      <li  class="mb2">
+        <a href="{{ .RelPermalink }}">
+          {{- .Title -}}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+</div>
+  {{ end }}
+  
+
+{{/*
+  Use Hugo's native related content feature to pull in content that may have similar parameters, like tags. etc.
+  https://gohugo.io/content-management/related/
+  */}}
+
+  {{ $related := (first 5 (where (.Site.RegularPages.Related .) "Params.draft" false)) }}
+
+{{ with $related }}
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">{{ i18n "related" }}</p>
+    <ul class="pa0 list">
+	   {{ range . }}
+	     <li  class="mb2">
+          <a href="{{ .RelPermalink }}">
+            {{- .Title -}}
+          </a>
+        </li>
+	    {{ end }}
+    </ul>
+</div>
+{{ end }}

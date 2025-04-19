@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on </title>
+    <link>//localhost:50916/introduction/</link>
+    <description>Recent content in Introduction on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Mar 2025 04:00:00 -0700</lastBuildDate>
+    <atom:link href="//localhost:50916/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>//localhost:50916/intro/</link>
+      <pubDate>Sat, 04 May 2024 04:00:00 -0700</pubDate>
+      <guid>//localhost:50916/intro/</guid>
+      <description>I&amp;rsquo;ve worked alongside many talented people who spent years waiting for a chance to finally &amp;ldquo;do strategy.&amp;rdquo; My hope is this book convinces you—and maybe them—that waiting is optional. Strategy isn’t reserved for executives. It&amp;rsquo;s the art of making thoughtful decisions, and is accessible to everyone&amp;ndash;including you.&#xA;Even if you&amp;rsquo;d prefer to avoid strategy, it&amp;rsquo;s still happening all around you. My first big dose of strategy came managing the team responsible for Uber&amp;rsquo;s service migration, where we desperately tried to survive accelerating inbound requests for support.</description>
+    </item>
+    <item>
+      <title>Is engineering strategy useful?</title>
+      <link>//localhost:50916/is-useful/</link>
+      <pubDate>Thu, 30 Jan 2025 04:00:00 -0700</pubDate>
+      <guid>//localhost:50916/is-useful/</guid>
+      <description>While I frequently hear engineers bemoan a missing strategy, their complaints rarely articulate why the missing strategy matters. Instead, it serves as more of a truism: the economy used to be better, children used to respect their parents, and engineering organizations used to have an engineering strategy.&#xA;This chapter starts by exploring something I believe quite strongly: there&amp;rsquo;s always an engineering strategy, even if there&amp;rsquo;s nothing written down. From there, we&amp;rsquo;ll discuss why strategy, especially written strategy, is such a valuable opportunity for organizations that take it seriously.</description>
+    </item>
+    <item>
+      <title>Who gets to do strategy?</title>
+      <link>//localhost:50916/who-does-strategy/</link>
+      <pubDate>Thu, 06 Mar 2025 04:00:00 -0700</pubDate>
+      <guid>//localhost:50916/who-does-strategy/</guid>
+      <description>If you talk to enough aspiring leaders, you&amp;rsquo;ll become familiar with the prevalent idea that they need to be promoted before they can work on strategy. It&amp;rsquo;s widely accepted as true, but I&amp;rsquo;ve found this idea fundamentally incorrect: you can work on strategy from anywhere in an organization. It just requires different tactics to do so.&#xA;Both Staff Engineer and The Engineering Executive&amp;rsquo;s Primer have chapters on strategy. While the chapters&amp;rsquo; contents are quite different, both present a practical path to advancing your organization&amp;rsquo;s thinking about complex topics.</description>
+    </item>
+    <item>
+      <title>When to write strategy, and how much?</title>
+      <link>//localhost:50916/when-write-stratefy/</link>
+      <pubDate>Sun, 25 Aug 2024 04:00:00 -0700</pubDate>
+      <guid>//localhost:50916/when-write-stratefy/</guid>
+      <description>Even if you believe that strategy is generally useful, it is difficult to decide that today is the day to start writing engineering strategy. When you do start writing strategy, it&amp;rsquo;s easy to write so much strategy that your organization is overwhelmed and ignores your strategy rather than investing time into understanding it.&#xA;Fortunately, these are universal problems, and there are a handful of useful mental models to avoid both extremes.</description>
+    </item>
+  </channel>
+</rss>

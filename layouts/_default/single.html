@@ -1,0 +1,74 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+      {{ if $featured_image }}
+      {{ $featured_image := (trim $featured_image "/") | absURL }}
+      <img class="w-100" src="{{ $featured_image }}">
+      {{ end }}
+      <h1 class="f1 athelas mt3 mb3">
+        {{- .Title -}}
+      </h1>
+      
+      {{ with .Params.author }}
+      <p class="tracked">
+          By <strong>
+          {{ if reflect.IsSlice . }}
+              {{ delimit . ", " | markdownify }}
+          {{else}}
+              {{ . | markdownify }}
+          {{ end }}
+          </strong>
+      </p>
+      {{ end }}
+
+      {{/*
+          Show "reading time" and "word count" but only if one of the following are true:
+          1) A global config `params` value is set `show_reading_time = true`
+          2) A section front matter value is set `show_reading_time = true`
+          3) A page front matter value is set `show_reading_time = true`
+        */}}
+      {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
+        <span class="f6 mv4 dib tracked"> - {{ .ReadingTime}} minutes read</span>
+        <span class="f6 mv4 dib tracked"> - {{ .WordCount}} words</span>
+      {{ end }}
+
+    </header>
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f5 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+      {{- .Content -}}
+
+
+      <div class="mt4">
+        <hr>
+        {{ if .Prev }}
+        <p class="f5"><span class="b mb3">Next chapter: </span> <a href="{{ .Prev.RelPermalink }}">{{ .Prev.Title }}</a></p>
+        {{ end }}
+        {{ if .Next }}
+        <p class="f5"><span class="b mb3">Previous chapter: </span> <a href="{{ .Next.RelPermalink }}">{{ .Next.Title }}</a></p>
+        {{ end }}        
+      </div>
+      {{ if .Params.Leth_Url }}
+      <div class="bg-light-gray br4 ph3 pv1">
+        <p class="tracked">First published at <a href="https://lethain.com/{{ .Params.Leth_Url }}/">lethain.com/{{ .Params.Leth_Url }}/</a></p>      
+      </div>
+      {{ end }}
+
+      <div class="mt6 instapaper_ignoref">
+      {{ if .Site.Params.commentoEnable }}
+        {{- partial "commento.html" . -}}
+      {{ end }}
+      </div>
+    </div>
+
+    <aside class="w-30-l mt1-l">
+      {{- partial "menu-contextual.html" . -}}
+    </aside>
+
+  </article>
+{{ end }}
