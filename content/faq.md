@@ -1,3 +1,7 @@
+---
+weight: 201000
+---
+
 This page collects frequently asked questions about
 becoming and operating as a Staff engineer or Principal engineer.
 
