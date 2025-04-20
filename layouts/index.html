@@ -3,18 +3,6 @@
   <section class="flex-ns flex-wrap justify-around mt1">
     <div class="relative mb4 pa4 bg-white">
     {{ .Content }}
-      
-    {{ range .Site.Sections }}
-    {{ $section := . }}
-    {{ if $section.Title }}
-    <h3>{{ $section.Title }}</h3>
-    {{ end }}
-
-    {{ range $section.Pages }}
-
-    {{ partial "summary.html" . }}
-    {{ end }}
-    {{ end }}
     </div>
   </section>
 </div>
