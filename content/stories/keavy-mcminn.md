@@ -6,6 +6,7 @@ url: "/stories/keavy-mcminn"
 date: "2020-03-24"
 ---
 
+
 _This story was recorded in March, 2020. Learn more about Keavy on her [blog](https://keavy.com/), [Twitter](https://twitter.com/keavy), and [Linkedin](https://www.linkedin.com/in/keavy/)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___

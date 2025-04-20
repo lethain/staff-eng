@@ -6,6 +6,7 @@ name: "Duretti Hirpa"
 role: "Formerly Staff Engineer at Mailchimp"
 ---
 
+
 <span class="date">April, 2020</span>
 [blog](https://www.durettihirpa.com/),
 [twitter](https://twitter.com/duretti),

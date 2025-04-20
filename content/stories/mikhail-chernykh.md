@@ -4,8 +4,8 @@ name: "Mikhail Chernykh"
 role: "Technical Lead at Indeed"
 url: "/stories/mikhail-chernykh"
 date: "2021-07-25"
-
 ---
+
 
 <span class="date">July, 2021</span>
 [blog](https://netme.dev)

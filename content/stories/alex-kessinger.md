@@ -6,6 +6,7 @@ name: "Alex Kessinger"
 role: "Principal Engineer at Stitch Fix"
 ---
 
+
 <span class="date">January, 2021</span>
 [LinkedIn](https://www.linkedin.com/in/alexkessinger/),
 [Twitter](https://twitter.com/voidfiles)

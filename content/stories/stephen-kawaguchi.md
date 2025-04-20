@@ -6,6 +6,7 @@ url: "/stories/stephen-kawaguchi"
 date: "2021-03-01"
 ---
 
+
 <span class="date">March, 2021</span>
 [blog](https://medium.com/@sak_to),
 [twitter](https://twitter.com/sak_to),

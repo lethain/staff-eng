@@ -6,6 +6,7 @@ url: "/stories/katie-sylor-miller"
 date: "2020-08-09"
 ---
 
+
 _This story was recorded in August, 2020. Learn more about Katie on her [website](https://sylormiller.com/), [Linkedin](https://www.linkedin.com/in/ksylor/), and [Twitter](https://twitter.com/ksylor)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___

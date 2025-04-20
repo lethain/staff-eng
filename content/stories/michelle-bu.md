@@ -6,6 +6,7 @@ name: "Michelle Bu"
 role: "Payments Products Tech Lead at Stripe"
 ---
 
+
 _This story was recorded in April, 2020. Learn more about Michelle on her [blog](http://blog.michellebu.com/), [Twitter](https://twitter.com/hazelcough), and [Linkedin](https://www.linkedin.com/in/michellebu/)._
 
 **_Tell us a little about your current role at Stripe: what’s your title and generally what sort of work do you and your team do?_**

@@ -6,6 +6,7 @@ url: "/stories/adam-bender"
 date: "2022-10-24"
 ---
 
+
 <span class="date">October, 2022</span>
 [linkedin](https://www.linkedin.com/in/theadambender)
 

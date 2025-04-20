@@ -6,6 +6,7 @@ name: "John Zittlau"
 role: "Principal Engineer at Jobber"
 ---
 
+
 <span class="date">December, 2020</span>
 [linkedin](https://www.linkedin.com/in/johnzittlau/)
 

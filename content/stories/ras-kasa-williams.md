@@ -6,6 +6,7 @@ url: "/stories/ras-kasa-williams"
 date: "2020-07-18"
 ---
 
+
 _This story was recorded in July, 2020. Learn more about Kasa on [Linkedin](https://www.linkedin.com/in/raskasawilliams/)._
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work that you and your team do._**

@@ -6,6 +6,7 @@ url: "/stories/greg-wittel"
 date: "2020-12-05"
 ---
 
+
 <span class="date">December, 2020</span>
 [linkedin](https://www.linkedin.com/in/greg-wittel)
 
