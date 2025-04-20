@@ -1,7 +1,0 @@
-#!/usr/bin/env python3
-
-import os
-import glob
-import argparse
-import json
-import yaml
