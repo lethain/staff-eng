@@ -4,9 +4,8 @@ The built assets live in the `ghpage` branch.
 
 ## Submitting your story?
 
-Read the instructions at [staffeng.com/share](https://staffeng.com/share),
-but it's basically submitting a story to `src/markdown` in the same format
-as the existing stories!
+Submitting a story to `src/markdown` in the same format
+as the existing stories.
 
 ## Development
 
