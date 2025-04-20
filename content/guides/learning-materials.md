@@ -17,7 +17,6 @@ If you're looking for a Slack community, `#staff-principal-engineering` in the
 [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 is a fairly lively room.
 
-
 ## What do Staff-plus Engineers do?
 
 * [Being a principal engineer at Skyscanner](https://medium.com/@SkyscannerEng/being-a-principal-engineer-at-skyscanner-1830dfa17d30) by Nicky Wrightson

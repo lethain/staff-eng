@@ -9,7 +9,6 @@ book_section: Operating at Staff
 > One of the best pieces of advice that someone gave me, and that I make sure to pass on to other staff engineers, is that there's a misconception that you become a Staff engineer and then you'll be in control of the work you do, and everyone will listen to you and do what you want them to do. That's absolutely the opposite of what happens!
 > \- [Katie Sylor-Miller](/stories/katie-sylor-miller)
 
-
 Many engineers become focused on the Staff-plus career path because the engineering manager path has too many meetings or requires too much collaboration with other coworkers, and yikes, are you going to be surprised if you begin a Staff-plus with that mindset. Although Staff engineer roles are generally positioned as the sequential step beyond Senior engineer, it's genuinely a different role, and you'll increasingly spend your time doing sorts of work that you previously did infrequently or not-at-all.
 
 

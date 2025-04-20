@@ -9,7 +9,6 @@ book_section: Getting the title where you are
 > Having a sponsor was also definitely important. My manager and I had a fantastic relationship, and I also had a great relationship with my skip-level manager. I think that played a big part as well.
 > \- [Ritu Vincent](/stories/ritu-vincent)
 
-
 As I’ve spoken with more folks trying to reach their first Staff-plus role, most folks run into similar challenges. Many have miscalibrated their own impact and simply haven’t done the work yet to operate at that level: a Staff engineer isn’t just a faster Senior engineer. However, there’s a large cohort who have done the work--they’re [visible across their organization](https://staffeng.com/guides/being-visible) and have pulled together [a strong promotion packet](https://staffeng.com/guides/promo-packets)--but are still struggling to have that work recognized.
 
 These folks are often frustrated by the distance between their impact and their recognized impact and ask their managers and peers for feedback on closing that gap. They’re told [to complete a staff project](https://staffeng.com/guides/staff-projects) or [to create space for others](https://staffeng.com/guides/create-space-for-others). For folks who haven’t done the work yet, this is great advice, but for folks who have these checkboxes are a distraction: what they’re really missing is a sponsor willing to push for the recognition of their existing work.

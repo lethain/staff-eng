@@ -27,7 +27,6 @@ After you’ve drawn your lines, next, you’ll need to figure out the actual in
 The three most important things to understand before you start interviewing are:
 
 
-
 1. What are the interview formats, including what are they evaluating for?
 2. Do any of the interviews require specific preparation?
 3. Who are the interviewers?

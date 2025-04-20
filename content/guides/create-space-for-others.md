@@ -21,7 +21,6 @@ This broader definition depends on getting more folks involved and getting to a 
 
 Along with the shift in mindset, there are a few techniques that I’ve found helpful in creating more space in discussions:
 
-
 *   Shift your contribution towards asking questions. Asking the right questions [helps avoid missteps](https://lethain.com/learn-to-never-be-wrong/), but also makes it easier for more folks to contribute
 *   If you see someone in the meeting who isn’t participating, pull them into the discussion. It works best to pull _exactly one_ person at a time into the discussion. It gets confusing when you open it up broadly to everyone or even just try to pull two or three people at once
 *   Be the one to take notes. This helps destigmatize note-taking as “low status” and also frees up an alternative would-be notetaker to contribute more instead. It also gives you something to focus on other than speaking!

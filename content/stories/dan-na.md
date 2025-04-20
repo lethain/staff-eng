@@ -6,7 +6,6 @@ name: "Dan Na"
 role: "Staff Engineer and Team Lead at Squarespace"
 ---
 
-
 _Story recorded in March, 2020. Learn more about Dan on his [blog](https://blog.danielna.com/), [Twitter](https://twitter.com/dxna), and [Linkedin](https://www.linkedin.com/in/danielna/)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
@@ -77,7 +76,6 @@ I think sponsorship is a key responsibility of any senior role and material to t
 * Encouraging someone I met in a #connect-engineering coffee who has unique experience or perspective to give an internal presentation.
 * Ensuring that meetings are not dominated by the perspectives of a vocal minority and soliciting opinions from everyone in the room.
 * Giving public kudos in a large slack room to someone who just did something great that everyone didn’t see.
-
 
 Lara Hogan has a great post on sponsorship in practice: [What does sponsorship look like?](https://larahogan.me/blog/what-sponsorship-looks-like/)
 

@@ -67,7 +67,6 @@ If you choose to address the causes of inequality,
 start by finding a senior sponsor who supports the cause.
 You can only change a system with sponsorship from within.
 
-
 ## Should you try management?
 
 Most folks who reach Staff-plus roles **do not** spend time in engineering management, but some do.

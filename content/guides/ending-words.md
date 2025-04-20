@@ -4,7 +4,6 @@ url: "/guides/ending-words"
 date: "2020-06-21"
 ---
 
-
 Frequently when a group of Staff-plus engineers sit down to chat, they’ll spend time commiserating about the industry’s broken technical leadership track. It’s true; it is broken. What isn’t true is that this is inevitable. The industry’s views on technical leadership are the summation of the collective daily actions taken by each person operating in, aspiring towards, or managing a Staff-plus engineer role. By changing our habits and approach, we will change the industry.
 
 By improving ourselves, we make the industry better. Make a plan to sponsor someone else in your organization. Synthesize a strategy document, taking the time to make others feel heard. Build a network of peers, and invite more folks into that network. As you do that work, your engineering organization will learn from your example.

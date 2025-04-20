@@ -42,7 +42,6 @@ On the other side of things, sometimes the easiest way to increase your value to
 
 To get into the room, you have to work both the numerator and denominator: keep developing a unique and useful perspective while also becoming more effective at delivering that perspective within the constraints of a meeting.
 
-
 ## Staying in the room
 
 Getting into the room is your first hurdle, but the second hurdle is staying in the room. Most important is to keep doing the things that got you into the room: bring important context into the room, present a polished version of yourself, be concise, be flexible.

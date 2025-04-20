@@ -6,7 +6,6 @@ url: "/stories/rebecca-panja"
 date: "2021-10-25"
 ---
 
-
 <span class="date">October, 2021</span>
 [blog](https://rebecca.medium.com/),
 [twitter](https://twitter.com/rebeccapanja),
@@ -24,7 +23,6 @@ This puts my team at a unique intersection of product and infrastructure. Along 
 Apart from these core areas, there are many initiatives like launching [referred memberships](https://blog.medium.com/evolving-the-partner-program-2613708f9f3c), free trials, [gifting](https://medium.com/gift) that fall under the Payments domain. What excites me most about this domain is how much it is evolving both within Medium and in the world, especially in the context of creator economy.
 
 As Tech Lead, I play the role of technical partner to product and engineering manager. I am responsible for ensuring our architecture choices in the Payments domain serve the organization’s future needs and for defining the technical vision for Payments team. I advise other engineering teams and cross-functional partnerships for both immediate projects and long-term alignment, mentor team members and improve team processes. I also delve into early research to test viability of project ideas and high level scoping.
-
 
 **_How do you spend your time day-to-day?_**
 

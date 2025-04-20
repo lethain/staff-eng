@@ -13,7 +13,6 @@ Anyone who has been cornered by relatives at a party and asked to explain what s
 The most straightforward answer is that Staff engineers keep doing much of what made them successful as Senior engineers: building relationships, writing software, coordinating projects. However, that's a misleading answer. Staff engineers do those same tasks, but whereas previously they were the core of their work, now they're auxiliary tasks.
 Their daily schedule varies a bit [by archetype](https://staffeng.com/guides/staff-archetypes), but there's a shared foundation across all archetypes: setting and editing technical direction, providing sponsorship and mentorship, injecting engineering context into organizational decisions, exploration, and what [Tanya Reilly](https://noidea.dog) calls [being glue](https://noidea.dog/glue).
 
-
 ## Setting technical direction
 
 > I feel most impactful when I can facilitate setting a technical vision for an area and get people moving toward that vision. I think we would all agree that we want our code to be better architected than it is or improved in some way. However, I've found that often people have some vague sense of wanting better without having a clear idea of what that thing they want is. I like to help the group decide on a shared understanding of where exactly they're trying to get (it's actually okay if we never get there) and come up with a general game plan of how to get there. - [Joy Ebertz](https://staffeng.com/stories/joy-ebertz)

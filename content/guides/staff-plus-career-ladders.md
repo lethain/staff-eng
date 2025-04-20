@@ -6,6 +6,7 @@ weight: 28000
 book_section: Resources
 ---
 
+
 There are *so* many different career ladders shared in public these days
 that there's no reason *not* to read a half-dozen different ones before
 attempting to design your own.

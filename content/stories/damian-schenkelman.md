@@ -6,7 +6,6 @@ url: "/stories/damian-schenkelman"
 date: "2020-08-10"
 ---
 
-
 _Story recorded in August, 2020. Learn more about Damian on his [blog](https://yenkel.dev), [Twitter](https://twitter.com/dschenkelman), and [Linkedin](https://www.linkedin.com/in/damianschenkelman/)._
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
@@ -130,7 +129,6 @@ The reason I could work in software right out of high school was that when I was
 **Team sports:** I played basketball as a kid and during my teens and I realized early on it felt a lot better to win by scoring any amount of points than to lose scoring lots of points. That shaped how I worked in two ways:
 * it led me to help team members often to see how we could succeed as a team
 * it led me to learn and do things that would be required to "cover gaps," which helped me build leadership and interpersonal skills that are very useful as I grew in my career
-
 
 **_There is a popular idea that becoming a Staff engineer requires completing a “Staff Project.” Did you have a Staff Project, and if so what was it?_**
 

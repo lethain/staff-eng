@@ -6,12 +6,10 @@ url: "/stories/mikhail-chernykh"
 date: "2021-07-25"
 ---
 
-
 <span class="date">July, 2021</span>
 [blog](https://netme.dev)
 [twitter](https://twitter.com/netme),
 [linkedin](https://www.linkedin.com/in/chernykh/)
-
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
 

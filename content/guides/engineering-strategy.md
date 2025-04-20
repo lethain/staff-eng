@@ -16,7 +16,6 @@ If you can't resist the urge to include your most brilliant ideas in the process
 
 Durably useful engineering strategy and vision are the output of iterative, bottom-up organizational learning. As such, all learning contributes to your organization's strategy and vision, but your contribution doesn't have to be so abstract. Even if you're not directly responsible for that work, there are practical steps that _you_ can take to advance your organization's strategy and vision, starting _right now_.
 
-
 ## When and why
 
 Before diving into the recipe for creating effective strategies and visions,

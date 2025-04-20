@@ -28,7 +28,6 @@ on the overall architecture and execution in that area.
 
 Related: [Where do Staff-plus engineers fit into the org?](/guides/where-should-staff-plus-eng-report)
 
-
 ### What’s the difference between a Staff engineer and a Senior engineer? Is Staff engineer more senior than Principal engineer? How do you rank engineer titles?
 
 The details will vary depending on the specific company under discussion, but there is a lot of overlap.

@@ -6,7 +6,6 @@ url: "/stories/adam-bender"
 date: "2022-10-24"
 ---
 
-
 <span class="date">October, 2022</span>
 [linkedin](https://www.linkedin.com/in/theadambender)
 
@@ -39,7 +38,6 @@ I think my super power as a Staff engineer has been working across teams to make
 A good example of this comes from my current project where we have built a new system to more rapidly create and deploy web applications. When we started the project we knew some folks in Google had done similar work in the past and there were partial solutions laying around, however, they were all command line tools. We wanted a web application to drive the process. At first we were convinced that we had to build our own, however, I happened to hear about some random web app that was being used to create 'low code' applications in our global business unit. I went and took a look and I could immediately see about 70% of the tool we wanted to build. I then spent a quarter or two working with SREs from another org to connect the service that powered one of their command line tools to this web UI and I could pretty quickly see that it was going to work. I was then able to put together a team to help me realize the vision. Altogether, there were bits and pieces from our Ads SREs, our Core Web infra, a Global biz team, and then my enterprise web infra team. I had to spend a lot of time building the relationships and connecting the various teams to each other. It took some time, but in the end we didn't duplicate anything and were able to integrate best-in-company solutions.
 
 Without the experience and visibility I had as a Staff engineer, I think it would have been hard to find the opportunity and recognize it for what it was. In a large company it can be really easy to let your organizational boundaries prevent you from seeing what's possible and sometimes being in a more senior position can help you peek over the wall and see what's going on next door.
-
 
 **_Can you think of anything you’ve done as a Staff-plus engineer that you weren’t able to or wouldn’t have done before reaching that title?_**
 

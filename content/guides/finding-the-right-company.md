@@ -10,7 +10,6 @@ There are only a few magic spells to attain a Staff-plus role: negotiate for the
 
 The good news if you’re applying to a new company is that while you might invest _weeks_ of energy into determining if you can get a Staff role there, you won’t need to invest _years_. On the other hand, if you’re looking for a company to join and grow within, you’re embarking on a years-long journey into an unknown organization. This is a daunting decision to make, and picking the right company for _you_ will have a considerable impact on whether you attain a Staff-plus role.
 
-
 ## Find a place that disproportionately values you
 
 If career velocity is your aim, then join a company that, for whatever reason, disproportionately values what you’re good at. For example, Fastly valued [Keavy’s API design experience](https://staffeng.com/stories/keavy-mcminn), and Stripe valued [Dmitry’s work on compilers](https://staffeng.com/stories/dmitry-petrashko). If there’s a gap matching your particular shape that’s limiting their success, your impact on the company will be uniquely high.

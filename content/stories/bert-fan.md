@@ -42,8 +42,6 @@ Maybe at one point you’ll become the kind of engineer that when you announce o
 
 The best advice I’ve heard is that often reaching Staff is a combination of luck, timing, and work. Here’s a path of events that I’ve observed and personally experienced:
 
-
-
 1. Develop a relationship with your manager where they implicitly trust you and you implicitly trust them. Be honest and direct with them about what you want. Developing this trust will require you successfully delivering on the things they ask you to work on.
 2. Because your manager trusts you, when they hear about projects that will have a significant impact for the company, they will advocate for you to lead those projects. Alternatively, you’ll have to find or create a project yourself and advocate for it to happen. This is much harder but still plausible.
 3. Deliver the project successfully.

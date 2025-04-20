@@ -6,9 +6,7 @@ name: "Rick Boone"
 role: "Strategic Advisor to Uber's VP of Infrastructure"
 ---
 
-
 _This story was recorded in April, 2020. Learn more about Rick on his [Linkedin](https://www.linkedin.com/in/kineticrick/)._
-
 
 ___Tell us a little about your current role: your title, the company you work at, and generally what sort of work does your team do?___
 

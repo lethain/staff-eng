@@ -31,7 +31,6 @@ Note that defining the purpose can be disruptive if it's used too frequently. Ra
 
 Finally, in each meeting, you have to **read the room**. Oftentimes folks get frustrated with a conversation and try to force agreement, which creates so much pressure on the discussion that it's unlikely to conclude well. If the folks in the room are too far apart, then identify a subgroup who are able to spend more time digging into it together or identify an appropriate party to escalate to outside of the room. If there's simply too much stuff in the drawer, stop trying to shove it shut.
 
-
 ## How to practice
 
 If these behaviors don't come naturally to you, that's okay; the opportunity to practice is all around. Every comment on a document is an opportunity. Every meeting is an opportunity. Every pull request is an opportunity.

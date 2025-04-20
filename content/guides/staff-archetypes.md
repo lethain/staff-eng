@@ -40,7 +40,6 @@ They do this both to grow their teammates and in acknowledgment that the team's 
 While they're coding less, they are still the person defining their team's technical vision, and stepping in to
 build alignment within the team on complex issues.
 
-
 The _Tech Lead_ role is, for many folks, their first experience as a Staff engineer. A few forces conspire towards that result.
 First, the _Tech Lead_ role tends to develop early on within companies that have a strong concept of team,
 which is common among companies using agile methodologies, and most companies attempt an agile approach at some point.

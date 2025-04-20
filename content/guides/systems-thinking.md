@@ -10,7 +10,6 @@ Many effective leaders I've worked with have the uncanny knack for working on [l
 
 If you really want a solid grasp on systems thinking fundamentals, you should read [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella Meadows, but I'll do my best to describe some of the basics and work through a recent scenario where I found the systems thinking approach to be exceptionally useful.
 
-
 ## Stocks and flows
 
 The fundamental observation of systems thinking is that the links between events are often more subtle than they appear. We want to describe events causally--our managers are too busy because we're trying to ship our current project--but few events occur in a vacuum.

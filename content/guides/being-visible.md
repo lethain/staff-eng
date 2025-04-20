@@ -10,7 +10,6 @@ book_section: Getting the title where you are
 > \- [Katie Sylor-Miller](/stories/katie-sylor-miller)
 
 
-
 [Bert Fan](https://staffeng.com/stories/bert-fan)'s best advice for those trying to reach a Staff-plus role was,
 "Often reaching Staff is a combination of luck, timing, and work."
 Timing is a particular sort of luck, so you can simplify this even further down to just luck and work.

@@ -21,7 +21,6 @@ We'll dig into a few different angles on staff projects:
 
 Into the messy details, we go.
 
-
 ## No Staff project required
 
 When I asked folks whether they had a Staff project, some of the answers were quite concise:

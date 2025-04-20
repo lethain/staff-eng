@@ -6,6 +6,7 @@ weight: 0
 book_section: Overview
 ---
 
+
 At most technology companies, you'll reach Senior software engineer, the [career level](https://lethain.com/mailbag-beyond-career-level/)
 for software engineers, in five to eight years.
 At the career level, your company's career ladder won't require that you work towards the next promotion;

@@ -22,7 +22,6 @@ Then again, as described by [Keavy McMinn](/stories/keavy-mcminn), it’s common
 What’s the right decision for you?
 
 
-
 ---
 
 

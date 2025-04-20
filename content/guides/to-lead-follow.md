@@ -9,7 +9,6 @@ book_section: Operating at Staff
 > It's about taking that global thinking and applying it locally. That means aligning your team's (technical) initiatives/roadmaps to the Engineering–wide technical strategy; and being intentional about when you veer off of that path to serve the needs of your team's immediate stakeholders. That means collaborating with your team's managers in adopting successful practices in hiring, onboarding, and production operations from other teams; and sharing practices from your team that would be beneficial for others. That means taking context from company-wide business/product strategy and translating that to how it impacts your team's immediate projects
 > \- [Ras Kasa Williams](/stories/ras-kasa-williams)
 
-
 Years ago, the company I was working with hired a new Director of Engineering, and the CTO was talking about why the new Director was an amazing hire. The new Director's clinching accomplishment? The best ever explanation of the distinction between leadership and management. This turned out not to be a particularly effective way to evaluate hires, but it is an interesting topic.
 
 Defining leadership and management is such heavily trodden terrain that it's hard to add much to it, but roughly management is a specific profession, and leadership is an approach one can demonstrate within any profession.

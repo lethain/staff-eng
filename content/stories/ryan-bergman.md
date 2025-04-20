@@ -6,7 +6,6 @@ url: "/stories/ryan-bergman"
 date: "2022-01-21"
 ---
 
-
 <span class="date">January, 2022</span>
 [blog](https://ryber.github.io/),
 [twitter](https://twitter.com/ryber),
@@ -37,7 +36,6 @@ I tend to be given experimental projects to flesh out and see if they can work o
 *Chaos Mode*
 
 Chaos mode is where I spend the entire day on MS Teams (or wandering the office pre-COVID) just helping people. I get hit up for a lot of different reasons and I have a deep history with a variety of different systems. Some days I just hop from one problem to another unblocking. Hopefully someone kidnaps me to do some pair or mob programming. This is an great use of my time. Even if I get nothing of my own done, unblocking 5 different teams to get their work done is always worth it. I've learned that some days are just going to turn into this like it or not, so you might as well dive in head first. 
-
 
 **_What two or three factors were most important in you reaching Staff? How have the companies you joined, your location, or your education impacted your path?_**
 

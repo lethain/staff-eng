@@ -1,5 +1,6 @@
 ---
 title: "Michelle Bu - Payments Products Tech Lead at Stripe"
+
 url: "/stories/michelle-bu"
 date: "2020-04-21"
 name: "Michelle Bu"
@@ -14,7 +15,6 @@ _This story was recorded in April, 2020. Learn more about Michelle on her [blog]
 I’m the Payments Products Tech Lead at Stripe, working directly with our Chief Product Officer. I support critical initiatives and work on mitigating urgent problems across the organization. I typically spend 80% of my time on one or two large cross-organizational design projects. I spend the remaining 20% reviewing and supporting technical and product design (in particular, API design) across the organization.
 
 _Sample of a “top 3” document I keep evergreen:_
-
 
 ![](/static/michelle-bu/Michelle-Bu0.png)
 

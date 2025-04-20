@@ -22,7 +22,6 @@ As I talked to more and more Staff-plus engineers about career advice, the most 
 
 While it's helpful to know you _should_ build a network, some folks struggle to figure out how to do it. Among the various [tactics to build your network](https://lethain.com/meeting-people/), the two most common strategies are: being easy to find and networking internally.
 
-
 ## Be visible
 
 There is so much pent-up demand for community among Staff-plus engineers that the easiest way to build your network is being easy to find as a Staff-plus engineer.

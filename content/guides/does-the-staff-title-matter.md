@@ -19,7 +19,6 @@ A potential fourth advantage is
 that some folks find that the title grants more agency to select the projects you work on, but others find that
 increase in agency is swallowed by a commensurate increase in accountability to the business.
 
-
 ## Informal gauges of seniority
 
 When I spoke with [Nelson Elhage](https://staffeng.com/stories/nelson-elhage) about whether reaching the Staff level allowed him to take on new work, he answered:

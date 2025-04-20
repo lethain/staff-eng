@@ -17,7 +17,6 @@ Indeed, pacing yourself becomes the central challenge of a sustained, successful
 
 First, a discussion on a few common ways to get tripped up: _snacking_, _preening_, and _chasing ghosts_. Then we'll get into the good stuff: how _do_ you work on what really matters?
 
-
 ## Avoid snacking
 
 ![Quadrants of high and low impact by high and low effort](/snacking.png)

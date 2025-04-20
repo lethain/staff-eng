@@ -10,7 +10,6 @@ book_section: Operating at Staff
 > demonstrate impact sooner.  
 > \- [Dmitry Petrashko](/stories/dmitry-petrashko)
 
-
 If there's one thing that engineers, engineering managers, and technology executives are likely to agree on, it's that there's a crisis of technical quality. One diagnosis and cure is easy to identify: our engineers aren't prioritizing quality, and we need to hire better engineers or retrain the ones we have. Of course, you should feel free to replace "engineers" with "product managers" or "executives" if that feels more comfortable. It's a compelling narrative with a clear villain, and it conveniently shifts blame away from engineering leadership. Still, like most narratives that move accountability towards the folks with the least power, it's both unhelpful and wrong.
 
 When you accept the premise that low technical quality results from poor decision-making, you start looking for bad judgment, and someone at the company must be the culprit. Is it the previous CTO? Is it that Staff engineer looking at you with a nervous smile? Is it everyone? What if it's none of those folks, and stranger yet isn't even your fault either?
