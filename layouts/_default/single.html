@@ -53,19 +53,8 @@
         <p class="f5"><span class="b mb3">Previous chapter: </span> <a href="{{ .Next.RelPermalink }}">{{ .Next.Title }}</a></p>
         {{ end }}        
       </div>
-      {{ if .Params.Leth_Url }}
-      <div class="bg-light-gray br4 ph3 pv1">
-        <p class="tracked">First published at <a href="https://lethain.com/{{ .Params.Leth_Url }}/">lethain.com/{{ .Params.Leth_Url }}/</a></p>      
-      </div>
-      {{ end }}
 
       {{- partial "book.html" . -}}
-
-      <div class="mt6 instapaper_ignoref">
-      {{ if .Site.Params.commentoEnable }}
-        {{- partial "commento.html" . -}}
-      {{ end }}
-      </div>
     </div>
 
     <aside class="w-30-l mt1-l">
