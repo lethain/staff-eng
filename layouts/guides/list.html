@@ -2,10 +2,22 @@
 <div class="pa3 pa4-ns w-100-m w-60 center">
   <section class="flex-ns flex-wrap justify-around mt1">
     <div class="relative mb4 pa4 bg-white">
-    {{ .Content }}
-      
+      <h1>Guides</h1>      
+      <p>
+        Guides for reaching and succeeding at Staff-plus roles.
+        We'll fill these in over time, with the goal of providing
+        a comprehensive resource for folks pursuing or operating in Staff-plus roles.
+      </p>
+
+    {{ $title := "" }}
     {{ range .Pages }}
+    {{ if ne $title .Params.Book_section }}
+    {{ $title = .Params.Book_section }}
+    <h2 class="pt2">{{ .Params.Book_section }}</h2>
+    {{ end }}
+    
     {{ partial "summary.html" . }}
+    
     {{ end }}
     </div>
   </section>
