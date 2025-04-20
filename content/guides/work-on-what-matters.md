@@ -6,7 +6,6 @@ weight: 5000
 book_section: Operating at Staff
 ---
 
-
 > I've taken to using the word "energized" over "impactful." "Impactful" feels company-centric, and while that's important, "energized" is more inwards-looking. Finding energizing work is what has kept me at Stripe for so long, pursuing impactful
 > work. - [Michelle Bu](/stories/michelle-bu)
 

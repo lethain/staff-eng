@@ -45,16 +45,17 @@
 
 
       <div class="mt4">
-        <hr>
         {{ if .Prev }}
         <p class="f5"><span class="b mb3">Next chapter: </span> <a href="{{ .Prev.RelPermalink }}">{{ .Prev.Title }}</a></p>
         {{ end }}
         {{ if .Next }}
         <p class="f5"><span class="b mb3">Previous chapter: </span> <a href="{{ .Next.RelPermalink }}">{{ .Next.Title }}</a></p>
-        {{ end }}        
+        {{ end }}
+
+        {{- partial "book.html" . -}}        
       </div>
 
-      {{- partial "book.html" . -}}
+
     </div>
 
     <aside class="w-30-l mt1-l">
