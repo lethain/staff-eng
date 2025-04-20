@@ -1,28 +1,18 @@
-# drafting-strategy
 
+This repository is a Hugo site powering [staffeng.com](https://staffeng.com).
+The built assets live in the `ghpage` branch.
 
-# Repomix
+## Submitting your story?
 
-   ./scripts/llm.py
-   repomix --style markdown --remove-empty-lines --include "llm/*.md" -o files/draftingstrategy_llm.md
+Read the instructions at [staffeng.com/share](https://staffeng.com/share),
+but it's basically submitting a story to `src/markdown` in the same format
+as the existing stories!
 
+## Development
 
-# Scripts
+Install Hugo, and run `hugo -D serve`.
+Your site is now running at `http://localhost:1313`!
 
-    python3 -mvenv ./env
-    . ./env/bin/activate
-    pip install -r requirements.txt
+##  Deploy
 
-
-## Copy Script
-
-    ./scripts/import.py
-
-
-1. Copy over all files from a specified repository
-2. Load translate.yaml file
-3. Translate slugs across them
-4. Rewrite links to either go to lethain.com/ or to the new slugs on draftingstrategy.com
-4. Identify static assets to copy over, and rewrite the paths
-4. Rewrite the "this is a draft book" divs too
-2. Move the current slug into 
+Deployment happens automatically after a pull request is merged.
