@@ -4,8 +4,6 @@ url: "/about/"
 date: "2020-09-12"
 ---
 
-*Questions? Reach out to [@lethain](https://twitter.com/lethain) on Twitter.*
-
 
 ## Why?
 
