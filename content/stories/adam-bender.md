@@ -6,7 +6,7 @@ url: "/stories/adam-bender"
 date: "2022-10-24"
 ---
 
-<span class="date">October, 2022</span>
+<span class="date fr">October, 2022</span>
 [linkedin](https://www.linkedin.com/in/theadambender)
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**

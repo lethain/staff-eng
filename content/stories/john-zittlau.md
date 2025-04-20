@@ -6,7 +6,7 @@ name: "John Zittlau"
 role: "Principal Engineer at Jobber"
 ---
 
-<span class="date">December, 2020</span>
+<span class="date fr">December, 2020</span>
 [linkedin](https://www.linkedin.com/in/johnzittlau/)
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**

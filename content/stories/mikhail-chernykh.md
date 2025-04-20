@@ -6,7 +6,7 @@ url: "/stories/mikhail-chernykh"
 date: "2021-07-25"
 ---
 
-<span class="date">July, 2021</span>
+<span class="date fr">July, 2021</span>
 [blog](https://netme.dev)
 [twitter](https://twitter.com/netme),
 [linkedin](https://www.linkedin.com/in/chernykh/)

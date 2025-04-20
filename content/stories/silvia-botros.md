@@ -6,8 +6,7 @@ name: "Silvia Botros"
 role: "Senior Principal Engineer at Twilio Inc."
 ---
 
-
-<span class="date">April, 2020</span>
+<span class="date fr">April, 2020</span>
 [blog](https://blog.dbsmasher.com/),
 [twitter](https://twitter.com/dbsmasher),
 [linkedin](https://www.linkedin.com/in/silviabotros/)

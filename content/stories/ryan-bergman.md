@@ -6,7 +6,7 @@ url: "/stories/ryan-bergman"
 date: "2022-01-21"
 ---
 
-<span class="date">January, 2022</span>
+<span class="date fr">January, 2022</span>
 [blog](https://ryber.github.io/),
 [twitter](https://twitter.com/ryber),
 [linkedin](https://www.linkedin.com/in/ryan-bergman-3665763/)

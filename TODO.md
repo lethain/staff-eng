@@ -1,8 +1,7 @@
 
-* ordering is just totally wrong lol
+* ordering is good enough for stories,
+    but subtly wrong for guides.
+    Ideally I can just add the "book_segment"
+    and then omit it if this is different than previous one
 * missing /about/ page
-* detail page
-    * date should pull right to avoid clashing
-    * fix right rail links for Eng Exec
-    * fix referenced book, e.g. it's staff engineer not drafting strategy
 
