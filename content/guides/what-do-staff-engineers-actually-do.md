@@ -1,5 +1,5 @@
 ---
-title: What do Staff engineers actually do?
+title: "What do Staff engineers actually do?"
 url: /guides/what-do-staff-engineers-actually-do
 date: '2020-11-28'
 weight: 2000
