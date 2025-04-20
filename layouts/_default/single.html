@@ -59,6 +59,8 @@
       </div>
       {{ end }}
 
+      {{- partial "book.html" . -}}
+
       <div class="mt6 instapaper_ignoref">
       {{ if .Site.Params.commentoEnable }}
         {{- partial "commento.html" . -}}

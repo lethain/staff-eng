@@ -16,7 +16,7 @@ The management career isn't an easy one, but increasingly there is a map availab
 
 <div class="bg-light-gray br4 ph3 pv1">
 
-## **Stories**
+## Stories
 
 - [Michelle Bu](/stories/michelle-bu) – Payments Product Tech lead at Stripe
 - [Bert Fan](/stories/bert-fan) – Senior Staff Engineer at Slack
@@ -31,7 +31,7 @@ The transition into Staff Engineer, and its further evolutions like Principal En
 
 <div class="bg-light-gray br4 ph3 pv1">
 
-## **Guides**
+## Guides
 
 - [Work on what matters](/guides/work-on-what-matters)
 - [Staying aligned with authority](/guides/staying-aligned-with-authority/)
