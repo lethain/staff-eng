@@ -6,7 +6,6 @@ weight: 4000
 book_section: Operating at Staff
 ---
 
-
 > One of the best pieces of advice that someone gave me, and that I make sure to pass on to other staff engineers, is that there's a misconception that you become a Staff engineer and then you'll be in control of the work you do, and everyone will listen to you and do what you want them to do. That's absolutely the opposite of what happens!
 > \- [Katie Sylor-Miller](/stories/katie-sylor-miller)
 

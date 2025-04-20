@@ -6,7 +6,6 @@ weight: 23000
 book_section: Switching companies to get the title
 ---
 
-
 Back in 2012, Patrick McKenzie wrote [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/), which has since become the defacto guide to negotiating salaries for software engineers. It's a great piece and a good primer on how you'd negotiate any offer, including a Staff-plus offer: if you haven't thought about this topic much before, start there.
 
 For much of your career, the offer you get is generated in a relatively formulaic way. Maybe they have a compensation calculator, or maybe they base it off your previous compensation, but it's the company's system driving the numbers. However, there is a threshold where offer negotiations shift, and companies are willing to engage in a bespoke offer rather than a system-driven offer, but

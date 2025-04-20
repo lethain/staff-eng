@@ -27,7 +27,6 @@ The four common archetypes of Staff-plus roles I encountered are:
 
 This taxonomy is more focused on being _useful_ than _complete_, but so far, I've been able to fit every Staff-plus engineer I've spoken to into one of these categories. Admittedly, some folks are easier to classify than others.
 
-
 ## Tech Lead
 
 ![Example calendar for a Tech Lead archetype](/archetypes//TechLeadCalendar.png)

@@ -6,7 +6,6 @@ weight: 13000
 book_section: Operating at Staff
 ---
 
-
 Have you presented to company executives about a key engineering initiative, walking into the room excited and leaving defeated? Maybe you only made it to your second slide before unrelated questions derailed the discussion. Maybe you worked through your entire presentation only to have folks say, "Great job," and leave without any useful debate. Afterward, you're not quite sure what happened, but you know it didn't go well.
 
 Early in your career, you probably won't interact with company executives frequently. Sure, if it's a small enough company, you might, but it isn't the norm. As you get further into your career, though, increasingly, your impact will be constrained by your ability to influence executives effectively. While [staying aligned with authority](https://staffeng.com/guides/staying-aligned-with-authority) is a prerequisite to influencing executives, there are also some new communication skills for you to develop.

@@ -18,7 +18,6 @@ capturing what a typical Staff engineer might do in a technology company.
 
 Related: [Staff engineer Archetypes](/guides/staff-archetypes)
 
-
 ### What are a Staff engineer’s responsibilities?
 
 Similarly to the previous question, this varies a great deal depending on

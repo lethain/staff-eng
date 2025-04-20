@@ -4,6 +4,7 @@ url: "/guides/stories"
 date: "2000-01-01"
 ---
 
+
 It didn't take me long to realize after publishing my first book that I wasn't
 the sort of person who enjoyed reading reviews of my work. At best, I felt good
 about myself for a moment, but often I just felt sad. During that window when

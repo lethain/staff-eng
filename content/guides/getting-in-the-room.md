@@ -12,7 +12,6 @@ However, it's important to remember there's no single "room" to enter. Getting i
 
 Early in your career, it might be a sprint pre-planning meeting with your tech lead and product manager. Later it might be a quarterly planning meeting, an [architecture review](https://lethain.com/scaling-consistency/), the [performance calibration](https://lethain.com/perf-management-system/), the engineering leadership team, or the executive team. There will always be another room to enter. To reach senior levels, you have to become effective at not only _entering_ but also _staying_ in these rooms of power.
 
-
 ## Getting in the room
 
 To get into the room, you need:

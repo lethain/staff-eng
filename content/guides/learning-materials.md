@@ -9,7 +9,6 @@ book_section: Resources
 None of the Staff Engineer I spoke with got there alone. Most got there either through voracious reading
 or building a powerful network of colleagues. This section is a collection of recommended resources.
 
-
 ## Your Network
 
 Almost unanimously, Staff-plus engineers' most valuable learning resources wasn't a book, blog, talk, or paper, but instead their network of peers and mentors. If you only have one hour to develop yourself as an engineer, your best bet would be [building a network of people in similar roles](/guides/network-of-peers).

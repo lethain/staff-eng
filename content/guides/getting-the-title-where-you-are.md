@@ -38,7 +38,6 @@ but most focus from your first job until you reach Senior engineer.
 Few focus on managing your career beyond the Senior title,
 which is where this chapter focuses:
 
-
 *   Your **[promotion packet](https://staffeng.com/guides/promo-packets)** is your foundational tool to demystify the Staff promotion, prioritize the right personal development to ensure you get there and activate your internal sponsors and network in support of your progression
 *   There is a widespread belief that moving into a Staff-plus role requires successfully completing a **[Staff project](https://staffeng.com/guides/staff-projects)**. This section discusses the reality that most Staff engineers _do not_ have a Staff project but also describes how to approach one if you're at a company that does require them
 *   A frequent complaint from engineers is that they're not "in the room" where decisions happen, and they're usually right: there is a room, and they're not in it. What's less frequently acknowledged is that you're probably not in the room for a good reason. This section describes **[how to get into the room, and also how to stay there](https://staffeng.com/guides/getting-in-the-room)**

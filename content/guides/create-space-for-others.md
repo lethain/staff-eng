@@ -13,7 +13,6 @@ One of the best measures of your long-term success as a Staff-plus engineer is t
 
 This transition requires learning to deliberately create space for the team around you and comes down to actively involving them in discussions, decisions, and ultimately substituting sponsorship for repeating the successes that got you to Staff in the first place.
 
-
 ## Discussions
 
 When you’re focused on maximizing your personal impact, a good discussion is one that ends quickly with a reasonable answer, alignment among the participants, and positive feelings among the participants. When you start thinking about creating space, the definition of a good discussion expands quite a bit!

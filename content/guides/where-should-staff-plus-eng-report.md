@@ -6,7 +6,6 @@ weight: 25000
 book_section: Resources
 ---
 
-
 When I work on the organization design of an engineering organization, I think a lot about "[organizational mathematics](https://lethain.com/sizing-engineering-teams/)," the guideline that each team should have one manager and six to eight engineers, and each manager of managers should support four to six managers. From those numbers, you can rapidly determine an appropriate structure for your organization that'll work fairly well. It might not be _perfect_, but it'll _work_.
 
 As I've applied that approach to designing multiple organizations, one of the recurring edge cases that have come up is deciding where the senior-most engineers should report. Should they, as the org math dictates, report to managers in the organizational leaf nodes? Or should they, as key leaders in your organization, report to more senior leaders to have better access to the information and authorization they need to excel in their role?

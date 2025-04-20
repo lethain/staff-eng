@@ -6,6 +6,7 @@ weight: 8000
 book_section: Operating at Staff
 ---
 
+
 > In my role, we'll often go weeks without being in the same room together, but I still have to operate as if I'm his direct proxy. So I go into a room and think, "What would Matthew do here? What is the question he would want to ask? What guidance has he given on this problem?" Because I can't always run back to him for clarification, it's essential to develop and maintain a deep understanding of his world view. That's essential for me to retain the very deep trust required to be his representative and effectively carry out his strategy and vision. People need to be confident that I'll always give the same answer that Matthew would give if he were there.
 > \-[Rick Boone](/stories/rick-boone)
 
@@ -14,7 +15,6 @@ It's a common misconception that authority makes you powerful. Many folks aspiri
 The reality is a bit more nuanced.
 
 Titles come with the sort of power called organizational authority, and that variety of authority is loaned to you by a greater organizational authority. What's bestowed can also be retracted, and retaining organizational authority depends on remaining deeply aligned with the bestowing sponsor, generally your direct manager. To remain effective within a Staff-plus role, you have to learn the art of staying aligned with organizational authority.
-
 
 ## Beyond the safety net
 

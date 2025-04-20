@@ -15,7 +15,6 @@ A few of the technical leaders that I've worked with have found a way to never b
 
 To become a senior technical leader, you must build a deep perspective on technology and architecture. To operate as such a leader, you must then develop an equally deep pragmatism and agnosticism to technical religion to remain skeptical of yourself. This can feel like a paradox, but it's the line you'll need to walk every day.
 
-
 ## Listen, clarify and read the room
 
 A lot of times, you'll see engineers go into a discussion confident that their perspective is right and with the goal of getting other folks in the room to agree with their approach. This mentality turns each meeting into a zero-sum debate. Even in the "best case" that their approach is agreed upon, they didn't get to learn from anyone else in the room, and it's unlikely that the rest of the room is leaving energized.

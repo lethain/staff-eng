@@ -9,7 +9,6 @@ book_section: Operating at Staff
 > I've taken to using the word "energized" over "impactful." "Impactful" feels company-centric, and while that's important, "energized" is more inwards-looking. Finding energizing work is what has kept me at Stripe for so long, pursuing impactful
 > work. - [Michelle Bu](/stories/michelle-bu)
 
-
 We all have a finite amount of time to live, and within that mortal countdown, we devote some fraction towards our work. Even for the most career-focused, your life will be filled with many things beyond work: supporting your family, children, exercise, being a mentor and a mentee, hobbies, and so the list goes on. This is the sign of a rich life, but one side-effect is that time to do your work will become increasingly scarce as you get deeper into your career.
 
 If you're continuing to advance in your career, then even as your time available for work shrinks, the expectations around your impact will keep growing. You can try sleeping less or depriving yourself of the non-work activities you need to feel whole, but you'll inevitably find that your work maintains an aloof indifference to your sacrifice rather than rewarding it. Only through [pacing your career to your life](https://lethain.com/forty-year-career/) can you sustain yourself for the long-term.
