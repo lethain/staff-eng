@@ -4,6 +4,7 @@ url: "/stories/john-zittlau"
 date: "2020-12-20"
 name: "John Zittlau"
 role: "Principal Engineer at Jobber"
+weight: 46000
 ---
 
 <span class="date fr">December, 2020</span>

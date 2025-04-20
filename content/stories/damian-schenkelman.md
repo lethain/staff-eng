@@ -4,6 +4,7 @@ name: "Damian Schenkelman"
 role: "Principal Engineer at Auth0"
 url: "/stories/damian-schenkelman"
 date: "2020-08-10"
+weight: 43000
 ---
 
 _Story recorded in August, 2020. Learn more about Damian on his [blog](https://yenkel.dev), [Twitter](https://twitter.com/dschenkelman), and [Linkedin](https://www.linkedin.com/in/damianschenkelman/)._

@@ -4,6 +4,7 @@ name: "Ras Kasa Williams"
 role: "Staff Engineer at Mailchimp"
 url: "/stories/ras-kasa-williams"
 date: "2020-07-18"
+weight: 41000
 ---
 
 

@@ -4,6 +4,7 @@ name: "Stephen Kawaguchi"
 role: "Solution Architect at IBM"
 url: "/stories/stephen-kawaguchi"
 date: "2021-03-01"
+weight: 49000
 ---
 
 <span class="date fr">March, 2021</span>

@@ -4,6 +4,7 @@ name: "Katie Sylor-Miller"
 role: "Frontend Architect at Etsy"
 url: "/stories/katie-sylor-miller"
 date: "2020-08-09"
+weight: 42000
 ---
 
 

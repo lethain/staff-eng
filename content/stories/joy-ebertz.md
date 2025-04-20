@@ -4,6 +4,7 @@ url: "/stories/joy-ebertz"
 date: "2020-03-31"
 name: "Joy Ebertz"
 role: "Senior Staff Software Engineer at Split"
+weight: 31000
 ---
 
 

@@ -4,6 +4,7 @@ url: "/stories/dmitry-petrashko"
 date: "2020-05-07"
 name: "Dmitry Petrashko"
 role: "Technical Advisor to the Head of Infrastructure at Stripe"
+weight: 40000
 ---
 
 _This story was recorded in May, 2020. Learn more about Dmitry on [Twitter](https://twitter.com/darkdimius) or [Linkedin](https://www.linkedin.com/in/darkdimius/), and reading his [presentations](https://d-d.me/site/presentations/)._

@@ -11,7 +11,7 @@
         Folks who have shared their stories of reaching Staff-plus engineer roles:
       </p>
       
-    {{ range .Pages.Reverse }}
+    {{ range .Pages }}
     {{ partial "summary.html" . }}
     {{ end }}
     </div>

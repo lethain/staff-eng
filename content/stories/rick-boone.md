@@ -4,6 +4,7 @@ url: "/stories/rick-boone"
 date: "2020-04-16"
 name: "Rick Boone"
 role: "Strategic Advisor to Uber's VP of Infrastructure"
+weight: 36000
 ---
 
 _This story was recorded in April, 2020. Learn more about Rick on his [Linkedin](https://www.linkedin.com/in/kineticrick/)._

@@ -4,6 +4,7 @@ name: "Stephen Wan"
 role: "Staff Engineer at Samsara"
 url: "/stories/stephen-wan"
 date: "2020-09-20"
+weight: 44000
 ---
 
 

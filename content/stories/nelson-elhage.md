@@ -4,6 +4,7 @@ url: "/stories/nelson-elhage"
 date: "2020-04-07"
 name: "Nelson Elhage"
 role: "Formerly Staff Engineer at Stripe"
+weight: 33000
 ---
 
 

@@ -4,6 +4,7 @@ url: "/stories/michelle-bu"
 date: "2020-04-21"
 name: "Michelle Bu"
 role: "Payments Products Tech Lead at Stripe"
+weight: 37000
 ---
 
 _This story was recorded in April, 2020. Learn more about Michelle on her [blog](http://blog.michellebu.com/), [Twitter](https://twitter.com/hazelcough), and [Linkedin](https://www.linkedin.com/in/michellebu/)._

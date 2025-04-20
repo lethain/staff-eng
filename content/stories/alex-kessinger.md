@@ -4,6 +4,7 @@ url: "/stories/alex-kessinger"
 date: "2021-01-18"
 name: "Alex Kessinger"
 role: "Principal Engineer at Stitch Fix"
+weight: 47000
 ---
 
 <span class="date fr">January, 2021</span>

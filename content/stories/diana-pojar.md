@@ -4,6 +4,7 @@ url: "/stories/diana-pojar"
 date: "2020-04-14"
 name: "Diana Pojar"
 role: "Staff Data Engineer at Slack"
+weight: 35000
 ---
 
 

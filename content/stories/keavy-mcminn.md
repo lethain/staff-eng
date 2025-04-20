@@ -4,6 +4,7 @@ name: "Keavy McMinn"
 role: "Senior Principal Engineer at Fastly"
 url: "/stories/keavy-mcminn"
 date: "2020-03-24"
+weight: 29000
 ---
 
 

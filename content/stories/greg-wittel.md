@@ -4,6 +4,7 @@ name: "Greg Wittel"
 role: "Principal Software Engineer at Proofpoint"
 url: "/stories/greg-wittel"
 date: "2020-12-05"
+weight: 45000
 ---
 
 

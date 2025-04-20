@@ -4,6 +4,7 @@ name: "Adam Bender"
 role: "Principal Software Engineer at Google"
 url: "/stories/adam-bender"
 date: "2022-10-24"
+weight: 53000
 ---
 
 <span class="date fr">October, 2022</span>

@@ -4,6 +4,7 @@ url: "/stories/dan-na"
 date: "2020-03-26"
 name: "Dan Na"
 role: "Staff Engineer and Team Lead at Squarespace"
+weight: 30000
 ---
 
 _Story recorded in March, 2020. Learn more about Dan on his [blog](https://blog.danielna.com/), [Twitter](https://twitter.com/dxna), and [Linkedin](https://www.linkedin.com/in/danielna/)._

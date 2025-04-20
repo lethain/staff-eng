@@ -4,6 +4,7 @@ name: "Mikhail Chernykh"
 role: "Technical Lead at Indeed"
 url: "/stories/mikhail-chernykh"
 date: "2021-07-25"
+weight: 50000
 ---
 
 <span class="date fr">July, 2021</span>
