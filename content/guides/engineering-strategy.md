@@ -6,6 +6,7 @@ weight: 6000
 book_section: Operating at Staff
 ---
 
+
 > I kind of think writing about engineering strategy is hard because good strategy is pretty boring, and it's kind of boring to write about. Also I think when people hear "strategy" they think "innovation" - [Camille Fournier](https://twitter.com/skamille/status/1328763503973429250)
 
 Few companies understand their engineering strategy and vision. One consequence of this uncertainty is the industry belief that these documents are difficult to write. In some conversations, it can feel like you're talking about something mystical, but these are just mundane documents. The reality is that good engineering strategy is boring and that it's _easier_ to write an effective strategy than a bad one.

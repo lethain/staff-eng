@@ -6,7 +6,6 @@ weight: 14000
 book_section: Getting the title where you are
 ---
 
-
 > The best advice I've heard is that often reaching Staff is a combination of luck, timing, and work.
 > \- [Bert Fan](/stories/bert-fan)
 

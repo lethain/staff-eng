@@ -6,7 +6,6 @@ weight: 10000
 book_section: Operating at Staff
 ---
 
-
 > I present what I think is the best case for us, and people can disagree with that. And, you know, they often do. I'm steering and influencing more than saying, "I've got the authority to just tell you what to do." I've never seen that style work well.
 > \- [Keavy McMinn](/stories/keavy-mcminn)
 

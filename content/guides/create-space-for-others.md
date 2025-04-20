@@ -6,7 +6,6 @@ weight: 11000
 book_section: Operating at Staff
 ---
 
-
 > At this point, I spend less time advocating for specific technologies or programs and more time empowering others to advocate for the technologies and programs that they think are important. I also try to be a source of knowledge and support that people can reach out to for feedback, especially on cross-cutting product decisions and on presentation of ideas to the rest of the organization.
 > \- [Michelle Bu](/stories/michelle-bu)
 
