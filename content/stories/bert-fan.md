@@ -6,6 +6,7 @@ name: "Bert Fan"
 role: "Senior Staff Engineer at Slack"
 ---
 
+
 _This story was recorded in May, 2020. Learn more about Bert on his [blog](https://bert.org), [Twitter](https://twitter.com/bertrandom), and [Linkedin](https://www.linkedin.com/in/bertrandom/)._
 
 **_Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do._**
