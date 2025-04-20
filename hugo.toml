@@ -28,10 +28,6 @@ theme = 'ananke'
     name = "Will Larson"
 [menu]
   [[menu.main]]
-    weight = 500
-    name = "Book"
-    url = "/book/"
-  [[menu.main]]
     weight = 600
     name = "Stories"
     url = "/stories/"
@@ -39,6 +35,10 @@ theme = 'ananke'
     weight = 700
     name = "Guides"
     url = "/guides/"
+  [[menu.main]]
+    weight = 750
+    name = "Book"
+    url = "/book/"    
   [[menu.main]]
     weight = 900
     name = "Podcast"
