@@ -1,7 +1,9 @@
 ---
-title: "Additional resources on Staff-plus engineering"
-url: "/guides/learning-materials"
-date: "2020-06-21"
+title: Additional resources on Staff-plus engineering
+url: /guides/learning-materials
+date: '2020-06-21'
+weight: 24000
+book_section: Resources
 ---
 
 

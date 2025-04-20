@@ -1,7 +1,9 @@
 ---
-title: "Promotion packets"
-date: "2020-08-08"
-url: "/guides/promo-packets"
+title: Promotion packets
+date: '2020-08-08'
+url: /guides/promo-packets
+weight: 15000
+book_section: Getting the title where you are
 ---
 
 Some folks think of their promotion packet as the capstone of reaching a Staff-plus role, but I’ve seen many folks succeed by taking the opposite approach: starting to write their first Staff promotion packet long before they think they’re likely to be promoted to Staff, much the way they might use a [brag document](https://jvns.ca/blog/brag-documents/). Used this way, your packet becomes the map to accomplishing your goal.

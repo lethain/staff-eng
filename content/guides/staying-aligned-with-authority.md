@@ -1,7 +1,9 @@
 ---
-title: "Staying aligned with authority"
-url: "/guides/staying-aligned-with-authority"
-date: "2020-06-21"
+title: Staying aligned with authority
+url: /guides/staying-aligned-with-authority
+date: '2020-06-21'
+weight: 8000
+book_section: Operating at Staff
 ---
 
 > In my role, we'll often go weeks without being in the same room together, but I still have to operate as if I'm his direct proxy. So I go into a room and think, "What would Matthew do here? What is the question he would want to ask? What guidance has he given on this problem?" Because I can't always run back to him for clarification, it's essential to develop and maintain a deep understanding of his world view. That's essential for me to retain the very deep trust required to be his representative and effectively carry out his strategy and vision. People need to be confident that I'll always give the same answer that Matthew would give if he were there.

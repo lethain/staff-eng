@@ -1,7 +1,9 @@
 ---
-title: "Operating at Staff"
-url: "/guides/operating-at-staff"
-date: "2020-09-28"
+title: Operating at Staff
+url: /guides/operating-at-staff
+date: '2020-09-28'
+weight: 4000
+book_section: Operating at Staff
 ---
 
 

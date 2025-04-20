@@ -1,7 +1,9 @@
 ---
-title: "Managing Staff-plus engineers"
-url: "/guides/managing-staff-plus-engineers"
-date: "2020-11-25"
+title: Managing Staff-plus engineers
+url: /guides/managing-staff-plus-engineers
+date: '2020-11-25'
+weight: 26000
+book_section: Resources
 ---
 
 While getting feedback on _[StaffEng](http://staffeng.com)_, one request was for more content on managing Staff-plus engineers. It doesn’t quite fit the theme--that effort is focused on the Staff engineers themselves rather the company or the manager--but it’s an interesting topic and a worthy appendix.

@@ -1,7 +1,9 @@
 ---
-title: "Learn to never be wrong"
-url: "/guides/learn-to-never-be-wrong"
-date: "2020-06-21"
+title: Learn to never be wrong
+url: /guides/learn-to-never-be-wrong
+date: '2020-06-21'
+weight: 10000
+book_section: Operating at Staff
 ---
 
 

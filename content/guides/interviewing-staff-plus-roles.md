@@ -1,7 +1,9 @@
 ---
-title: "Interviewing for Staff-plus roles"
-url: "/guides/interviewing-staff-plus-roles"
-date: "2020-11-13"
+title: Interviewing for Staff-plus roles
+url: /guides/interviewing-staff-plus-roles
+date: '2020-11-13'
+weight: 22000
+book_section: Switching companies to get the title
 ---
 
 When you decide to interview for a Senior engineer role, you roughly know what to expect. You’ll [refresh your resume](https://thetechresume.com), work through _[Cracking the Coding Interview]( http://www.crackingthecodinginterview.com)_, and do some research on the company to prepare questions. When you go into the interview, you know it’s going to be five-ish interviews composed of a few programming exercises, something about technical architecture, and some cultural, behavioral, or career questions.

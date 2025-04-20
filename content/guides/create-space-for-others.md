@@ -1,7 +1,9 @@
 ---
-title: "Create space for others"
-url: "/guides/create-space-for-others"
-date: "2020-07-25"
+title: Create space for others
+url: /guides/create-space-for-others
+date: '2020-07-25'
+weight: 11000
+book_section: Operating at Staff
 ---
 
 

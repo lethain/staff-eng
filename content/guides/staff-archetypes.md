@@ -1,7 +1,9 @@
 ---
-title: "Staff archetypes"
-url: "/guides/staff-archetypes"
-date: "2020-06-21"
+title: Staff archetypes
+url: /guides/staff-archetypes
+date: '2020-06-21'
+weight: 1000
+book_section: Overview
 ---
 
 Most [career ladders](https://lethain.com/perf-management-system/) define a single, uniform set of expectations for Staff engineers

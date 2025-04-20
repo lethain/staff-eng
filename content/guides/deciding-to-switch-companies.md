@@ -1,7 +1,9 @@
 ---
-title: "Deciding to switch companies"
-url: "/guides/deciding-to-switch"
-date: "2020-09-19"
+title: Deciding to switch companies
+url: /guides/deciding-to-switch
+date: '2020-09-19'
+weight: 20000
+book_section: Switching companies to get the title
 ---
 
 

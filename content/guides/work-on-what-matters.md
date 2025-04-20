@@ -1,7 +1,9 @@
 ---
-title: "Work on what matters"
-url: "/guides/work-on-what-matters"
-date: "2020-09-04"
+title: Work on what matters
+url: /guides/work-on-what-matters
+date: '2020-09-04'
+weight: 5000
+book_section: Operating at Staff
 ---
 
 

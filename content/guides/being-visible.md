@@ -1,7 +1,9 @@
 ---
-title: "Being visible"
-url: "/guides/being-visible"
-date: "2020-09-13"
+title: Being visible
+url: /guides/being-visible
+date: '2020-09-13'
+weight: 19000
+book_section: Getting the title where you are
 ---
 
 > When folks, particularly women and non-binary people, come to me for advice, I think they expect me to talk about how to grow as a technical leader, and are surprised when I say "You've probably already got the technical chops, what you need to do is work on your reputation at the company." For better or for worse, you can't get to Staff without a good reputation.

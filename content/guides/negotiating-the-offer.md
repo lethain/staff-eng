@@ -1,7 +1,9 @@
 ---
-title: "Negotiating your offer"
-url: "/guides/negotiating-the-offer"
-date: "2020-09-27"
+title: Negotiating your offer
+url: /guides/negotiating-the-offer
+date: '2020-09-27'
+weight: 23000
+book_section: Switching companies to get the title
 ---
 
 

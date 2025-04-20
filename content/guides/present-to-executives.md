@@ -1,7 +1,9 @@
 ---
-title: "Present to executives"
-url: "/guides/present-to-executives"
-date: "2021-01-02"
+title: Present to executives
+url: /guides/present-to-executives
+date: '2021-01-02'
+weight: 13000
+book_section: Operating at Staff
 ---
 
 

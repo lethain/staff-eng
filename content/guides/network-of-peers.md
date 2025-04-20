@@ -1,7 +1,9 @@
 ---
-title: "Build a network of peers"
-url: "/guides/network-of-peers"
-date: "2020-09-03"
+title: Build a network of peers
+url: /guides/network-of-peers
+date: '2020-09-03'
+weight: 12000
+book_section: Operating at Staff
 ---
 
 

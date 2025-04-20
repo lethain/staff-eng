@@ -1,7 +1,9 @@
 ---
-title: "To lead, you have to follow"
-url: "/guides/to-lead-follow"
-date: "2020-06-21"
+title: To lead, you have to follow
+url: /guides/to-lead-follow
+date: '2020-06-21'
+weight: 9000
+book_section: Operating at Staff
 ---
 
 

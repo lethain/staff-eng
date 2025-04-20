@@ -1,7 +1,9 @@
 ---
-title: "Finding the right company"
-url: "/guides/finding-the-right-company"
-date: "2020-09-22"
+title: Finding the right company
+url: /guides/finding-the-right-company
+date: '2020-09-22'
+weight: 21000
+book_section: Switching companies to get the title
 ---
 
 There are only a few magic spells to attain a Staff-plus role: negotiate for the title while switching roles or find a supportive environment to “bake in place” while building your internal credibility with an empowered sponsor who’ll advocate for you. The most important reagent in both spells is picking the right company to perform them at.

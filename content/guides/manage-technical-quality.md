@@ -1,7 +1,9 @@
 ---
-title: "Manage technical quality"
-url: "/guides/manage-technical-quality"
-date: "2020-10-17"
+title: Manage technical quality
+url: /guides/manage-technical-quality
+date: '2020-10-17'
+weight: 7000
+book_section: Operating at Staff
 ---
 
 

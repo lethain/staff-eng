@@ -1,7 +1,9 @@
 ---
-title: "Does the title even matter?"
-url: "/guides/does-the-title-even-matter"
-date: "2020-06-29"
+title: Does the title even matter?
+url: /guides/does-the-title-even-matter
+date: '2020-06-29'
+weight: 3000
+book_section: Overview
 ---
 
 If you're safely nestled within the comfortable clutches of the Senior engineer [career level](https://lethain.com/career-levels-and-more/), you might wonder if you ought to pursue the Staff title. It's a considerable investment of time and energy, along with requiring a good amount of luck.

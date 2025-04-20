@@ -1,7 +1,9 @@
 ---
-title: "Staff projects"
-url: "/guides/staff-projects"
-date: "2020-09-09"
+title: Staff projects
+url: /guides/staff-projects
+date: '2020-09-09'
+weight: 18000
+book_section: Getting the title where you are
 ---
 
 

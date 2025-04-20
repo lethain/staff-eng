@@ -1,7 +1,9 @@
 ---
-title: "Getting in the room, and stay there"
-url: "/guides/getting-in-the-room"
-date: "2020-06-21"
+title: Getting in the room, and stay there
+url: /guides/getting-in-the-room
+date: '2020-06-21'
+weight: 16000
+book_section: Getting the title where you are
 ---
 
 

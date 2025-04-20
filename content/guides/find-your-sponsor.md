@@ -1,7 +1,9 @@
 ---
-title: "Find your sponsor"
-url: "/guides/find-your-sponsor"
-date: "2020-11-08"
+title: Find your sponsor
+url: /guides/find-your-sponsor
+date: '2020-11-08'
+weight: 17000
+book_section: Getting the title where you are
 ---
 
 > Having a sponsor was also definitely important. My manager and I had a fantastic relationship, and I also had a great relationship with my skip-level manager. I think that played a big part as well.

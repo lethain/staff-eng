@@ -1,7 +1,9 @@
 ---
-title: "Getting the title where you are"
-url: "/guides/getting-the-title-where-you-are"
-date: "2020-09-27"
+title: Getting the title where you are
+url: /guides/getting-the-title-where-you-are
+date: '2020-09-27'
+weight: 14000
+book_section: Getting the title where you are
 ---
 
 
