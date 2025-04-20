@@ -17,7 +17,6 @@ theme = 'ananke'
 [params]
   recent_posts_number = 10000
   images = ["/static/author.png"]
-  mainSections = ["posts"]
   custom_css = ["/static/pygments.css"]
   background_color_class = 'bg-white'
   body_classes = "avenir bg-white"
