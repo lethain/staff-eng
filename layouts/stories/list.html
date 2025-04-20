@@ -4,7 +4,7 @@
     <div class="relative mb4 pa4 bg-white">
     {{ .Content }}
       
-    {{ range .Pages }}
+    {{ range .Pages.Reverse }}
     {{ partial "summary.html" . }}
     {{ end }}
     </div>

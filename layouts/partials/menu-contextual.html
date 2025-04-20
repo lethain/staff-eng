@@ -48,7 +48,12 @@
   {{ if .Next }}
     <p class="f5"><span class="b mb3">Previous chapter</span></p>
     <p class="f5"><a href="{{ .Next.RelPermalink }}">{{ .Next.Title }}</a></p>
-  {{ end }}
+    {{ end }}
+
+    {{ if ge (len (.TableOfContents)) 33 -}}
   <p class="f5 b mb3">Table of Contents</p>
   {{ .TableOfContents }}
+  {{ end }}
+
+
 </div>
