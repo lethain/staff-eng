@@ -1,0 +1,71 @@
+chapters:
+  - title: Overview
+    sections:
+      - title: Overview
+        slug: overview-overview
+      - title: Staff engineer archetypes
+        slug: staff-archetypes
+      - title: What do Staff engineers actually do?
+        slug: what-do-staff-engineers-actually-do
+      - title: Does the title even matter?
+        slug: does-the-title-even-matter
+  - title: Operating at Staff
+    sections:
+      - title: Operating at Staff
+        slug: operating-at-staff
+      - title: Work on what matters
+        slug: work-on-what-matters
+      - title: Writing engineering strategy
+        slug: engineering-strategy
+      - title: Managing technical quality
+        slug: manage-technical-quality
+      - title: Stay aligned with authority
+        slug: staying-aligned-with-authority
+      - title: To lead, you have to follow
+        slug: to-lead-follow
+      - title: Learn to never be wrong
+        slug: learn-to-never-be-wrong
+      - title: Create space for others
+        slug: create-space-for-others
+      - title: Build a network of peers
+        slug: network-of-peers
+      - title: Present to executives
+        slug: present-to-executives
+  - title: Getting the title where you are
+    sections:
+      - title: Getting the title
+        slug: getting-the-title-where-you-are
+      - title: Promotion packets
+        slug: promo-packets
+      - title: Get in the room, and stay there
+        slug: getting-in-the-room 
+      - title: Find your sponsor
+        slug: find-your-sponsor
+      - title: Staff projects
+        slug: staff-projects
+      - title: Being visible
+        slug: being-visible
+  - title: Switching companies to get the title
+    sections:
+      - title: Deciding to switch companies
+        slug: deciding-to-switch
+      - title: Finding the right company
+        slug: finding-the-right-company
+      - title: Interviewing for Staff-plus roles
+        slug: interviewing-staff-plus-roles
+      - title: Negotiating your offer
+        slug: negotiating-the-offer
+  - title: Resources
+    sections:
+      - title: Additional resources on Staff-plus engineering
+        slug: learning-materials
+      - title: Where do Staff-plus engineers fit into the org?
+        slug: where-should-staff-plus-eng-report
+      - title: Managing Staff-plus engineers
+        slug: managing-staff-plus-engineers
+      - title: Designing a Staff-plus interview loop
+        slug: staff-plus-interview-process
+      - title: Staff-plus career ladders
+        slug: staff-career-ladders
+      - title: Introduction to systems thinking
+        slug: systems-thinking
