@@ -2,7 +2,7 @@
 title: Introduction to systems thinking
 url: /guides/systems-thinking
 date: '2018-07-25'
-weight: 29000
+weight: 95000
 book_section: Resources
 ---
 

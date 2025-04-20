@@ -2,6 +2,7 @@
 title: "Stories introduction"
 url: "/guides/stories"
 date: "2000-01-01"
+weight: 28900
 ---
 
 It didn't take me long to realize after publishing my first book that I wasn't

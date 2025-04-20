@@ -2,6 +2,7 @@
 title: "Ending words"
 url: "/guides/ending-words"
 date: "2020-06-21"
+weight: 80000
 ---
 
 Frequently when a group of Staff-plus engineers sit down to chat, they’ll spend time commiserating about the industry’s broken technical leadership track. It’s true; it is broken. What isn’t true is that this is inevitable. The industry’s views on technical leadership are the summation of the collective daily actions taken by each person operating in, aspiring towards, or managing a Staff-plus engineer role. By changing our habits and approach, we will change the industry.

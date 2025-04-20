@@ -2,7 +2,7 @@
 title: Staff-plus career ladders
 url: /guides/staff-career-ladders
 date: '2020-07-13'
-weight: 28000
+weight: 94000
 book_section: Resources
 ---
 

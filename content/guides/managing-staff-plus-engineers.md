@@ -2,7 +2,7 @@
 title: Managing Staff-plus engineers
 url: /guides/managing-staff-plus-engineers
 date: '2020-11-25'
-weight: 26000
+weight: 91000
 book_section: Resources
 ---
 
