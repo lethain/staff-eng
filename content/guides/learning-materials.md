@@ -4,6 +4,7 @@ url: "/guides/learning-materials"
 date: "2020-06-21"
 ---
 
+
 None of the Staff Engineer I spoke with got there alone. Most got there either through voracious reading
 or building a powerful network of colleagues. This section is a collection of recommended resources.
 

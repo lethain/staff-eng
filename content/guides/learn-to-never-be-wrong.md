@@ -4,6 +4,7 @@ url: "/guides/learn-to-never-be-wrong"
 date: "2020-06-21"
 ---
 
+
 > I present what I think is the best case for us, and people can disagree with that. And, you know, they often do. I'm steering and influencing more than saying, "I've got the authority to just tell you what to do." I've never seen that style work well.
 > \- [Keavy McMinn](/stories/keavy-mcminn)
 

@@ -4,6 +4,7 @@ url: "/guides/manage-technical-quality"
 date: "2020-10-17"
 ---
 
+
 > I feel particularly impactful when I can help improve a proposal that's well-intentioned and solves a real need, but the team that drafted it lacks either experience or context to write a good plan to capture the opportunity. In such cases, having a well-structured plan can help substantially reduce the scope while getting to most of the value, and thus
 > demonstrate impact sooner.  
 > \- [Dmitry Petrashko](/stories/dmitry-petrashko)

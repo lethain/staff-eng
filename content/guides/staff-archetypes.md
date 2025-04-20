@@ -4,7 +4,6 @@ url: "/guides/staff-archetypes"
 date: "2020-06-21"
 ---
 
-
 Most [career ladders](https://lethain.com/perf-management-system/) define a single, uniform set of expectations for Staff engineers
 operating within the company.
 Everyone benefits from clear role expectations, but career ladders are a tool that applies better against populations than people.

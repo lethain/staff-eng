@@ -4,6 +4,7 @@ url: "/guides/getting-the-title-where-you-are"
 date: "2020-09-27"
 ---
 
+
 > The best advice I've heard is that often reaching Staff is a combination of luck, timing, and work.
 > \- [Bert Fan](/stories/bert-fan)
 

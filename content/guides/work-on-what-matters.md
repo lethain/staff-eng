@@ -4,10 +4,9 @@ url: "/guides/work-on-what-matters"
 date: "2020-09-04"
 ---
 
+
 > I've taken to using the word "energized" over "impactful." "Impactful" feels company-centric, and while that's important, "energized" is more inwards-looking. Finding energizing work is what has kept me at Stripe for so long, pursuing impactful
 > work. - [Michelle Bu](/stories/michelle-bu)
-
-
 
 
 We all have a finite amount of time to live, and within that mortal countdown, we devote some fraction towards our work. Even for the most career-focused, your life will be filled with many things beyond work: supporting your family, children, exercise, being a mentor and a mentee, hobbies, and so the list goes on. This is the sign of a rich life, but one side-effect is that time to do your work will become increasingly scarce as you get deeper into your career.

@@ -4,7 +4,6 @@ url: "/guides/staff-plus-interview-process"
 date: "2020-07-12"
 ---
 
-
 When we talk about designing a Staff-plus engineer interview loop, the first thing to talk about is that absolutely no one is confident their Staff-plus interview loop works well. Many loops end up looking for a senior engineer who's _really_ fast at solving problems, which doesn't reflect the actual role. Others focus on communication skills, which _are_ a key part of the role but certainly not the entirety of it. A few companies even construct their process to assess whether the candidate _feels_ like a member of their existing senior engineering team, conflating excellence with familiarity.
 
 Even if no one feels great about their loop, there is still a body of collective learnings to incorporate into your attempt to design a loop, which is what we'll cover here. We'll start with examining the frequent failure modes of Staff-plus interview loops, discuss the signals that you _do_ want to test for in these loops, and finally discuss some interview formats which can be useful for assessing those signals.

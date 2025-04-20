@@ -4,6 +4,7 @@ url: "/guides/systems-thinking"
 date: "2018-07-25"
 ---
 
+
 Many effective leaders I've worked with have the uncanny knack for working on [leveraged](https://lethain.com/building-technical-leverage/) problems. In some problem domains, the [product management skillset](https://lethain.com/intro-product-management/) is extraordinarily effective for identifying useful problems, but systems thinking is the most universally useful toolkit I've found.
 
 If you really want a solid grasp on systems thinking fundamentals, you should read [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella Meadows, but I'll do my best to describe some of the basics and work through a recent scenario where I found the systems thinking approach to be exceptionally useful.

@@ -4,7 +4,6 @@ url: "/guides/managing-staff-plus-engineers"
 date: "2020-11-25"
 ---
 
-
 While getting feedback on _[StaffEng](http://staffeng.com)_, one request was for more content on managing Staff-plus engineers. It doesn’t quite fit the theme--that effort is focused on the Staff engineers themselves rather the company or the manager--but it’s an interesting topic and a worthy appendix.
 
 Of course, not all aspects of managing Staff-plus folks are unique to the level: there are fundamentals that apply to managing anyone in any role, like [doing effective 1 on 1s](https://marcorogers.com/blog/my-approach-to-1-on-1s) or [giving feedback](https://smallbigideas.substack.com/p/own-your-feedback-part-1). For that sort of thing, read Lara Hogan’s [Resilient Management](https://resilient-management.com) or Camille Fournier’s [The Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/). What I wanted to get into here is how managing someone at the Staff-plus level differs from managing, say, a Senior engineer.

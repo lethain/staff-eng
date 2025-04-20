@@ -4,6 +4,7 @@ url: "/guides/getting-in-the-room"
 date: "2020-06-21"
 ---
 
+
 One of the most common frustrations I've heard from engineers is that they're not in the room where important decisions are being made. They don't understand the company's decisions and have important context that seems to be missing or ignored. Staff-plus engineers frequently cite access to "the room" as a major benefit of their level, and titles do increase the likelihood that you'll be involved in decisions that impact you.
 
 However, it's important to remember there's no single "room" to enter. Getting into the right room isn't a one-time challenge to be faced. Entering rooms will be an ongoing, iterative career challenge. That means it's worth getting good at!

@@ -4,7 +4,6 @@ url: "/guides/finding-the-right-company"
 date: "2020-09-22"
 ---
 
-
 There are only a few magic spells to attain a Staff-plus role: negotiate for the title while switching roles or find a supportive environment to “bake in place” while building your internal credibility with an empowered sponsor who’ll advocate for you. The most important reagent in both spells is picking the right company to perform them at.
 
 The good news if you’re applying to a new company is that while you might invest _weeks_ of energy into determining if you can get a Staff role there, you won’t need to invest _years_. On the other hand, if you’re looking for a company to join and grow within, you’re embarking on a years-long journey into an unknown organization. This is a daunting decision to make, and picking the right company for _you_ will have a considerable impact on whether you attain a Staff-plus role.

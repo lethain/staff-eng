@@ -4,6 +4,7 @@ url: "/guides/what-do-staff-engineers-actually-do"
 date: "2020-11-28"
 ---
 
+
 > The role of a Staff-plus engineer depends a lot on what the team needs and also what the particular engineer's strengths are. From my experience, the responsibilities of a Staff-plus engineer can change over time. Still, usually, their main focus is working on projects/efforts that have strategic value for the company while driving technical design and up-leveling their team. - [Diana Pojar](https://staffeng.com/stories/diana-pojar)
 
 Anyone who has been cornered by relatives at a party and asked to explain what software engineers _actually do_ knows that explaining the work can be challenging. Over time you may have created a compelling answer for your relatives, but many folks' minds go blank when their coworker leans over and asks, "What's a Staff engineer do?"

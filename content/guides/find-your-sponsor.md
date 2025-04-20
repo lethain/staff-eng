@@ -4,7 +4,6 @@ url: "/guides/find-your-sponsor"
 date: "2020-11-08"
 ---
 
-
 > Having a sponsor was also definitely important. My manager and I had a fantastic relationship, and I also had a great relationship with my skip-level manager. I think that played a big part as well.
 > \- [Ritu Vincent](/stories/ritu-vincent)
 
