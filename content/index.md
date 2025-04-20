@@ -1,4 +1,7 @@
 
+
+![](/banner.png)
+
 # Staff Engineer
 ## Leadership beyond the management track
 By [Will Larson](https://lethain.com)
@@ -21,7 +24,8 @@ The management career isn't an easy one, but increasingly there is a map availab
 - [Michelle Bu](/stories/michelle-bu) – Payments Product Tech lead at Stripe
 - [Bert Fan](/stories/bert-fan) – Senior Staff Engineer at Slack
 - [Duretti Hirpa](/stories/duretti-hirpa) – Formerly Staff Engineer at Mailchimp
-- **TOOD: add 3-4 more**
+- [Adam Bender](/stories/adam-bender/) - Principal Software Engineer at Google
+- [Ryan Bergman](/stories/ryan-bergman/) - Senior Staff Engineer at John Deere
 
 [Looking for more? Read all stories…](/stories)
 
@@ -38,7 +42,6 @@ The transition into Staff Engineer, and its further evolutions like Principal En
 - [Promotion packets](/guides/promo-packets/)
 - [Manage technical quality](/guides/manage-technical-quality/)
 - [Engineering strategy](/guides/engineering-strategy)
-- **TODO: add**
 
 [Looking for more? Read all guides…](/guides)
 
